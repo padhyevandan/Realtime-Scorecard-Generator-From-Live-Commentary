@@ -1,0 +1,56 @@
+Team 1 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+Mujeeb Ur Rahman              	b Mohammed Shami              	 0 	 1 	 2m 	 0 	 0 	0.00
+Aftab Alam                    	b Mohammed Shami              	 0 	 1 	 2m 	 0 	 0 	0.00
+Mohammad Nabi                 	c Pandya b Mohammed Shami     	52 	55 	105m	 4 	 1 	94.55
+Ikram Alikhil(wk)             	not out                       	 7 	10 	 0  	 0 	 0 	70.00
+Rashid Khan                   	st Dhoni(wk) b Chahal         	14 	16 	20m 	 1 	 0 	87.50
+Najibullah Zadran             	c Chahal b Pandya             	21 	23 	32m 	 2 	 0 	91.30
+Asghar Afghan                 	b Chahal                      	 8 	19 	33m 	 0 	 0 	42.11
+Hashmatullah Shahidi          	c & b Bumrah                  	21 	45 	53m 	 2 	 0 	46.67
+Rahmat Shah                   	c Chahal b Bumrah             	36 	63 	94m 	 3 	 0 	57.14
+Gulbadin Naib(c)              	c Shankar b Pandya            	27 	42 	78m 	 2 	 0 	64.29
+Hazratullah Zazai             	b Mohammed Shami              	10 	24 	32m 	 1 	 0 	41.67
+Extras 17   ( lb  4, b  4, nb  0, w  9 )
+TOTAL  213/10
+Did not bat: 
+Fall of wickets: 1-20 (Hazratullah Zazai, 6.3 ov), 2-64 (Gulbadin Naib(c), 16.5 ov), 3-106 (Rahmat Shah, 28.4 ov), 4-106 (Hashmatullah Shahidi, 28.6 ov), 5-130 (Asghar Afghan, 34.6 ov), 6-166 (Najibullah Zadran, 41.3 ov), 7-190 (Rashid Khan, 45.4 ov), 8-213 (Mohammad Nabi, 49.3 ov), 9-213 (Aftab Alam, 49.4 ov), 10-213 (Mujeeb Ur Rahman, 49.5 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+Gulbadin Naib(c)              	9.0 	 0   51    2     5.67   20     2     0    2    0 
+Aftab Alam                    	7.0 	 1   54    1     7.71   19     7     1    0    0 
+Rashid Khan                   	10.0	 0   38    1     3.80   36     3     0    2    0 
+Mujeeb Ur Rahman              	10.0	 0   26    1     2.60   38     1     0    1    0 
+Mohammad Nabi                 	9.0 	 0   33    2     3.67   23     0     0    1    0 
+Rahmat Shah                   	5.0 	 0   22    1     4.40   16     2     0    1    0 
+
+
+Team 2 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+JJ Bumrah                     	not out                       	 1 	 1 	 0  	 0 	 0 	100.00
+KM Jadhav                     	c sub (Noor Ali Zadran) b Gulbadin Naib 	52 	68 	88m 	 3 	 1 	76.47
+Kuldeep Yadav                 	not out                       	 1 	 1 	 0  	 0 	 0 	100.00
+Mohammed Shami                	b Gulbadin Naib               	 1 	 2 	 7m 	 0 	 0 	50.00
+HH Pandya                     	c Ikram Alikhil(wk) b Aftab Alam 	 7 	 9 	23m 	 0 	 0 	77.78
+MS Dhoni(wk)                  	st Ikram Alikhil(wk) b Rashid Khan 	28 	52 	75m 	 3 	 0 	53.85
+V Kohli(c)                    	c Rahmat Shah b Mohammad Nabi 	67 	63 	105m	 5 	 0 	106.35
+V Shankar                     	lbw b Rahmat Shah             	29 	41 	49m 	 2 	 0 	70.73
+KL Rahul                      	c Hazratullah Zazai b Mohammad Nabi 	30 	53 	56m 	 2 	 0 	56.60
+RG Sharma                     	b Mujeeb Ur Rahman            	 1 	10 	60m 	 0 	 0 	10.00
+Extras 7    ( lb  0, b  0, nb  0, w  7 )
+TOTAL  224/8 
+Did not bat: YS Chahal, 
+Fall of wickets: 1-7 (RG Sharma, 4.2 ov), 2-64 (KL Rahul, 14.2 ov), 3-122 (V Shankar, 26.1 ov), 4-135 (V Kohli(c), 30.3 ov), 5-192 (MS Dhoni(wk), 44.3 ov), 6-217 (HH Pandya, 48.4 ov), 7-222 (Mohammed Shami, 49.3 ov), 8-223 (KM Jadhav, 49.5 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+Mohammed Shami                  9.5    1   40    4     4.07   38     4     0    3    0 
+JJ Bumrah                       10.0   1   39    2     3.90   37     1     1    0    0 
+YS Chahal                       10.0   0   36    2     3.60   41     5     0    0    0 
+HH Pandya                       10.0   1   51    2     5.10   32     3     0    2    0 
+Kuldeep Yadav                   10.0   0   39    0     3.90   30     2     0    0    0 

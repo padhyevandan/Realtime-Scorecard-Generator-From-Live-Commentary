@@ -1,0 +1,50 @@
+Team 1 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+KS Williamson(c)              	not out                       	106	138	 0  	 9 	 1 	76.81
+MJ Santner                    	not out                       	 2 	 3 	 0  	 0 	 0 	66.67
+C de Grandhomme               	c du Plessis b Ngidi          	60 	47 	70m 	 5 	 2 	127.66
+JDS Neesham                   	c Amla b Morris               	23 	34 	60m 	 3 	 0 	67.65
+TWM Latham(wk)                	c de Kock(wk) b Morris        	 1 	 4 	10m 	 0 	 0 	25.00
+LRPL Taylor                   	c de Kock(wk) b Morris        	 1 	 2 	 6m 	 0 	 0 	50.00
+MJ Guptill                    	hit wicket b Phehlukwayo      	35 	59 	68m 	 5 	 0 	59.32
+C Munro                       	c & b Rabada                  	 9 	 5 	12m 	 2 	 0 	180.00
+Extras 8    ( lb  1, b  0, nb  1, w  6 )
+TOTAL  245/6 
+Did not bat: MJ Henry, LH Ferguson, TA Boult, 
+Fall of wickets: 1-12 (C Munro, 2.1 ov), 2-72 (MJ Guptill, 14.6 ov), 3-74 (LRPL Taylor, 16.1 ov), 4-80 (TWM Latham(wk), 18.1 ov), 5-137 (JDS Neesham, 32.2 ov), 6-228 (C de Grandhomme, 47.1 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+LH Ferguson                   	10.0	 0   59    3     5.90   32     6     1    3    0 
+MJ Henry                      	10.0	 2   34    0     3.40   42     2     1    0    0 
+TA Boult                      	10.0	 0   63    1     6.30   30     7     1    1    0 
+MJ Santner                    	9.0 	 0   45    1     5.00   22     2     1    0    0 
+C de Grandhomme               	10.0	 0   33    1     3.30   36     1     0    0    0 
+
+
+Team 2 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+HE van der Dussen             	not out                       	67 	64 	 0  	 2 	 3 	104.69
+CH Morris                     	not out                       	 6 	 7 	 0  	 1 	 0 	85.71
+AL Phehlukwayo                	c Williamson b Ferguson       	 0 	 5 	12m 	 0 	 0 	0.00
+DA Miller                     	c Boult b Ferguson            	36 	37 	55m 	 2 	 1 	97.30
+AK Markram                    	c Munro b de Grandhomme       	38 	55 	74m 	 4 	 0 	69.09
+HM Amla                       	b Santner                     	55 	83 	111m	 4 	 0 	66.27
+F du Plessis(c)               	b Ferguson                    	23 	35 	53m 	 4 	 0 	65.71
+Q de Kock(wk)                 	b Boult                       	 5 	 8 	 8m 	 1 	 0 	62.50
+Extras 11   ( lb  7, b  0, nb  0, w  4 )
+TOTAL  241/6 
+Did not bat: K Rabada, L Ngidi, Imran Tahir, 
+Fall of wickets: 1-9 (Q de Kock(wk), 1.5 ov), 2-59 (F du Plessis(c), 13.6 ov), 3-111 (HM Amla, 27.4 ov), 4-136 (AK Markram, 32.3 ov), 5-208 (DA Miller, 44.5 ov), 6-218 (AL Phehlukwayo, 46.3 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+AL Phehlukwayo                  8.3    0   73    1     8.59   17     7     2    3    1 
+L Ngidi                         10.0   1   47    1     4.70   35     6     0    2    0 
+K Rabada                        10.0   0   42    1     4.20   39     3     1    1    0 
+CH Morris                       10.0   0   49    3     4.90   34     6     0    0    0 
+Imran Tahir                     10.0   0   33    0     3.30   34     2     0    0    0 

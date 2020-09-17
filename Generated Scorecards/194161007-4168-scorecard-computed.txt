@@ -1,0 +1,57 @@
+Team 1 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+MA Wood                       	c MDKJ Perera(wk) b Pradeep   	 0 	 4 	19m 	 0 	 0 	0.00
+BA Stokes                     	not out                       	82 	89 	 0  	 7 	 4 	92.13
+JC Archer                     	c NLTC Perera b Udana         	 3 	11 	18m 	 0 	 0 	27.27
+AU Rashid                     	c MDKJ Perera(wk) b de Silva  	 1 	 2 	 3m 	 0 	 0 	50.00
+CR Woakes                     	c MDKJ Perera(wk) b de Silva  	 2 	 4 	 8m 	 0 	 0 	50.00
+MM Ali                        	c Udana b de Silva            	16 	20 	25m 	 0 	 1 	80.00
+JC Buttler(wk)                	lbw b Malinga                 	10 	 9 	16m 	 1 	 0 	111.11
+JE Root                       	c MDKJ Perera(wk) b Malinga   	57 	89 	126m	 3 	 0 	64.04
+EJG Morgan(c)                 	c & b Udana                   	21 	35 	51m 	 2 	 0 	60.00
+JM Vince                      	c BKG Mendis b Malinga        	14 	18 	33m 	 2 	 0 	77.78
+JM Bairstow                   	lbw b Malinga                 	 0 	 1 	 3m 	 0 	 0 	0.00
+Extras 6    ( lb  1, b  0, nb  0, w  5 )
+TOTAL  212/10
+Did not bat: 
+Fall of wickets: 1-1 (JM Bairstow, 0.2 ov), 2-26 (JM Vince, 6.5 ov), 3-73 (EJG Morgan(c), 18.4 ov), 4-127 (JE Root, 30.3 ov), 5-144 (JC Buttler(wk), 32.3 ov), 6-170 (MM Ali, 38.3 ov), 7-176 (CR Woakes, 40.1 ov), 8-178 (AU Rashid, 40.5 ov), 9-186 (JC Archer, 43.4 ov), 10-212 (MA Wood, 46.6 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+JC Archer                     	10.0	 2   52    3     5.20   38     4     3    2    0 
+MA Wood                       	8.0 	 0   40    3     5.00   23     3     0    1    0 
+JE Root                       	2.0 	 0   13    0     6.50    3     1     0    0    0 
+AU Rashid                     	10.0	 0   45    2     4.50   27     3     0    0    0 
+MM Ali                        	10.0	 0   40    0     4.00   28     0     0    3    0 
+BA Stokes                     	5.0 	 0   16    0     3.20   20     2     0    0    0 
+CR Woakes                     	5.0 	 0   22    1     4.40   17     2     0    0    0 
+
+
+Team 2 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+AD Mathews                    	not out                       	85 	115	 0  	 5 	 1 	73.91
+N Pradeep                     	not out                       	 1 	 1 	 0  	 0 	 0 	100.00
+SL Malinga                    	b Wood                        	 1 	 5 	 9m 	 0 	 0 	20.00
+I Udana                       	c Root b Wood                 	 6 	 4 	 7m 	 1 	 0 	150.00
+NLTC Perera                   	c Rashid b Archer             	 2 	 6 	12m 	 0 	 0 	33.33
+DM de Silva                   	Silva c Root b Archer         	29 	47 	48m 	 1 	 0 	61.70
+WIAA Fernando                 	c Rashid b Wood               	49 	38 	50m 	 6 	 2 	128.95
+MDKJ Perera(wk)               	c Ali b Woakes                	 2 	 6 	12m 	 0 	 0 	33.33
+FDM Karunaratne(c)            	c Buttler(wk) b Archer        	 1 	 8 	 9m 	 0 	 0 	12.50
+Extras 10   ( lb  4, b  0, nb  0, w  6 )
+TOTAL  232/9 
+Did not bat: BMAJ Mendis, BKG Mendis, 
+Fall of wickets: 1-3 (FDM Karunaratne(c), 1.6 ov), 2-3 (MDKJ Perera(wk), 2.2 ov), 3-62 (WIAA Fernando, 12.5 ov), 6-190 (DM de Silva, 43.3 ov), 7-200 (NLTC Perera, 45.4 ov), 8-209 (I Udana, 46.4 ov), 9-220 (SL Malinga, 48.3 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+N Pradeep                       10.0   1   38    1     3.80   40     5     0    2    0 
+I Udana                         8.0    0   41    2     5.12   28     3     2    1    0 
+SL Malinga                      10.0   1   43    4     4.30   39     5     0    2    0 
+DM de Silva                     8.0    0   32    3     4.00   24     0     1    0    0 
+NLTC Perera                     8.0    0   34    0     4.25   23     2     0    0    0 
+BMAJ Mendis                     3.0    0   23    0     7.67    5     0     2    0    0 

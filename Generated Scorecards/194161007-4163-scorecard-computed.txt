@@ -1,0 +1,53 @@
+Team 1 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+Ikram Alikhil(wk)             	not out                       	 3 	10 	 0  	 0 	 0 	30.00
+Rashid Khan                   	c Bairstow b Archer           	 8 	13 	19m 	 1 	 0 	61.54
+Najibullah Zadran             	b Wood                        	15 	13 	21m 	 0 	 1 	115.38
+Hashmatullah Shahidi          	b Archer                      	76 	101	145m	 5 	 2 	75.25
+Mohammad Nabi                 	c Stokes b Rashid             	 9 	 7 	 8m 	 0 	 1 	128.57
+Asghar Afghan                 	c Root b Rashid               	44 	47 	68m 	 3 	 2 	93.62
+Rahmat Shah                   	c Bairstow b Rashid           	46 	74 	98m 	 3 	 1 	62.16
+Gulbadin Naib(c)              	c Buttler(wk) b Wood          	37 	28 	52m 	 4 	 1 	132.14
+Noor Ali Zadran               	b Archer                      	 0 	 7 	 8m 	 0 	 0 	0.00
+Extras 9    ( lb  1, b  0, nb  0, w  8 )
+TOTAL  247/8 
+Did not bat: Mujeeb Ur Rahman, Dawlat Zadran, 
+Fall of wickets: 1-4 (Noor Ali Zadran, 1.2 ov), 2-52 (Gulbadin Naib(c), 11.5 ov), 3-104 (Rahmat Shah, 24.5 ov), 4-198 (Asghar Afghan, 40.5 ov), 5-210 (Mohammad Nabi, 42.4 ov), 6-234 (Hashmatullah Shahidi, 45.5 ov), 7-234 (Najibullah Zadran, 46.2 ov), 8-247 (Rashid Khan, 49.4 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+Dawlat Zadran                 	10.0	 0   85    3     8.50   25     8     3    4    0 
+Rashid Khan                   	9.0 	 0   110   0    12.22   18     3    11    0    0 
+Gulbadin Naib(c)              	10.0	 0   68    3     6.80   29     3     5    0    1 
+Mujeeb Ur Rahman              	10.0	 0   44    0     4.40   36     2     1    2    0 
+Mohammad Nabi                 	9.0 	 0   70    0     7.78   19     4     4    0    0 
+Rahmat Shah                   	2.0 	 0   19    0     9.50    3     1     1    0    0 
+
+
+Team 2 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+MM Ali                        	not out                       	31 	 9 	 0  	 1 	 4 	344.44
+CR Woakes                     	not out                       	 1 	 1 	 0  	 0 	 0 	100.00
+BA Stokes                     	b Dawlat Zadran               	 2 	 6 	14m 	 0 	 0 	33.33
+JC Buttler(wk)                	c Mohammad Nabi b Dawlat Zadran 	 2 	 2 	 8m 	 0 	 0 	100.00
+EJG Morgan(c)                 	c Rahmat Shah b Gulbadin Naib 	148	71 	77m 	 4 	17 	208.45
+JE Root                       	c Rahmat Shah b Gulbadin Naib 	88 	82 	155m	 5 	 1 	107.32
+JM Bairstow                   	c & b Gulbadin Naib           	90 	99 	115m	 8 	 3 	90.91
+JM Vince                      	c Mujeeb Ur Rahman b Dawlat Zadran 	26 	31 	37m 	 3 	 0 	83.87
+Extras 9    ( lb  1, b  0, nb  1, w  7 )
+TOTAL  397/6 
+Did not bat: AU Rashid, JC Archer, MA Wood, 
+Fall of wickets: 1-44 (JM Vince, 9.3 ov), 2-164 (JM Bairstow, 29.5 ov), 3-353 (JE Root, 46.4 ov), 4-359 (EJG Morgan(c), 46.6 ov), 5-362 (JC Buttler(wk), 47.4 ov), 6-378 (BA Stokes, 49.1 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+JC Archer                       10.0   1   52    3     5.20   38     5     1    2    0 
+MA Wood                         10.0   1   40    2     4.00   37     3     1    1    0 
+CR Woakes                       9.0    0   41    0     4.56   30     3     1    2    0 
+AU Rashid                       10.0   0   66    3     6.60   30     3     4    1    0 
+BA Stokes                       4.0    0   12    0     3.00   13     0     0    0    0 
+MM Ali                          7.0    0   35    0     5.00   19     2     1    0    0 

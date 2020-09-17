@@ -1,0 +1,54 @@
+Team 1 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+Imran Tahir                   	not out                       	10 	10 	 0  	 0 	 0 	100.00
+K Rabada                      	not out                       	13 	 9 	 0  	 0 	 1 	144.44
+JP Duminy                     	b Mustafizur Rahman           	45 	37 	62m 	 4 	 0 	121.62
+CH Morris                     	c Soumya Sarkar b Mustafizur Rahman 	10 	10 	16m 	 1 	 0 	100.00
+AL Phehlukwayo                	c Shakib Al Hasan b Mohammad Saifuddin 	 8 	13 	18m 	 1 	 0 	61.54
+HE van der Dussen             	b Mohammad Saifuddin          	41 	38 	61m 	 2 	 1 	107.89
+DA Miller                     	c Mehidy Hasan Miraz b Mustafizur Rahman 	38 	43 	62m 	 2 	 0 	88.37
+F du Plessis(c)               	b Mehidy Hasan Miraz          	62 	53 	64m 	 5 	 1 	116.98
+AK Markram                    	b Shakib Al Hasan             	45 	56 	78m 	 4 	 0 	80.36
+Q de Kock(wk)                 	run out (Mushfiqur Rahim(wk)) 	23 	32 	41m 	 4 	 0 	71.88
+Extras 14   ( lb  0, b  4, nb  1, w  9 )
+TOTAL  309/8 
+Did not bat: L Ngidi, 
+Fall of wickets: 1-49 (Q de Kock(wk), 9.4 ov), 2-102 (AK Markram, 19.4 ov), 3-147 (F du Plessis(c), 26.4 ov), 4-202 (DA Miller, 35.1 ov), 5-228 (HE van der Dussen, 39.1 ov), 6-252 (AL Phehlukwayo, 42.5 ov), 7-275 (CH Morris, 45.5 ov), 8-287 (JP Duminy, 47.1 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+K Rabada                      	10.0	 0   57    0     5.70   36     6     1    3    0 
+CH Morris                     	10.0	 0   73    2     7.30   23     8     1    2    0 
+AL Phehlukwayo                	10.0	 1   52    2     5.20   28     4     0    3    0 
+Imran Tahir                   	10.0	 0   57    2     5.70   25     6     0    0    0 
+AK Markram                    	5.0 	 0   38    0     7.60   10     4     1    0    0 
+JP Duminy                     	1.0 	 0   10    0    10.00    2     2     0    0    0 
+L Ngidi                       	4.0 	 0   34    0     8.50   12     7     0    0    0 
+
+
+Team 2 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+Mahmudullah                   	not out                       	46 	33 	 0  	 3 	 1 	139.39
+Mosaddek Hossain              	c Phehlukwayo b Morris        	26 	20 	32m 	 4 	 0 	130.00
+Mushfiqur Rahim(wk)           	c van der Dussen b Phehlukwayo 	78 	80 	131m	 8 	 0 	97.50
+Mohammad Mithun               	b Imran Tahir                 	21 	21 	21m 	 2 	 1 	100.00
+Shakib Al Hasan               	b Imran Tahir                 	75 	84 	117m	 8 	 1 	89.29
+Soumya Sarkar                 	c de Kock(wk) b Morris        	42 	30 	58m 	 9 	 0 	140.00
+Tamim Iqbal                   	c de Kock(wk) b Phehlukwayo   	16 	29 	40m 	 2 	 0 	55.17
+Extras 21   ( lb  9, b  0, nb  0, w 12 )
+TOTAL  330/6 
+Did not bat: Mehidy Hasan Miraz, Mohammad Saifuddin, Mashrafe Mortaza(c), Mustafizur Rahman, 
+Fall of wickets: 1-60 (Tamim Iqbal, 8.2 ov), 2-75 (Soumya Sarkar, 11.4 ov), 3-217 (Shakib Al Hasan, 35.1 ov), 4-242 (Mohammad Mithun, 39.4 ov), 5-250 (Mushfiqur Rahim(wk), 42.1 ov), 6-316 (Mosaddek Hossain, 48.6 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+Mustafizur Rahman               10.0   0   67    3     6.70   30     6     2    2    0 
+Mohammad Saifuddin              8.0    1   57    2     7.12   17     7     0    2    1 
+Shakib Al Hasan                 10.0   0   50    1     5.00   21     2     0    0    0 
+Mashrafe Mortaza(c)             6.0    0   49    0     8.17    6     5     0    0    0 
+Mehidy Hasan Miraz              10.0   0   44    1     4.40   27     3     0    0    0 
+Mosaddek Hossain                6.0    0   38    0     6.33   11     0     1    1    0 

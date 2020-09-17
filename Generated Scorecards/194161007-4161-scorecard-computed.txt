@@ -1,0 +1,53 @@
+Team 1 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+Imad Wasim                    	not out                       	46 	39 	 0  	 6 	 0 	117.95
+Shadab Khan                   	not out                       	20 	14 	 0  	 1 	 0 	142.86
+Sarfaraz Ahmed(c)(wk)         	b Shankar                     	12 	30 	42m 	 0 	 0 	40.00
+Shoaib Malik                  	b Pandya                      	 0 	 1 	 3m 	 0 	 0 	0.00
+Mohammad Hafeez               	c Shankar b Pandya            	 9 	 7 	13m 	 0 	 1 	128.57
+Fakhar Zaman                  	c Chahal b Kuldeep Yadav      	62 	75 	112m	 7 	 1 	82.67
+Babar Azam                    	b Kuldeep Yadav               	48 	57 	83m 	 3 	 1 	84.21
+Imam ul Haq                   	lbw b Shankar                 	 0 	 1 	23m 	 0 	 0 	0.00
+Imamul Haq                    	not out                       	 7 	17 	 0  	 1 	 0 	41.18
+Extras 8    ( lb  1, b  0, nb  1, w  6 )
+TOTAL  212/6 
+Did not bat: Wahab Riaz, Hasan Ali, Mohammad Amir, 
+Fall of wickets: 1-13 (Imam ul Haq, 4.5 ov), 2-117 (Babar Azam, 23.6 ov), 3-126 (Fakhar Zaman, 25.2 ov), 4-129 (Mohammad Hafeez, 26.5 ov), 5-129 (Shoaib Malik, 26.6 ov), 6-165 (Sarfaraz Ahmed(c)(wk), 34.1 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+Mohammad Amir                 	10.0	 1   47    3     4.70   33     5     0    1    0 
+Wahab Riaz                    	10.0	 0   71    1     7.10   20     7     0    5    0 
+Hasan Ali                     	9.0 	 0   84    1     9.33   20     8     3    1    0 
+Shadab Khan                   	9.0 	 0   61    0     6.78   19     5     1    0    0 
+Imad Wasim                    	10.0	 0   49    0     4.90   23     2     0    2    0 
+Mohammad Hafeez               	1.0 	 0   11    0    11.00    3     1     1    0    0 
+Shoaib Malik                  	1.0 	 0   11    0    11.00    0     0     1    0    0 
+
+
+Team 2 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+KM Jadhav                     	not out                       	 9 	 8 	 0  	 1 	 0 	112.50
+V Shankar                     	not out                       	15 	15 	 0  	 1 	 0 	100.00
+V Kohli(c)                    	c Sarfaraz Ahmed(wk) b Mohammad Amir 	77 	65 	105m	 7 	 0 	118.46
+MS Dhoni(wk)                  	c Sarfaraz Ahmed(wk) b Mohammad Amir 	 1 	 2 	 8m 	 0 	 0 	50.00
+HH Pandya                     	c Babar Azam b Mohammad Amir  	26 	19 	24m 	 2 	 1 	136.84
+RG Sharma                     	c Wahab Riaz b Hasan Ali      	140	113	153m	14 	 3 	123.89
+KL Rahul                      	c Babar Azam b Wahab Riaz     	57 	78 	94m 	 3 	 2 	73.08
+Extras 11   ( lb  1, b  1, nb  0, w  9 )
+TOTAL  336/5 
+Did not bat: Kuldeep Yadav, B Kumar, YS Chahal, JJ Bumrah, 
+Fall of wickets: 1-136 (KL Rahul, 23.5 ov), 2-234 (RG Sharma, 38.2 ov), 3-285 (HH Pandya, 43.5 ov), 4-298 (MS Dhoni(wk), 45.1 ov), 5-314 (V Kohli(c), 47.4 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+HH Pandya                       8.0    0   44    2     5.50   21     5     0    1    0 
+JJ Bumrah                       8.0    0   52    0     6.50   24     8     0    0    1 
+YS Chahal                       7.0    0   53    0     7.57   13     1     3    2    0 
+V Shankar                       6.0    0   22    2     3.67   23     2     0    2    0 
+Kuldeep Yadav                   9.0    1   32    2     3.56   28     1     0    0    0 
+B Kumar                         2.0    0    8    0     4.00    8     1     0    1    0 

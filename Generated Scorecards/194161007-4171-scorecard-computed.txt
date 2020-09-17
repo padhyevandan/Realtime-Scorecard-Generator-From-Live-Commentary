@@ -1,0 +1,56 @@
+Team 1 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+AL Phehlukwayo                	not out                       	46 	32 	 0  	 6 	 0 	143.75
+Imran Tahir                   	not out                       	 1 	 3 	 0  	 0 	 0 	33.33
+L Ngidi                       	b Wahab Riaz                  	 1 	 6 	 9m 	 0 	 0 	16.67
+K Rabada                      	b Wahab Riaz                  	 3 	 7 	13m 	 0 	 0 	42.86
+CH Morris                     	b Wahab Riaz                  	16 	10 	16m 	 1 	 1 	160.00
+DA Miller                     	b Shaheen Shah Afridi         	31 	37 	54m 	 3 	 0 	83.78
+HE van der Dussen             	der Dussen c Mohammad Hafeez b Shadab Khan 	36 	47 	71m 	 1 	 1 	76.60
+F du Plessis(c)               	Plessis c Sarfaraz Ahmed(wk) b Mohammad Amir 	63 	79 	112m	 5 	 0 	79.75
+AK Markram                    	b Shadab Khan                 	 7 	16 	13m 	 0 	 0 	43.75
+Q de Kock(wk)                 	Kock c Imamul Haq b Shadab Khan 	47 	60 	83m 	 3 	 2 	78.33
+HM Amla                       	lbw b Mohammad Amir           	 2 	 3 	 7m 	 0 	 0 	66.67
+Extras 6    ( lb  1, b  0, nb  0, w  5 )
+TOTAL  259/9 
+Did not bat: 
+Fall of wickets: 1-4 (HM Amla, 1.1 ov), 2-91 (Q de Kock(wk), 19.2 ov), 3-103 (AK Markram, 23.1 ov), 4-136 (F du Plessis(c), 29.3 ov), 5-189 (HE van der Dussen, 39.4 ov), 6-192 (DA Miller, 40.5 ov), 7-222 (CH Morris, 44.2 ov), 8-239 (K Rabada, 46.5 ov), 9-246 (L Ngidi, 48.2 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+L Ngidi                       	9.0 	 0   64    3     7.11   26     7     2    0    0 
+K Rabada                      	10.0	 0   65    0     6.50   30     8     1    1    0 
+CH Morris                     	8.7 	 0   61    0     6.65   24     9     0    0    0 
+AL Phehlukwayo                	8.0 	 0   49    1     6.12   24     4     1    2    1 
+Imran Tahir                   	10.0	 0   41    2     4.10   33     2     1    1    0 
+AK Markram                    	4.0 	 0   22    1     5.50   10     1     0    1    0 
+
+
+Team 2 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+Shadab Khan                   	not out                       	 1 	 1 	 0  	 0 	 0 	100.00
+Haris Sohail                  	c de Kock(wk) b Ngidi         	89 	59 	95m 	 9 	 3 	150.85
+Sarfaraz Ahmed(c)(wk)         	not out                       	 2 	 2 	 0  	 0 	 0 	100.00
+Wahab Riaz                    	b Ngidi                       	 4 	 4 	 7m 	 0 	 0 	100.00
+Imad Wasim                    	c sub (JP Duminy) b Ngidi     	23 	15 	33m 	 3 	 0 	153.33
+Babar Azam                    	c Ngidi b Phehlukwayo         	69 	80 	113m	 7 	 0 	86.25
+Mohammad Hafeez               	lbw b Markram                 	20 	33 	38m 	 0 	 1 	60.61
+Imam ul Haq                   	c & b Imran Tahir             	44 	58 	71m 	 6 	 0 	75.86
+Fakhar Zaman                  	c Amla b Imran Tahir          	44 	50 	94m 	 6 	 1 	88.00
+Extras 12   ( lb  6, b  0, nb  1, w  5 )
+TOTAL  308/7 
+Did not bat: Mohammad Amir, Shaheen Afridi, 
+Fall of wickets: 1-81 (Fakhar Zaman, 14.5 ov), 2-98 (Imam ul Haq, 20.3 ov), 3-143 (Mohammad Hafeez, 29.6 ov), 4-224 (Babar Azam, 41.2 ov), 5-295 (Imad Wasim, 47.6 ov), 6-304 (Wahab Riaz, 49.1 ov), 7-307 (Haris Sohail, 49.5 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+Mohammad Amir                   10.0   1   49    2     4.90   32     4     0    1    0 
+Wahab Riaz                      10.0   0   46    3     4.60   29     2     1    2    0 
+Shadab Khan                     10.0   1   50    3     5.00   26     3     1    1    0 
+Shaheen Shah Afridi             8.0    0   54    1     6.75   23     6     2    0    0 
+Imad Wasim                      10.0   0   48    0     4.80   26     4     0    0    0 
+Mohammad Hafeez                 2.0    0   11    0     5.50    4     0     0    1    0 

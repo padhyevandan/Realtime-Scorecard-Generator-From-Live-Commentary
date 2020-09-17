@@ -1,0 +1,56 @@
+Team 1 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+CR Brathwaite                 	c Boult b Neesham             	101	82 	117m	 9 	 5 	123.17
+O Thomas                      	not out                       	 0 	 4 	 0  	 0 	 0 	0.00
+SS Cottrell                   	b Ferguson                    	15 	26 	30m 	 2 	 0 	57.69
+KAJ Roach                     	c Latham(wk) b Henry          	14 	31 	44m 	 0 	 1 	45.16
+E Lewis                       	c Neesham b Boult             	 0 	 3 	 4m 	 0 	 0 	0.00
+AR Nurse                      	c Latham(wk) b Boult          	 1 	 8 	 9m 	 0 	 0 	12.50
+CH Gayle                      	c Boult b de Grandhomme       	87 	84 	111m	 8 	 6 	103.57
+JO Holder(c)                  	c Latham(wk) b Ferguson       	 0 	 1 	 2m 	 0 	 0 	0.00
+SO Hetmyer                    	b Ferguson                    	54 	45 	72m 	 8 	 1 	120.00
+N Pooran                      	c Latham(wk) b Boult          	 1 	 7 	17m 	 0 	 0 	14.29
+SD Hope(wk)                   	b Boult                       	 1 	 3 	12m 	 0 	 0 	33.33
+Extras 12   ( lb  3, b  0, nb  0, w  9 )
+TOTAL  286/10
+Did not bat: 
+Fall of wickets: 1-3 (SD Hope(wk), 2.4 ov), 2-20 (N Pooran, 6.2 ov), 3-142 (SO Hetmyer, 22.1 ov), 4-142 (JO Holder(c), 22.2 ov), 5-152 (CH Gayle, 23.6 ov), 6-163 (AR Nurse, 26.2 ov), 7-164 (E Lewis, 26.5 ov), 8-211 (KAJ Roach, 38.1 ov), 9-245 (SS Cottrell, 44.6 ov), 10-286 (CR Brathwaite, 48.6 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+CR Brathwaite                 	6.0 	 0   58    2     9.67    8     3     3    1    0 
+SS Cottrell                   	9.0 	 1   46    2     5.11   27     3     1    1    0 
+AR Nurse                      	9.0 	 0   55    0     6.11   13     3     0    0    0 
+JO Holder(c)                  	7.0 	 0   42    0     6.00   17     5     0    0    1 
+KAJ Roach                     	10.0	 2   38    0     3.80   41     5     0    0    0 
+CH Gayle                      	2.0 	 0    8    1     4.00    5     0     0    1    0 
+O Thomas                      	6.0 	 0   30    0     5.00   20     4     0    0    0 
+
+
+Team 2 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+JDS Neesham                   	c Cottrell b Brathwaite       	28 	23 	43m 	 1 	 1 	121.74
+MJ Santner                    	c Cottrell b Brathwaite       	10 	 5 	 8m 	 0 	 1 	200.00
+C de Grandhomme               	not out                       	16 	 6 	 0  	 1 	 1 	266.67
+KS Williamson(c)              	c Hope(wk) b Cottrell         	148	154	212m	15 	 1 	96.10
+TWM Latham(wk)                	c & b Cottrell                	12 	16 	35m 	 0 	 0 	75.00
+LRPL Taylor                   	c Holder b Gayle              	69 	95 	148m	 7 	 0 	72.63
+C Munro                       	b Cottrell                    	 0 	 1 	10m 	 0 	 0 	0.00
+MJ Guptill                    	lbw b Cottrell                	 0 	 1 	 3m 	 0 	 0 	0.00
+Extras 8    ( lb  4, b  0, nb  2, w  2 )
+TOTAL  291/8 
+Did not bat: MJ Henry, LH Ferguson, TA Boult, 
+Fall of wickets: 1-0 (MJ Guptill, 0.1 ov), 2-7 (C Munro, 0.5 ov), 3-167 (LRPL Taylor, 34.3 ov), 4-210 (TWM Latham(wk), 41.5 ov), 5-251 (KS Williamson(c), 46.3 ov), 7-291 (MJ Santner, 49.5 ov), 8-291 (JDS Neesham, 49.6 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+JDS Neesham                     6.0    0   35    1     5.83   21     6     0    0    0 
+MJ Henry                        9.0    0   76    1     8.44   29     6     6    2    0 
+LH Ferguson                     10.0   0   59    3     5.90   35     6     2    2    0 
+TA Boult                        10.0   1   30    4     3.00   42     3     0    1    0 
+MJ Santner                      10.0   1   61    0     6.10   32     2     5    0    0 
+C de Grandhomme                 4.0    0   22    1     5.50   15     4     0    0    0 

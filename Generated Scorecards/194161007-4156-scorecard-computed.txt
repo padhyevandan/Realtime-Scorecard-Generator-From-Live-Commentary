@@ -1,0 +1,31 @@
+Team 1 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+Extras 0    ( lb  0, b  0, nb  0, w  0 )
+TOTAL    0/0 
+Did not bat: CH Gayle, DM Bravo, SD Hope(wk), N Pooran, SO Hetmyer, JO Holder(c), CR Brathwaite, AR Nurse, KAJ Roach, SS Cottrell, O Thomas, 
+Fall of wickets: 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+O Thomas                      	0.3 	 0    1    0     2.00    2     0     0    0    0 
+SS Cottrell                   	4.0 	 1   18    2     4.50   17     2     0    0    0 
+KAJ Roach                     	3.0 	 0   10    0     3.33   13     1     0    1    0 
+
+
+Team 2 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+F du Plessis(c)               	not out                       	 0 	 7 	 0  	 0 	 0 	0.00
+Q de Kock(wk)                 	not out                       	17 	21 	 0  	 1 	 0 	80.95
+AK Markram                    	c Hope(wk) b Cottrell         	 5 	10 	16m 	 1 	 0 	50.00
+HM Amla                       	c Gayle b Cottrell            	 6 	 7 	13m 	 1 	 0 	85.71
+Extras 1    ( lb  0, b  0, nb  0, w  1 )
+TOTAL   29/2 
+Did not bat: HE van der Dussen, DA Miller, AL Phehlukwayo, CH Morris, K Rabada, BE Hendricks, Imran Tahir, 
+Fall of wickets: 1-11 (HM Amla, 2.5 ov), 2-28 (AK Markram, 6.1 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 

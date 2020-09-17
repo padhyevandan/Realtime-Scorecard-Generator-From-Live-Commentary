@@ -1,0 +1,56 @@
+Team 1 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+Mustafizur Rahman             	b Shaheen Afridi              	 1 	 3 	 5m 	 0 	 0 	33.33
+Mashrafe Mortaza(c)           	st Sarfaraz Ahmed(wk) b Shadab Khan 	15 	14 	14m 	 0 	 2 	107.14
+Mahmudullah                   	b Shaheen Afridi              	29 	41 	64m 	 3 	 0 	70.73
+Mohammad Saifuddin            	c Mohammad Amir b Shaheen Afridi 	 0 	 1 	 5m 	 0 	 0 	0.00
+Mosaddek Hossain              	c Babar Azam b Shadab Khan    	16 	21 	36m 	 1 	 0 	76.19
+Shakib Al Hasan               	c Sarfaraz Ahmed(wk) b Shaheen Afridi 	64 	77 	109m	 6 	 0 	83.12
+Liton Das                     	c Haris Sohail b Shaheen Afridi 	32 	40 	38m 	 3 	 0 	80.00
+Mushfiqur Rahim(wk)           	b Wahab Riaz                  	16 	19 	29m 	 2 	 0 	84.21
+Tamim Iqbal                   	b Shaheen Afridi              	 8 	21 	40m 	 0 	 0 	38.10
+Soumya Sarkar                 	c Fakhar Zaman b Mohammad Amir 	22 	22 	20m 	 4 	 0 	100.00
+Extras 11   ( lb  5, b  0, nb  0, w  6 )
+TOTAL  221/10
+Did not bat: Mehidy Hasan Miraz, 
+Fall of wickets: 1-26 (Soumya Sarkar, 5.5 ov), 2-48 (Tamim Iqbal, 10.4 ov), 3-78 (Mushfiqur Rahim(wk), 17.2 ov), 4-136 (Liton Das, 28.1 ov), 5-154 (Shakib Al Hasan, 32.1 ov), 6-197 (Mosaddek Hossain, 39.4 ov), 7-197 (Mohammad Saifuddin, 40.1 ov), 8-198 (Mahmudullah, 40.3 ov), 9-219 (Mashrafe Mortaza(c), 43.4 ov), 10-221 (Mustafizur Rahman, 44.1 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+Mustafizur Rahman             	10.0	 0   75    5     7.50   24    12     0    1    0 
+Mohammad Saifuddin            	9.0 	 0   77    3     8.56   22    10     1    3    1 
+Mehidy Hasan Miraz            	10.0	 0   30    1     3.00   38     1     0    1    0 
+Shakib Al Hasan               	10.0	 0   57    0     5.70   20     3     0    1    0 
+Mashrafe Mortaza(c)           	7.0 	 0   46    0     6.57   12     2     0    0    0 
+Mosaddek Hossain              	4.0 	 0   27    0     6.75   10     3     0    1    0 
+
+
+Team 2 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+Sarfaraz Ahmed(c)(wk)         	not out                       	 3 	 3 	 0  	 0 	 0 	100.00
+Mohammad Amir                 	c Mushfiqur(wk) Rahim b Mustafizur Rahman 	 8 	 6 	16m 	 1 	 0 	133.33
+Imad Wasim                    	c Mahmudullah b Mustafizur Rahman 	43 	26 	49m 	 6 	 1 	165.38
+Shadab Khan                   	c & b Mustafizur Rahman       	 1 	 2 	 4m 	 0 	 0 	50.00
+Wahab Riaz                    	b Mohammad Saifuddin          	 2 	 4 	10m 	 0 	 0 	50.00
+Haris Sohail                  	c Soumya Sarkar b Mustafizur Rahman 	 6 	 6 	13m 	 1 	 0 	100.00
+Mohammad Hafeez               	c Shakib Al Hasan b Mehidy Hasan Miraz 	27 	25 	49m 	 3 	 0 	108.00
+Imam ul Haq                   	hit wicket b Mustafizur Rahman 	100	100	172m	 8 	 0 	100.00
+Babar Azam                    	lbw b Mohammad Saifuddin      	96 	98 	102m	11 	 0 	97.96
+Fakhar Zaman                  	c Mehidy Hasan Miraz b Mohammad Saifuddin 	13 	31 	27m 	 1 	 0 	41.94
+Extras 16   ( lb  3, b  0, nb  2, w 11 )
+TOTAL  315/9 
+Did not bat: Shaheen Shah Afridi, 
+Fall of wickets: 1-23 (Fakhar Zaman, 7.2 ov), 2-180 (Babar Azam, 31.6 ov), 3-246 (Imam ul Haq, 41.5 ov), 4-248 (Mohammad Hafeez, 42.4 ov), 5-255 (Haris Sohail, 43.5 ov), 6-288 (Wahab Riaz, 46.5 ov), 7-289 (Shadab Khan, 47.1 ov), 8-314 (Imad Wasim, 49.4 ov), 9-314 (Mohammad Amir, 49.5 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+Shaheen Shah Afridi             9.1    0   35    6     3.82   34     1     1    4    0 
+Shadab Khan                     9.0    0   59    2     6.56   24     7     1    0    0 
+Wahab Riaz                      7.0    0   33    1     4.71   22     3     0    1    0 
+Mohammad Amir                   7.0    0   31    1     4.43   23     3     0    1    0 
+Imad Wasim                      6.0    0   26    0     4.33   16     2     0    0    0 
+Mohammad Hafeez                 6.0    1   32    0     5.33   18     4     0    0    0 

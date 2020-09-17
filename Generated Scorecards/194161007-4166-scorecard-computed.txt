@@ -1,0 +1,52 @@
+Team 1 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+Mashrafe Mortaza(c)           	c Maxwell b Stoinis           	 6 	 5 	 7m 	 1 	 0 	120.00
+Mushfiqur Rahim(wk)           	not out                       	102	97 	 0  	 9 	 1 	105.15
+Mehidy Hasan                  	c Warner b Starc              	 6 	 7 	14m 	 0 	 0 	85.71
+Sabbir Rahman                 	b CoulterNile                 	 0 	 1 	 2m 	 0 	 0 	0.00
+Mahmudullah                   	c Cummins b CoulterNile       	69 	50 	70m 	 5 	 3 	138.00
+Liton Das                     	lbw b Zampa                   	20 	17 	29m 	 3 	 0 	117.65
+Tamim Iqbal                   	b Starc                       	62 	74 	103m	 6 	 0 	83.78
+Shakib Al Hasan               	Hasan c Warner b Stoinis      	41 	41 	61m 	 4 	 0 	100.00
+Soumya Sarkar                 	run out (Finch)               	10 	 8 	18m 	 2 	 0 	125.00
+Extras 17   ( lb  4, b  4, nb  0, w  9 )
+TOTAL  333/8 
+Did not bat: Rubel Hossain, Mustafizur Rahman, 
+Fall of wickets: 1-23 (Soumya Sarkar, 3.5 ov), 2-102 (Shakib Al Hasan, 18.1 ov), 3-144 (Tamim Iqbal, 24.1 ov), 4-175 (Liton Das, 29.2 ov), 5-302 (Mahmudullah, 45.3 ov), 6-302 (Sabbir Rahman, 45.4 ov), 7-323 (Mehidy Hasan, 48.2 ov), 8-333 (Mashrafe Mortaza(c), 49.6 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+Mustafizur Rahman             	9.0 	 0   69    1     7.67   22     9     1    1    0 
+Soumya Sarkar                 	8.0 	 0   58    3     7.25   17     6     1    0    0 
+Rubel Hossain                 	9.0 	 0   83    0     9.22   16     6     3    3    1 
+Mashrafe Mortaza(c)           	8.0 	 0   56    0     7.00   22     6     2    0    0 
+Shakib Al Hasan               	6.0 	 0   50    0     8.33   12     4     2    0    0 
+Mehidy Hasan                  	10.0	 0   59    0     5.90   22     3     1    1    0 
+
+
+Team 2 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+MP Stoinis                    	not out                       	17 	11 	 0  	 2 	 0 	154.55
+AT Carey(wk)                  	not out                       	11 	 8 	 0  	 1 	 0 	137.50
+SPD Smith                     	lbw b Mustafizur Rahman       	 1 	 2 	 4m 	 0 	 0 	50.00
+UT Khawaja                    	c Mushfiqur Rahim(wk) b Soumya Sarkar 	89 	72 	110m	10 	 0 	123.61
+GJ Maxwell                    	run out (Rubel Hossain)       	32 	10 	14m 	 2 	 3 	320.00
+DA Warner                     	c Rubel Hossain b Soumya Sarkar 	166	147	184m	14 	 5 	112.93
+AJ Finch(c)                   	c Rubel Hossain b Soumya Sarkar 	53 	51 	91m 	 5 	 2 	103.92
+Extras 12   ( lb  5, b  1, nb  2, w  4 )
+TOTAL  381/5 
+Did not bat: NM CoulterNile, PJ Cummins, MA Starc, A Zampa, 
+Fall of wickets: 1-121 (AJ Finch(c), 20.5 ov), 2-313 (DA Warner, 44.2 ov), 3-352 (GJ Maxwell, 46.2 ov), 4-353 (UT Khawaja, 46.5 ov), 5-354 (SPD Smith, 47.1 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+MP Stoinis                      8.0    0   54    2     6.75   13     5     0    0    0 
+MA Starc                        10.0   0   55    2     5.50   25     5     0    0    0 
+NM CoulterNile                  10.0   0   58    2     5.80   24     6     0    1    0 
+PJ Cummins                      10.0   1   65    0     6.50   28     6     1    3    0 
+A Zampa                         9.0    0   68    1     7.56   21     5     3    1    0 
+GJ Maxwell                      3.0    0   25    0     8.33    5     3     0    0    0 

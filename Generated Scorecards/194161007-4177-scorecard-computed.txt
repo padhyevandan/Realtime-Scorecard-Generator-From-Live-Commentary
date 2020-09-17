@@ -1,0 +1,56 @@
+Team 1 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+Imad Wasim                    	not out                       	49 	55 	 0  	 5 	 0 	89.09
+Wahab Riaz                    	not out                       	15 	 9 	 0  	 1 	 1 	166.67
+Shadab Khan                   	run out (Gulbadin Naib/Ikram Alikhil(wk)) 	11 	17 	33m 	 1 	 0 	64.71
+Sarfaraz Ahmed(c)(wk)         	run out (Najibullah Zadran/Ikram Alikhil(wk)) 	18 	22 	37m 	 1 	 0 	81.82
+Haris Sohail                  	lbw b Rashid Khan             	27 	56 	58m 	 2 	 0 	48.21
+Mohammad Hafeez               	c Hashmatullah Shahidi b Mujeeb Ur Rahman 	19 	35 	48m 	 1 	 0 	54.29
+Babar Azam                    	b Mohammad Nabi               	45 	51 	63m 	 5 	 0 	88.24
+Imam ul Haq                   	st Ikram Alikhil(wk) b Mohammad Nabi 	36 	51 	60m 	 4 	 0 	70.59
+Fakhar Zaman                  	lbw b Mujeeb Ur Rahman        	 0 	 2 	 4m 	 0 	 0 	0.00
+Extras 10   ( lb  4, b  1, nb  0, w  5 )
+TOTAL  230/7 
+Did not bat: Mohammad Amir, Shaheen Shah Afridi, 
+Fall of wickets: 1-0 (Fakhar Zaman, 0.2 ov), 2-72 (Imam ul Haq, 15.6 ov), 3-81 (Babar Azam, 17.2 ov), 4-121 (Mohammad Hafeez, 29.1 ov), 5-142 (Haris Sohail, 34.6 ov), 6-156 (Sarfaraz Ahmed(c)(wk), 38.6 ov), 7-206 (Shadab Khan, 46.4 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+Mohammad Amir                 	10.0	 1   41    0     4.10   39     6     0    1    0 
+Wahab Riaz                    	8.0 	 0   29    2     3.62   30     2     0    4    0 
+Shaheen Shah Afridi           	10.0	 0   47    4     4.70   38     6     0    4    0 
+Shadab Khan                   	10.0	 0   44    1     4.40   29     2     1    1    0 
+Imad Wasim                    	10.0	 0   48    2     4.80   34     5     1    0    0 
+Mohammad Hafeez               	2.0 	 0   10    0     5.00    4     0     0    0    0 
+
+
+Team 2 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+Mujeeb Ur Rahman              	not out                       	 7 	 9 	 0  	 1 	 0 	77.78
+Samiullah Shinwari            	not out                       	19 	32 	 0  	 1 	 0 	59.38
+Hamid Hassan                  	b Wahab Riaz                  	 1 	 3 	 9m 	 0 	 0 	33.33
+Rashid Khan                   	c Fakhar Zaman b Shaheen Shah Afridi 	 8 	12 	11m 	 1 	 0 	66.67
+Najibullah Zadran             	b Shaheen Shah Afridi         	42 	54 	75m 	 6 	 0 	77.78
+Mohammad Nabi                 	c Mohammad Amir b Wahab Riaz  	16 	33 	53m 	 0 	 0 	48.48
+Ikram Alikhil(wk)             	c Mohammad Hafeez b Imad Wasim 	24 	66 	90m 	 1 	 0 	36.36
+Asghar Afghan                 	b Shadab Khan                 	42 	35 	51m 	 3 	 2 	120.00
+Rahmat Shah                   	c Babar Azam b Imad Wasim     	35 	43 	54m 	 5 	 0 	81.40
+Hashmatullah Shahidi          	c Imad Wasim b Shaheen Shah Afridi 	 0 	 1 	 2m 	 0 	 0 	0.00
+Gulbadin Naib(c)              	c Sarfaraz Ahmed(wk) b Shaheen Shah Afridi 	15 	12 	22m 	 3 	 0 	125.00
+Extras 18   ( lb  8, b  0, nb  0, w 10 )
+TOTAL  227/9 
+Did not bat: Mujeeb ur Rahman, 
+Fall of wickets: 1-27 (Gulbadin Naib(c), 4.4 ov), 2-27 (Hashmatullah Shahidi, 4.5 ov), 3-57 (Rahmat Shah, 11.6 ov), 4-121 (Asghar Afghan, 25.2 ov), 5-125 (Ikram Alikhil(wk), 26.6 ov), 6-167 (Mohammad Nabi, 36.4 ov), 7-202 (Najibullah Zadran, 44.4 ov), 8-210 (Rashid Khan, 46.4 ov), 9-219 (Hamid Hassan, 48.2 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+Gulbadin Naib(c)                9.4    0   73    0     7.55   20     9     0    1    0 
+Rashid Khan                     10.0   0   50    1     5.00   35     4     1    3    0 
+Mujeeb Ur Rahman                10.0   1   34    2     3.40   35     2     0    0    0 
+Samiullah Shinwari              8.0    0   32    0     4.00   27     2     0    1    0 
+Mohammad Nabi                   10.0   0   23    2     2.30   38     0     0    0    0 
+Hamid Hassan                    2.0    0   13    0     6.50    8     3     0    0    0 

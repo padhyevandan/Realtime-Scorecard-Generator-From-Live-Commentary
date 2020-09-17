@@ -1,0 +1,56 @@
+Team 1 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+BA Stokes                     	not out                       	84 	98 	 0  	 5 	 3 	85.71
+JC Archer                     	b Neesham                     	 0 	 1 	 5m 	 0 	 0 	0.00
+LE Plunkett                   	c Boult b Neesham             	10 	10 	13m 	 1 	 0 	100.00
+CR Woakes                     	c Latham(wk) b Ferguson       	 2 	 4 	 8m 	 0 	 0 	50.00
+JC Buttler(wk)                	c sub (TG Southee) b Ferguson 	59 	60 	94m 	 6 	 0 	98.33
+EJG Morgan(c)                 	c Ferguson b Neesham          	 9 	22 	34m 	 0 	 0 	40.91
+JM Bairstow                   	b Ferguson                    	36 	55 	79m 	 7 	 0 	65.45
+JE Root                       	c Latham(wk) b de Grandhomme  	 7 	30 	40m 	 0 	 0 	23.33
+JJ Roy                        	c Latham(wk) b Henry          	17 	20 	24m 	 3 	 0 	85.00
+MA Wood                       	run out (Neesham/Boult)       	 0 	 0 	 3m 	 0 	 0 	0.00
+Extras 17   ( lb  3, b  2, nb  0, w 12 )
+TOTAL  241/10
+Did not bat: AU Rashid, 
+Fall of wickets: 1-28 (JJ Roy, 5.4 ov), 2-59 (JE Root, 16.3 ov), 3-71 (JM Bairstow, 19.3 ov), 4-86 (EJG Morgan(c), 23.1 ov), 5-196 (JC Buttler(wk), 44.5 ov), 6-203 (CR Woakes, 46.1 ov), 7-220 (LE Plunkett, 48.3 ov), 8-227 (JC Archer, 48.6 ov), 10-241 (MA Wood, 49.6 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+JC Archer                     	10.0	 0   42    1     4.20   33     1     1    5    0 
+CR Woakes                     	9.0 	 0   37    3     4.11   37     3     0    4    1 
+MA Wood                       	10.0	 1   49    1     4.90   33     3     1    2    0 
+LE Plunkett                   	10.0	 0   42    3     4.20   36     4     0    0    0 
+BA Stokes                     	3.0 	 0   20    0     6.67    6     2     0    2    0 
+AU Rashid                     	8.0 	 0   39    0     4.88   15     1     0    0    0 
+
+
+Team 2 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+MJ Santner                    	not out                       	 5 	 9 	 0  	 0 	 0 	55.56
+TA Boult                      	not out                       	 1 	 2 	 0  	 0 	 0 	50.00
+MJ Henry                      	b Archer                      	 4 	 2 	 7m 	 1 	 0 	200.00
+TWM Latham(wk)                	c sub (JM Vince) b Woakes     	47 	56 	104m	 2 	 1 	83.93
+C de Grandhomme               	Grandhomme c sub (JM Vince) b Woakes 	16 	28 	38m 	 0 	 0 	57.14
+JDS Neesham                   	c Root b Plunkett             	19 	25 	28m 	 3 	 0 	76.00
+LRPL Taylor                   	lbw b Wood                    	15 	31 	47m 	 0 	 0 	48.39
+HM Nicholls                   	b Plunkett                    	55 	77 	123m	 4 	 0 	71.43
+KS Williamson(c)              	c Buttler(wk) b Plunkett      	30 	53 	77m 	 2 	 0 	56.60
+MJ Guptill                    	lbw b Woakes                  	19 	18 	30m 	 2 	 1 	105.56
+Extras 30   ( lb 12, b  0, nb  1, w 17 )
+TOTAL  241/8 
+Did not bat: LH Ferguson, 
+Fall of wickets: 1-29 (MJ Guptill, 6.2 ov), 2-103 (KS Williamson(c), 22.4 ov), 3-118 (HM Nicholls, 26.5 ov), 4-141 (LRPL Taylor, 33.1 ov), 5-173 (JDS Neesham, 38.6 ov), 6-219 (C de Grandhomme, 46.5 ov), 7-232 (TWM Latham(wk), 48.3 ov), 8-240 (MJ Henry, 49.3 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+TA Boult                        10.0   0   67    0     6.70   31     8     2    2    0 
+JDS Neesham                     7.0    0   43    3     6.14   19     3     1    1    0 
+LH Ferguson                     10.0   0   50    3     5.00   35     5     0    3    0 
+MJ Henry                        10.0   2   40    1     4.00   39     5     0    0    0 
+MJ Santner                      3.0    0   11    0     3.67    8     0     0    1    0 
+C de Grandhomme                 10.0   2   25    1     2.50   41     1     0    1    0 

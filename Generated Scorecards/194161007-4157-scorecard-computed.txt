@@ -1,0 +1,58 @@
+Team 1 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+Shaheen Shah Afridi           	not out                       	 1 	 6 	 0  	 0 	 0 	16.67
+Mohammad Amir                 	b Starc                       	 0 	 2 	 5m 	 0 	 0 	0.00
+Wahab Riaz                    	c Carey(wk) b Starc           	45 	39 	49m 	 2 	 3 	115.38
+Sarfaraz Ahmed(c)(wk)         	run out (Maxwell)             	40 	48 	96m 	 1 	 0 	83.33
+Hasan Ali                     	c Khawaja b Richardson        	32 	15 	17m 	 3 	 3 	213.33
+Asif Ali                      	c Carey(wk) b Richardson      	 5 	 8 	 9m 	 0 	 0 	62.50
+Shoaib Malik                  	c Carey(wk) b Cummins         	 0 	 2 	 4m 	 0 	 0 	0.00
+Mohammad Hafeez               	c Starc b Finch               	46 	49 	69m 	 3 	 1 	93.88
+Imam ul Haq                   	c Carey(wk) b Cummins         	53 	75 	107m	 7 	 0 	70.67
+Babar Azam                    	c Richardson b CoulterNile    	30 	28 	37m 	 7 	 0 	107.14
+Fakhar Zaman                  	c Richardson b Cummins        	 0 	 3 	12m 	 0 	 0 	0.00
+Extras 14   ( lb  4, b  0, nb  1, w  9 )
+TOTAL  266/10
+Did not bat: Shaheen Afridi, 
+Fall of wickets: 1-2 (Fakhar Zaman, 2.1 ov), 2-56 (Babar Azam, 10.5 ov), 3-136 (Imam ul Haq, 25.1 ov), 4-146 (Mohammad Hafeez, 26.6 ov), 5-147 (Shoaib Malik, 27.3 ov), 6-160 (Asif Ali, 29.6 ov), 7-200 (Hasan Ali, 33.5 ov), 8-264 (Wahab Riaz, 44.2 ov), 9-265 (Mohammad Amir, 44.4 ov), 10-266 (Sarfaraz Ahmed(c)(wk), 45.4 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+Mohammad Amir                 	10.0	 2   30    5     3.00   37     1     0    1    0 
+Hasan Ali                     	10.0	 0   67    1     6.70   28     9     0    3    1 
+Wahab Riaz                    	8.0 	 0   44    1     5.50   23     5     0    1    0 
+Shaheen Shah Afridi           	10.0	 0   70    2     7.00   28     7     1    1    1 
+Mohammad Hafeez               	7.0 	 0   60    1     8.57   14     4     4    0    0 
+Shoaib Malik                  	4.0 	 0   26    0     6.50   11     1     1    0    1 
+
+
+Team 2 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+MA Starc                      	c Shoaib Malik b Mohammad Amir 	 3 	 6 	10m 	 0 	 0 	50.00
+KW Richardson                 	not out                       	 1 	 1 	 0  	 0 	 0 	100.00
+AT Carey(wk)                  	lbw b Mohammad Amir           	20 	21 	31m 	 2 	 0 	95.24
+PJ Cummins                    	c Sarfaraz Ahmed(wk) b Hasan Ali 	 2 	 6 	 6m 	 0 	 0 	33.33
+NM CoulterNile                	c Sarfaraz Ahmed(wk) b Wahab Riaz 	 2 	 3 	 9m 	 0 	 0 	66.67
+SE Marsh                      	c Shoaib Malik b Mohammad Amir 	23 	26 	46m 	 2 	 0 	88.46
+UT Khawaja                    	c Wahab Riaz b Mohammad Amir  	18 	16 	18m 	 3 	 0 	112.50
+DA Warner                     	c Imamul Haq b Shaheen Shah Afridi 	107	111	161m	11 	 1 	96.40
+GJ Maxwell                    	b Shaheen Shah Afridi         	20 	10 	20m 	 2 	 1 	200.00
+SPD Smith                     	c Asif Ali b Mohammad Hafeez  	10 	13 	28m 	 1 	 0 	76.92
+AJ Finch(c)                   	c Mohammad Hafeez b Mohammad Amir 	82 	84 	94m 	 6 	 4 	97.62
+Extras 19   ( lb 10, b  0, nb  6, w  3 )
+TOTAL  307/10
+Did not bat: 
+Fall of wickets: 1-146 (AJ Finch(c), 22.1 ov), 2-189 (SPD Smith, 28.4 ov), 3-223 (GJ Maxwell, 33.4 ov), 4-242 (DA Warner, 37.5 ov), 5-277 (UT Khawaja, 42.1 ov), 6-288 (SE Marsh, 44.3 ov), 7-299 (NM CoulterNile, 46.2 ov), 8-302 (PJ Cummins, 47.3 ov), 9-304 (AT Carey(wk), 48.3 ov), 10-307 (MA Starc, 48.6 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+KW Richardson                   8.4    0   62    2     7.15   22     6     2    2    0 
+MA Starc                        9.0    1   43    2     4.78   32     6     0    2    0 
+NM CoulterNile                  9.0    0   53    1     5.89   23     2     2    2    0 
+GJ Maxwell                      7.0    0   58    0     8.29   13     4     3    1    0 
+PJ Cummins                      10.0   0   33    3     3.30   41     4     0    0    1 
+AJ Finch(c)                     2.0    0   13    1     6.50    4     1     0    1    0 

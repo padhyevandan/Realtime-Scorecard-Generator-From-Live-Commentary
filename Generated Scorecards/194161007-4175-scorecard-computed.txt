@@ -1,0 +1,56 @@
+Team 1 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+O Thomas                      	c Sharma b Mohammed Shami     	 6 	11 	20m 	 1 	 0 	54.55
+KAJ Roach                     	not out                       	14 	21 	 0  	 3 	 0 	66.67
+SS Cottrell                   	lbw b Chahal                  	10 	 8 	 7m 	 1 	 1 	125.00
+SO Hetmyer                    	c Rahul b Mohammed Shami      	18 	29 	52m 	 1 	 0 	62.07
+FA Allen                      	lbw b Bumrah                  	 0 	 1 	 3m 	 0 	 0 	0.00
+CR Brathwaite                 	c Dhoni(wk) b Bumrah          	 1 	 5 	13m 	 0 	 0 	20.00
+JO Holder(c)                  	c Jadhav b Chahal             	 6 	13 	14m 	 0 	 0 	46.15
+N Pooran                      	c Mohammed Shami b Kuldeep Yadav 	28 	50 	61m 	 2 	 0 	56.00
+SW Ambris                     	lbw b Pandya                  	31 	40 	84m 	 2 	 0 	77.50
+SD Hope(wk)                   	b Mohammed Shami              	 5 	10 	12m 	 1 	 0 	50.00
+CH Gayle                      	c Jadhav b Mohammed Shami     	 6 	19 	22m 	 1 	 0 	31.58
+Extras 18   ( lb  3, b  9, nb  1, w  5 )
+TOTAL  143/10
+Did not bat: 
+Fall of wickets: 1-10 (CH Gayle, 4.5 ov), 2-16 (SD Hope(wk), 6.5 ov), 3-71 (SW Ambris, 17.6 ov), 4-80 (N Pooran, 20.2 ov), 5-98 (JO Holder(c), 23.5 ov), 6-107 (CR Brathwaite, 26.1 ov), 7-107 (FA Allen, 26.2 ov), 8-112 (SO Hetmyer, 28.3 ov), 9-124 (SS Cottrell, 29.5 ov), 10-143 (O Thomas, 34.2 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+O Thomas                      	7.0 	 0   63    0     9.00   18     7     2    2    0 
+SS Cottrell                   	10.0	 0   50    2     5.00   31     4     0    2    0 
+CR Brathwaite                 	3.0 	 0   33    0    11.00    0     3     0    2    0 
+JO Holder(c)                  	10.0	 2   33    2     3.30   46     6     0    0    0 
+FA Allen                      	10.0	 0   52    0     5.20   27     5     0    0    0 
+KAJ Roach                     	10.0	 0   36    3     3.60   41     2     1    0    0 
+
+
+Team 2 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+MS Dhoni(wk)                  	not out                       	56 	61 	 0  	 3 	 2 	91.80
+Kuldeep Yadav                 	not out                       	 0 	 1 	 0  	 0 	 0 	0.00
+Mohammed Shami                	c Hope(wk) b Cottrell         	 0 	 2 	 4m 	 0 	 0 	0.00
+HH Pandya                     	c Allen b Cottrell            	46 	38 	48m 	 5 	 0 	121.05
+V Kohli(c)                    	c sub (DM Bravo) b Holder     	72 	82 	146m	 8 	 0 	87.80
+KM Jadhav                     	c Hope(wk) b Roach            	 7 	10 	13m 	 1 	 0 	70.00
+V Shankar                     	c Hope(wk) b Roach            	14 	19 	26m 	 3 	 0 	73.68
+KL Rahul                      	b Holder                      	48 	64 	91m 	 6 	 0 	75.00
+RG Sharma                     	c Hope(wk) b Roach            	18 	23 	28m 	 1 	 1 	78.26
+Extras 7    ( lb  0, b  1, nb  0, w  6 )
+TOTAL  268/7 
+Did not bat: YS Chahal, JJ Bumrah, 
+Fall of wickets: 1-29 (RG Sharma, 5.6 ov), 2-98 (KL Rahul, 20.4 ov), 3-126 (V Shankar, 26.1 ov), 4-140 (KM Jadhav, 28.5 ov), 5-180 (V Kohli(c), 38.2 ov), 6-250 (HH Pandya, 48.2 ov), 7-252 (Mohammed Shami, 48.5 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+Mohammed Shami                  6.2    0   16    4     2.53   29     2     0    1    0 
+YS Chahal                       7.0    0   39    2     5.57   24     5     1    0    0 
+Kuldeep Yadav                   9.0    1   35    1     3.89   28     1     0    2    0 
+JJ Bumrah                       6.0    1    9    2     1.50   28     0     0    0    0 
+KM Jadhav                       1.0    0    4    0     4.00    5     1     0    0    0 
+HH Pandya                       5.0    0   28    1     5.60   13     3     0    0    1 

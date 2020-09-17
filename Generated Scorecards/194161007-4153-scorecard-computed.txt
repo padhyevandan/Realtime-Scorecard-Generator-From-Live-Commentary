@@ -1,0 +1,55 @@
+Team 1 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+Mustafizur Rahman             	c Bairstow(wk) b Archer       	 0 	 3 	 4m 	 0 	 0 	0.00
+Mehidy Hasan                  	c Bairstow(wk) b Archer       	12 	 8 	16m 	 2 	 0 	150.00
+Mashrafe Mortaza(c)           	not out                       	 4 	 9 	 0  	 0 	 0 	44.44
+Mohammad Saifuddin            	b Stokes                      	 5 	 8 	13m 	 0 	 0 	62.50
+Mahmudullah                   	c Bairstow(wk) b Wood         	28 	41 	66m 	 1 	 1 	68.29
+Mosaddek Hossain              	c Archer b Stokes             	26 	16 	16m 	 4 	 0 	162.50
+Shakib Al Hasan               	b Stokes                      	121	119	147m	12 	 1 	101.68
+Mohammad Mithun               	c Bairstow(wk) b Rashid       	 0 	 2 	 4m 	 0 	 0 	0.00
+Mushfiqur Rahim(wk)           	c Roy b Plunkett              	44 	50 	65m 	 2 	 0 	88.00
+Tamim Iqbal                   	c Morgan b Wood               	19 	29 	53m 	 1 	 0 	65.52
+Soumya Sarkar                 	b Archer                      	 2 	 8 	14m 	 0 	 0 	25.00
+Extras 19   ( lb  9, b  0, nb  0, w 10 )
+TOTAL  280/10
+Did not bat: 
+Fall of wickets: 1-8 (Soumya Sarkar, 3.2 ov), 2-63 (Tamim Iqbal, 11.6 ov), 3-169 (Mushfiqur Rahim(wk), 28.6 ov), 4-170 (Mohammad Mithun, 29.3 ov), 5-219 (Shakib Al Hasan, 39.3 ov), 6-254 (Mosaddek Hossain, 43.1 ov), 7-261 (Mahmudullah, 44.6 ov), 8-264 (Mohammad Saifuddin, 45.4 ov), 9-280 (Mehidy Hasan, 48.2 ov), 10-280 (Mustafizur Rahman, 48.5 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+Mohammad Saifuddin            	9.0 	 0   78    2     8.67   18     7     2    2    0 
+Mashrafe Mortaza(c)           	10.0	 0   68    1     6.80   24     6     2    0    0 
+Mustafizur Rahman             	9.0 	 0   75    1     8.33   19     4     3    2    1 
+Mehidy Hasan                  	10.0	 0   67    2     6.70   22     3     3    1    0 
+Shakib Al Hasan               	10.0	 0   71    0     7.10   28     8     2    2    0 
+Mosaddek Hossain              	2.0 	 0   24    0    12.00    1     1     2    0    0 
+
+
+Team 2 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+LE Plunkett                   	not out                       	27 	 9 	 0  	 4 	 1 	300.00
+CR Woakes                     	not out                       	18 	 8 	 0  	 0 	 2 	225.00
+BA Stokes                     	c Mashrafe Mortaza b Mustafizur Rahman 	 6 	 7 	13m 	 0 	 0 	85.71
+EJG Morgan(c)                 	c Soumya Sarkar b Mehidy Hasan Miraz 	35 	33 	56m 	 1 	 2 	106.06
+JC Buttler                    	c Soumya Sarkar b Mohammad Saifuddin 	64 	44 	66m 	 2 	 4 	145.45
+JJ Roy                        	c Mashrafe Mortaza b Mehidy Hasan Miraz 	153	121	153m	14 	 5 	126.45
+JE Root                       	b Mohammad Saifuddin          	21 	29 	54m 	 1 	 0 	72.41
+JM Bairstow(wk)               	c Mehidy Hasan Miraz b Mashrafe Mortaza 	51 	50 	81m 	 7 	 0 	102.00
+Extras 11   ( lb  3, b  0, nb  2, w  6 )
+TOTAL  386/6 
+Did not bat: AU Rashid, JC Archer, MA Wood, 
+Fall of wickets: 1-128 (JM Bairstow(wk), 19.1 ov), 2-205 (JE Root, 31.3 ov), 3-235 (JJ Roy, 34.4 ov), 4-330 (JC Buttler, 45.2 ov), 5-340 (EJG Morgan(c), 46.5 ov), 6-341 (BA Stokes, 47.1 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+JC Archer                       8.5    2   29    3     3.28   37     0     1    1    0 
+BA Stokes                       6.0    1   23    3     3.83   20     1     0    1    0 
+MA Wood                         8.0    0   52    2     6.50   16     6     0    0    0 
+CR Woakes                       8.0    0   67    0     8.38   13     9     0    0    0 
+AU Rashid                       10.0   0   64    1     6.40   22     5     1    2    0 
+LE Plunkett                     8.0    0   36    1     4.50   17     1     0    2    0 

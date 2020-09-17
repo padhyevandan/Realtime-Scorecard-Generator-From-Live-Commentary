@@ -1,0 +1,56 @@
+Team 1 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+NM Lyon                       	c Markram b Phehlukwayo       	 3 	 3 	 7m 	 0 	 0 	100.00
+JP Behrendorff                	not out                       	11 	 6 	 0  	 0 	 0 	183.33
+MA Starc                      	b Rabada                      	16 	11 	24m 	 1 	 1 	145.45
+UT Khawaja                    	b Rabada                      	18 	14 	26m 	 3 	 0 	128.57
+AT Carey(wk)                  	c Markram b Morris            	85 	69 	90m 	11 	 1 	123.19
+PJ Cummins                    	c Duminy b Phehlukwayo        	 9 	15 	24m 	 1 	 0 	60.00
+DA Warner                     	c Morris b Pretorius          	122	117	168m	15 	 2 	104.27
+GJ Maxwell                    	c de Kock(wk) b Rabada        	12 	20 	24m 	 1 	 0 	60.00
+MP Stoinis                    	run out (Rabada/de Kock(wk))  	22 	34 	54m 	 4 	 0 	64.71
+SPD Smith                     	lbw b Pretorius               	 7 	 6 	 9m 	 1 	 0 	116.67
+AJ Finch(c)                   	c Markram b Imran Tahir       	 3 	 4 	 9m 	 0 	 0 	75.00
+Extras 7    ( lb  4, b  0, nb  0, w  3 )
+TOTAL  315/10
+Did not bat: 
+Fall of wickets: 1-5 (AJ Finch(c), 2.1 ov), 2-33 (SPD Smith, 6.3 ov), 3-95 (MP Stoinis, 18.3 ov), 4-119 (GJ Maxwell, 24.1 ov), 5-227 (DA Warner, 39.1 ov), 6-272 (PJ Cummins, 44.4 ov), 7-275 (AT Carey(wk), 45.2 ov), 8-301 (UT Khawaja, 48.1 ov), 9-306 (MA Starc, 48.5 ov), 10-315 (NM Lyon, 49.5 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+PJ Cummins                    	9.0 	 0   66    1     7.33   28     6     2    3    0 
+MA Starc                      	9.0 	 0   59    2     6.56   27     7     0    4    0 
+GJ Maxwell                    	10.0	 0   57    0     5.70   22     1     2    1    0 
+JP Behrendorff                	8.0 	 0   55    1     6.88   21     6     1    0    0 
+NM Lyon                       	10.0	 0   53    2     5.30   32     4     2    0    0 
+MP Stoinis                    	3.0 	 0   19    0     6.33    5     1     0    1    0 
+SPD Smith                     	1.0 	 0    5    0     5.00    4     1     0    0    0 
+
+
+Team 2 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+HE van der Dussen             	der Dussen c Maxwell b Cummins 	95 	97 	136m	 4 	 4 	97.94
+AL Phehlukwayo                	not out                       	 4 	 3 	 0  	 1 	 0 	133.33
+D Pretorius                   	b Starc                       	 2 	 5 	13m 	 0 	 0 	40.00
+JP Duminy                     	c Stoinis b Starc             	14 	13 	18m 	 1 	 0 	107.69
+F du Plessis(c)               	Plessis c Starc b Behrendorff 	101	95 	125m	 7 	 2 	106.32
+Q de Kock(wk)                 	Kock c Starc b Lyon           	51 	50 	78m 	 7 	 0 	102.00
+AK Markram                    	st Carey(wk) b Lyon           	34 	37 	51m 	 6 	 1 	91.89
+Extras 24   ( lb 10, b  1, nb  0, w 13 )
+TOTAL  325/6 
+Did not bat: CH Morris, K Rabada, Imran Tahir, Tabraiz Shamsi, 
+Fall of wickets: 1-79 (AK Markram, 11.3 ov), 2-114 (Q de Kock(wk), 17.4 ov), 3-265 (F du Plessis(c), 42.6 ov), 4-295 (JP Duminy, 46.5 ov), 5-317 (D Pretorius, 48.5 ov), 6-325 (HE van der Dussen, 49.6 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+AL Phehlukwayo                  2.5    0   22    2     7.76    5     2     0    1    0 
+K Rabada                        10.0   0   56    3     5.60   33     6     1    0    0 
+CH Morris                       9.0    0   63    1     7.00   24     7     2    0    0 
+Tabraiz Shamsi                  9.0    0   62    0     6.89   20     7     0    1    0 
+Imran Tahir                     9.0    0   59    1     6.56   23     7     1    0    0 
+D Pretorius                     6.0    2   27    2     4.50   26     5     0    1    0 
+JP Duminy                       4.0    0   22    0     5.50   11     3     0    0    0 

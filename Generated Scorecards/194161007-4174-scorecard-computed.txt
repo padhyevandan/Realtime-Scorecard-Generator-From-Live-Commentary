@@ -1,0 +1,52 @@
+Team 1 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+Sarfaraz Ahmed(c)(wk)         	not out                       	 5 	 3 	 0  	 1 	 0 	166.67
+Babar Azam                    	not out                       	101	127	 0  	11 	 0 	79.53
+Haris Sohail                  	run out (Guptill)             	68 	76 	98m 	 5 	 2 	89.47
+Mohammad Hafeez               	c Ferguson b Williamson       	32 	50 	70m 	 5 	 0 	64.00
+Imam ul Haq                   	c Guptill b Ferguson          	19 	29 	42m 	 3 	 0 	65.52
+Fakhar Zaman                  	c Guptill b Boult             	 9 	10 	13m 	 2 	 0 	90.00
+Extras 7    ( lb  0, b  0, nb  0, w  7 )
+TOTAL  241/4 
+Did not bat: Imad Wasim, Shadab Khan, Mohammad Amir, Wahab Riaz, Shaheen Afridi, 
+Fall of wickets: 1-19 (Fakhar Zaman, 2.6 ov), 2-44 (Imam ul Haq, 10.2 ov), 3-110 (Mohammad Hafeez, 24.5 ov), 4-236 (Haris Sohail, 48.3 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+Wahab Riaz                    	10.0	 0   55    0     5.50   30     4     1    2    0 
+Mohammad Amir                 	10.0	 0   67    1     6.70   31     9     1    2    0 
+Shaheen Shah Afridi           	10.0	 3   28    3     2.80   43     2     0    0    0 
+Shadab Khan                   	10.0	 0   43    1     4.30   32     1     2    0    0 
+Imad Wasim                    	3.0 	 0   17    0     5.67    7     1     0    0    0 
+Mohammad Hafeez               	7.0 	 0   22    0     3.14   25     1     0    0    0 
+
+
+Team 2 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+JDS Neesham                   	not out                       	97 	112	 0  	 5 	 3 	86.61
+MJ Santner                    	not out                       	 5 	 5 	 0  	 0 	 0 	100.00
+C de Grandhomme               	run out (Mohammad Amir/Sarfaraz Ahmed(wk)) 	64 	71 	96m 	 6 	 1 	90.14
+KS Williamson(c)              	c Sarfaraz Ahmed(wk) b Shadab Khan 	41 	69 	114m	 4 	 0 	59.42
+TWM Latham(wk)                	c Sarfaraz Ahmed(wk) b Shaheen Shah Afridi 	 1 	14 	18m 	 0 	 0 	7.14
+LRPL Taylor                   	c Sarfaraz Ahmed(wk) b Shaheen Shah Afridi 	 3 	 8 	14m 	 0 	 0 	37.50
+C Munro                       	c Haris Sohail b Shaheen Shah Afridi 	12 	17 	37m 	 2 	 0 	70.59
+MJ Guptill                    	b Mohammad Amir               	 5 	 4 	 5m 	 1 	 0 	125.00
+Extras 9    ( lb  3, b  2, nb  0, w  4 )
+TOTAL  237/6 
+Did not bat: MJ Henry, LH Ferguson, TA Boult, 
+Fall of wickets: 1-5 (MJ Guptill, 1.1 ov), 2-24 (C Munro, 6.2 ov), 3-38 (LRPL Taylor, 8.6 ov), 4-46 (TWM Latham(wk), 12.3 ov), 5-83 (KS Williamson(c), 26.2 ov), 6-215 (C de Grandhomme, 47.4 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+LH Ferguson                     8.1    0   50    1     6.12   26     7     0    4    0 
+MJ Henry                        7.0    0   25    0     3.57   27     2     0    0    0 
+TA Boult                        10.0   0   48    1     4.80   42     7     1    0    0 
+MJ Santner                      10.0   0   38    0     3.80   37     2     1    0    0 
+KS Williamson(c)                8.0    0   39    1     4.88   24     4     0    1    0 
+C Munro                         1.0    0    9    0     9.00    1     1     0    1    0 
+JDS Neesham                     3.0    0   20    0     6.67    9     3     0    1    0 
+C de Grandhomme                 2.0    0   12    0     6.00    6     1     0    0    0 

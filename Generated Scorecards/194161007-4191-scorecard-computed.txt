@@ -1,0 +1,51 @@
+Team 1 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+EJG Morgan(c)                 	not out                       	45 	39 	 0  	 8 	 0 	115.38
+JE Root                       	not out                       	49 	46 	 0  	 8 	 0 	106.52
+JJ Roy                        	c Carey(wk) b Cummins         	85 	65 	99m 	 9 	 5 	130.77
+JM Bairstow                   	lbw b Starc                   	34 	43 	88m 	 5 	 0 	79.07
+Extras 13   ( lb  1, b  0, nb  0, w 12 )
+TOTAL  226/2 
+Did not bat: BA Stokes, JC Buttler(wk), CR Woakes, AU Rashid, LE Plunkett, JC Archer, MA Wood, 
+Fall of wickets: 1-124 (JM Bairstow, 17.2 ov), 2-147 (JJ Roy, 19.4 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+MA Wood                       	9.0 	 0   45    1     5.00   27     3     0    4    0 
+CR Woakes                     	8.0 	 0   20    3     2.50   37     3     0    0    0 
+LE Plunkett                   	8.0 	 0   44    0     5.50   25     3     1    3    0 
+JC Archer                     	10.0	 0   32    2     3.20   38     1     0    2    0 
+AU Rashid                     	10.0	 0   54    3     5.40   26     3     1    1    0 
+BA Stokes                     	4.0 	 0   22    0     5.50   12     2     0    0    0 
+
+
+Team 2 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+JP Behrendorff                	b Wood                        	 1 	 4 	10m 	 0 	 0 	25.00
+NM Lyon                       	not out                       	 5 	 6 	 0  	 0 	 0 	83.33
+MA Starc                      	c Buttler(wk) b Woakes        	29 	36 	45m 	 1 	 1 	80.56
+SPD Smith                     	run out (Buttler(wk))         	85 	119	201m	 6 	 0 	71.43
+PJ Cummins                    	c Root b Rashid               	 6 	10 	11m 	 0 	 0 	60.00
+GJ Maxwell                    	c Morgan b Archer             	22 	23 	29m 	 2 	 1 	95.65
+MP Stoinis                    	lbw b Rashid                  	 0 	 2 	 4m 	 0 	 0 	0.00
+AT Carey(wk)                  	c sub (JM Vince) b Rashid     	46 	70 	94m 	 4 	 0 	65.71
+PSP Handscomb                 	b Woakes                      	 4 	12 	15m 	 0 	 0 	33.33
+DA Warner                     	c Bairstow b Woakes           	 9 	11 	14m 	 2 	 0 	81.82
+AJ Finch(c)                   	lbw b Archer                  	 0 	 1 	 6m 	 0 	 0 	0.00
+Extras 16   ( lb  6, b  0, nb  0, w 10 )
+TOTAL  223/10
+Did not bat: 
+Fall of wickets: 1-4 (AJ Finch(c), 1.1 ov), 2-10 (DA Warner, 2.4 ov), 3-14 (PSP Handscomb, 6.1 ov), 4-117 (AT Carey(wk), 27.2 ov), 5-118 (MP Stoinis, 27.6 ov), 6-157 (GJ Maxwell, 34.5 ov), 7-166 (PJ Cummins, 37.4 ov), 8-217 (SPD Smith, 47.1 ov), 9-217 (MA Starc, 47.2 ov), 10-223 (JP Behrendorff, 48.6 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+JP Behrendorff                  8.1    2   38    0     4.65   31     5     0    1    0 
+MA Starc                        9.0    0   70    1     7.78   31    12     1    3    0 
+NM Lyon                         5.0    0   49    0     9.80    9     7     1    0    0 
+PJ Cummins                      7.0    0   34    1     4.86   28     4     0    2    0 
+MP Stoinis                      2.0    0   13    0     6.50    7     2     0    1    0 
+SPD Smith                       1.0    0   21    0    21.00    1     0     3    1    0 

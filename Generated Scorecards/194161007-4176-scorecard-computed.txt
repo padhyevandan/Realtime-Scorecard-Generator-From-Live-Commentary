@@ -1,0 +1,47 @@
+Team 1 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+F du Plessis(c)               	not out                       	96 	103	 0  	10 	 1 	93.20
+HM Amla                       	not out                       	80 	105	 0  	 5 	 0 	76.19
+Q de Kock(wk)                 	b Malinga                     	15 	16 	16m 	 3 	 0 	93.75
+Extras 15   ( lb  1, b  0, nb  0, w 14 )
+TOTAL  206/1 
+Did not bat: AK Markram, HE van der Dussen, JP Duminy, D Pretorius, AL Phehlukwayo, CH Morris, K Rabada, Imran Tahir, 
+Fall of wickets: 1-31 (Q de Kock(wk), 4.5 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+CH Morris                     	7.3 	 0   32    3     4.27   29     2     1    2    0 
+K Rabada                      	6.0 	 2   10    1     1.67   27     0     0    0    0 
+AL Phehlukwayo                	4.0 	 0   22    1     5.50   10     2     0    1    0 
+Imran Tahir                   	10.0	 0   36    0     3.60   34     2     0    0    0 
+JP Duminy                     	2.0 	 0   15    1     7.50    7     1     0    1    0 
+D Pretorius                   	4.0 	 2    4    1     1.00   21     0     0    0    0 
+
+
+Team 2 Scorecard
+------------------
+Batting Scorecard
+BATSMEN                       	                              	 R 	 B 	 M  	4s 	6s 	 SR  
+SL Malinga                    	c du Plessis b Morris         	 4 	 2 	 7m 	 1 	 0 	200.00
+RAS Lakmal                    	not out                       	 5 	 7 	 0  	 0 	 0 	71.43
+I Udana                       	c & b Rabada                  	17 	32 	40m 	 1 	 0 	53.12
+NLTC Perera                   	c Rabada b Phehlukwayo        	21 	25 	41m 	 0 	 0 	84.00
+BMAJ Mendis                   	c Pretorius b Morris          	18 	46 	54m 	 1 	 1 	39.13
+DM de Silva                   	b Duminy                      	24 	41 	54m 	 2 	 0 	58.54
+BKG Mendis                    	c Morris b Pretorius          	15 	32 	75m 	 1 	 0 	46.88
+AD Mathews                    	b Morris                      	 7 	16 	48m 	 1 	 0 	43.75
+Extras 9    ( lb  1, b  0, nb  0, w  8 )
+TOTAL  120/7 
+Did not bat: FDM Karunaratne(c), WIA Fernando, MDKJ Perera(wk), 
+Fall of wickets: 1-17 (AD Mathews, 21.5 ov), 2-28 (BKG Mendis, 27.1 ov), 3-52 (DM de Silva, 36.1 ov), 4-80 (BMAJ Mendis, 39.5 ov), 5-101 (NLTC Perera, 45.3 ov), 6-114 (I Udana, 48.3 ov), 7-120 (SL Malinga, 49.3 ov), 
+
+Bowling Scorecard
+Bowler                           O     M    R    W     Econ   0s    4s    6s   WD   NB 
+NLTC Perera                     5.2    1   28    0     5.25   15     3     0    0    0 
+I Udana                         5.0    0   29    0     5.80   11     2     0    2    0 
+SL Malinga                      10.0   1   47    1     4.70   38     6     0    2    0 
+BMAJ Mendis                     7.0    0   36    0     5.14   16     1     0    3    0 
+RAS Lakmal                      6.0    0   47    0     7.83   15     4     1    1    0 
+DM de Silva                     4.0    0   18    0     4.50   14     2     0    1    0 
