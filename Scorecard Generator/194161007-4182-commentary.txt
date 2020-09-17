@@ -1,0 +1,3700 @@
+4182~1~Team 1: KL Rahul!KL Rahul, RG Sharma!RG Sharma, V Kohli (c)!V Kohli(c), Rishabh Pant!RR Pant, MS Dhoni (wk)!MS Dhoni(wk), HH Pandya!HH Pandya, Dinesh Karthik!KD Karthik, Bhuvneshwr Kumar!B Kumar, Mohammed Shami!Mohammed Shami, YS Chahal!YS Chahal, JJ Bumrah!JJ Bumrah.
+4182~1~Team 2: Tamim Iqbal!Tamim Iqbal, Soumya Sarkar!Soumya Sarkar, Shakib Al Hasan!Shakib Al Hasan, Mushfiqur Rahim (wk)!Mushfiqur Rahim(wk), Liton Das!Liton Das, Mosaddek Hossain!Mosaddek Hossain, Sabbir Rahman!Sabbir Rahman, Mohammad Saifuddin!Mohammad Saifuddin, Rubel Hossain!Rubel Hossain, Mashrafe Mortaza (c)!Mashrafe Mortaza(c), Mustafizur Rahman!Mustafizur Rahman.
+4182~1~0.1
+4182~1~0
+4182~1~Mashrafe Mortaza to Rahul, no run, good length ball on middle stump at 123 kph, defended on the back foot to short midwicket.
+4182~1~
+4182~1~0.2
+4182~1~1
+4182~1~Mashrafe Mortaza to Rahul, 1 run, short of a length on off stump, goes back to flick behind square with ease.
+4182~1~
+4182~1~0.3
+4182~1~1w
+4182~1~Mashrafe Mortaza to Sharma, 1 wide, short of a length angled down leg, Rohit is late on the pull but wide called.
+4182~1~
+4182~1~0.3
+4182~1~0
+4182~1~Mashrafe Mortaza to Sharma, no run, short of a length on fifth stump, Rohit goes back and punches but straight to cover point.
+4182~1~
+4182~1~Mashrafe is really lumbering in during this first over.
+4182~1~
+4182~1~0.4
+4182~1~6
+4182~1~Mashrafe Mortaza to Sharma, SIX runs, hammered! A fraction short on off stump at just 130 kph, sits up for Rohit to lace a blistering pull over square leg. Flat, didn't go more than 15 meters in the air but clears that short boundary landing at 62 meters over the rope. It took India until the 50th over to hit their first six v England, but they've done it on the fourth legal ball today!
+4182~1~
+4182~1~0.5
+4182~1~0
+4182~1~Mashrafe Mortaza to Sharma, no run, good length ball on fifth stump, goes back and across to defend firmly back toward extra cover.
+4182~1~
+4182~1~0.6
+4182~1~2
+4182~1~Mashrafe Mortaza to Sharma, 2 runs, fullish length on fourth stump, Rohit uses his feet to step down and flick through midwicket for an easy pair.
+4182~1~
+4182~1~1.1
+4182~1~0
+4182~1~Mohammad Saifuddin to Rahul, no run, good length ball at 128 kph/79 mph pitching on fourth stump, Rahul goes back to defend. No sign of any real swing from either bowler as yet.
+4182~1~
+4182~1~Saifuddin to take the new ball from the other end. One slip in for Rahul.
+4182~1~END OF OVER:1 | 10 Runs | INDIA: 10/0 | RR: 10.00
+4182~1~
+4182~1~    Rohit Sharma8 (4b)
+4182~1~    KL Rahul1 (2b)
+4182~1~
+4182~1~    Mashrafe Mortaza1-0-10-0
+4182~1~
+4182~1~
+4182~1~1.2
+4182~1~0
+4182~1~Mohammad Saifuddin to Rahul, no run, good length ball on off stump, goes back to defend to point.
+4182~1~
+4182~1~1.3
+4182~1~0
+4182~1~Mohammad Saifuddin to Rahul, no run, fullish length on fifth stump and finally a hint of swing moving away, Rahul shoulders arms.
+4182~1~
+4182~1~1.4
+4182~1~0
+4182~1~Mohammad Saifuddin to Rahul, no run, overpitched on fourth stump at 122 kph/75 mph, driven firmly but straight to mid-off.
+4182~1~
+4182~1~1.5
+4182~1~0
+4182~1~Mohammad Saifuddin to Rahul, no run, short of a length on off stump, Rahul shuffles across and back to punch back down the pitch as Saifuddin fields moving to his right.
+4182~1~
+4182~1~1.6
+4182~1~1
+4182~1~Mohammad Saifuddin to Rahul, 1 run, overpitched and angled into leg stump at 126 kph/78 mph, Rahul flicks off his pads through square leg to deny a maiden.
+4182~1~
+4182~1~2.1
+4182~1~1
+4182~1~Mustafizur Rahman to Rahul, 1 run, short of a length pitching on middle and angled across, Rahul goes back and dangles the bat with a slightly open face to chop this down to third man.
+4182~1~
+4182~1~From Isam for the first time today: "Before this game started, Bangladesh has had the worst average in the 1st 10 overs in this World Cup. 4 wickets at 76.50, a wicket every 90 balls."
+4182~1~
+4182~1~Bowling change already. Mustafizur replaces Mashrafe after just one over. One slip in bowling over the stumps to Rahul.
+4182~1~END OF OVER:2 | 1 Run | INDIA: 11/0 | RR: 5.50
+4182~1~
+4182~1~    KL Rahul2 (8b)
+4182~1~    Rohit Sharma8 (4b)
+4182~1~
+4182~1~    Mohammad Saifuddin1-0-1-0
+4182~1~    Mashrafe Mortaza1-0-10-0
+4182~1~
+4182~1~
+4182~1~2.2
+4182~1~0
+4182~1~Mustafizur Rahman to Sharma, no run, good length ball angled across fourth stump, Rohit tries to tap and run gently pushing into short midwicket but Mustafizur hustles to field in his follow-through to deny it.
+4182~1~
+4182~1~2.3
+4182~1~0
+4182~1~Mustafizur Rahman to Sharma, no run, good length ball angled across fifth stump, left alone comfortably.
+4182~1~
+4182~1~2.4
+4182~1~0
+4182~1~Mustafizur Rahman to Sharma, no run, good length ball pitching on off stump at 129 kph/80 mph and continuing on with the angle, defended back down the pitch.
+4182~1~
+4182~1~2.5
+4182~1~1
+4182~1~Mustafizur Rahman to Sharma, 1 run, short of a length on the hips, Rohit paddle/short-arm jab pulls this behind square, short fine leg shuffles left to field off one bounce.
+4182~1~
+4182~1~2.6
+4182~1~1
+4182~1~Mustafizur Rahman to Rahul, 1 run, short of a length on fifth stump line, tapped behind point for a simple single to third man.
+4182~1~
+4182~1~3.1
+4182~1~0
+4182~1~Mohammad Saifuddin to Rahul, no run, good length ball on fifth stump, left alone.
+4182~1~END OF OVER:3 | 3 Runs | INDIA: 14/0 | RR: 4.66
+4182~1~
+4182~1~    KL Rahul4 (10b)
+4182~1~    Rohit Sharma9 (8b)
+4182~1~
+4182~1~    Mustafizur Rahman1-0-3-0
+4182~1~    Mohammad Saifuddin1-0-1-0
+4182~1~
+4182~1~
+4182~1~3.2
+4182~1~0
+4182~1~Mohammad Saifuddin to Rahul, no run, good length and tighter on a fourth stump line at 129 kph/80 mph, tentative poke by Rahul moving back with a touch of swing too.
+4182~1~
+4182~1~3.3
+4182~1~0
+4182~1~Mohammad Saifuddin to Rahul, no run, good length again on fifth stump, Rahul moves across to cover the line and slaps back down the pitch.
+4182~1~
+4182~1~3.4
+4182~1~0
+4182~1~Mohammad Saifuddin to Rahul, no run, fullish length but very wide outside off, goes to drive through cover but miscues to extra cover.
+4182~1~
+4182~1~3.5
+4182~1~4
+4182~1~Mohammad Saifuddin to Rahul, FOUR runs, shocking misfield by Shakib. Good length but straying on the legs, flicked off his thigh through midwicket, Shakib at deep square takes a horrendous angle trying to cut two into a single and instead turned it into a boundary diving over the top of the ball in the end.
+4182~1~
+4182~1~3.6
+4182~1~0
+4182~1~Mohammad Saifuddin to Rahul, no run, full length on off stump, mishits this off the pads back to Saifuddin.
+4182~1~
+4182~1~4.1
+4182~1~0
+4182~1~Mustafizur Rahman to Sharma, no run, fullish length on fourth stump, driven hard to extra cover.
+4182~1~END OF OVER:4 | 4 Runs | INDIA: 18/0 | RR: 4.50
+4182~1~
+4182~1~    KL Rahul8 (16b)
+4182~1~    Rohit Sharma9 (8b)
+4182~1~
+4182~1~    Mohammad Saifuddin2-0-5-0
+4182~1~    Mustafizur Rahman1-0-3-0
+4182~1~
+4182~1~
+4182~1~4.2
+4182~1~0
+4182~1~Mustafizur Rahman to Sharma, no run, good length ball on middle stump angled across, Rohit goes back to defend to cover.
+4182~1~
+4182~1~4.3
+4182~1~0
+4182~1~Mustafizur Rahman to Sharma, no run, fullish length ball on fourth stump, driven firmly but straight to cover point.
+4182~1~
+4182~1~4.4
+4182~1~1
+4182~1~Mustafizur Rahman to Sharma, 1 run, dropped! Clumsy from Tamim! Short ball from Mustafizur on fourth stump, sucker ball really with Rohit aiming for the short boundary having hit a six over square leg in the first over. He doesn't get the elevation or timing on this, it hangs in the air for Tamim running to his left from deep square leg. He covers 15 yards and slows down his jog to steady himself but shells it badly at chest height. 4/10 on degree of difficulty but he spilled it badly.
+4182~1~
+4182~1~4.5
+4182~1~1lb
+4182~1~Mustafizur Rahman to Rahul, 1 leg bye, good length on the legs, off the pads missing a flick and dribbles behind square for a run.
+4182~1~
+4182~1~4.6
+4182~1~1
+4182~1~Mustafizur Rahman to Sharma, 1 run, good length on off stump, clipped through midwicket.
+4182~1~
+4182~1~5.1
+4182~1~0
+4182~1~Mohammad Saifuddin to Sharma, no run, beaten! Fullish length on fifth stump, Rohit drives away from his body and is beaten for pace.
+4182~1~END OF OVER:5 | 3 Runs | INDIA: 21/0 | RR: 4.20
+4182~1~
+4182~1~    Rohit Sharma11 (13b)
+4182~1~    KL Rahul8 (17b)
+4182~1~
+4182~1~    Mustafizur Rahman2-0-5-0
+4182~1~    Mohammad Saifuddin2-0-5-0
+4182~1~
+4182~1~
+4182~1~5.2
+4182~1~0
+4182~1~Mohammad Saifuddin to Sharma, no run, full on fourth stump, flicked to mid-on.
+4182~1~
+4182~1~5.3
+4182~1~6
+4182~1~Mohammad Saifuddin to Sharma, SIX runs, smoked! In the slot on fourth stump, Rohit shimmies down the track and slams a drive 20 yards into the stands over extra cover.
+4182~1~
+4182~1~5.4
+4182~1~1
+4182~1~Mohammad Saifuddin to Sharma, 1 run, good length ball on the hips, tucked off the pads behind square.
+4182~1~
+4182~1~5.5
+4182~1~2
+4182~1~Mohammad Saifuddin to Rahul, 2 runs, fullish length on the pads angling down leg stump, whipped wide of midwicket.
+4182~1~
+4182~1~5.6
+4182~1~0
+4182~1~Mohammad Saifuddin to Rahul, no run, full on off stump, driven hard but straight to extra cover.
+4182~1~
+4182~1~6.1
+4182~1~4
+4182~1~Mustafizur Rahman to Sharma, FOUR runs, slashed wide of slip! Mustafizur draws him into a drive with a fullish length ball angled across fifth stump. Rohit throws the bat at it and slices it but comfortably wide of the catching man and it goes fine of third man.
+4182~1~
+4182~1~Sachin Mhetre: "Every time Rohit gets early life he converts that opportunity in to big score, SA,Pak,Windows have already paid it -:)"
+4182~1~END OF OVER:6 | 9 Runs | INDIA: 30/0 | RR: 5.00
+4182~1~
+4182~1~    KL Rahul10 (19b)
+4182~1~    Rohit Sharma18 (17b)
+4182~1~
+4182~1~    Mohammad Saifuddin3-0-14-0
+4182~1~    Mustafizur Rahman2-0-5-0
+4182~1~
+4182~1~
+4182~1~6.2
+4182~1~0
+4182~1~Mustafizur Rahman to Sharma, no run, good length ball on middle and leg, defended back down the pitch.
+4182~1~
+4182~1~6.3
+4182~1~1
+4182~1~Mustafizur Rahman to Sharma, 1 run, good length ball on leg stump, clipped with ease through midwicket.
+4182~1~
+4182~1~6.4
+4182~1~0
+4182~1~Mustafizur Rahman to Rahul, no run, full on off stump, defended on the front foot back to Mustafizur.
+4182~1~
+4182~1~6.5
+4182~1~1
+4182~1~Mustafizur Rahman to Rahul, 1 run, full on middle, tapped gently into midwicket and wide enough of the fielder for a safe run.
+4182~1~
+4182~1~Andrew​: "Tamin lost sight of the white ball due to cloud cover?" No excuses really. Was a very basic chance for a World Cup.
+4182~1~
+4182~1~6.6
+4182~1~0
+4182~1~Mustafizur Rahman to Sharma, no run, good length ball angled across off stump, chipped to midwicket but can't pick the gap.
+4182~1~
+4182~1~7.1
+4182~1~1
+4182~1~Mohammad Saifuddin to Rahul, 1 run, good length but straying on the legs, clipped through to the leg side sweeper.
+4182~1~END OF OVER:7 | 6 Runs | INDIA: 36/0 | RR: 5.14
+4182~1~
+4182~1~    Rohit Sharma23 (21b)
+4182~1~    KL Rahul11 (21b)
+4182~1~
+4182~1~    Mustafizur Rahman3-0-11-0
+4182~1~    Mohammad Saifuddin3-0-14-0
+4182~1~
+4182~1~
+4182~1~7.2
+4182~1~1
+4182~1~Mohammad Saifuddin to Sharma, 1 run, short and wide, guided to third man.
+4182~1~
+4182~1~Slip is gone.
+4182~1~
+4182~1~7.3
+4182~1~4
+4182~1~Mohammad Saifuddin to Rahul, FOUR runs, poor ball from Saifuddin. Full and angled well down leg, Rahul helps himself at the breakfast buffet with a flick past the keeper. Fine leg in the ring so no chance.
+4182~1~
+4182~1~7.4
+4182~1~4
+4182~1~Mohammad Saifuddin to Rahul, FOUR runs, glorious! Overpitched in the slot outside off, Rahul caresses this between mid-off and extra cover. India humming. Bangladesh playing catch up.
+4182~1~
+4182~1~7.5
+4182~1~0
+4182~1~Mohammad Saifuddin to Rahul, no run, short on the stumps, goes to pull but mistimes this into the ground off a bottom edge and it trickles toward square leg.
+4182~1~
+4182~1~7.6
+4182~1~1
+4182~1~Mohammad Saifuddin to Rahul, 1 run, overpitched on middle stump, Rahul pirouettes a KP-esque flamingo flick through the leg side.
+4182~1~
+4182~1~8.1
+4182~1~1
+4182~1~Mustafizur Rahman to Rahul, 1 run, full on middle, shuffles across to flick through midwicket.
+4182~1~END OF OVER:8 | 11 Runs | INDIA: 47/0 | RR: 5.87
+4182~1~
+4182~1~    KL Rahul21 (26b)
+4182~1~    Rohit Sharma24 (22b)
+4182~1~
+4182~1~    Mohammad Saifuddin4-0-25-0
+4182~1~    Mustafizur Rahman3-0-11-0
+4182~1~
+4182~1~
+4182~1~8.2
+4182~1~5nb
+4182~1~Mustafizur Rahman to Sharma, (no ball) FOUR runs, fullish length, Rohit with a sizzling drive on the up beats a despairing dive at extra cover from Sabbir going right and it keeps bouncing away.
+4182~1~
+4182~1~8.2
+4182~1~4
+4182~1~Mustafizur Rahman to Sharma, FOUR runs, full and very very wide outside off, Rohit stabs a drive that clears backward point, Saifuddin with a poor effort at third man is slow moving to his right and can't cut it off.
+4182~1~
+4182~1~8.3
+4182~1~0
+4182~1~Mustafizur Rahman to Sharma, no run, good length ball angled onto middle stump, defended into the leg side.
+4182~1~
+4182~1~Around the wicket now.
+4182~1~
+4182~1~8.4
+4182~1~0
+4182~1~Mustafizur Rahman to Sharma, no run, short of a length on off, defended again to Soumya at midwicket.
+4182~1~
+4182~1~8.5
+4182~1~1
+4182~1~Mustafizur Rahman to Sharma, 1 run, short of a length on off stump, tapped softly off the back foot into square leg, wide enough of short midwicket to rotate the strike.
+4182~1~
+4182~1~8.6
+4182~1~1
+4182~1~Mustafizur Rahman to Rahul, 1 run, good length ball on fourth stump, guided with soft hands to third man.
+4182~1~
+4182~1~9.1
+4182~1~4
+4182~1~Mashrafe Mortaza to Rahul, FOUR runs, overpitched dolly at 122 kph on fifth stump, step down the track and flicked wristily in the air just wide of Mashrafe to his left, beats mid-off with ease.
+4182~1~
+4182~1~Nurul Alam: "Oh, Tamin you dropped our semifinal hope!" We're not even through the Powerplay! Easy Tiger.
+4182~1~
+4182~1~Mashrafe is back now, switching ends from his opening one-over spell.
+4182~1~END OF OVER:9 | 12 Runs | INDIA: 59/0 | RR: 6.55
+4182~1~
+4182~1~    KL Rahul23 (28b)
+4182~1~    Rohit Sharma33 (27b)
+4182~1~
+4182~1~    Mustafizur Rahman4-0-23-0
+4182~1~    Mohammad Saifuddin4-0-25-0
+4182~1~
+4182~1~
+4182~1~9.2
+4182~1~0
+4182~1~Mashrafe Mortaza to Rahul, no run, good length ball on fifth stump, defended to backward point.
+4182~1~
+4182~1~Delay as a helmet is brought out for Mushfiqur to stand up to the stumps for the captain.
+4182~1~
+4182~1~9.3
+4182~1~1
+4182~1~Mashrafe Mortaza to Rahul, 1 run, short of a length ball on middle, goes back to tuck this into midwicket.
+4182~1~
+4182~1~9.4
+4182~1~4
+4182~1~Mashrafe Mortaza to Sharma, FOUR runs, class! Short of a length ball on fourth stump, not really much width on offer but with third man up in the ring, guides this with timing between third man and backward point, piercing the gap elegantly.
+4182~1~
+4182~1~9.5
+4182~1~1
+4182~1~Mashrafe Mortaza to Sharma, 1 run, good length ball but straying down leg, clipped behind square to get off strike.
+4182~1~
+4182~1~9.6
+4182~1~0
+4182~1~Mashrafe Mortaza to Rahul, no run, full on fourth stump, presses a drive straight to extra cover.
+4182~1~
+4182~1~10.1
+4182~1~0
+4182~1~Shakib Al Hasan to Sharma, no run, tossed up, grips a bit, and beats his outside edge as Sharma looks to defend
+4182~1~
+4182~1~Thanks Peter. Great start for India, and who you gonna call? Shakib al Hasan!
+4182~1~END OF OVER:10 | 10 Runs | INDIA: 69/0 | RR: 6.90
+4182~1~
+4182~1~    KL Rahul28 (32b)
+4182~1~    Rohit Sharma38 (29b)
+4182~1~
+4182~1~    Mashrafe Mortaza2-0-20-0
+4182~1~    Mustafizur Rahman4-0-23-0
+4182~1~
+4182~1~Powerplay up. So is my first spell too. Debayan Sen to take over for the next passage of play.
+4182~1~
+4182~1~10.2
+4182~1~0
+4182~1~Shakib Al Hasan to Sharma, no run, hangs back and cuts a length ball towards point
+4182~1~
+4182~1~10.3
+4182~1~0
+4182~1~Shakib Al Hasan to Sharma, no run, tossed up, he looks for the drive, and a bit of extra bounce beats him
+4182~1~
+4182~1~10.4
+4182~1~0
+4182~1~Shakib Al Hasan to Sharma, no run, floated, goes straight on with the arm, and he drives towards wide cover
+4182~1~
+4182~1~10.5
+4182~1~1
+4182~1~Shakib Al Hasan to Sharma, 1 run, floated up, goes on with the arm, and he punches this down to long on
+4182~1~
+4182~1~10.6
+4182~1~1w
+4182~1~Shakib Al Hasan to Rahul, 1 wide, flatter, goes towards the leg side as he looks to flick. Will have to bowl this again
+4182~1~
+4182~1~Robert Brown: "The roar of the Tiger better come quickly, as India assault the bowling, Robert Brown from Adelaide South Australia"
+4182~1~
+4182~1~10.6
+4182~1~0
+4182~1~Shakib Al Hasan to Rahul, no run, presses forward to defend a length ball on off stump
+4182~1~
+4182~1~11.1
+4182~1~1
+4182~1~Mashrafe Mortaza to Sharma, 1 run, full, wide, and he spanks this hard towards deep point
+4182~1~
+4182~1~Boaz: "In the absence of Dhawan, glad to see Rohit take on the role of an enforcer!! great start by Ro-HIT" --- Fifth time Sharma has been dropped this World Cup. Same as Chris Gayle, incidentally
+4182~1~END OF OVER:11 | 2 Runs | INDIA: 71/0 | RR: 6.45
+4182~1~
+4182~1~    KL Rahul28 (33b)
+4182~1~    Rohit Sharma39 (34b)
+4182~1~
+4182~1~    Shakib Al Hasan1-0-2-0
+4182~1~    Mashrafe Mortaza2-0-20-0
+4182~1~
+4182~1~
+4182~1~11.2
+4182~1~0
+4182~1~Mashrafe Mortaza to Rahul, no run, length ball, jags back into him from a length, and he defends to point
+4182~1~
+4182~1~11.3
+4182~1~0
+4182~1~Mashrafe Mortaza to Rahul, no run, length, and straightens into him, and he defends this back to the bowler
+4182~1~
+4182~1~Supradeep: "Welcome Deb. Looks like Bangladesh are in a little trouble here. Being a fellow Bengali what would you suggest them to do to get back in the game If you could?" --- Fundamental advice - hold any catches that come your way!
+4182~1~
+4182~1~11.4
+4182~1~0
+4182~1~Mashrafe Mortaza to Rahul, no run, length, little angle back in to him, and he defends this towards short cover
+4182~1~
+4182~1~Tim: "Seeing a Sunny Tonny bat after yeeaarrs! Is it still popular?"
+4182~1~
+4182~1~11.5
+4182~1~0
+4182~1~Mashrafe Mortaza to Rahul, no run, fuller, and he drives this on the up. Beats Mortaza, but cannot go past mid off
+4182~1~
+4182~1~11.6
+4182~1~1
+4182~1~Mashrafe Mortaza to Rahul, 1 run, goes back and punches this off the back foot towards midwicket
+4182~1~
+4182~1~12.1
+4182~1~0
+4182~1~Shakib Al Hasan to Rahul, no run, flighted, and he presses forward to defend this towards cover
+4182~1~END OF OVER:12 | 2 Runs | INDIA: 73/0 | RR: 6.08
+4182~1~
+4182~1~    KL Rahul29 (38b)
+4182~1~    Rohit Sharma40 (35b)
+4182~1~
+4182~1~    Mashrafe Mortaza3-0-22-0
+4182~1~    Shakib Al Hasan1-0-2-0
+4182~1~
+4182~1~"Deb....it will be great to see if you can give stats on the scores at which Rohit was dropped and went on to score what?? ;)" --- He was dropped on 4 against England, Luke. Went on to make 102
+4182~1~
+4182~1~12.2
+4182~1~1
+4182~1~Shakib Al Hasan to Rahul, 1 run, goes back and thwacks a length ball towards sweeper cover
+4182~1~
+4182~1~12.3
+4182~1~0
+4182~1~Shakib Al Hasan to Sharma, no run, flighted, and he defends this towards point. They thought about a quick single, but that went far too quickly to the fielder
+4182~1~
+4182~1~12.4
+4182~1~0
+4182~1~Shakib Al Hasan to Sharma, no run, hangs back in the crease, and cuts a length ball. It rises and drops just ahead of short third man
+4182~1~
+4182~1~12.5
+4182~1~0
+4182~1~Shakib Al Hasan to Sharma, no run, length, a bit wide of off, and he looks to cut this between point and short third man, but cannot find the gap
+4182~1~
+4182~1~12.6
+4182~1~0
+4182~1~Shakib Al Hasan to Sharma, no run, length, and he defends towards short midwicket
+4182~1~
+4182~1~13.1
+4182~1~0
+4182~1~Mashrafe Mortaza to Rahul, no run, length, and he places this straight towards short midwicket
+4182~1~
+4182~1~hmmking: "Can someone explain why is SL out? Mathematically, they can still make it, right? Eng lose very heavily to NZ, India defeat Bangladesh but lose heavily to SL, Pakistan loses to Bangladesh.. They would then be at 10 points with England and NRR would come into picture. Am I missing something?" --- Yeah, because once the league matches are over, the number of wins will be the first differentiator
+4182~1~
+4182~1~James: "Dilemma. As an England fan, I want India to win, and help us secure a semi-final. As a cricket fan, I want Bangladesh to win, and set up a cracker with Pakistan." --- Pretty sure you're not the only one today
+4182~1~END OF OVER:13 | 1 Run | INDIA: 74/0 | RR: 5.69
+4182~1~
+4182~1~    Rohit Sharma40 (39b)
+4182~1~    KL Rahul30 (40b)
+4182~1~
+4182~1~    Shakib Al Hasan2-0-3-0
+4182~1~    Mashrafe Mortaza3-0-22-0
+4182~1~
+4182~1~
+4182~1~13.2
+4182~1~0
+4182~1~Mashrafe Mortaza to Rahul, no run, length, raps him on the pads as he shapes to flick this. Was going down the leg side with the natural angle of the incoming ball, though
+4182~1~
+4182~1~13.3
+4182~1~1
+4182~1~Mashrafe Mortaza to Rahul, 1 run, shorter, outside off, and he can punch this wide of point towards the sweeper in the deep
+4182~1~
+4182~1~Deb - An honest question - Does the fact that Rohit Sharma has been dropped 5 times make him a lower calibre batsman in your eyes than he is capable off ?" --- Not at all. You get lucky breaks in this game, and then you get some howlers too
+4182~1~
+4182~1~13.4
+4182~1~2
+4182~1~Mashrafe Mortaza to Sharma, 2 runs, length, and he punches this inside out. Pierces the infield, and will pick up two easily as the man at deep point does the cleaning up towards the short boundary
+4182~1~
+4182~1~Jiten Surtani: "
+4182~1~13.5
+4182~1~1
+4182~1~Mashrafe Mortaza to Sharma, 1 run, length, angles into him, and he places this to the right of point for a quick single
+4182~1~
+4182~1~13.6
+4182~1~0
+4182~1~Mashrafe Mortaza to Rahul, no run, length, punches this towards cover
+4182~1~
+4182~1~14.1
+4182~1~0
+4182~1~Shakib Al Hasan to Sharma, no run, length, turns away from Sharma, who allows this to spin past his outside edge
+4182~1~
+4182~1~Just nine runs off the last four overs. Good comeback, especially from Mortaza
+4182~1~END OF OVER:14 | 4 Runs | INDIA: 78/0 | RR: 5.57
+4182~1~
+4182~1~    KL Rahul31 (44b)
+4182~1~    Rohit Sharma43 (41b)
+4182~1~
+4182~1~    Mashrafe Mortaza4-0-26-0
+4182~1~    Shakib Al Hasan2-0-3-0
+4182~1~
+4182~1~Zain: "Why does everytime KL Rahul bats slow? Eats up a lot of deliveries.. then makes 40 odd of 60 balls and gets out.. :( .. Please post this.." --- Never ideal, but he's doing his bit in laying a solid foundation for India, isn't he?
+4182~1~
+4182~1~14.2
+4182~1~6
+4182~1~Shakib Al Hasan to Sharma, SIX runs, goes back to convert a length ball into a short one, and smacks this over the short boundary at midwicket
+4182~1~
+4182~1~First slip comes in place now
+4182~1~
+4182~1~14.3
+4182~1~0
+4182~1~Shakib Al Hasan to Sharma, no run, presses forward to defend a length ball
+4182~1~
+4182~1~14.4
+4182~1~1
+4182~1~Shakib Al Hasan to Sharma, 1 run, flighted, outside off, and he drives this hard towards deep point. Brings up fifty for Rohit Sharma. Early life, but he has been quite superb since!
+4182~1~
+4182~1~14.5
+4182~1~1
+4182~1~Shakib Al Hasan to Rahul, 1 run, length, but wide outside off, and he can lean back and cut this away towards deep point
+4182~1~
+4182~1~14.6
+4182~1~1
+4182~1~Shakib Al Hasan to Sharma, 1 run, tossed up, and he waits on it and drives this with the turn away towards extra cover
+4182~1~
+4182~1~Thiru P: "Bangladesh's plan is simple - Get Rohit out first, get Kohli and Pandya before they reach 20. They will have a decent score to chase!" --- Yup, sounds simple enough!
+4182~1~
+4182~1~15.1
+4182~1~1
+4182~1~Mashrafe Mortaza to Sharma, 1 run, length, but down the pads, and he can nurdle this down towards long leg
+4182~1~
+4182~1~Rajiv: "What is the par total today ? 338 the other day seemed to be chaseable ;)" --- Our forecaster currently has it at 341
+4182~1~END OF OVER:15 | 9 Runs | INDIA: 87/0 | RR: 5.80
+4182~1~
+4182~1~    Rohit Sharma51 (46b)
+4182~1~    KL Rahul32 (45b)
+4182~1~
+4182~1~    Shakib Al Hasan3-0-12-0
+4182~1~    Mashrafe Mortaza4-0-26-0
+4182~1~
+4182~1~
+4182~1~15.2
+4182~1~0
+4182~1~Mashrafe Mortaza to Rahul, no run, length, and he defends this towards short midwicket
+4182~1~
+4182~1~S Rajesh tells me this is Rohit's 5th 50+ score in World Cups. This is the list of most by Indians
+4182~1~
+4182~1~15.3
+4182~1~0
+4182~1~Mashrafe Mortaza to Rahul, no run, length, a bit of shape in, and he blocks this, driving it towards cover
+4182~1~
+4182~1~15.4
+4182~1~6
+4182~1~Mashrafe Mortaza to Rahul, SIX runs, short, and he swings this towards wide long and gets a good hold of this! Is that the unshackling that he was badly seeking?
+4182~1~
+4182~1~15.5
+4182~1~3
+4182~1~Mashrafe Mortaza to Rahul, 3 runs, length, and he allows this to turn into him, makes some room on to the onside, and still flicks this away through midwicket. Almost makes the fence with the supreme timing on this!
+4182~1~
+4182~1~Thivakaran Muru: "I think the first differentiator should be head to head results. Would have been much interesting. SL would have a chance over England if both the teams end up with 10 points. Bangladesh will have a chance over India if both the team end up with 11 points."
+4182~1~
+4182~1~15.6
+4182~1~0
+4182~1~Mashrafe Mortaza to Sharma, no run, length, just on off stump, and he punches this to cover
+4182~1~
+4182~1~16.1
+4182~1~0
+4182~1~Shakib Al Hasan to Rahul, no run, shimmies across to a full ball on off stump, and sweeps, but cannot beat short fine leg
+4182~1~END OF OVER:16 | 10 Runs | INDIA: 97/0 | RR: 6.06
+4182~1~
+4182~1~    Rohit Sharma52 (48b)
+4182~1~    KL Rahul41 (49b)
+4182~1~
+4182~1~    Mashrafe Mortaza5-0-36-0
+4182~1~    Shakib Al Hasan3-0-12-0
+4182~1~
+4182~1~Probably the last over before drinks next
+4182~1~
+4182~1~16.2
+4182~1~0
+4182~1~Shakib Al Hasan to Rahul, no run, stays back to cut a length ball from just outside off, and this is well stopped by Sabbir at point!
+4182~1~
+4182~1~16.3
+4182~1~0
+4182~1~Shakib Al Hasan to Rahul, no run, tossed up, and he drives this towards point as it grips after pitching
+4182~1~
+4182~1~16.4
+4182~1~1
+4182~1~Shakib Al Hasan to Rahul, 1 run, length, turns away from him, and he drives this towards deep point
+4182~1~
+4182~1~16.5
+4182~1~0
+4182~1~Shakib Al Hasan to Sharma, no run, length, holds it back a touch, at just 83kph, and he plays this to point
+4182~1~
+4182~1~16.6
+4182~1~1
+4182~1~Shakib Al Hasan to Sharma, 1 run, pulls out the sweep. Just one bounce on its way through to deep square leg
+4182~1~
+4182~1~17.1
+4182~1~0
+4182~1~Mosaddek Hossain to Sharma, no run, length, turns into him, and he drives this back towards the bowler. who fields to his right
+4182~1~
+4182~1~Mosaddek Hossain comes on. No Mehidy today, remember...
+4182~1~
+4182~1~PP: "This is not going to go well for DK. Top 3 will score heavily & DK will not get a chance to bat. He will not bowl either & with Dhoni he is not going keep as well. So, he just made appearance today in a world-cup match with nothing much & goes back to bench in the next match. Feel sorry for him"
+4182~1~END OF OVER:17 | 2 Runs | INDIA: 99/0 | RR: 5.82
+4182~1~
+4182~1~    Rohit Sharma53 (50b)
+4182~1~    KL Rahul42 (53b)
+4182~1~
+4182~1~    Shakib Al Hasan4-0-14-0
+4182~1~    Mashrafe Mortaza5-0-36-0
+4182~1~
+4182~1~Gunnu: "To brush up short memories, bangladesh chased down 322 in 41.3 overs. How many other teams can do that? None, i guess." --- Absolutely. The forecaster currently has the Indian predicted total as 344, by the way
+4182~1~
+4182~1~Steve: "There are n number of probabilities here. Hope players are not cluttering their minds with this minutia. Fans just need teams to give their best competitive performance and not worry about the results."
+4182~1~
+4182~1~Dhaval : "Hi Debayan : I hope the fans and experts are happy today with the INTENT the Indian openers have shown so far. " --- On that note, it's drinks at Edgbaston
+4182~1~
+4182~1~17.2
+4182~1~2
+4182~1~Mosaddek Hossain to Sharma, 2 runs, full, on the leg stump, and he sweeps this to the right of long leg. Two runs to bring up India's 100!
+4182~1~
+4182~1~17.3
+4182~1~1
+4182~1~Mosaddek Hossain to Sharma, 1 run, length ball, doesn't turn as much as Rohit anticipates, but slow enough for him to punch this down the ground. Mosaddek dives to his right, but cannot prevent a single
+4182~1~
+4182~1~17.4
+4182~1~1
+4182~1~Mosaddek Hossain to Rahul, 1 run, full ball, on middle stump, and he swats it away towards deep square leg
+4182~1~
+4182~1~17.5
+4182~1~1
+4182~1~Mosaddek Hossain to Sharma, 1 run, length, turned away with the spin towards deep midwicket
+4182~1~
+4182~1~17.6
+4182~1~1
+4182~1~Mosaddek Hossain to Rahul, 1 run, uses his feet to chip down to a length ball, and drives this down to long on
+4182~1~
+4182~1~18.1
+4182~1~4
+4182~1~Rubel Hossain to Rahul, FOUR runs, OH, HELLO GORGEOUS! Full ball, and he just brings his bat down in a straight arc, starting from slips and down towards long on. Straight as a die, and just goes rocketing past the bowler
+4182~1~
+4182~1~WATCH - Rohit brings up his fifth fifty of the tournament (AUS, UK, SEA only)
+4182~1~
+4182~1~Here's Rubel
+4182~1~
+4182~1~"Let's watch a Rohit show and Pant show today! " says Razik
+4182~1~END OF OVER:18 | 6 Runs | INDIA: 105/0 | RR: 5.83
+4182~1~
+4182~1~    KL Rahul44 (55b)
+4182~1~    Rohit Sharma57 (54b)
+4182~1~
+4182~1~    Mosaddek Hossain1-0-6-0
+4182~1~    Shakib Al Hasan4-0-14-0
+4182~1~
+4182~1~
+4182~1~18.2
+4182~1~2
+4182~1~Rubel Hossain to Rahul, 2 runs, fuller, on the pads, and he flicks this towads midwicket. A sloppy bit of fielding allows it to go past the infield, and the two runs bring up fifty for KL Rahul!
+4182~1~
+4182~1~18.3
+4182~1~0
+4182~1~Rubel Hossain to Rahul, no run, fuller, outside off, and he looks to drive, but misses. Stifled half-appeal from Rubel, but that was too good for Rahul, actually!
+4182~1~
+4182~1~18.4
+4182~1~1
+4182~1~Rubel Hossain to Rahul, 1 run, slower ball, on the pads, and he waits inside the crease and drops it towards square leg. Easy single
+4182~1~
+4182~1~18.5
+4182~1~1
+4182~1~Rubel Hossain to Sharma, 1 run, straighter ball, and he walks across the stumps and flicks this away towards long leg. Trusts the bounce on this pitch
+4182~1~
+4182~1~18.6
+4182~1~4
+4182~1~Rubel Hossain to Rahul, FOUR runs, full, outisde off, and draws a terrifc cover drive from Rahul. A half-step to get to the pitch of the ball, and then just drives through the line. Superb!
+4182~1~
+4182~1~19.1
+4182~1~1
+4182~1~Mosaddek Hossain to Sharma, 1 run, length, but down the leg side, and he goes down on one knee and sweeps towards deep backward square leg
+4182~1~END OF OVER:19 | 12 Runs | INDIA: 117/0 | RR: 6.15
+4182~1~
+4182~1~    KL Rahul55 (60b)
+4182~1~    Rohit Sharma58 (55b)
+4182~1~
+4182~1~    Rubel Hossain1-0-12-0
+4182~1~    Mosaddek Hossain1-0-6-0
+4182~1~
+4182~1~"All three 100-plus opening stands conceded by Bangladesh in this World Cup have come against the top three sides - England, Australia and India. In the games that they won however, they broke the opening stand in the first 11 overs," points out Isam
+4182~1~
+4182~1~19.2
+4182~1~1
+4182~1~Mosaddek Hossain to Rahul, 1 run, tossed up, straight ball, and he waits on it and flicks this away towards deep midwicket
+4182~1~
+4182~1~19.3
+4182~1~1
+4182~1~Mosaddek Hossain to Sharma, 1 run, length ball, and he allows this to turn into him, and eases this towards long on off the backfoot
+4182~1~
+4182~1~19.4
+4182~1~1
+4182~1~Mosaddek Hossain to Rahul, 1 run, tossed up, and he chips down the wicket and drives this to sweeper cover
+4182~1~
+4182~1~19.5
+4182~1~1
+4182~1~Mosaddek Hossain to Sharma, 1 run, flighted, and he drives this hard towards deep backward square leg. Didn't get a lot of timing on that
+4182~1~
+4182~1~19.6
+4182~1~0
+4182~1~Mosaddek Hossain to Rahul, no run, DOES THiS CARRY? Signs of the ball stopping, as Rahul mistimes an attempted drive down the ground. Might have just landed short of Mosaddek on the follow through
+4182~1~
+4182~1~20.1
+4182~1~0
+4182~1~Rubel Hossain to Sharma, no run, beaten! Good length at 137 kph/85 mph, Rohit flashes flat-footed at it on fifth stump and is late.
+4182~1~
+4182~1~Cheers Debayan.
+4182~1~END OF OVER:20 | 5 Runs | INDIA: 122/0 | RR: 6.10
+4182~1~
+4182~1~    KL Rahul57 (63b)
+4182~1~    Rohit Sharma61 (58b)
+4182~1~
+4182~1~    Mosaddek Hossain2-0-11-0
+4182~1~    Rubel Hossain1-0-12-0
+4182~1~
+4182~1~PDP is back for the next 10 overs
+4182~1~
+4182~1~20.2
+4182~1~0
+4182~1~Rubel Hossain to Sharma, no run, fullish length angled in on fourth stump, steps forward to push to point.
+4182~1~
+4182~1~20.3
+4182~1~2
+4182~1~Rubel Hossain to Sharma, 2 runs, short on sixth stump, Rohit reaches a long way across to pull, drags this high and wide over wide long-on, not enough muscle to get to the rope though and it dribbles five yards short before being tracked down for a pair.
+4182~1~
+4182~1~20.4
+4182~1~0
+4182~1~Rubel Hossain to Sharma, no run, fullish length on off, stabbed back out past Rubel diving left, cut off at extra cover.
+4182~1~
+4182~1~20.5
+4182~1~1
+4182~1~Rubel Hossain to Sharma, 1 run, offcutter on fourth stump at 119 kph/74 mph, Rohit plays with soft hands guiding a single behind point.
+4182~1~
+4182~1~20.6
+4182~1~1
+4182~1~Rubel Hossain to Rahul, 1 run, short of a length on off, poked in front of point. Yes, no, yes between Rahul and Rohit but they agree to set off in the end and avoid disaster with slow reaction from the fielder.
+4182~1~
+4182~1~21.1
+4182~1~1
+4182~1~Mosaddek Hossain to Rahul, 1 run, good length ball on middle stump, Rahul backs away to create room accessing the off side, pushes this to the sweeper.
+4182~1~END OF OVER:21 | 4 Runs | INDIA: 126/0 | RR: 6.00
+4182~1~
+4182~1~    KL Rahul58 (64b)
+4182~1~    Rohit Sharma64 (63b)
+4182~1~
+4182~1~    Rubel Hossain2-0-16-0
+4182~1~    Mosaddek Hossain2-0-11-0
+4182~1~
+4182~1~
+4182~1~21.2
+4182~1~6
+4182~1~Mosaddek Hossain to Sharma, SIX runs, pulls out the nine-iron! Flighted on middle, chips this drive sky high over long-on, into the second tier.
+4182~1~
+4182~1~21.3
+4182~1~1
+4182~1~Mosaddek Hossain to Sharma, 1 run, short of a length on fourth stump, goes back and punches to long-on along the ground.
+4182~1~
+4182~1~21.4
+4182~1~1
+4182~1~Mosaddek Hossain to Rahul, 1 run, full on fifth stump, Rahul reaches across to flick through long-on.
+4182~1~
+4182~1~21.5
+4182~1~0
+4182~1~Mosaddek Hossain to Sharma, no run, full on middle, Rohit charges to turn this into an ankle high full toss, driven back to Mosaddek.
+4182~1~
+4182~1~21.6
+4182~1~4
+4182~1~Mosaddek Hossain to Sharma, FOUR runs, another skip to create a full toss at knee height, clubs this high and handsome over cow corner. Poor angle, not for the first time today, taken by Sabbir this time on the boundary turns two into four.
+4182~1~
+4182~1~22.1
+4182~1~1
+4182~1~Rubel Hossain to Rahul, 1 run, short of a length on middle, shuffles across to clip through square leg.
+4182~1~
+4182~1~Rohit broke his bat on that last shot. It's been good to him today. Sad to see it go. We'll see what the replacement has on offer.
+4182~1~END OF OVER:22 | 13 Runs | INDIA: 139/0 | RR: 6.31
+4182~1~
+4182~1~    Rohit Sharma75 (67b)
+4182~1~    KL Rahul60 (66b)
+4182~1~
+4182~1~    Mosaddek Hossain3-0-24-0
+4182~1~    Rubel Hossain2-0-16-0
+4182~1~
+4182~1~
+4182~1~22.2
+4182~1~4
+4182~1~Rubel Hossain to Sharma, FOUR runs, short on sixth stump, muscles another pull high over wide long-on, three bounces into the rope. Looks like the replacement bat has plenty of runs in store too.
+4182~1~
+4182~1~22.3
+4182~1~1
+4182~1~Rubel Hossain to Sharma, 1 run, fullish length on fifth stump, guides an open faced single to third man.
+4182~1~
+4182~1~That boundary has taken Rohit past David Warner as the leading scorer in the 2019 World Cup. 520 runs now.
+4182~1~
+4182~1~22.4
+4182~1~0
+4182~1~Rubel Hossain to Rahul, no run, short of a length on sixth stump at 123 kph, goes back to defend down the pitch to Rubel.
+4182~1~
+4182~1~22.5
+4182~1~1
+4182~1~Rubel Hossain to Rahul, 1 run, good length ball but width on about 7th stump, late cut to third man.
+4182~1~
+4182~1~22.6
+4182~1~1
+4182~1~Rubel Hossain to Sharma, 1 run, short of a length on fifth stump, goes across to flick through midwicket for a tight run. Shakib with a shy at the non-striker's stumps misses but Rohit was in regardless.
+4182~1~
+4182~1~23.1
+4182~1~6
+4182~1~Mustafizur Rahman to Sharma, SIX runs, dear Lord! The Rohit juggernaut cannot be stopped. Full on the stumps, Rohit just leans forward with a simple push and the ball sails back over Mustafizur's head into the sightscreen.
+4182~1~
+4182~1~zubair anwar: "If the predictor is not showing 400 by now...its broken :P" Forecaster is showing 361 at the moment.
+4182~1~
+4182~1~Mustafizur back for another spell, replacing Mosaddek. Around the stumps.
+4182~1~END OF OVER:23 | 8 Runs | INDIA: 147/0 | RR: 6.39
+4182~1~
+4182~1~    Rohit Sharma81 (70b)
+4182~1~    KL Rahul62 (69b)
+4182~1~
+4182~1~    Rubel Hossain3-0-24-0
+4182~1~    Mosaddek Hossain3-0-24-0
+4182~1~
+4182~1~
+4182~1~23.2
+4182~1~1
+4182~1~Mustafizur Rahman to Sharma, 1 run, full on the legs, clipped gently behind square for a single.
+4182~1~
+4182~1~Switches to over the stumps after that menacing blow.
+4182~1~
+4182~1~23.3
+4182~1~1
+4182~1~Mustafizur Rahman to Rahul, 1 run, good length ball on middle, goes back and edges this to third man.
+4182~1~
+4182~1~23.4
+4182~1~0
+4182~1~Mustafizur Rahman to Sharma, no run, full on middle, defended back to Mustafizur.
+4182~1~
+4182~1~23.5
+4182~1~2
+4182~1~Mustafizur Rahman to Sharma, 2 runs, slower ball on the legs, short-arm jab pull fine past the keeper, weak relay from deep fine leg allows the second easily.
+4182~1~
+4182~1~23.6
+4182~1~1
+4182~1~Mustafizur Rahman to Sharma, 1 run, good length ball on off stump, Rohit with a gentle tap to third man with an open face to keep strike.
+4182~1~
+4182~1~24.1
+4182~1~0
+4182~1~Rubel Hossain to Sharma, no run, good length ball on the stumps, defended.
+4182~1~
+4182~1~Nitzz: "Has the pitch eased out? Are bangla bowlers not finding the rhythm or is it that batters r there with an intent?" I think they're too busy giving Tamim steely glares for that Rohit drop on 9 to find their rhythm.
+4182~1~END OF OVER:24 | 11 Runs | INDIA: 158/0 | RR: 6.58
+4182~1~
+4182~1~    Rohit Sharma91 (75b)
+4182~1~    KL Rahul63 (70b)
+4182~1~
+4182~1~    Mustafizur Rahman5-0-34-0
+4182~1~    Rubel Hossain3-0-24-0
+4182~1~
+4182~1~
+4182~1~24.2
+4182~1~1
+4182~1~Rubel Hossain to Sharma, 1 run, full and very wide, driven square to the sweeper.
+4182~1~
+4182~1~24.3
+4182~1~0
+4182~1~Rubel Hossain to Rahul, no run, short of a length on fifth stump at 131 kph/82 mph, some extra bounce from Rubel spitting off the pitch. Rahul awkwardly negotiates this in defense back down the pitch.
+4182~1~
+4182~1~24.4
+4182~1~0
+4182~1~Rubel Hossain to Rahul, no run, follows it with a slower ball on a good length on fifth stump at 112 kph, whipped straight to mid-on.
+4182~1~
+4182~1~24.5
+4182~1~2
+4182~1~Rubel Hossain to Rahul, 2 runs, short of a length on sixth stump, Rahul cuts firmly behind point, sweeper with a lot of work to do and they come back for an easy pair.
+4182~1~
+4182~1~24.6
+4182~1~1
+4182~1~Rubel Hossain to Rahul, 1 run, short of a length on fifth stump, punches off the back foot to the sweeper.
+4182~1~
+4182~1~25.1
+4182~1~0
+4182~1~Soumya Sarkar to Rahul, no run, good length ball on fourth stump at 119 kph/74 mph, punched off the back foot to extra cover.
+4182~1~
+4182~1~Rohit Sharma has now passed MS Dhoni for most sixes all-time by an Indian batsman in ODIs. 230 of them now. He's fourth all-time behind Gayle, Afridi and Jayasuriya.
+4182~1~
+4182~1~Soumya Sarkar now on for some part-time medium pace.
+4182~1~END OF OVER:25 | 4 Runs | INDIA: 162/0 | RR: 6.48
+4182~1~
+4182~1~    KL Rahul66 (74b)
+4182~1~    Rohit Sharma92 (77b)
+4182~1~
+4182~1~    Rubel Hossain4-0-28-0
+4182~1~    Mustafizur Rahman5-0-34-0
+4182~1~
+4182~1~
+4182~1~25.2
+4182~1~1
+4182~1~Soumya Sarkar to Rahul, 1 run, good length ball on middle, punched on the front foot to long-on.
+4182~1~
+4182~1~25.3
+4182~1~0
+4182~1~Soumya Sarkar to Sharma, no run, short of a length on fourth stump, punched off the back foot to extra cover.
+4182~1~
+4182~1~25.4
+4182~1~1
+4182~1~Soumya Sarkar to Sharma, 1 run, good length ball on off stump, flicked through mid-on.
+4182~1~
+4182~1~25.5
+4182~1~0
+4182~1~Soumya Sarkar to Rahul, no run, good length ball on off, flicked to midwicket in the ring.
+4182~1~
+4182~1~Rohit and KL Rahul now with the highest opening stand of the 2019 World Cup. No sign of slowing down either.
+4182~1~
+4182~1~25.6
+4182~1~0
+4182~1~Soumya Sarkar to Rahul, no run, bouncer over middle stump, Rahul misses a hook. No sound but lots of appeals, more in desperation than anything. No inclination from Mashrafe to go for DRS.
+4182~1~
+4182~1~26.1
+4182~1~1
+4182~1~Shakib Al Hasan to Sharma, 1 run, short on fifth stump, guided off the back foot to the sweeper.
+4182~1~
+4182~1~What stands in the way of Lionel Messi and one more shot at international glory with Argentina? Eternal rivals, Brazil. Gab Marcotti writes on what could be one of the greatest Copa America semifinals of all time. Argentina v Brazil. It doesn't get bigger.
+4182~1~
+4182~1~Shakib back for a second spell. Around the stumps to Rohit. No slip.
+4182~1~END OF OVER:26 | 2 Runs | INDIA: 164/0 | RR: 6.30
+4182~1~
+4182~1~    KL Rahul67 (78b)
+4182~1~    Rohit Sharma93 (79b)
+4182~1~
+4182~1~    Soumya Sarkar1-0-2-0
+4182~1~    Rubel Hossain4-0-28-0
+4182~1~
+4182~1~
+4182~1~26.2
+4182~1~1
+4182~1~Shakib Al Hasan to Rahul, 1 run, fullish length on fifth stump, Rahul gropes forward away from his body and nudges into the off side.
+4182~1~
+4182~1~26.3
+4182~1~1
+4182~1~Shakib Al Hasan to Sharma, 1 run, short of a length on fourth stump and spins away a touch with very slow turn, flicks across the line into midwicket.
+4182~1~
+4182~1~26.4
+4182~1~1
+4182~1~Shakib Al Hasan to Rahul, 1 run, premeditates a shuffle well across his stumps, Shakib responds by angling this into leg stump, flicked through midwicket.
+4182~1~
+4182~1~26.5
+4182~1~1
+4182~1~Shakib Al Hasan to Sharma, 1 run, good length ball on middle, goes back to flick through midwicket.
+4182~1~
+4182~1~26.6
+4182~1~0
+4182~1~Shakib Al Hasan to Rahul, no run, good length ball on fourth stump, no turn, clipped wide of Shakib to his right but he scrambles to deny the run.
+4182~1~
+4182~1~27.1
+4182~1~1
+4182~1~Soumya Sarkar to Sharma, 1 run, fullish length on fifth stump, leans into a drive but straight to the cover sweeper for one.
+4182~1~
+4182~1~Thivakaran Muru: "Rohit is nearing to 4th ton of this world cup. Who has the most hundreds in a single worldcup?" Well Sangakkara scored four hundreds in a row at the 2015 event.
+4182~1~END OF OVER:27 | 5 Runs | INDIA: 169/0 | RR: 6.25
+4182~1~
+4182~1~    KL Rahul69 (81b)
+4182~1~    Rohit Sharma96 (82b)
+4182~1~
+4182~1~    Shakib Al Hasan5-0-19-0
+4182~1~    Soumya Sarkar1-0-2-0
+4182~1~
+4182~1~
+4182~1~27.2
+4182~1~0
+4182~1~Soumya Sarkar to Rahul, no run, short on off stump, Rahul backs away for a flat-batted thwack back down the pitch short-hopping Soumya. Clearly not content with his role in a 170-run and counting opening stand....
+4182~1~
+4182~1~27.3
+4182~1~1
+4182~1~Soumya Sarkar to Rahul, 1 run, fullish length wide outside off, goes back and across to cut hard straight to the cover sweeper.
+4182~1~
+4182~1~27.4
+4182~1~1w
+4182~1~Soumya Sarkar to Sharma, 1 wide, bouncer on off, way over Rohit at 117 kph, doesn't even duck and it clears him by two yards.
+4182~1~
+4182~1~27.4
+4182~1~0
+4182~1~Soumya Sarkar to Sharma, no run, short of a length on off, punched off the back foot to extra cover.
+4182~1~
+4182~1~27.5
+4182~1~1
+4182~1~Soumya Sarkar to Sharma, 1 run, slower ball at 105 kph full and wide on sixth stump, driven square to the sweeper.
+4182~1~
+4182~1~27.6
+4182~1~0
+4182~1~Soumya Sarkar to Rahul, no run, good length on fifth stump, shuffles across to punch to mid-on.
+4182~1~
+4182~1~28.1
+4182~1~0
+4182~1~Shakib Al Hasan to Sharma, no run, fullish length on fifth stump, pushed softly to cover.
+4182~1~END OF OVER:28 | 4 Runs | INDIA: 173/0 | RR: 6.17
+4182~1~
+4182~1~    KL Rahul70 (84b)
+4182~1~    Rohit Sharma98 (85b)
+4182~1~
+4182~1~    Soumya Sarkar2-0-6-0
+4182~1~    Shakib Al Hasan5-0-19-0
+4182~1~
+4182~1~
+4182~1~28.2
+4182~1~0
+4182~1~Shakib Al Hasan to Sharma, no run, nearly bowled him! Good length ball on fourth stump, Rohit goes back to punch and the ball stays low, the ball holds it's line on fourth stump though and just whispers past the stumps.
+4182~1~
+4182~1~28.3
+4182~1~1
+4182~1~Shakib Al Hasan to Sharma, 1 run, uses his feet to drive a full ball on off to long-off to move to 99.
+4182~1~
+4182~1~28.4
+4182~1~1
+4182~1~Shakib Al Hasan to Rahul, 1 run, uses his feet to a full ball on sixth stump, flicking to mid-on.
+4182~1~
+4182~1~28.5
+4182~1~0
+4182~1~Shakib Al Hasan to Sharma, no run, flighted on middle, pushed softly back to Shakib.
+4182~1~
+4182~1~Crowd gets to its feet with Rohit needing one for a ton.
+4182~1~
+4182~1~28.6
+4182~1~1
+4182~1~Shakib Al Hasan to Sharma, 1 run, another 100 for Rohit! Short on sixth stump, flayed through cover to the sweeper. Fourth hundred in this World Cup, tying the record for one tournament with Sangakkara done in 2015. He takes his helmet off and salutes the crowd. He's not even close to being done.
+4182~1~
+4182~1~29.1
+4182~1~4
+4182~1~Soumya Sarkar to Sharma, FOUR runs, short of a length on the hips, clipped wide of short fine leg and beats deep square leg too.
+4182~1~END OF OVER:29 | 3 Runs | INDIA: 176/0 | RR: 6.06
+4182~1~
+4182~1~    Rohit Sharma100 (90b)
+4182~1~    KL Rahul71 (85b)
+4182~1~
+4182~1~    Shakib Al Hasan6-0-22-0
+4182~1~    Soumya Sarkar2-0-6-0
+4182~1~
+4182~1~
+4182~1~29.2
+4182~1~W
+4182~1~Soumya Sarkar to Sharma, OUT, so much for all the talk of a double-hundred! Soumya strikes with his golden arm! Offcutter on fifth stump on a good length, Rohit mistimes a lofted drive over extra cover. Liton Das backpedals from the ring and takes a simple catch. The end of a fabulous knock and a brilliant opening stand.
+4182~1~
+4182~1~RG Sharma c Liton Das b Soumya Sarkar 104 (121m 92b 7x4 5x6) SR: 113.04
+4182~1~
+4182~1~29.3
+4182~1~1
+4182~1~Soumya Sarkar to Rahul, 1 run, good length ball on the legs, clipped through square leg.
+4182~1~
+4182~1~So Rohit makes 104 after being dropped on 9 by Tamim. If the Mike Francesa Funhouse team ever get into cricket, there's a spectacular parody video waiting to be made. Nooiiiiine.
+4182~1~
+4182~1~Kohli enters off strike with the batsmen crossing in the air.
+4182~1~
+4182~1~29.4
+4182~1~0
+4182~1~Soumya Sarkar to Kohli, no run, fullish length ball on fourth stump, defended to midwicket.
+4182~1~
+4182~1~29.5
+4182~1~0
+4182~1~Soumya Sarkar to Kohli, no run, good length ball on fifth stump, steps forward to defend to extra cover.
+4182~1~
+4182~1~29.6
+4182~1~0
+4182~1~Soumya Sarkar to Kohli, no run, good length ball on fifth stump, defended to midwicket.
+4182~1~
+4182~1~30.1
+4182~1~0
+4182~1~Rubel Hossain to Rahul, no run, length, outside off, and he defends
+4182~1~
+4182~1~Thanks much, PDP
+4182~1~END OF OVER:30 | 5 Runs 1 Wkt | INDIA: 181/1 | RR: 6.03
+4182~1~
+4182~1~    Virat Kohli0 (3b)
+4182~1~    KL Rahul72 (86b)
+4182~1~
+4182~1~    Soumya Sarkar3-0-11-1
+4182~1~    Shakib Al Hasan6-0-22-0
+4182~1~
+4182~1~Debayan is back for more mayhem.
+4182~1~
+4182~1~30.2
+4182~1~1
+4182~1~Rubel Hossain to Rahul, 1 run, short, and he hangs back and cuts this viciously. Won't beat deep point, though
+4182~1~
+4182~1~30.3
+4182~1~0
+4182~1~Rubel Hossain to Kohli, no run, length, and he drives this on the up. Just lands short of short midwicket
+4182~1~
+4182~1~30.4
+4182~1~1
+4182~1~Rubel Hossain to Kohli, 1 run, length, jags back into him, and he drops it at his feet and sets off for a quick single
+4182~1~
+4182~1~MARTIN MENACHER: "I believe India should have gone with Jadeja in place of either Pant or Dinesh Kartik..Think if Bhuvi or any other bowler get injured during the match,the 4 wicket keeper batsmen in the team won't be at any help for Kohli there.." --- Imperative to make big runs, hence
+4182~1~
+4182~1~30.5
+4182~1~1
+4182~1~Rubel Hossain to Rahul, 1 run, length, and he chips it to the right of cover and gets a single
+4182~1~
+4182~1~A wide slip is in place for Kohli, by the way
+4182~1~
+4182~1~30.6
+4182~1~0
+4182~1~Rubel Hossain to Kohli, no run, length, outside off, and he punches this to covers. Travels really fast, and that eliminates any thoughts of going for a run
+4182~1~
+4182~1~Sundeep: "Whats the forecaster at? after Rohit's dismissal and Kohli's in" --- It only dropped from 358 to 350. The Indian middle order does have a soft underbelly, though
+4182~1~
+4182~1~31.1
+4182~1~2
+4182~1~Soumya Sarkar to Rahul, 2 runs, length, outside off, and his bottom hand comes off as he tries to go inside out. Skews it in the air, past point, and the sweeper at the deep point fence cleans up
+4182~1~END OF OVER:31 | 3 Runs | INDIA: 184/1 | RR: 5.93
+4182~1~
+4182~1~    Virat Kohli1 (6b)
+4182~1~    KL Rahul74 (89b)
+4182~1~
+4182~1~    Rubel Hossain5-0-31-0
+4182~1~    Soumya Sarkar3-0-11-1
+4182~1~
+4182~1~
+4182~1~31.2
+4182~1~1
+4182~1~Soumya Sarkar to Rahul, 1 run, flicked off his hips to a length ball on off stump, as he shimmies across the stumps a touch. Gets it down to deep square leg
+4182~1~
+4182~1~31.3
+4182~1~0
+4182~1~Soumya Sarkar to Kohli, no run, length, outside off, and he drops it as his feet. Wants a single, but Sarkar is quick to get to it on his follow-through
+4182~1~
+4182~1~Abhishek Kumar: "Can we talk about the lack of intent from Rahul, not just today, not the whole tournament, I have never looked at him and thought, ' this guy is gonna take the bowling on', it's more like, 'well we could have played Rahane in his place, it's not like Rahul is faring any better as far as strike rate is concerned.'"
+4182~1~
+4182~1~31.4
+4182~1~0
+4182~1~Soumya Sarkar to Kohli, no run, full, and he plays it away towards short midwicket
+4182~1~
+4182~1~31.5
+4182~1~2
+4182~1~Soumya Sarkar to Kohli, 2 runs, fuller, down the pads, and he can flick this away towards long leg. Enough running for the man to do there...two runs on offer
+4182~1~
+4182~1~31.6
+4182~1~1
+4182~1~Soumya Sarkar to Kohli, 1 run, length ball, and he drops it just short of cover and sets off for a quick single
+4182~1~
+4182~1~Which is the best of Rohit's four hundreds at the World Cup? Go to our #LiveReport to vote
+4182~1~
+4182~1~32.1
+4182~1~0
+4182~1~Rubel Hossain to Kohli, no run, length, lifts off as it pitches and moves away from Kohli, as he shapes to drive. Close to the outside edge
+4182~1~END OF OVER:32 | 6 Runs | INDIA: 190/1 | RR: 5.93
+4182~1~
+4182~1~    Virat Kohli4 (10b)
+4182~1~    KL Rahul77 (91b)
+4182~1~
+4182~1~    Soumya Sarkar4-0-17-1
+4182~1~    Rubel Hossain5-0-31-0
+4182~1~
+4182~1~
+4182~1~32.2
+4182~1~4
+4182~1~Rubel Hossain to Kohli, FOUR runs, full, and he drives this straight back past the bowler. Gun-barrel straight, and scorches through to the fence to the right of where long off might have been!
+4182~1~
+4182~1~32.3
+4182~1~1
+4182~1~Rubel Hossain to Kohli, 1 run, shorter in length, and he flicks this off the crease towards deep midwicket
+4182~1~
+4182~1~Abhishek. Team knows what they are doing. Do you think it is a coincidence that Rohit is going a bit quicker in this World cup compared to normal? One drops anchor and the other scores freely - India has always played its ODI cricket like this over last few years. "
+4182~1~
+4182~1~32.4
+4182~1~W
+4182~1~Rubel Hossain to Rahul, OUT, GONE! No century here for Rahul, as he looks to slash away a ball that was a touch too full for the shot he was looking to play. Takes the outer edge - may have been a change of pace too - and drops away to Mushfiqur Rahim's right. He takes a good catch low down to his right. It's not Rahul's most fluent innings in international cricket, but the volume of runs should do his confidence a world of good. He was in control for a greater percentage while his partnership with Rohit Sharma was on, incidentally
+4182~1~
+4182~1~KL Rahul c Mushfiqur Rahim(wk) b Rubel Hossain 77 (135m 92b 6x4 1x6) SR: 83.69
+4182~1~
+4182~1~SKD: "
+4182~1~32.5
+4182~1~0
+4182~1~Rubel Hossain to Pant, no run, lovely! Fuller ball, angles across him, and just eludes his outside edge as Pant looks to defend after stretching forward. Bowled at pretty decent pace too
+4182~1~
+4182~1~Pant in at 4, and Rubel has a slip
+4182~1~
+4182~1~Avinash: "Is this match on the same trajectory as India vs England, solid start, then wickets lost between 30-40 and slows down the match and then Ben Stokes (Pant) comes in and takes game to next level" --- Not to forget a life for one of the openers. Although in that case, Jason Roy didn't go on to get a century
+4182~1~
+4182~1~"It's more dangerous that now hardik pandya will play like no tomorrow. Bd is in real trouble we counting 500 for sure," fears GAzi gazi
+4182~1~
+4182~1~iain d: "Sharma and Rahul both out after 92 balls." --- Just one more wicket to fall then?
+4182~1~
+4182~1~That's drinks as well
+4182~1~
+4182~1~32.6
+4182~1~1
+4182~1~Rubel Hossain to Pant, 1 run, length, straighter, and he walks across and flicks this towards deep square leg. Wants two, but will have to make do with just the single
+4182~1~
+4182~1~33.1
+4182~1~1w
+4182~1~Mosaddek Hossain to Pant, 1 wide, floats one full, but sprays it down the leg side. Wide called
+4182~1~
+4182~1~Robert W Tracy: "Sharma & Kohli = Ruth & Gehrig...amazing to watch them...wish we had more cricket on TV in the US" --- There's an analogy my man PDP will appreciate!
+4182~1~END OF OVER:33 | 6 Runs 1 Wkt | INDIA: 196/2 | RR: 5.93
+4182~1~
+4182~1~    Rishabh Pant1 (2b)
+4182~1~    Virat Kohli9 (13b)
+4182~1~
+4182~1~    Rubel Hossain6-0-37-1
+4182~1~    Soumya Sarkar4-0-17-1
+4182~1~
+4182~1~
+4182~1~33.1
+4182~1~0
+4182~1~Mosaddek Hossain to Pant, no run, comes forward to meet a length ball, and forced to defend
+4182~1~
+4182~1~33.2
+4182~1~0
+4182~1~Mosaddek Hossain to Pant, no run, length, turns into him after pitching on leg, and he defends
+4182~1~
+4182~1~33.3
+4182~1~0
+4182~1~Mosaddek Hossain to Pant, no run, that's good! But not given. Will they review this? No. Length from around the wicket, and he looks to flick and gets hit on the pads. Maybe they aren't sure of the height
+4182~1~
+4182~1~33.4
+4182~1~0
+4182~1~Mosaddek Hossain to Pant, no run, blocks a length ball angling into him towards square leg
+4182~1~
+4182~1~33.5
+4182~1~6
+4182~1~Mosaddek Hossain to Pant, SIX runs, TAKE THAT! Chips down the wicket and goes through with the full flow of the blade, and that sails into the stands beyond long on
+4182~1~
+4182~1~33.6
+4182~1~1
+4182~1~Mosaddek Hossain to Pant, 1 run, plays a length ball off his pads towards deep midwicket
+4182~1~
+4182~1~34.1
+4182~1~1lb
+4182~1~Rubel Hossain to Pant, 1 leg bye, length, but down the pads, and he walks across and looks to flick this. Gets it off the pads towards fine leg
+4182~1~
+4182~1~Rubel continues, with a wide slip in place for Pant
+4182~1~
+4182~1~Aadi: "I still believe rishab pant will be a better opener and rahul at 4.. I see a young sehwag +yuvraj in rishab"
+4182~1~END OF OVER:34 | 8 Runs | INDIA: 204/2 | RR: 6.00
+4182~1~
+4182~1~    Rishabh Pant8 (8b)
+4182~1~    Virat Kohli9 (13b)
+4182~1~
+4182~1~    Mosaddek Hossain4-0-32-0
+4182~1~    Rubel Hossain6-0-37-1
+4182~1~
+4182~1~
+4182~1~34.2
+4182~1~4
+4182~1~Rubel Hossain to Kohli, FOUR runs, SHOT! Nothing more than just a defensive push to a fullish ball on middle stump. He brings his bat down in a slight arc, and that allows him to place this to the left of short midiwicket. it just hurries way towards the short boundary here at Edgbaston
+4182~1~
+4182~1~"Kohli should bat 50 overs today while other batters run amok. He should also ensure that there is no collapse from here on. " --- Sage advice from Gurunath
+4182~1~
+4182~1~34.3
+4182~1~0
+4182~1~Rubel Hossain to Kohli, no run, length, and he punches this from the crease towards mid off
+4182~1~
+4182~1~34.4
+4182~1~1
+4182~1~Rubel Hossain to Kohli, 1 run, length, angles into him, and he taps it with a dead bat towards point and sets off for a quick single. Attempt at a direct hit at the striker's end from Mosaddek, but he would have been in anyway
+4182~1~
+4182~1~34.5
+4182~1~0
+4182~1~Rubel Hossain to Pant, no run, length, angles away from him, and he steers it to point
+4182~1~
+4182~1~34.6
+4182~1~1
+4182~1~Rubel Hossain to Pant, 1 run, slower ball, and he steers this past point towards third man. Should have been stopped by Mosaddek, but seems to have dived just over the ball
+4182~1~
+4182~1~kiran: "if india fails to score 350+ from here having Rishab pant and Hardik pandya. India is in deep trouble in this tournament"
+4182~1~
+4182~1~35.1
+4182~1~1
+4182~1~Soumya Sarkar to Pant, 1 run, full, wide, and Pant almost over-hits an attempted drive down the ground! Skews it in the air, but inside out, and drops well short of sweeper cover
+4182~1~
+4182~1~Our projected total here is 342. Would take some chasing down!
+4182~1~END OF OVER:35 | 7 Runs | INDIA: 211/2 | RR: 6.02
+4182~1~
+4182~1~    Rishabh Pant9 (11b)
+4182~1~    Virat Kohli14 (16b)
+4182~1~
+4182~1~    Rubel Hossain7-0-43-1
+4182~1~    Mosaddek Hossain4-0-32-0
+4182~1~
+4182~1~
+4182~1~35.2
+4182~1~1
+4182~1~Soumya Sarkar to Kohli, 1 run, length, slants into Kohli, who drives this down towards long on
+4182~1~
+4182~1~35.3
+4182~1~1
+4182~1~Soumya Sarkar to Pant, 1 run, slower ball, and he eases it off his hips towards square leg
+4182~1~
+4182~1~Basith: "During the 2003 World Cup, India did not have a single wicket-keeper who could bat. So they forced Rahul Dravid to keep wickets. Today India is playing Dhoni, Rishabh Pant, Dinesh Karthik and KL Rahul who are all wicketkeepers. " --- As PDP (Peter Della Penna) said earlier, if they're good enough to bat well, throw them in
+4182~1~
+4182~1~35.4
+4182~1~2
+4182~1~Soumya Sarkar to Kohli, 2 runs, fuller ball, 125kph, and he digs it out towards deep backward square leg. Some running around for the two boundary riders, one of them behind square, and that allows them to come back for the second
+4182~1~
+4182~1~35.5
+4182~1~0
+4182~1~Soumya Sarkar to Kohli, no run, fuller ball, and he flicks this away towards square leg
+4182~1~
+4182~1~Mashrafe having a little chat with the umpire. Wonder if Bangladesh thought Kohli had missed the previous ball?
+4182~1~
+4182~1~35.6
+4182~1~1
+4182~1~Soumya Sarkar to Kohli, 1 run, dug in short, and he drops it on the ground after rising to meet this just below his ribs. They go through for a quick single
+4182~1~
+4182~1~36.1
+4182~1~4
+4182~1~Shakib Al Hasan to Kohli, FOUR runs, tossed up, and on the stumps, and he whips this dismissively through midwicket. Supreme timing from Virat Kohli on that!
+4182~1~
+4182~1~Shakib is back
+4182~1~
+4182~1~MV: "400 is definitely on the cards...hopefully!!!"
+4182~1~
+4182~1~Aditya Agrawal: "People are forgetting that it has already been over a month of High-Pressure World Cup tournament. Probably players are fatigued and mentally tired already. expecting 350 in every match is just getting overboard with emotions."
+4182~1~END OF OVER:36 | 6 Runs | INDIA: 217/2 | RR: 6.02
+4182~1~
+4182~1~    Virat Kohli18 (20b)
+4182~1~    Rishabh Pant11 (13b)
+4182~1~
+4182~1~    Soumya Sarkar5-0-23-1
+4182~1~    Rubel Hossain7-0-43-1
+4182~1~
+4182~1~Sarkar performing a good role for his captain. Tough choice now whether to see if he can deliver more overs? Or go back to the specialists
+4182~1~
+4182~1~36.2
+4182~1~0
+4182~1~Shakib Al Hasan to Kohli, no run, holds the length back a touch, and he can only play this away towards point
+4182~1~
+4182~1~36.3
+4182~1~1
+4182~1~Shakib Al Hasan to Kohli, 1 run, drives a full, straighter ball, with the slight turn away from him, towards long off
+4182~1~
+4182~1~36.4
+4182~1~4
+4182~1~Shakib Al Hasan to Pant, FOUR runs, full, from around the stumps, and he plays more of a paddle shot, but so well timed! Down on one knee, stretching to get to the pitch of it
+4182~1~
+4182~1~36.5
+4182~1~0
+4182~1~Shakib Al Hasan to Pant, no run, full ball, and he defends this
+4182~1~
+4182~1~Over the wicket now
+4182~1~
+4182~1~36.6
+4182~1~1
+4182~1~Shakib Al Hasan to Pant, 1 run, length, and he plays this with the turn to the right of square leg
+4182~1~
+4182~1~37.1
+4182~1~4
+4182~1~Soumya Sarkar to Pant, FOUR runs, oh, the fall-away sweep! It's a fuller ball, but too straight, and Pant gets down on one knee and plays that sweep that only he plays. Fine leg inside the ring, so gets it fine enough to beat that fielder
+4182~1~
+4182~1~Sarkar to bowl his 6th over
+4182~1~
+4182~1~Jay: "Question to your statsman: is this the first team in ODI to play four keepers in the same team?" --- Surely there must have been some Sri Lankan game in recent years with that stat?
+4182~1~END OF OVER:37 | 10 Runs | INDIA: 227/2 | RR: 6.13
+4182~1~
+4182~1~    Rishabh Pant16 (16b)
+4182~1~    Virat Kohli23 (23b)
+4182~1~
+4182~1~    Shakib Al Hasan7-0-32-0
+4182~1~    Soumya Sarkar5-0-23-1
+4182~1~
+4182~1~Ras: "I am still a bit skeptical about Kohli's thinking of going in with 5 bowlers only (4 specialist and 1 Pandya). what if Kumar or someone else gets injured again? who's going to cover the remaining overs?" --- The only insurance is a big total
+4182~1~
+4182~1~37.2
+4182~1~1
+4182~1~Soumya Sarkar to Pant, 1 run, slower ball, straight, and he flicks this away towards midwicket. Picks up one
+4182~1~
+4182~1~37.3
+4182~1~2
+4182~1~Soumya Sarkar to Kohli, 2 runs, full, straight, and he flicks this to the right of deep midwicket. Two on offer easily
+4182~1~
+4182~1~"At this moment if we dont get DHONI to bat, India gets 350+, but if dhoni comes to bat we will end up with 320+ - this is as per kohli words if dhoni estimated the target as 260 India gets 230. " --- Hahaha, I am quite certain that's not how he meant it, N Aditya
+4182~1~
+4182~1~37.4
+4182~1~1
+4182~1~Soumya Sarkar to Kohli, 1 run, full, wide of off, and he drives it. It is uppish, but lands to the left of mid off
+4182~1~
+4182~1~Is that extra over from Soumya Sarkar going to prove costly?
+4182~1~
+4182~1~37.5
+4182~1~0
+4182~1~Soumya Sarkar to Pant, no run, length, again down the leg side, and it almost arrives too slowly for Pant. Looks to flick it away, but misses out on contact
+4182~1~
+4182~1~Ajay Nirmal : "Reckon there is a teeny weeny chance that Kohli will have to roll his arms and bowl few overs today. Any takers?" --- A blissful sight for all lovers of bowling off the wrong foot!
+4182~1~
+4182~1~37.6
+4182~1~2
+4182~1~Soumya Sarkar to Pant, 2 runs, walks closer to turn this into a length ball on his pads, and flicks it away past short midwicket. Two runs easily picked up before there's a return from wide mid on
+4182~1~
+4182~1~38.1
+4182~1~0
+4182~1~Mustafizur Rahman to Kohli, no run, cutter, short of a length, and he defends this towards point
+4182~1~
+4182~1~Mustafizur is back
+4182~1~
+4182~1~Ankit Agarwal: ""On the live telecast, instead of showing the overall Strike rate...don't you think it should be rolling strike rate basis last 10-20 matches, this should give a better picture about the players' ability at that point of time compared to what is visible through the overall strike rate" This is an amazing analysis and observation which needs to be put in front of everyone, so I request the cricinfo team to consider this point before rejecting my comment." --- No idea is a bad one for broadcast. I can promise you that
+4182~1~END OF OVER:38 | 10 Runs | INDIA: 237/2 | RR: 6.23
+4182~1~
+4182~1~    Rishabh Pant23 (20b)
+4182~1~    Virat Kohli26 (25b)
+4182~1~
+4182~1~    Soumya Sarkar6-0-33-1
+4182~1~    Shakib Al Hasan7-0-32-0
+4182~1~
+4182~1~
+4182~1~38.2
+4182~1~W
+4182~1~Mustafizur Rahman to Kohli, OUT, short, and he has holed out to midwicket! That cutter again from Mustafiz that does the trick. May have stuck in the pitch for a bit more than Kohli expected. He was aiming for that short boundary once again, and he placed it right down Rubel's throat. Kohli falls for the first time in six knocks without getting to at least 50!
+4182~1~
+4182~1~V Kohli c Rubel Hossain b Mustafizur Rahman 26 (45m 27b 3x4 0x6) SR: 96.29
+4182~1~
+4182~1~38.3
+4182~1~0
+4182~1~Mustafizur Rahman to Pandya, no run, fuller, angles away from him, and he presses forward to defend this towards point
+4182~1~
+4182~1~Wide slip in place
+4182~1~
+4182~1~The predicted score drops from 339 to 335 with that wicket, as Pandya walks in next
+4182~1~
+4182~1~38.4
+4182~1~W
+4182~1~Mustafizur Rahman to Pandya, OUT, TWO IN THE OVER FOR THE FIZZ! Mashrafe wants wickets out of Mustafizur in this situation, and how well has he delivered. Angles this on a good length, and wide slip comes into play. Pandya has a tentative poke, and it goes low to the left of Soumya Sarkar, who has made no mistake
+4182~1~
+4182~1~HH Pandya c Soumya Sarkar b Mustafizur Rahman 0 (4m 2b 0x4 0x6) SR: 0.00
+4182~1~
+4182~1~Pandya sends a substitute out for a new bat. Is this a slightly lighter one?
+4182~1~
+4182~1~Harrish Krpalan: "I hear a lot of mention on the short boundary, it has become a topic of discussion. Why didn't the Indian team make use of it then and now. How can that be an excuse / reason for a defeat. The dimensions stayed the same for both the teams." --- Completely agree. Familiarity with a ground and its dimensions is a key thing worth exploiting. Full credit to England for having done that
+4182~1~
+4182~1~38.5
+4182~1~0
+4182~1~Mustafizur Rahman to Dhoni, no run, length, a bit of movement away with the natural angle slanting away from Dhoni. He's having nothing to do with this
+4182~1~
+4182~1~Pranay Merchant: "What a waste of wicket. It should have been DK here would have played reasonably. Hope he gets to bat "
+4182~1~
+4182~1~Forecaster has the predicted score now at 331
+4182~1~
+4182~1~MS Dhoni next
+4182~1~
+4182~1~38.6
+4182~1~0
+4182~1~Mustafizur Rahman to Dhoni, no run, fuller, angles away from him, and he defends this towards cover
+4182~1~
+4182~1~Amey: "Now Pant need to do Stokes here ....with wickets falling other end"
+4182~1~
+4182~1~39.1
+4182~1~0
+4182~1~Mohammad Saifuddin to Pant, no run, full ball, angles away from Pant, who defends from the crease
+4182~1~
+4182~1~Saifuddin
+4182~1~
+4182~1~Dave: "One more wicket for the Fizz and India are in big trouble…"
+4182~1~END OF OVER:39 | (wicket maiden) | INDIA: 237/4 | RR: 6.07
+4182~1~
+4182~1~    MS Dhoni0 (2b)
+4182~1~    Rishabh Pant23 (20b)
+4182~1~
+4182~1~    Mustafizur Rahman6-1-34-2
+4182~1~    Soumya Sarkar6-0-33-1
+4182~1~
+4182~1~A double-wicket maiden from Mustafizur Rahman
+4182~1~
+4182~1~39.2
+4182~1~4
+4182~1~Mohammad Saifuddin to Pant, FOUR runs, GORGEOUS! Full ball, just a bit of width, and he slaps this hard through covers. Not a great deal of foot movement, but keeps his base low and rifles this past cover
+4182~1~
+4182~1~39.3
+4182~1~4
+4182~1~Mohammad Saifuddin to Pant, FOUR runs, short, and he responds in kind! Cutter from Saif, and he waits on it and then swats it away towards deep midwicket. just a couple of bounces and through for four
+4182~1~
+4182~1~39.4
+4182~1~4
+4182~1~Mohammad Saifuddin to Pant, FOUR runs, THREE ON THE TROT FROM PANT! A bit of width outside off this time, and he whacks it past point. Superb timing too. Pant's on fire, safe to say...
+4182~1~
+4182~1~39.5
+4182~1~1
+4182~1~Mohammad Saifuddin to Pant, 1 run, length, and he whips this away towards deep square leg. Brings up 250 for India, and the early pillage means Dhoni can take his time in settling in
+4182~1~
+4182~1~39.6
+4182~1~1
+4182~1~Mohammad Saifuddin to Dhoni, 1 run, slower ball, outside off, and he pushes this towards sweeper cover
+4182~1~
+4182~1~40.1
+4182~1~1
+4182~1~Shakib Al Hasan to Dhoni, 1 run, short outside off, slapped to wide long-off.
+4182~1~
+4182~1~Thanks Debayan. After the spectacular pressure built up by Mustafizur, it's mostly handed straight back in the space of six balls by Saifuddin. Mustafizur taken off now too. Shakib back with a slip in place bowling around the stumps to Dhoni.
+4182~1~END OF OVER:40 | 14 Runs | INDIA: 251/4 | RR: 6.27
+4182~1~
+4182~1~    MS Dhoni1 (3b)
+4182~1~    Rishabh Pant36 (25b)
+4182~1~
+4182~1~    Mohammad Saifuddin5-0-39-0
+4182~1~    Mustafizur Rahman6-1-34-2
+4182~1~
+4182~1~PDP comes on to take you through the last 10 overs of this India innings
+4182~1~
+4182~1~40.2
+4182~1~1
+4182~1~Shakib Al Hasan to Pant, 1 run, short on fourth stump and spinning in, goes back to chop a bottom edge behind point.
+4182~1~
+4182~1~Over the stumps to the lefty Pant. No slip.
+4182~1~
+4182~1~40.3
+4182~1~1
+4182~1~Shakib Al Hasan to Dhoni, 1 run, short on fourth stump, holds in the pitch, drags a pull to long-on.
+4182~1~
+4182~1~40.4
+4182~1~0
+4182~1~Shakib Al Hasan to Pant, no run, short on fourth stump again spinning in, goes back and clips to midwicket.
+4182~1~
+4182~1~40.5
+4182~1~1
+4182~1~Shakib Al Hasan to Pant, 1 run, short and wide, cuts to the point sweeper.
+4182~1~
+4182~1~40.6
+4182~1~0
+4182~1~Shakib Al Hasan to Dhoni, no run, short on middle stump, goes back to punch down the pitch to Shakib.
+4182~1~
+4182~1~41.1
+4182~1~4
+4182~1~Mustafizur Rahman to Pant, FOUR runs, shot! Fullish length angled in from off stump, Pant steps across and crouches to play a front foot pull flat behind square. Deep square leg tracks after it but it's tailing away the whole time to the rope.
+4182~1~
+4182~1~Mustafizur switches ends. Over the stumps to Pant.
+4182~1~END OF OVER:41 | 4 Runs | INDIA: 255/4 | RR: 6.21
+4182~1~
+4182~1~    MS Dhoni3 (6b)
+4182~1~    Rishabh Pant38 (28b)
+4182~1~
+4182~1~    Shakib Al Hasan8-0-36-0
+4182~1~    Mohammad Saifuddin5-0-39-0
+4182~1~
+4182~1~
+4182~1~41.2
+4182~1~1w
+4182~1~Mustafizur Rahman to Pant, 1 wide, bouncer on the stumps, way too short for Pant, called a wide.
+4182~1~
+4182~1~41.2
+4182~1~0
+4182~1~Mustafizur Rahman to Pant, no run, short on fifth stump, goes for another front foot pull but picks out midwicket on the ring.
+4182~1~
+4182~1~41.3
+4182~1~1
+4182~1~Mustafizur Rahman to Pant, 1 run, slower ball on the stumps, pulled behind square.
+4182~1~
+4182~1~41.4
+4182~1~0
+4182~1~Mustafizur Rahman to Dhoni, no run, good length ball on off, punched to extra cover.
+4182~1~
+4182~1~41.5
+4182~1~3
+4182~1~Mustafizur Rahman to Dhoni, 3 runs, fullish length ball on middle, Dhoni goes back to whip through wide midwicket, long distance for Sabbir to cut it off and prevent four but he does get there in the end.
+4182~1~
+4182~1~41.6
+4182~1~1
+4182~1~Mustafizur Rahman to Pant, 1 run, short ball on the stumps, Pant steps across and plays a short-arm jab pull behind square to keep strike.
+4182~1~
+4182~1~42.1
+4182~1~0
+4182~1~Shakib Al Hasan to Pant, no run, short on off, clipped straight to short fine leg.
+4182~1~
+4182~1~Forecaster is now showing 335. About 35 runs less than when Rohit was at the crease.
+4182~1~END OF OVER:42 | 10 Runs | INDIA: 265/4 | RR: 6.30
+4182~1~
+4182~1~    Rishabh Pant44 (32b)
+4182~1~    MS Dhoni6 (8b)
+4182~1~
+4182~1~    Mustafizur Rahman7-1-44-2
+4182~1~    Shakib Al Hasan8-0-36-0
+4182~1~
+4182~1~
+4182~1~42.2
+4182~1~2
+4182~1~Shakib Al Hasan to Pant, 2 runs, short and wide, chops a cut wide of Rubel at cover sweeper and they complete a pair.
+4182~1~
+4182~1~42.3
+4182~1~0
+4182~1~Shakib Al Hasan to Pant, no run, good length ball on middle stump, prodded to midwicket.
+4182~1~
+4182~1~sohil: "Today whoever critized dhoni for playing slow, playing bad will know the real value of MSD... Now they want dhoni to be there till end.."
+4182~1~
+4182~1~42.4
+4182~1~1
+4182~1~Shakib Al Hasan to Pant, 1 run, good length ball on leg stump, flicked square of short fine leg.
+4182~1~
+4182~1~42.5
+4182~1~0
+4182~1~Shakib Al Hasan to Dhoni, no run, good length ball on off stump and straightens, Dhoni reaches forward to poke it to point.
+4182~1~
+4182~1~42.6
+4182~1~0
+4182~1~Shakib Al Hasan to Dhoni, no run, good length ball on fifth stump, Dhoni goes back as the ball keeps low and he chops a bottom edge toward point again.
+4182~1~
+4182~1~43.1
+4182~1~4lb
+4182~1~Rubel Hossain to Pant, 4 leg byes, short of a length down the leg side, misses a flick off the thigh guard, only a very delicate deflection and Mushfiqur with a fairly weak effort. The ball short-hopped him and wound up going off his gloves to the fine leg rope. Should've been stopped for a dot.
+4182~1~
+4182~1~Forecaster is trickling downward. 330 now after the string of dot balls that over.
+4182~1~
+4182~1~Rubel is back. Over the stumps to Pant.
+4182~1~END OF OVER:43 | 3 Runs | INDIA: 268/4 | RR: 6.23
+4182~1~
+4182~1~    MS Dhoni6 (10b)
+4182~1~    Rishabh Pant47 (36b)
+4182~1~
+4182~1~    Shakib Al Hasan9-0-39-0
+4182~1~    Mustafizur Rahman7-1-44-2
+4182~1~
+4182~1~
+4182~1~43.2
+4182~1~0
+4182~1~Rubel Hossain to Pant, no run, good length ball angled across Pant on fourth stump, follows the ball with his hands but is beaten past the edge.
+4182~1~
+4182~1~43.3
+4182~1~0
+4182~1~Rubel Hossain to Pant, no run, slower ball on a fullish length on fourth stump at 118 kph, Pant takes an almighty heave and sends a light breeze toward the fans sitting beyond the rope at long-on.
+4182~1~
+4182~1~43.4
+4182~1~1
+4182~1~Rubel Hossain to Pant, 1 run, good length ball on fifth stump, enough width to open the face and run a single to third man to get off strike.
+4182~1~
+4182~1~43.5
+4182~1~0
+4182~1~Rubel Hossain to Dhoni, no run, fullish length on off stump, Dhoni with a flat-footed flick straight to midwicket.
+4182~1~
+4182~1~43.6
+4182~1~4
+4182~1~Rubel Hossain to Dhoni, FOUR runs, Mahi says take that! Short on the stumps, the ball sits up for Dhoni to unleash a ferocious pull behind square. Bisects deep fine leg and deep midwicket with ease.
+4182~1~
+4182~1~44.1
+4182~1~W
+4182~1~Shakib Al Hasan to Pant, OUT, bobble and taken on the second attempt! Pant went for the slog sweep on a fullish length ball spinning in from fourth stump. He was going for the long boundary for the left-hander square of the wicket, didn't come close to getting enough power behind it. Mosaddek settled 15 yards in from the rope at deep backward square but produces a shaky effort reaching forward at neck height with palms facing out and fingers pointed up. It bursts through and actually deflects off his shoulder before popping up for him to take on the second effort.
+4182~1~
+4182~1~RR Pant c Mosaddek Hossain b Shakib Al Hasan 48 (56m 41b 6x4 1x6) SR: 117.07
+4182~1~END OF OVER:44 | 9 Runs | INDIA: 277/4 | RR: 6.29
+4182~1~
+4182~1~    MS Dhoni10 (12b)
+4182~1~    Rishabh Pant48 (40b)
+4182~1~
+4182~1~    Rubel Hossain8-0-48-1
+4182~1~    Shakib Al Hasan9-0-39-0
+4182~1~
+4182~1~
+4182~1~44.2
+4182~1~1
+4182~1~Shakib Al Hasan to Karthik, 1 run, good length ball on fourth stump, goes across to flick into a gap at midwicket.
+4182~1~
+4182~1~Dinesh Karthik enters on strike as for some reason Dhoni never crossed despite the ball being in the air for quite some time. Shakib around the stumps with no slip.
+4182~1~
+4182~1~44.3
+4182~1~0
+4182~1~Shakib Al Hasan to Dhoni, no run, flighted full on off, pushed awkwardly to extra cover.
+4182~1~
+4182~1~44.4
+4182~1~1
+4182~1~Shakib Al Hasan to Dhoni, 1 run, good length but straying down leg, goes back to flick comfortably behind square.
+4182~1~
+4182~1~44.5
+4182~1~0
+4182~1~Shakib Al Hasan to Karthik, no run, beaten! Flighted full on fourth stump, Karthik reaches forward and it straightens to spin past the edge.
+4182~1~
+4182~1~44.6
+4182~1~0
+4182~1~Shakib Al Hasan to Karthik, no run, good length ball on middle, goes back to defend.
+4182~1~
+4182~1~45.1
+4182~1~4
+4182~1~Mustafizur Rahman to Dhoni, FOUR runs, ooohhh shot! Good length ball on fourth stump angled across Dhoni, he uses the angle tailing away from him to create the width to cut beautifully behind point.
+4182~1~
+4182~1~Forecaster continues to fall. 324 now. Middle order exerting a strong gravitational pull.
+4182~1~END OF OVER:45 | 2 Runs 1 Wkt | INDIA: 279/5 | RR: 6.20
+4182~1~
+4182~1~    Dinesh Karthik1 (3b)
+4182~1~    MS Dhoni11 (14b)
+4182~1~
+4182~1~    Shakib Al Hasan10-0-41-1
+4182~1~    Rubel Hossain8-0-48-1
+4182~1~
+4182~1~
+4182~1~45.2
+4182~1~2
+4182~1~Mustafizur Rahman to Dhoni, 2 runs, short of a length on off, punches to cover. Needless throw to the non-striker's stumps hits and ricochets through midwicket away from any backup fielder to allow for an overthrow keeping Dhoni on strike.
+4182~1~
+4182~1~45.3
+4182~1~1
+4182~1~Mustafizur Rahman to Dhoni, 1 run, short of a length on off, goes across to flick behind square.
+4182~1~
+4182~1~45.4
+4182~1~1
+4182~1~Mustafizur Rahman to Karthik, 1 run, short of a length angled across fourth stump, late cut to third man.
+4182~1~
+4182~1~45.5
+4182~1~1
+4182~1~Mustafizur Rahman to Dhoni, 1 run, short ball at 131 kph angled across, Dhoni swivel pulls behind square.
+4182~1~
+4182~1~45.6
+4182~1~0
+4182~1~Mustafizur Rahman to Karthik, no run, good length ball cut behind point, but diving stop to deny the run by Liton. Karthik wanted a run and was nearly sold out halfway down the pitch by Dhoni but Liton had trouble getting to his feet after the tumbling effort to produce a runout chance.
+4182~1~
+4182~1~46.1
+4182~1~1
+4182~1~Mohammad Saifuddin to Dhoni, 1 run, wide yorker on fifth stump at 125 kph/78 mph, Dhoni stabs this out behind point.
+4182~1~END OF OVER:46 | 9 Runs | INDIA: 288/5 | RR: 6.26
+4182~1~
+4182~1~    Dinesh Karthik2 (5b)
+4182~1~    MS Dhoni19 (18b)
+4182~1~
+4182~1~    Mustafizur Rahman8-1-53-2
+4182~1~    Shakib Al Hasan10-0-41-1
+4182~1~
+4182~1~
+4182~1~46.2
+4182~1~1
+4182~1~Mohammad Saifuddin to Karthik, 1 run, offcutter at 110 kph lands short on sixth stump, cut behind point and cut off by the sweeper.
+4182~1~
+4182~1~46.3
+4182~1~1
+4182~1~Mohammad Saifuddin to Dhoni, 1 run, full pace and full length on fourth stump, square drive to the sweeper.
+4182~1~
+4182~1~46.4
+4182~1~4
+4182~1~Mohammad Saifuddin to Karthik, FOUR runs, overpitched on fifth stump, misfired the yorker only by a fraction and Karthik makes Saifuddin pay with an exquisite square drive to beat Shakib diving left at backward point. Third man up in the ring and it's an easy four.
+4182~1~
+4182~1~46.5
+4182~1~1
+4182~1~Mohammad Saifuddin to Karthik, 1 run, full on the stump, clipped through midwicket for an easy single.
+4182~1~
+4182~1~46.6
+4182~1~1
+4182~1~Mohammad Saifuddin to Dhoni, 1 run, low full toss at shin height on sixth stump, Dhoni slices this to third man on the rope. Sloppy relay almost creates a chance for an overthrow before Dhoni decides against it.
+4182~1~
+4182~1~47.1
+4182~1~1
+4182~1~Mustafizur Rahman to Dhoni, 1 run, full on leg stump at 127 kph/79 mph, flicked through to deep midwicket.
+4182~1~END OF OVER:47 | 9 Runs | INDIA: 297/5 | RR: 6.31
+4182~1~
+4182~1~    MS Dhoni22 (21b)
+4182~1~    Dinesh Karthik8 (8b)
+4182~1~
+4182~1~    Mohammad Saifuddin6-0-48-0
+4182~1~    Mustafizur Rahman8-1-53-2
+4182~1~
+4182~1~
+4182~1~47.2
+4182~1~W
+4182~1~Mustafizur Rahman to Karthik, OUT, slow offcutter bouncer swallows up DK! It's that rubbery wrist of the Fizz ripping across the ball to throw off Karthik's timing on a short ball angled across on a fifth stump line. He tries to muscle a pull over the ring but the ball knuckles in the air toward Mosaddek at midwicket, who backpedals left and calls off mid-on to take a simple catch five yards inside the edge of the ring.
+4182~1~
+4182~1~KD Karthik c Mosaddek Hossain b Mustafizur Rahman 8 (17m 9b 1x4 0x6) SR: 88.88
+4182~1~
+4182~1~47.3
+4182~1~1
+4182~1~Mustafizur Rahman to Kumar, 1 run, good length ball on fourth stump, guided into the off side to get off strike.
+4182~1~
+4182~1~Wide slip in place for Bhuvneshwar. Again, Dhoni doesn't cross with the ball in the air.
+4182~1~
+4182~1~47.4
+4182~1~0
+4182~1~Mustafizur Rahman to Dhoni, no run, short ball angled across on fifth stump at 125 kph, left alone by Dhoni.
+4182~1~
+4182~1~47.5
+4182~1~1
+4182~1~Mustafizur Rahman to Dhoni, 1 run, short of a length on fifth stump angled across at 124 kph, late cuts to third man.
+4182~1~
+4182~1~47.6
+4182~1~0
+4182~1~Mustafizur Rahman to Kumar, no run, short ball on leg stump at 132 kph, Bhuvi ducks under.
+4182~1~
+4182~1~48.1
+4182~1~2
+4182~1~Mohammad Saifuddin to Dhoni, 2 runs, full and wide, driven wide of the cover sweeper for an easy pair.
+4182~1~
+4182~1~Forecaster is now at 320 after the fall of Karthik. Mustafizur deserves tremendous credit for putting the brakes on India's middle order.
+4182~1~END OF OVER:48 | 3 Runs 1 Wkt | INDIA: 300/6 | RR: 6.25
+4182~1~
+4182~1~    Bhuvneshwar Kumar1 (2b)
+4182~1~    MS Dhoni24 (24b)
+4182~1~
+4182~1~    Mustafizur Rahman9-1-56-3
+4182~1~    Mohammad Saifuddin6-0-48-0
+4182~1~
+4182~1~
+4182~1~48.2
+4182~1~4
+4182~1~Mohammad Saifuddin to Dhoni, FOUR runs, vintage and sizzling! Overpitched on fourth stump, Dhoni hammers this in the air to the left of extra cover, too much heat on it for cover sweeper to have any chance of cutting it off.
+4182~1~
+4182~1~48.3
+4182~1~0
+4182~1~Mohammad Saifuddin to Dhoni, no run, wide yorker on 7th stump, Dhoni nubs a drive to extra cover and has no interest in running.
+4182~1~
+4182~1~48.4
+4182~1~0
+4182~1~Mohammad Saifuddin to Dhoni, no run, wide yorker on fifth stump, Dhoni premeditates a sweep to the medium pace but plays over the top of it.
+4182~1~
+4182~1~48.5
+4182~1~4
+4182~1~Mohammad Saifuddin to Dhoni, FOUR runs, slower ball gone wrong at 99 kph on fifth stump, too slow to fool Dhoni and he has plenty of time to adjust keeping his hands back before unfurling a corking drive through extra cover again.
+4182~1~
+4182~1~Joy Chakraborty: "Nobody needs to put brake on the Indian middle order. It is self driven and automatically the brake is pressed once the first 4 batsmen get out."
+4182~1~
+4182~1~48.6
+4182~1~1
+4182~1~Mohammad Saifuddin to Dhoni, 1 run, fullish length on off stump, Dhoni premeditates to tap and run through cover looking to keep the strike for the final over.
+4182~1~
+4182~1~49.1
+4182~1~0
+4182~1~Mustafizur Rahman to Dhoni, no run, short on off, flat bats this to long-off and turns down the single.
+4182~1~
+4182~1~KL: "The idea of MSD backing himself to hit a big one and not running the single, infuriates people. Gone are the days when they said, "How's that for confidence!"" Just when the pressure is building, he's been finding the boundary though. 300+ scores have been virtually impossible to chase in this tournament.
+4182~1~END OF OVER:49 | 11 Runs | INDIA: 311/6 | RR: 6.34
+4182~1~
+4182~1~    MS Dhoni35 (30b)
+4182~1~    Bhuvneshwar Kumar1 (2b)
+4182~1~
+4182~1~    Mohammad Saifuddin7-0-59-0
+4182~1~    Mustafizur Rahman9-1-56-3
+4182~1~
+4182~1~
+4182~1~49.2
+4182~1~0
+4182~1~Mustafizur Rahman to Dhoni, no run, short and wide on sixth stump, Dhoni hammers a pull along the ground but picks out mid-on in the ring. Turns down a single once more.
+4182~1~
+4182~1~49.3
+4182~1~W
+4182~1~Mustafizur Rahman to Dhoni, OUT, short ball fetches another wicket for the Fizz! Bouncer at full pace at 137 kph on fifth stump, Dhoni tries to bully this over mid-on but is beaten for pace leaping on his toes, skies it over the umpire at the non-striker's end and it comes down safely into Shakib's hands jogging 20 yards left.
+4182~1~
+4182~1~MS Dhoni c Shakib Al Hasan b Mustafizur Rahman 35 (52m 33b 4x4 0x6) SR: 106.06
+4182~1~
+4182~1~49.4
+4182~1~1
+4182~1~Mustafizur Rahman to Kumar, 1 run, fullish length wide on fifth stump, Bhuvneshwar chops this into short midwicket, Mustafizur charges right but can't deny the single.
+4182~1~
+4182~1~49.5
+4182~1~1
+4182~1~Mustafizur Rahman to Mohammed Shami, 1 run, short on fourth stump, pulls to deep midwicket for one.
+4182~1~
+4182~1~49.6
+4182~1~W
+4182~1~Mustafizur Rahman to Kumar, 1 wide, OUT, bouncer outside off stump left alone. Signaled a wide on the line by the umpire and they try to steal a bye. Mushfiqur underhands to Mustafizur in front of the stumps at the non-striker's end and he flicks on from a yard away with Bhuvneshwar two yards short.
+4182~1~
+4182~1~B Kumar run out (Mushfiqur Rahim(wk)/Mustafizur Rahman) 2 (15m 3b 0x4 0x6) SR: 66.66
+4182~1~
+4182~1~WATCH on Hotstar (India only): How the Indian wickets fell
+4182~1~
+4182~1~49.6
+4182~1~W
+4182~1~Mustafizur Rahman to Mohammed Shami, OUT, five for the Fizz! Fullish length ball angled across sixth stump at 130 kph/81 mph, Shami shuffles across to try to create an angle into the leg side but only manages to drag onto the stumps. Just three runs in the over and three wickets to match.
+4182~1~
+4182~1~Mohammed Shami b Mustafizur Rahman 1 (6m 2b 0x4 0x6) SR: 50.00
+4182~1~
+4182~2~##########
+4182~2~
+4182~2~0.1
+4182~2~0
+4182~2~Kumar to Tamim Iqbal, no run, length, angles across, and he leaves it
+4182~2~
+4182~2~0.2
+4182~2~0
+4182~2~Kumar to Tamim Iqbal, no run, length, moves away from him and he defends
+4182~2~
+4182~2~0.3
+4182~2~0
+4182~2~Kumar to Tamim Iqbal, no run, throws this a bit wider, and Tamim throws his bat at it. Moves away a bit and beats him outside off
+4182~2~
+4182~2~0.4
+4182~2~1
+4182~2~Kumar to Tamim Iqbal, 1 run, fuller, a bit wider, and it goes along the outer part of the bat as Tamim looks to drive this down the ground. Runs away towards third man
+4182~2~
+4182~2~Around the wicket now
+4182~2~
+4182~2~0.5
+4182~2~0
+4182~2~Kumar to Soumya Sarkar, no run, length, nips away from outside off, and Sarkar looks for the wide. Not called, though
+4182~2~
+4182~2~0.6
+4182~2~0
+4182~2~Kumar to Soumya Sarkar, no run, gets this one to nip back in! Good length, and the inward movement almost catches Sarkar by surprise, as he jams his bat down on it
+4182~2~
+4182~2~1.1
+4182~2~0
+4182~2~Bumrah to Tamim Iqbal, no run, full, towards off stump, and Tamim defends this towards short midwicket
+4182~2~
+4182~2~Bumrah
+4182~2~END OF OVER:1 | 1 Run | BDESH: 1/0 (314 runs required from 49 overs, RR: 1.00, RRR: 6.40)
+4182~2~
+4182~2~    Soumya Sarkar0 (2b)
+4182~2~    Tamim Iqbal1 (4b)
+4182~2~
+4182~2~    Bhuvneshwar Kumar1-0-1-0
+4182~2~
+4182~2~Tidy start from Bhuvneshwar. His first game after a few matches on the sidelines, remember
+4182~2~
+4182~2~1.2
+4182~2~0
+4182~2~Bumrah to Tamim Iqbal, no run, length, angles across Tamim, who presses forward and defends this towards short cover
+4182~2~
+4182~2~1.3
+4182~2~0
+4182~2~Bumrah to Tamim Iqbal, no run, shorter, bowled at 139kph, and Tamim has to jump to defend this from the crease as it angles across him
+4182~2~
+4182~2~Jai : "My suggestion would be Liton das as opener .. he really played well against India in Asia Cup" --- Wouldn't he be a useful player to have up your sleeve in the middle order?
+4182~2~
+4182~2~1.4
+4182~2~4
+4182~2~Bumrah to Tamim Iqbal, FOUR runs, full ball, and imperious! Too straight, and despite the presence of a short midwicket, Tamim gets into position for a flick, and gets it to zip to the left of the man stationed there
+4182~2~
+4182~2~1.5
+4182~2~0
+4182~2~Bumrah to Tamim Iqbal, no run, length, angles across him, bowled at 139 clicks, and he defends this towards cover
+4182~2~
+4182~2~1.6
+4182~2~4
+4182~2~Bumrah to Tamim Iqbal, FOUR runs, length, and a hit of width, and Tamim Iqbal at his best! Just stands up tall, opens his wrists up a bit and times this through the cover and point region
+4182~2~
+4182~2~Around the wicket now
+4182~2~
+4182~2~2.1
+4182~2~0
+4182~2~Kumar to Soumya Sarkar, no run, length, shapes back into him, and he defends
+4182~2~END OF OVER:2 | 8 Runs | BDESH: 9/0 (306 runs required from 48 overs, RR: 4.50, RRR: 6.37)
+4182~2~
+4182~2~    Tamim Iqbal9 (10b)
+4182~2~    Soumya Sarkar0 (2b)
+4182~2~
+4182~2~    Jasprit Bumrah1-0-8-0
+4182~2~    Bhuvneshwar Kumar1-0-1-0
+4182~2~
+4182~2~
+4182~2~2.2
+4182~2~0
+4182~2~Kumar to Soumya Sarkar, no run, length, and outside off. He tries to drive this, but just cannot time it well. Is that a sign of how much this pitch has slowed up?
+4182~2~
+4182~2~DBS : "Instead of criticizing India's batting all the time, it's high time we appreciate the opposition's bowling. England and BD both bowled extremely well in the end." --- I'd agree. The Pandya wicket was a huge turning point, I think, and that's where Mustafizur deserves a lot of credit
+4182~2~
+4182~2~2.3
+4182~2~0
+4182~2~Kumar to Soumya Sarkar, no run, length, angles across Sarkar, who plays it with a dead bat down towards the slips
+4182~2~
+4182~2~Back to over the wicket
+4182~2~
+4182~2~2.4
+4182~2~1
+4182~2~Kumar to Soumya Sarkar, 1 run, length, angles away from him, and he can steer this wide of the widish second slip down towards third man
+4182~2~
+4182~2~2.5
+4182~2~4
+4182~2~Kumar to Tamim Iqbal, FOUR runs, OH DELIGHTFUL! Sourav Ganguly, on air, likens him to Saeed Anwar, as the ball is pitched a bit wide from Bhuvi, and he eases into a square drive. Just sheer timing
+4182~2~
+4182~2~2.6
+4182~2~2
+4182~2~Kumar to Tamim Iqbal, 2 runs, too straight, and he can flick this through the midwicket region. It will pull up ahead of the longer boundary on that end, and they will come back for two
+4182~2~
+4182~2~Back around the wicket
+4182~2~
+4182~2~3.1
+4182~2~0
+4182~2~Bumrah to Soumya Sarkar, no run, full, outisde off, and he drives this towards mid off
+4182~2~
+4182~2~Karthik: "When India restricts England to 337 who once looked like scoring 360, we all praise the Indian Bowling attack but when the same is done by the Bangladesh bowlers against India, we call our Batting department the weakest. Why can't we once appreciate the bowlers?"
+4182~2~END OF OVER:3 | 7 Runs | BDESH: 16/0 (299 runs required from 47 overs, RR: 5.33, RRR: 6.36)
+4182~2~
+4182~2~    Tamim Iqbal15 (12b)
+4182~2~    Soumya Sarkar1 (6b)
+4182~2~
+4182~2~    Bhuvneshwar Kumar2-0-8-0
+4182~2~    Jasprit Bumrah1-0-8-0
+4182~2~
+4182~2~
+4182~2~3.2
+4182~2~0
+4182~2~Bumrah to Soumya Sarkar, no run, OH WELL BOWLED! Bowled with the angle coming in, and it pitches and just moves a touch away from him, and beats both the outside edge and the top of off!
+4182~2~
+4182~2~Bumrah continues around the wicket to Sarkar
+4182~2~
+4182~2~3.3
+4182~2~0
+4182~2~Bumrah to Soumya Sarkar, no run, length, angles into him, and he defends this
+4182~2~
+4182~2~3.4
+4182~2~0
+4182~2~Bumrah to Soumya Sarkar, no run, length, angles into him at good pace, and he defends this
+4182~2~
+4182~2~Our #LiveReport has run into technical issues. We'll let you know as soon as it's back up and running
+4182~2~
+4182~2~3.5
+4182~2~0
+4182~2~Bumrah to Soumya Sarkar, no run, length, movement away, and beats the outside edge again. Sarkar looks to drive this straight down and misses the line completely!
+4182~2~
+4182~2~Pradeep: "Looks like Tamim decided to make amends for that dropped catch." --- Proper GOAT. Don't know if that catch may have egged him on further, but such a good batsman
+4182~2~
+4182~2~3.6
+4182~2~0
+4182~2~Bumrah to Soumya Sarkar, no run, length, angles into him, and he taps this towards point. Sets off for a single, and Tamim calmly sends him back
+4182~2~
+4182~2~4.1
+4182~2~0
+4182~2~Kumar to Tamim Iqbal, no run, length, raps him on the pads as he shapes to flick, but was clearly pitching outside leg! Better line to bowl to Tamim, tucking him up
+4182~2~END OF OVER:4 | (maiden) | BDESH: 16/0 (299 runs required from 46 overs, RR: 4.00, RRR: 6.50)
+4182~2~
+4182~2~    Soumya Sarkar1 (12b)
+4182~2~    Tamim Iqbal15 (12b)
+4182~2~
+4182~2~    Jasprit Bumrah2-1-8-0
+4182~2~    Bhuvneshwar Kumar2-0-8-0
+4182~2~
+4182~2~Bumrah makes up for a slighty expensive over with the first maiden of the chase
+4182~2~
+4182~2~4.2
+4182~2~0
+4182~2~Kumar to Tamim Iqbal, no run, length, along the pads, and swinging back in and strikes him on the pads again. Going down leg, but much better!
+4182~2~
+4182~2~4.3
+4182~2~0
+4182~2~Kumar to Tamim Iqbal, no run, length, angles across him, and raps him on the pads again as Tamim tries a hop, skip and flick. Goes off the top of his pads and goes towards the wide slip
+4182~2~
+4182~2~4.4
+4182~2~0
+4182~2~Kumar to Tamim Iqbal, no run, length, angles across him, and he plays it towards short midwicket
+4182~2~
+4182~2~4.5
+4182~2~1
+4182~2~Kumar to Tamim Iqbal, 1 run, length, and he leans into a drive. Gets it to the right of DK at mid off, and they set off for a quick single
+4182~2~
+4182~2~4.6
+4182~2~1
+4182~2~Kumar to Soumya Sarkar, 1 run, short, and takes him by surprise! Well played in the end, as he takes his bottom hand off and allows this to run towards third man
+4182~2~
+4182~2~Around the wicket to Sarkar
+4182~2~
+4182~2~Ameen Shariff: "ESPNcricinfo is too biased Giving Credit to Bumrah for Wickets taken by Shami. If it was the case why other bowlers didn't do it while Shami was not in the XI. I Agree there is pressure on batsmen while there is tight bowling from both ends"
+4182~2~
+4182~2~5.1
+4182~2~0
+4182~2~Bumrah to Soumya Sarkar, no run, length, outside off, and he drives this towards point. Well fielded by Hardik Pandya
+4182~2~END OF OVER:5 | 2 Runs | BDESH: 18/0 (297 runs required from 45 overs, RR: 3.60, RRR: 6.60)
+4182~2~
+4182~2~    Soumya Sarkar2 (13b)
+4182~2~    Tamim Iqbal16 (17b)
+4182~2~
+4182~2~    Bhuvneshwar Kumar3-0-10-0
+4182~2~    Jasprit Bumrah2-1-8-0
+4182~2~
+4182~2~
+4182~2~5.2
+4182~2~5
+4182~2~Bumrah to Soumya Sarkar, 5 runs, length, and he plays it with soft hands, and sets off! Hardik Pandya has a shy at the stumps at the striker's end as Tamim Iqbal scampers home (just about) and they pick up overthrows, with no backing up
+4182~2~
+4182~2~5.3
+4182~2~0
+4182~2~Bumrah to Tamim Iqbal, no run, length, jags back in, but going down leg with the angle. Cranked up to 145kph by Bumrah!
+4182~2~
+4182~2~5.4
+4182~2~0
+4182~2~Bumrah to Tamim Iqbal, no run, length, slants into him, and he defends towards midwicket
+4182~2~
+4182~2~"While doing the live video outside the ground, met a group of Bangladeshi fans who were doing a picnic just outside the stadium. It is called tailgating in the US parlance, where fans watch a game close to the stadium on their TV, while having a picnic," says Isam. Adds that the fans are chanting "jeetega bhai jeetega, Bangladesh jeetega"
+4182~2~
+4182~2~5.5
+4182~2~1b
+4182~2~Bumrah to Tamim Iqbal, 1 bye, dug in short, really short, and Dhoni is able to get his gloves to it and tip it over the bar towards fine leg. Just byes given, but that was quite close to being called wide. Tamim did duck, though
+4182~2~
+4182~2~The last ball was bowled at 150kph
+4182~2~
+4182~2~5.6
+4182~2~0
+4182~2~Bumrah to Soumya Sarkar, no run, length, and he defends towards point. This was bowled at 144kph
+4182~2~
+4182~2~6.1
+4182~2~0
+4182~2~Kumar to Tamim Iqbal, no run, length, and he whips it off his pads towards midwicket
+4182~2~END OF OVER:6 | 6 Runs | BDESH: 24/0 (291 runs required from 44 overs, RR: 4.00, RRR: 6.61)
+4182~2~
+4182~2~    Soumya Sarkar7 (16b)
+4182~2~    Tamim Iqbal16 (20b)
+4182~2~
+4182~2~    Jasprit Bumrah3-1-13-0
+4182~2~    Bhuvneshwar Kumar3-0-10-0
+4182~2~
+4182~2~Karthik: "Athar Ali says that Bangladesh goes on to win every match when Fiz takes 3 or more wickets. India has the highest win percentage when Bhuvi takes 2 or more wickets." --- Ah Athar. Taught me how to put on a tie properly when we worked together on Test cricket in 2014 :)
+4182~2~
+4182~2~6.2
+4182~2~0
+4182~2~Kumar to Tamim Iqbal, no run, dug in short, and goes along the leg side. The umpire allows it to pass as the natural angle takes it over the line of leg stump, as Tamim leaves
+4182~2~
+4182~2~6.3
+4182~2~2
+4182~2~Kumar to Tamim Iqbal, 2 runs, length, but on the pads, and he can wristily flick this toward the right of long leg. Two runs on offer before the fielder can send his throw in
+4182~2~
+4182~2~6.4
+4182~2~0
+4182~2~Kumar to Tamim Iqbal, no run, length, and he drives towards short midwicket, who has moved a few yards closer to the bat now
+4182~2~
+4182~2~6.5
+4182~2~2
+4182~2~Kumar to Tamim Iqbal, 2 runs, dug in short, and he swings this around towards deep midwicket. Didn't time it well, but got it over the infield. Pant fields after chasing this down from mid on
+4182~2~
+4182~2~No slips. Two deep fielders at long leg and deep third man
+4182~2~
+4182~2~6.6
+4182~2~0
+4182~2~Kumar to Tamim Iqbal, no run, length, angles across him as he shuffles across towards the off stump, but can only defend it straight back down the wicket
+4182~2~
+4182~2~Update - the Live Report is back. Thanks for your patience.
+4182~2~
+4182~2~7.1
+4182~2~0
+4182~2~Mohammed Shami to Soumya Sarkar, no run, length, angles into him, and he defends towards midwicket
+4182~2~
+4182~2~As is his wont, Kohli keeps a few Bumrah overs up his sleeve, and turns to Shami, who starts from around the wicket
+4182~2~
+4182~2~Bangladesh's win probability has gone to 36 %, as we see Soumya Sarkar getting some treatment on his back
+4182~2~END OF OVER:7 | 4 Runs | BDESH: 28/0 (287 runs required from 43 overs, RR: 4.00, RRR: 6.67)
+4182~2~
+4182~2~    Tamim Iqbal20 (26b)
+4182~2~    Soumya Sarkar7 (16b)
+4182~2~
+4182~2~    Bhuvneshwar Kumar4-0-14-0
+4182~2~    Jasprit Bumrah3-1-13-0
+4182~2~
+4182~2~
+4182~2~7.2
+4182~2~0
+4182~2~Mohammed Shami to Soumya Sarkar, no run, short, fast, and angles back into him at 144kph, and he defends awkwardly towards point
+4182~2~
+4182~2~7.3
+4182~2~2
+4182~2~Mohammed Shami to Soumya Sarkar, 2 runs, length, outside off, and he steers this to the left of third man. Two runs picked up before Pant can send his throw in
+4182~2~
+4182~2~7.4
+4182~2~4
+4182~2~Mohammed Shami to Soumya Sarkar, FOUR runs, full, wide, and Sarkar slices this away over point. Calculated shot, with the open face of the bat to guide it square enough
+4182~2~
+4182~2~Sameer: "BD chased 300+ against WI where no one bowlers in ICC top 20 ranking. Today India have 3 player in top 20 and 2 in top 10. It's gonna difficult."
+4182~2~
+4182~2~7.5
+4182~2~0
+4182~2~Mohammed Shami to Soumya Sarkar, no run, wide of the crease, and he defends this length ball angling into him
+4182~2~
+4182~2~7.6
+4182~2~0
+4182~2~Mohammed Shami to Soumya Sarkar, no run, length, outside off, and he defends this towards point
+4182~2~
+4182~2~Anil: "Ah...Debayan! Athar forgot to tell you that you "knot" a tie, not "put" it " --- That's how inexperienced I am with the thing. Never had to wear a tie for school, either
+4182~2~
+4182~2~8.1
+4182~2~0
+4182~2~Kumar to Tamim Iqbal, no run, length, angles away from Tamim, and dips on Dhoni as he looks to drive this through the off side and misses. This was bowled at 138kph
+4182~2~
+4182~2~"'jeetega bhai....Bangladesh jeetega' huh...copyright infringement alert. Pakistani fans have used and abused that slogan for so long that its almost impossible to fit any other country's name besides Pakistan in that chant.," ruminates Saad Syed
+4182~2~END OF OVER:8 | 6 Runs | BDESH: 34/0 (281 runs required from 42 overs, RR: 4.25, RRR: 6.69)
+4182~2~
+4182~2~    Soumya Sarkar13 (22b)
+4182~2~    Tamim Iqbal20 (26b)
+4182~2~
+4182~2~    Mohammed Shami1-0-6-0
+4182~2~    Bhuvneshwar Kumar4-0-14-0
+4182~2~
+4182~2~
+4182~2~8.2
+4182~2~1
+4182~2~Kumar to Tamim Iqbal, 1 run, length, on the pads, and he neatly tucks this away to the left of the square leg umpire
+4182~2~
+4182~2~8.3
+4182~2~0
+4182~2~Kumar to Soumya Sarkar, no run, length, angles into him from around the wicket this time, and Sarkar blocks
+4182~2~
+4182~2~8.4
+4182~2~1
+4182~2~Kumar to Soumya Sarkar, 1 run, slower ball, a cutter, along the pads, and he flicks this away towards deep square leg
+4182~2~
+4182~2~Abhijato: "If Bangladesh cross 100 for no loss, they will win the match given Shakib scores 50+... #CrystalBallPrediction" --- Two conditions, then?
+4182~2~
+4182~2~8.5
+4182~2~1
+4182~2~Kumar to Tamim Iqbal, 1 run, length, but down the pads, and he can flick this away towards deep square leg
+4182~2~
+4182~2~8.6
+4182~2~1
+4182~2~Kumar to Soumya Sarkar, 1 run, fuller, and he drives this towards midwicket. A slight lapse in fielding allows them to go through for the single
+4182~2~
+4182~2~Jai: "Hi Debayan, I think the Bangladeshi fans can send you comments directly in Bengali, can't they?" --- Sure they can. But whether I can read those is the bigger question
+4182~2~
+4182~2~9.1
+4182~2~1
+4182~2~Mohammed Shami to Soumya Sarkar, 1 run, length ball, outside off, and he runs it down to third man
+4182~2~END OF OVER:9 | 4 Runs | BDESH: 38/0 (277 runs required from 41 overs, RR: 4.22, RRR: 6.75)
+4182~2~
+4182~2~    Soumya Sarkar15 (25b)
+4182~2~    Tamim Iqbal22 (29b)
+4182~2~
+4182~2~    Bhuvneshwar Kumar5-0-18-0
+4182~2~    Mohammed Shami1-0-6-0
+4182~2~
+4182~2~
+4182~2~9.2
+4182~2~0
+4182~2~Mohammed Shami to Tamim Iqbal, no run, shorter, angles into him, Tamim takes off to flick this towards midwicket, but cannot pierce the infield. This was bowled at 142kph
+4182~2~
+4182~2~Kevin Boban: "Umm you don't "knot" a tie, you tie a tie. " --- Are we looking at a dead heat today?
+4182~2~
+4182~2~9.3
+4182~2~W
+4182~2~Mohammed Shami to Tamim Iqbal, OUT, GOT 'IM! Big wicket too, as Tamim Iqbal falls for the short ball follow-up by Shami. Stays rooted inside the crease as Shami pitches this further up. He plays it off the inside edge and chops it on to the stumps. Tamim was looking dangerous, and there will be no 2007 heroics from the left-hander for Bangladesh today
+4182~2~
+4182~2~Tamim Iqbal b Mohammed Shami 22 (39m 31b 3x4 0x6) SR: 70.96
+4182~2~
+4182~2~9.4
+4182~2~1
+4182~2~Mohammed Shami to Shakib Al Hasan, 1 run, length, fast and angling into him, and he plays it down towards long leg with a neat, little flick of the wrists
+4182~2~
+4182~2~Shakib is next
+4182~2~
+4182~2~9.5
+4182~2~0
+4182~2~Mohammed Shami to Soumya Sarkar, no run, length, outisde off, and he defends towards point
+4182~2~
+4182~2~Bangladesh's win probability dropped from 36 to 30% with the Tamim wicket
+4182~2~
+4182~2~9.6
+4182~2~0
+4182~2~Mohammed Shami to Soumya Sarkar, no run, length, and he tries to guide this towards point, but cannot beat the infield
+4182~2~
+4182~2~10.1
+4182~2~0
+4182~2~Bumrah to Shakib Al Hasan, no run, full on fourth stump, defended to extra cover, they think about a run before opting out.
+4182~2~
+4182~2~Cheers Debayan. Bangladesh win forecaster has dropped from 36.66 to 30.68% after the Tamim wicket.
+4182~2~
+4182~2~Bumrah staying around the wicket to Shakib with a slip in place after the Powerplay.
+4182~2~END OF OVER:10 | 2 Runs 1 Wkt | BDESH: 40/1 (275 runs required from 40 overs, RR: 4.00, RRR: 6.87)
+4182~2~
+4182~2~    Soumya Sarkar16 (28b)
+4182~2~    Shakib Al Hasan1 (1b)
+4182~2~
+4182~2~    Mohammed Shami2-0-8-1
+4182~2~    Bhuvneshwar Kumar5-0-18-0
+4182~2~
+4182~2~Over to PDP
+4182~2~
+4182~2~10.2
+4182~2~4
+4182~2~Bumrah to Shakib Al Hasan, FOUR runs, sumptuous! fullish length straying on middle, Shakib prods this gently past Bumrah through mid-on but timed superbly and it races down the hill.
+4182~2~
+4182~2~10.3
+4182~2~0
+4182~2~Bumrah to Shakib Al Hasan, no run, short of a length on the stumps, goes back to defend into midwicket.
+4182~2~
+4182~2~10.4
+4182~2~1
+4182~2~Bumrah to Shakib Al Hasan, 1 run, slower ball on a fullish length straying on leg stump at 118 kph, holds his hands back to flick behind square.
+4182~2~
+4182~2~10.5
+4182~2~1
+4182~2~Bumrah to Soumya Sarkar, 1 run, short outside off on a sixth stump line, flayed in the air in front of point, two bounces to the sweeper.
+4182~2~
+4182~2~10.6
+4182~2~1w
+4182~2~Bumrah to Shakib Al Hasan, 1 wide, bouncer well down leg, called a wide more due to the line than on height.
+4182~2~
+4182~2~10.6
+4182~2~0
+4182~2~Bumrah to Shakib Al Hasan, no run, good length ball angled into leg stump, beats Shakib's attempt to flick through midwicket. The ball hits him above the knee roll and ricochets into the covers. No appeal for leg before as it's too high and going down leg.
+4182~2~
+4182~2~11.1
+4182~2~4
+4182~2~Mohammed Shami to Soumya Sarkar, FOUR runs, fullish length on fifth stump, leans into a drive on the up piercing the gap between mid-off and extra cover.
+4182~2~
+4182~2~Rishabh Pant is now keeping for India with Dhoni having gone off. No word on who is the sub fielder.
+4182~2~
+4182~2~Shami around the stumps with no slip.
+4182~2~END OF OVER:11 | 7 Runs | BDESH: 47/1 (268 runs required from 39 overs, RR: 4.27, RRR: 6.87)
+4182~2~
+4182~2~    Shakib Al Hasan6 (6b)
+4182~2~    Soumya Sarkar17 (29b)
+4182~2~
+4182~2~    Jasprit Bumrah4-1-20-0
+4182~2~    Mohammed Shami2-0-8-1
+4182~2~
+4182~2~
+4182~2~11.2
+4182~2~0
+4182~2~Mohammed Shami to Soumya Sarkar, no run, huge appeal! Given not out! Fullish length pitching on off and angled into middle and leg, Soumya is beaten going onto the back foot to defend. Kohli takes 10+ seconds before calling for DRS. Looked like it was missing leg live. Will be very hard to overturn with Shami coming around the stumps. There's also some doubt as to whether Soumya has sandwiched this off an inside edge into his pads. Third umpire Aleem Dar deems there has in fact been an inside edge and doesn't even proceed past Ultraedge onto ball-tracking. India lose their review and Kohli is furiously remonstrating with Marais Erasmus on field.
+4182~2~
+4182~2~11.3
+4182~2~1
+4182~2~Mohammed Shami to Soumya Sarkar, 1 run, short of a length on middle, tapped with soft hands into midwicket for a sharp run.
+4182~2~
+4182~2~There was so little going for that review. Regardless of the inside edge or not, at best it was more likely to be an umpire's call.
+4182~2~
+4182~2~11.4
+4182~2~0
+4182~2~Mohammed Shami to Shakib Al Hasan, no run, good length on fourth stump and straightening, Shakib dangles the bat on the back foot and is beaten.
+4182~2~
+4182~2~Sure enough the post-DRS TV replays with balltracking show it would have been umpire's call clipping the outside of leg stump. The difference is though that because Umpire Dar determined there was an inside edge, India lose their review instead of retaining it.
+4182~2~
+4182~2~11.5
+4182~2~0
+4182~2~Mohammed Shami to Shakib Al Hasan, no run, good length ball angled in from fourth stump, defended to point.
+4182~2~
+4182~2~11.6
+4182~2~1
+4182~2~Mohammed Shami to Shakib Al Hasan, 1 run, short of a length on fourth stump, Shakib hops back to guide this to third man.
+4182~2~
+4182~2~12.1
+4182~2~4
+4182~2~Chahal to Shakib Al Hasan, FOUR runs, goes for the scoop straightaway and connects! Good length ball on leg stump, Shakib premeditates this somewhat and seizes the line clearing Pant with short fine leg in the ring.
+4182~2~
+4182~2~Regardless of how you interpreted an inside edge or not, it was a very risky/speculative review just on the height and line angling down leg. There was little chance of it being three reds. A poor review by Kohli when taking that into consideration and they get burned losing the review on Dar's interpretation of an edge.
+4182~2~
+4182~2~Chahal enters the attack. Over the stumps to Shakib with no slip.
+4182~2~END OF OVER:12 | 6 Runs | BDESH: 53/1 (262 runs required from 38 overs, RR: 4.41, RRR: 6.89)
+4182~2~
+4182~2~    Shakib Al Hasan7 (9b)
+4182~2~    Soumya Sarkar22 (32b)
+4182~2~
+4182~2~    Mohammed Shami3-0-14-1
+4182~2~    Jasprit Bumrah4-1-20-0
+4182~2~
+4182~2~
+4182~2~12.2
+4182~2~0
+4182~2~Chahal to Shakib Al Hasan, no run, good length ball on off and spinning in, defended on the back foot to midwicket.
+4182~2~
+4182~2~Leg slip comes in now.
+4182~2~
+4182~2~12.3
+4182~2~0
+4182~2~Chahal to Shakib Al Hasan, no run, fullish length on fourth stump, reaches forward to defend.
+4182~2~
+4182~2~12.4
+4182~2~2
+4182~2~Chahal to Shakib Al Hasan, 2 runs, short of a length pitching outside leg, goes back and flicks past leg slip through backward square.
+4182~2~
+4182~2~12.5
+4182~2~0
+4182~2~Chahal to Shakib Al Hasan, no run, fullish length on fourth stump, Shakib goes deep in his crease to defend.
+4182~2~
+4182~2~12.6
+4182~2~0
+4182~2~Chahal to Shakib Al Hasan, no run, full on middle and off, goes back again to defend to midwicket.
+4182~2~
+4182~2~13.1
+4182~2~4
+4182~2~Mohammed Shami to Soumya Sarkar, FOUR runs, fullish length ball on fourth stump, Soumya drives on the up and scoops this high over mid-off. Not timed that well but gets enough of it, one bounce over the rope.
+4182~2~
+4182~2~Dhoni jogs back on field after the over to take over again behind the stumps.
+4182~2~END OF OVER:13 | 6 Runs | BDESH: 59/1 (256 runs required from 37 overs, RR: 4.53, RRR: 6.91)
+4182~2~
+4182~2~    Shakib Al Hasan13 (15b)
+4182~2~    Soumya Sarkar22 (32b)
+4182~2~
+4182~2~    Yuzvendra Chahal1-0-6-0
+4182~2~    Mohammed Shami3-0-14-1
+4182~2~
+4182~2~
+4182~2~13.2
+4182~2~1
+4182~2~Mohammed Shami to Soumya Sarkar, 1 run, good length ball on fifth stump, enough width to guide a single to third man.
+4182~2~
+4182~2~13.3
+4182~2~0
+4182~2~Mohammed Shami to Shakib Al Hasan, no run, very full on off stump at 141 kph, Shakib tries to flick through midwicket, leading edge goes straight to ground through to extra cover.
+4182~2~
+4182~2~13.4
+4182~2~0
+4182~2~Mohammed Shami to Shakib Al Hasan, no run, bouncer on off stump, Shakib ducks under with ease.
+4182~2~
+4182~2~13.5
+4182~2~1
+4182~2~Mohammed Shami to Shakib Al Hasan, 1 run, attempted yorker overpitched on leg stump, flicked off the toes through square leg.
+4182~2~
+4182~2~13.6
+4182~2~4
+4182~2~Mohammed Shami to Soumya Sarkar, FOUR runs, short outside off on sixth stump at 140 kph, tennis racquet two-handed backhand swat over extra cover. Did Soumya spend the eve of the match down south at Wimbledon?
+4182~2~
+4182~2~14.1
+4182~2~0
+4182~2~Chahal to Shakib Al Hasan, no run, short of a length on leg stump and spinning down leg, Shakib backs away to flick behind square and misses.
+4182~2~
+4182~2~Akhil: "Kohli not taking a review had given England momentum at a critical stage in the previous match. I think he got carried away with it and that desperation clouded his judgment."
+4182~2~END OF OVER:14 | 10 Runs | BDESH: 69/1 (246 runs required from 36 overs, RR: 4.92, RRR: 6.83)
+4182~2~
+4182~2~    Soumya Sarkar31 (35b)
+4182~2~    Shakib Al Hasan14 (18b)
+4182~2~
+4182~2~    Mohammed Shami4-0-24-1
+4182~2~    Yuzvendra Chahal1-0-6-0
+4182~2~
+4182~2~
+4182~2~14.2
+4182~2~1
+4182~2~Chahal to Shakib Al Hasan, 1 run, good length on off stump spinning in, goes back and flicks through to long-on.
+4182~2~
+4182~2~14.3
+4182~2~1
+4182~2~Chahal to Soumya Sarkar, 1 run, floated full on fourth stump at 77 kph, leans forward to defend, inside edge squirts behind square wide of leg slip for a run. Soumya collides a touch with Chahal attempting to field a relay at the non-striker's end.
+4182~2~
+4182~2~14.4
+4182~2~0
+4182~2~Chahal to Shakib Al Hasan, no run, fullish length on fifth stump, Shakib goes to sweep and miscues this into the ground toward midwicket.
+4182~2~
+4182~2~14.5
+4182~2~1
+4182~2~Chahal to Shakib Al Hasan, 1 run, very full on sixth stump, Shakib slog sweeps flat along the ground to long-on.
+4182~2~
+4182~2~14.6
+4182~2~1
+4182~2~Chahal to Soumya Sarkar, 1 run, full and flat on middle stump at 86 kph, quickest ball of the over, goes back and clips through midwicket.
+4182~2~
+4182~2~Akhil, Dhoni was not present while taking the DRS. That also helped him to take the decision on his own. Last time with England also, he was willing to take the DRS."
+4182~2~
+4182~2~Hardik Pandya on for the first time today, bowling over the stumps with no slip.
+4182~2~END OF OVER:15 | 4 Runs | BDESH: 73/1 (242 runs required from 35 overs, RR: 4.86, RRR: 6.91)
+4182~2~
+4182~2~    Soumya Sarkar33 (37b)
+4182~2~    Shakib Al Hasan16 (22b)
+4182~2~
+4182~2~    Yuzvendra Chahal2-0-10-0
+4182~2~    Mohammed Shami4-0-24-1
+4182~2~
+4182~2~
+4182~2~15.1
+4182~2~1w
+4182~2~Pandya to Soumya Sarkar, 1 wide, short ball first up, too high, wide on height.
+4182~2~
+4182~2~Animesh Basak C: "
+4182~2~15.1
+4182~2~W
+4182~2~Pandya to Soumya Sarkar, OUT, half-tracker laced straight to extra cover! Very poor ball, short and wide angled across on sixth stump and going wider, sat up for Soumya to crank anywhere he wanted. He didn't keep it on the ground and didn't get the elevation either though. Kohli is standing 17 yards away on one of the used pitches on the square and latches onto this with a bunny hop reaching up at head height to his right. 7/10 on degree of difficulty coming at speed and at short range but a sitter for the Indian captain's standards.
+4182~2~
+4182~2~Soumya Sarkar c Kohli b Pandya 33 (67m 38b 4x4 0x6) SR: 86.84
+4182~2~
+4182~2~15.2
+4182~2~0
+4182~2~Pandya to Mushfiqur Rahim, no run, short of a length on middle at 137 kph, defended back to Hardik.
+4182~2~
+4182~2~Mushfiqur enters under pressure. Bangladesh win predictor drops from 36.96 to 29.25% after the wicket.
+4182~2~
+4182~2~15.3
+4182~2~0
+4182~2~Pandya to Mushfiqur Rahim, no run, fullish length on off stump, defended to short midwicket.
+4182~2~
+4182~2~15.4
+4182~2~0
+4182~2~Pandya to Mushfiqur Rahim, no run, short of a length on off stump, goes back to defend to midwicket.
+4182~2~
+4182~2~15.5
+4182~2~0
+4182~2~Pandya to Mushfiqur Rahim, no run, bouncer on leg stump at 137 kph, Mushfiqur is beaten hooking.
+4182~2~
+4182~2~15.6
+4182~2~1
+4182~2~Pandya to Mushfiqur Rahim, 1 run, fullish length on fifth stump, drives away from his body, very thick edge goes fine to third man on the rope.
+4182~2~
+4182~2~16.1
+4182~2~1
+4182~2~Chahal to Mushfiqur Rahim, 1 run, floated full on off stump, steps away to create room and drives to long-off.
+4182~2~
+4182~2~Arun: "Thats Karma for Sarkar.. He gets wickets for loose deliveries and now he got out to one :)"
+4182~2~
+4182~2~Slip in for Mushfiqur.
+4182~2~END OF OVER:16 | 2 Runs 1 Wkt | BDESH: 75/2 (240 runs required from 34 overs, RR: 4.68, RRR: 7.05)
+4182~2~
+4182~2~    Mushfiqur Rahim1 (5b)
+4182~2~    Shakib Al Hasan16 (22b)
+4182~2~
+4182~2~    Hardik Pandya1-0-2-1
+4182~2~    Yuzvendra Chahal2-0-10-0
+4182~2~
+4182~2~
+4182~2~16.2
+4182~2~1
+4182~2~Chahal to Shakib Al Hasan, 1 run, flighted full on middle stump, tickled off a thin edge/glove prodding forward with some extra bounce spinning in.
+4182~2~
+4182~2~Leg slip has disappeared for Shakib.
+4182~2~
+4182~2~16.3
+4182~2~1
+4182~2~Chahal to Mushfiqur Rahim, 1 run, flighted full on middle at 81 kph, drives a thick edge through point.
+4182~2~
+4182~2~16.4
+4182~2~0
+4182~2~Chahal to Shakib Al Hasan, no run, flatter and quicker a touch at 83 kph on middle and off, goes back to defend to midwicket.
+4182~2~
+4182~2~16.5
+4182~2~1
+4182~2~Chahal to Shakib Al Hasan, 1 run, floated a bit more on middle and off at the same speed, reaches forward to nudge this behind square.
+4182~2~
+4182~2~16.6
+4182~2~0
+4182~2~Chahal to Mushfiqur Rahim, no run, very full on middle stump at 86 kph, pushed back to Chahal's left.
+4182~2~
+4182~2~17.1
+4182~2~1
+4182~2~Pandya to Shakib Al Hasan, 1 run, good length ball on fourth stump at 133 kph, opens the face to glide this fine to third man.
+4182~2~END OF OVER:17 | 4 Runs | BDESH: 79/2 (236 runs required from 33 overs, RR: 4.64, RRR: 7.15)
+4182~2~
+4182~2~    Mushfiqur Rahim3 (8b)
+4182~2~    Shakib Al Hasan18 (25b)
+4182~2~
+4182~2~    Yuzvendra Chahal3-0-14-0
+4182~2~    Hardik Pandya1-0-2-1
+4182~2~
+4182~2~
+4182~2~17.2
+4182~2~0
+4182~2~Pandya to Mushfiqur Rahim, no run, good length ball on off stump, Mushfiqur tries to glide this behind point but picks out the fielder on the ring.
+4182~2~
+4182~2~17.3
+4182~2~2
+4182~2~Pandya to Mushfiqur Rahim, 2 runs, short on fifth stump, pulled in front of square wide of midwicket for a lengthy two. Thought about coming back for three briefly but good work by the sweeper.
+4182~2~
+4182~2~17.4
+4182~2~1
+4182~2~Pandya to Mushfiqur Rahim, 1 run, short ball on the stumps, pulled this time firmly to the man on the leg side boundary.
+4182~2~
+4182~2~17.5
+4182~2~4
+4182~2~Pandya to Shakib Al Hasan, FOUR runs, fullish length on fourth stump, drives at this and gets a thickish edge through where second slip might be. Goes fine past Dhoni and races to beat third man on the rope.
+4182~2~
+4182~2~Around the stumps now.
+4182~2~
+4182~2~17.6
+4182~2~1
+4182~2~Pandya to Shakib Al Hasan, 1 run, short on the body, pulled behind square to deep fine leg.
+4182~2~
+4182~2~18.1
+4182~2~0
+4182~2~Chahal to Shakib Al Hasan, no run, flighted full on off stump at 80 kph, goes for a slog and flubs this into the ground to midwicket.
+4182~2~END OF OVER:18 | 9 Runs | BDESH: 88/2 (227 runs required from 32 overs, RR: 4.88, RRR: 7.09)
+4182~2~
+4182~2~    Shakib Al Hasan24 (28b)
+4182~2~    Mushfiqur Rahim6 (11b)
+4182~2~
+4182~2~    Hardik Pandya2-0-11-1
+4182~2~    Yuzvendra Chahal3-0-14-0
+4182~2~
+4182~2~
+4182~2~18.2
+4182~2~0
+4182~2~Chahal to Shakib Al Hasan, no run, flighted outside off at 75 kph, draws Shakib out of the crease to flick but straight to midwicket.
+4182~2~
+4182~2~18.3
+4182~2~1
+4182~2~Chahal to Shakib Al Hasan, 1 run, flatter on leg stump at 89 kph, Shakib goes back to flick through square leg.
+4182~2~
+4182~2~18.4
+4182~2~4
+4182~2~Chahal to Mushfiqur Rahim, FOUR runs, flighted fullish on leg stump, flicked off the pads behind square. Fine leg ranges right and dives over the top of the ball to turn one into a boundary. Chahal with a double-tea pot staring at the fielder.
+4182~2~
+4182~2~18.5
+4182~2~4
+4182~2~Chahal to Mushfiqur Rahim, FOUR runs, slog sweep is sweet! Flighted on off stump on a fullish length, Mushfiqur attacks against the spin but times this to perfection high over midwicket, three bounces over the rope.
+4182~2~
+4182~2~18.6
+4182~2~1
+4182~2~Chahal to Mushfiqur Rahim, 1 run, flighted full on off, pushed into the covers off the front foot.
+4182~2~
+4182~2~19.1
+4182~2~1
+4182~2~Pandya to Mushfiqur Rahim, 1 run, fullish length on fourth stump angled in and guided behind point. Mushfiqur wanted two initially as it was quite square of deep third man, but slipped while turning at the non-striker's end.
+4182~2~END OF OVER:19 | 10 Runs | BDESH: 98/2 (217 runs required from 31 overs, RR: 5.15, RRR: 7.00)
+4182~2~
+4182~2~    Mushfiqur Rahim15 (14b)
+4182~2~    Shakib Al Hasan25 (31b)
+4182~2~
+4182~2~    Yuzvendra Chahal4-0-24-0
+4182~2~    Hardik Pandya2-0-11-1
+4182~2~
+4182~2~
+4182~2~19.2
+4182~2~0
+4182~2~Pandya to Shakib Al Hasan, no run, fullish length on fourth stump angled in from around the wicket, defended on the front foot to backward point.
+4182~2~
+4182~2~19.3
+4182~2~2
+4182~2~Pandya to Shakib Al Hasan, 2 runs, short and wide outside off, cut behind point, cut off by third man for a pair to bring up the Bangladesh hundred to muffled cheers from the sparse Bangladesh fans scattered around Edgbaston. Heavily pro India crowd as expected.
+4182~2~
+4182~2~19.4
+4182~2~1
+4182~2~Pandya to Shakib Al Hasan, 1 run, short and wide, cut behind point but might tighter to the third man fielder this time around so they can only get one.
+4182~2~
+4182~2~19.5
+4182~2~1
+4182~2~Pandya to Mushfiqur Rahim, 1 run, slower ball lands short on middle at 127 kph, Mushfiqur has to keep his hands back for a beat before continuing with a paddle pull behind square.
+4182~2~
+4182~2~19.6
+4182~2~1
+4182~2~Pandya to Shakib Al Hasan, 1 run, short of a length on fifth stump, cut behind point to the sweeper.
+4182~2~
+4182~2~20.1
+4182~2~0
+4182~2~Chahal to Shakib Al Hasan, no run, chips down the wicket, and mistimes a flick on to his boot. Luckily it doesn't go back to Dhoni
+4182~2~
+4182~2~Thanks Peter
+4182~2~END OF OVER:20 | 6 Runs | BDESH: 104/2 (211 runs required from 30 overs, RR: 5.20, RRR: 7.03)
+4182~2~
+4182~2~    Shakib Al Hasan29 (35b)
+4182~2~    Mushfiqur Rahim17 (16b)
+4182~2~
+4182~2~    Hardik Pandya3-0-17-1
+4182~2~    Yuzvendra Chahal4-0-24-0
+4182~2~
+4182~2~Debayan is back to sift through all your DRS consternations and provide a bit of descriptions too.
+4182~2~
+4182~2~20.2
+4182~2~0
+4182~2~Chahal to Shakib Al Hasan, no run, tossed up around off stump, and he flicks this away close to square leg
+4182~2~
+4182~2~20.3
+4182~2~0
+4182~2~Chahal to Shakib Al Hasan, no run, tossed up, he allows it to turn across him from off, and dabs this down towards short fine leg
+4182~2~
+4182~2~20.4
+4182~2~1
+4182~2~Chahal to Shakib Al Hasan, 1 run, fuller, and he can drive this past midwicket towards wide long on
+4182~2~
+4182~2~20.5
+4182~2~1
+4182~2~Chahal to Mushfiqur Rahim, 1 run, goes back and cuts a length ball towards deep point
+4182~2~
+4182~2~Anil: "This is where Kohli lacks captaincy skills... bumrah bhuvanesh and shami should bowl now... especially bumrah. That's what Finch does....the moment the best batsman or pair comes to the crease Finch will bring Starc his best attacking option."
+4182~2~
+4182~2~20.6
+4182~2~1
+4182~2~Chahal to Shakib Al Hasan, 1 run, uses his feet to get closer to a length ball, and drives him down to long on
+4182~2~
+4182~2~21.1
+4182~2~4
+4182~2~Pandya to Shakib Al Hasan, FOUR runs, thrown wide, and he flays this through the point region. Hit so hard, gave third man really no chance of getting there!
+4182~2~END OF OVER:21 | 3 Runs | BDESH: 107/2 (208 runs required from 28.5 overs, RR: 5.09, RRR: 7.17)
+4182~2~
+4182~2~    Shakib Al Hasan31 (40b)
+4182~2~    Mushfiqur Rahim18 (17b)
+4182~2~
+4182~2~    Yuzvendra Chahal5-0-27-0
+4182~2~    Hardik Pandya3-0-17-1
+4182~2~
+4182~2~The semifinals of the 2019 Women's World Cup kick off in a short while, and someone who hopes to reach that stage one day is the poster girl for Indian women's football, Dalima Chhibber. This is the story of her magical right foot, and her arduous journey to the top of the Indian game
+4182~2~
+4182~2~21.2
+4182~2~1
+4182~2~Pandya to Shakib Al Hasan, 1 run, length, angles into him, and he steers this late towards third man
+4182~2~
+4182~2~21.3
+4182~2~1
+4182~2~Pandya to Mushfiqur Rahim, 1 run, fuller, wider, and he drives this past point towards the man in the deep
+4182~2~
+4182~2~Shyam: "Anil, Finch only has starc as a wicket taking option. Kohli has 4 at his disposal. Considering the ground dimensions he needs to use chahal only from one end. So just be patient. This match is in India's hands."
+4182~2~
+4182~2~anil, finch is the best captain of this WC19..."
+4182~2~
+4182~2~21.4
+4182~2~1
+4182~2~Pandya to Shakib Al Hasan, 1 run, fuller, straight, and he ticks this off his pads towards Rishabh Pant at midwicket
+4182~2~
+4182~2~Vivek: "
+4182~2~21.5
+4182~2~1
+4182~2~Pandya to Mushfiqur Rahim, 1 run, short, and he rolls his wrists to keep a hook down. Goes to the left of long leg, and the fielder there chases this hard and keeps them down to just one
+4182~2~
+4182~2~21.6
+4182~2~1
+4182~2~Pandya to Shakib Al Hasan, 1 run, length, angles into him, and he flicks him from the crease towards deep square leg
+4182~2~
+4182~2~Andrew: "The road here onwards will be quite tough for India as teams like Bangladesh & Afghanistan show they can handle Indian pace/spin, the stronger teams will take confidence from that. India will have to pull one out their hat if they want to reach the finals. "
+4182~2~
+4182~2~22.1
+4182~2~0
+4182~2~Chahal to Shakib Al Hasan, no run, length, turns into him, and grips a bit. He looks to flick, but gets a leading edge. It pops up, but lands short of the man at point, running to his left
+4182~2~
+4182~2~Sumit chawla : "Shakib is currently man of the tournament candidate" --- Reminiscent of Lance Klusener from 20 overs ago
+4182~2~
+4182~2~Akhil: "Double teapot gesture? I thank Martin Williamson and his amazing textbook 'A glossary of cricket terms' for making less a lesser illiterate."
+4182~2~END OF OVER:22 | 9 Runs | BDESH: 116/2 (199 runs required from 28 overs, RR: 5.27, RRR: 7.10)
+4182~2~
+4182~2~    Shakib Al Hasan38 (44b)
+4182~2~    Mushfiqur Rahim20 (19b)
+4182~2~
+4182~2~    Hardik Pandya4-0-26-1
+4182~2~    Yuzvendra Chahal5-0-27-0
+4182~2~
+4182~2~
+4182~2~22.2
+4182~2~1
+4182~2~Chahal to Shakib Al Hasan, 1 run, fuller, and he thwacks this across the line towards deep midwicket
+4182~2~
+4182~2~22.3
+4182~2~0
+4182~2~Chahal to Mushfiqur Rahim, no run, tossed up, turns away, and he leaves after watching this closely
+4182~2~
+4182~2~Lakshman: "Mushfiqur Rahim's first 20 balls is a lesson on how to approach an ODI innings. Cracking finisher as well. "
+4182~2~
+4182~2~22.4
+4182~2~4
+4182~2~Chahal to Mushfiqur Rahim, FOUR runs, length, and he waits, and then cuts this away backward of point. Played late, and beautifully met! Short third man chases, but in vain
+4182~2~
+4182~2~22.5
+4182~2~0
+4182~2~Chahal to Mushfiqur Rahim, no run, fired in a bit wider, and he looks to cut this fine again, but cannot beat short third man this time
+4182~2~
+4182~2~22.6
+4182~2~W
+4182~2~Chahal to Mushfiqur Rahim, OUT, conventional sweep, but he cannot keep this down! Tossed up, and he goes for the slog sweep, but the bit of grip on this ball means it goes straight towards Shami at midwicket. Big wicket this for India to have plucked at this stage, just as the partnership was approaching fifty!
+4182~2~
+4182~2~Mushfiqur Rahim c Mohammed Shami b Chahal 24 (29m 23b 3x4 0x6) SR: 104.34
+4182~2~
+4182~2~23.1
+4182~2~1
+4182~2~Mohammed Shami to Shakib Al Hasan, 1 run, angles in from a length, and he flicks this down towards long leg
+4182~2~
+4182~2~In comes Liton Das, and Kohli turns to Shami, who starts from around the wicket
+4182~2~END OF OVER:23 | 5 Runs 1 Wkt | BDESH: 121/3 (194 runs required from 162 balls, RR: 5.26, RRR: 7.18)
+4182~2~
+4182~2~    Shakib Al Hasan39 (46b)
+4182~2~
+4182~2~    Yuzvendra Chahal6-0-32-1
+4182~2~    Hardik Pandya4-0-26-1
+4182~2~
+4182~2~
+4182~2~Lakshman : I can't thank you enough ."
+4182~2~
+4182~2~23.2
+4182~2~0
+4182~2~Mohammed Shami to Liton Das, no run, dug in short, and Das looks to have a nibble at this, but cannot reach it. That went at 142kph, and Das looks around to see if he can get a wide for that. No such signal
+4182~2~
+4182~2~Kishore : "
+4182~2~23.3
+4182~2~0
+4182~2~Mohammed Shami to Liton Das, no run, short again, and this time he withdraws his wrists well in time
+4182~2~
+4182~2~23.4
+4182~2~1
+4182~2~Mohammed Shami to Liton Das, 1 run, length, and he plays it off off stump towards third man with an open face of the blade
+4182~2~
+4182~2~Arkam: "Where are the people making the Finch comparisons now that Kohli brings Shami in at opportune time?"
+4182~2~
+4182~2~23.5
+4182~2~1
+4182~2~Mohammed Shami to Shakib Al Hasan, 1 run, length ball, outside off, and he steers it to third man
+4182~2~
+4182~2~Rahul: "What is it with Indian players giving a send off to players after taking their wicket? I have not seen from any other team like that. Sets a bad precedent!! "
+4182~2~
+4182~2~23.6
+4182~2~1
+4182~2~Mohammed Shami to Liton Das, 1 run, fuller, wider, and he can drive this towards deep point
+4182~2~
+4182~2~"Forecaster following Mushfiqur's wicket has fallen from 37.69 to 28.39," says Saurabh Somani about the value of Mushfiq's wicket
+4182~2~
+4182~2~24.1
+4182~2~0
+4182~2~Chahal to Liton Das, no run, flighted, and he drives, but cannot beat point
+4182~2~
+4182~2~Sanjay: "I have nothing but respect for Shakib after this World Cup. He has put in phenomenal work and should be known as one of the all time best in cricket."
+4182~2~END OF OVER:24 | 4 Runs | BDESH: 125/3 (190 runs required from 26 overs, RR: 5.20, RRR: 7.30)
+4182~2~
+4182~2~    Liton Das2 (4b)
+4182~2~    Shakib Al Hasan41 (48b)
+4182~2~
+4182~2~    Mohammed Shami5-0-28-1
+4182~2~    Yuzvendra Chahal6-0-32-1
+4182~2~
+4182~2~
+4182~2~24.2
+4182~2~0
+4182~2~Chahal to Liton Das, no run, wrong 'un, spins in from outside off, and Das defends towards point
+4182~2~
+4182~2~Slip in for Das when he faces Chahal
+4182~2~
+4182~2~24.3
+4182~2~1
+4182~2~Chahal to Liton Das, 1 run, shuffles across and sweeps a length ball, picks out the man guarding the deep square leg fence
+4182~2~
+4182~2~24.4
+4182~2~0
+4182~2~Chahal to Shakib Al Hasan, no run, skips down the wicket, but ends up yorking himself. Can only drive this back towards Chahal
+4182~2~
+4182~2~24.5
+4182~2~0
+4182~2~Chahal to Shakib Al Hasan, no run, goes back and plays a wrong 'un towards midwicket
+4182~2~
+4182~2~Vikram Chakrava: "Although 2 different players, but is Pant watching Shakib Al Hassan bat? Something to learn from!!"
+4182~2~
+4182~2~24.6
+4182~2~1
+4182~2~Chahal to Shakib Al Hasan, 1 run, tossed up, and he can drive this with the turn towards wide long on
+4182~2~
+4182~2~25.1
+4182~2~1
+4182~2~Mohammed Shami to Shakib Al Hasan, 1 run, straight, length ball from around the wicket, and he can flick this towards deep square leg
+4182~2~
+4182~2~A wide slip now there for Shakib for that tickle down to third man
+4182~2~
+4182~2~India were 162 without loss at this stage. Things got tougher to score from here
+4182~2~END OF OVER:25 | 2 Runs | BDESH: 127/3 (188 runs required from 25 overs, RR: 5.08, RRR: 7.52)
+4182~2~
+4182~2~    Shakib Al Hasan42 (51b)
+4182~2~    Liton Das3 (7b)
+4182~2~
+4182~2~    Yuzvendra Chahal7-0-34-1
+4182~2~    Mohammed Shami5-0-28-1
+4182~2~
+4182~2~WATCH on Hotstar (India only): Mustafizur Rahman's wickets
+4182~2~
+4182~2~25.2
+4182~2~1
+4182~2~Mohammed Shami to Liton Das, 1 run, length, outside off, and he punches this towards sweeper cover
+4182~2~
+4182~2~25.3
+4182~2~1lb
+4182~2~Mohammed Shami to Shakib Al Hasan, 1 leg bye, full ball, and he shapes to flick but gets struck on the pads as that slants across him. A leg-bye towards square leg
+4182~2~
+4182~2~Manoj Naidu: "That link, note and story about Dalima Chibber is why I (and all of us) love cricinfo along with all the usual reasons. Thanks for giving me that insight into her life and into Indian Womens football."
+4182~2~
+4182~2~25.4
+4182~2~0
+4182~2~Mohammed Shami to Liton Das, no run, full ball, on off stump, and he skews an intended drive towards mid on
+4182~2~
+4182~2~25.5
+4182~2~2
+4182~2~Mohammed Shami to Liton Das, 2 runs, short, and very good placement, and KL Rahul makes a super stop at deep square leg! Rolls his wrists to keep this down and get it well to the left of fine leg, but Rahul runs in and makes a good stop
+4182~2~
+4182~2~Surya Teja: "This partnership is going to be very crucial for Bangladesh's chase. They chased 300+ total in this WC against Windies. If India can break this partnership, then it's game over for Bangladesh!"
+4182~2~
+4182~2~25.6
+4182~2~1
+4182~2~Mohammed Shami to Liton Das, 1 run, taps a length ball down to third man for an easy single
+4182~2~
+4182~2~26.1
+4182~2~2
+4182~2~Kumar to Liton Das, 2 runs, length, and he punches this off the back foot past point. Easy two on offer as the man at deep point has to run to his left and field
+4182~2~
+4182~2~Bhuvi is back
+4182~2~
+4182~2~Rajesh Satya V : "Close your eyes and trust Indian bowlers. They are the most consistent unit of the world" --- Yes, their bowling has definitely been a strength
+4182~2~END OF OVER:26 | 6 Runs | BDESH: 133/3 (182 runs required from 24 overs, RR: 5.11, RRR: 7.58)
+4182~2~
+4182~2~    Liton Das7 (11b)
+4182~2~    Shakib Al Hasan43 (53b)
+4182~2~
+4182~2~    Mohammed Shami6-0-33-1
+4182~2~    Yuzvendra Chahal7-0-34-1
+4182~2~
+4182~2~
+4182~2~26.2
+4182~2~0
+4182~2~Kumar to Liton Das, no run, length, and he cuts this hard, but cannot beat DK fielding at point
+4182~2~
+4182~2~26.3
+4182~2~2
+4182~2~Kumar to Liton Das, 2 runs, length, angling into him, and he punches this towards mid off. Bumrah needs to get a direct hit to put pressure on Das, but misses! What's more...there's nobody backing up close to the wicket, and they can come back for the second. Kohli isn't pleased one bit
+4182~2~
+4182~2~John: "Teams like Bangladesh and (Afghanistan) should no longer be considered minnows; the current players grew up watching and imitating the same subcontinent heroes of the late 90s and 2000s that the current generation of all other international teams did, perfecting their technique with the same rigour and intensity that others did. As a result, and with the experience and exposure over the last few years playing competitive and high-quality cricket, they are as good as any other team on their day."
+4182~2~
+4182~2~26.4
+4182~2~0
+4182~2~Kumar to Liton Das, no run, length, punched towards point
+4182~2~
+4182~2~26.5
+4182~2~2
+4182~2~Kumar to Liton Das, 2 runs, short, cutter, and he uses the pace on offer to steer this past point and way to the right of Bumrah at third man. Easy two before Bumrah can complete that familiar 'hop, skip, jump and release' the ball routine
+4182~2~
+4182~2~26.6
+4182~2~0
+4182~2~Kumar to Liton Das, no run, length, a bit of shape away from the bat. Das looks to drive, but is beaten by the late movement!
+4182~2~
+4182~2~27.1
+4182~2~0
+4182~2~Pandya to Shakib Al Hasan, no run, full ball, and he looks to flick this, but cannot make adequate contact. A bit of excitement from the bowler, but that was headed down the leg side
+4182~2~
+4182~2~Pandya, around the wicket
+4182~2~END OF OVER:27 | 6 Runs | BDESH: 139/3 (176 runs required from 23 overs, RR: 5.14, RRR: 7.65)
+4182~2~
+4182~2~    Liton Das13 (17b)
+4182~2~    Shakib Al Hasan43 (53b)
+4182~2~
+4182~2~    Bhuvneshwar Kumar6-0-24-0
+4182~2~    Mohammed Shami6-0-33-1
+4182~2~
+4182~2~
+4182~2~27.2
+4182~2~0
+4182~2~Pandya to Shakib Al Hasan, no run, full ball, and he crunches this back down the ground, but Pandya does well to get his fingertips to it as it comes back at him on the bounce
+4182~2~
+4182~2~27.3
+4182~2~1
+4182~2~Pandya to Shakib Al Hasan, 1 run, short, slower cutter, and he waits on it and sends it out towards deep midwicket. Appeal for a run-out! Sent back, and just in time. That was to the right of Chahal, and to be fair, there probably were two in it, but Shakib hesisated a bit. Das had to quickly turn back and just about makes his ground with a dive
+4182~2~
+4182~2~27.4
+4182~2~1
+4182~2~Pandya to Liton Das, 1 run, full, straight, and he drives this down to the left of mid on and takes off for a quick single
+4182~2~
+4182~2~27.5
+4182~2~4
+4182~2~Pandya to Shakib Al Hasan, FOUR runs, oh, lucky boundary! Length ball, and he flays this hard, but should have been stopped by Karthik. Hit one of the side pitches, and that may have thrown him off. Takes off, eludes Karthik and also beats mid off
+4182~2~
+4182~2~Bangladesh's win probability is hovering around the 28-30% mark. They're doing well to not let the target get out of sight!
+4182~2~
+4182~2~27.6
+4182~2~2
+4182~2~Pandya to Shakib Al Hasan, 2 runs, cuts away a length ball, and calls for two towards deep point! Gets two, and that's another half-century for Shakib!
+4182~2~
+4182~2~28.1
+4182~2~1
+4182~2~Kumar to Liton Das, 1 run, length, angles into him, and he places this between mid on and midwicket
+4182~2~END OF OVER:28 | 8 Runs | BDESH: 147/3 (168 runs required from 22 overs, RR: 5.25, RRR: 7.63)
+4182~2~
+4182~2~    Shakib Al Hasan50 (58b)
+4182~2~    Liton Das14 (18b)
+4182~2~
+4182~2~    Hardik Pandya5-0-34-1
+4182~2~    Bhuvneshwar Kumar6-0-24-0
+4182~2~
+4182~2~
+4182~2~28.2
+4182~2~2
+4182~2~Kumar to Shakib Al Hasan, 2 runs, length, down the leg side, and he flicks towards long leg. They go up for the run out as he comes back for two!. The throw was a quick one, but before Kohli could whip the bails off at the striker's end, Shakib had put in a dive, that saved him quite comfortably in the end. The Indians celebrate, but have to curtail it once they see the replays
+4182~2~
+4182~2~28.3
+4182~2~1
+4182~2~Kumar to Shakib Al Hasan, 1 run, length, and punched down the ground towards long off
+4182~2~
+4182~2~28.4
+4182~2~1
+4182~2~Kumar to Liton Das, 1 run, length, but at the pads, and he can flick this away to the left of deep square leg
+4182~2~
+4182~2~28.5
+4182~2~2
+4182~2~Kumar to Shakib Al Hasan, 2 runs, short, and he forces this away beyond midwicket. The man in the deep has to run around to his left, manning the longer portion of the ground, and that allows them to come back for two
+4182~2~
+4182~2~Waji: "This game will be over when Shakib says IT'S OVER!! What an outstanding Cricketer he's evolved into over the years!"
+4182~2~
+4182~2~28.6
+4182~2~2
+4182~2~Kumar to Shakib Al Hasan, 2 runs, dug in short, and he jumps away and places this to the right of fine leg. Excellent commitment from Pandya, who dives to his right, and relays that to the man from deep square leg!
+4182~2~
+4182~2~29.1
+4182~2~0
+4182~2~Pandya to Liton Das, no run, length, and he looks to slap this across the line but misses. Rapped on the pads, but the angle and height counting against Pandya
+4182~2~
+4182~2~India were at 181 for 1 after 30 overs. Bangladesh are doing well to stay within sight of all those landmarks
+4182~2~END OF OVER:29 | 9 Runs | BDESH: 156/3 (159 runs required from 21 overs, RR: 5.37, RRR: 7.57)
+4182~2~
+4182~2~    Shakib Al Hasan57 (62b)
+4182~2~    Liton Das16 (20b)
+4182~2~
+4182~2~    Bhuvneshwar Kumar7-0-33-0
+4182~2~    Hardik Pandya5-0-34-1
+4182~2~
+4182~2~
+4182~2~29.2
+4182~2~6
+4182~2~Pandya to Liton Das, SIX runs, PICK THE BONES FROM THIS ONE! It's no more than a length ball around off and middle, and he just whacks this on the up towards long on. Never intended to keep this down...never needed to!
+4182~2~
+4182~2~29.3
+4182~2~0
+4182~2~Pandya to Liton Das, no run, length, and he flicks this away towards midwicket. Cannot beat the fieldsman there
+4182~2~
+4182~2~29.4
+4182~2~W
+4182~2~Pandya to Liton Das, OUT, SHORT BALL DOES THE TRICK! Pandya has two, as he digs this into the pitch, and Das takes him on with the pull, and can only get it as far as midwicket. Kohli is pumped as India make yet another inroad. The benefit of having played on this pitch only about 48 hours ago paying off with the Indians
+4182~2~
+4182~2~Liton Das c Karthik b Pandya 22 (31m 24b 0x4 1x6) SR: 91.66
+4182~2~
+4182~2~Joynul : "Shakib is playing his heart out. I have never seen such dedication. Most Closely comes to mind is Kohli. "
+4182~2~
+4182~2~29.5
+4182~2~1
+4182~2~Pandya to Mosaddek Hossain, 1 run, short on fourth stump, goes back to guide this to third man.
+4182~2~
+4182~2~Thanks Debayan. Forecaster has gone from 32.5% to 25.09% after Liton's wicket. Mosaddek in. No slip.
+4182~2~
+4182~2~More for the next phase of play with Peter Della Penna
+4182~2~
+4182~2~29.6
+4182~2~0
+4182~2~Pandya to Shakib Al Hasan, no run, short of a length outside off on sixth stump, slapped off the back foot to extra cover, fielded on one bounce.
+4182~2~
+4182~2~Tashfiq: "Bangladesh really missing Mahmudullah now."
+4182~2~
+4182~2~Wide slip/gully in for Shakib. Around the stumps.
+4182~2~
+4182~2~30.1
+4182~2~0
+4182~2~Bumrah to Mosaddek Hossain, no run, good length ball angled into off stump, defended to backward point.
+4182~2~
+4182~2~Bumrah replaces Bhuvi. One slip in now for Mosaddek. Bangladesh have slipped from 3/1 to 7/1 on the London high street after that wicket.
+4182~2~END OF OVER:30 | 7 Runs 1 Wkt | BDESH: 163/4 (152 runs required from 20 overs, RR: 5.43, RRR: 7.60)
+4182~2~
+4182~2~    Shakib Al Hasan57 (63b)
+4182~2~    Mosaddek Hossain1 (1b)
+4182~2~
+4182~2~    Hardik Pandya6-0-41-2
+4182~2~    Bhuvneshwar Kumar7-0-33-0
+4182~2~
+4182~2~
+4182~2~30.2
+4182~2~1
+4182~2~Bumrah to Mosaddek Hossain, 1 run, good length ball on fourth stump, guided well wide of slip to third man.
+4182~2~
+4182~2~30.3
+4182~2~4
+4182~2~Bumrah to Shakib Al Hasan, FOUR runs, short of a length on sixth stump, too much width and he frees his arms to cut a bottom edge well wide of Dhoni, skittles through third man to the rope.
+4182~2~
+4182~2~Around the stumps to Shakib. No slip.
+4182~2~
+4182~2~30.4
+4182~2~0
+4182~2~Bumrah to Shakib Al Hasan, no run, slower ball wide yorker on fifth stump at 104 kph, Shakib keeps his hands back barely to stab this out back to Bumrah.
+4182~2~
+4182~2~30.5
+4182~2~1
+4182~2~Bumrah to Shakib Al Hasan, 1 run, fullish length on fourth stump at 142 kph, guided with soft hands to third man.
+4182~2~
+4182~2~30.6
+4182~2~0
+4182~2~Bumrah to Mosaddek Hossain, no run, yorker on off stump at 146 kph, dug out to backward point.
+4182~2~
+4182~2~31.1
+4182~2~0
+4182~2~Pandya to Shakib Al Hasan, no run, short on fifth stump at 133 kph, goes to pull but miscues this into the pitch and fielded by Hardik in his follow-through.
+4182~2~
+4182~2~Anand Santhanak: "I think Shakib should be rated among the game's all time best all rounders with the likes of Imran, Botham, Hadlee, Kapil, Wasim Akram, Jacques Kallis, Chris Cairns. But Shakib has one speciality. The rest had other batsmen to rally around. Shakib has to do it single handedly!!"
+4182~2~END OF OVER:31 | 6 Runs | BDESH: 169/4 (146 runs required from 19 overs, RR: 5.45, RRR: 7.68)
+4182~2~
+4182~2~    Mosaddek Hossain2 (4b)
+4182~2~    Shakib Al Hasan62 (66b)
+4182~2~
+4182~2~    Jasprit Bumrah5-1-26-0
+4182~2~    Hardik Pandya6-0-41-2
+4182~2~
+4182~2~
+4182~2~31.2
+4182~2~1
+4182~2~Pandya to Shakib Al Hasan, 1 run, fullish length angled down leg stump at 126 kph, flicked off the pads behind square.
+4182~2~
+4182~2~31.3
+4182~2~1
+4182~2~Pandya to Mosaddek Hossain, 1 run, slower ball on a fullish length wide outside off on 7th stump at 124 kph, Mosaddek struggles to keep the hands back, stabs a checked drive that loops over cover into no man's land before bouncing to the sweeper.
+4182~2~
+4182~2~31.4
+4182~2~0
+4182~2~Pandya to Shakib Al Hasan, no run, short on fourth stump, cut straight to backward point.
+4182~2~
+4182~2~31.5
+4182~2~1
+4182~2~Pandya to Shakib Al Hasan, 1 run, short on the stumps, pulled through midwicket hopping onto the back foot.
+4182~2~
+4182~2~31.6
+4182~2~0
+4182~2~Pandya to Mosaddek Hossain, no run, bouncer on off, bottom-edges this pull but the ball has the pace taken off and flutters into the ground about a foot in front of Dhoni.
+4182~2~
+4182~2~32.1
+4182~2~1
+4182~2~Bumrah to Shakib Al Hasan, 1 run, yorker length on leg stump, flicked behind square.
+4182~2~
+4182~2~Kamlesh: "What England would be thinking about Shakib? Applying for his English citizenship?" Shakib's wife is American. USA would be more than happy to have him be a dual-passport holder now that they have ODI status!
+4182~2~END OF OVER:32 | 3 Runs | BDESH: 172/4 (143 runs required from 18 overs, RR: 5.37, RRR: 7.94)
+4182~2~
+4182~2~    Mosaddek Hossain3 (6b)
+4182~2~    Shakib Al Hasan64 (70b)
+4182~2~
+4182~2~    Hardik Pandya7-0-44-2
+4182~2~    Jasprit Bumrah5-1-26-0
+4182~2~
+4182~2~
+4182~2~32.2
+4182~2~W
+4182~2~Bumrah to Mosaddek Hossain, OUT, drag on via the offcutter! Bumrah rolls his fingers over at 119 kph getting this to land on a good length on about a fifth stump line. Mosaddek wanted to run this with an open face down to third man but he's a touch out in front of the ball not accounting for the change of pace and the ball caroms off the inside bottom edge back onto the stumps.
+4182~2~
+4182~2~Mosaddek Hossain b Bumrah 3 (13m 7b 0x4 0x6) SR: 42.85
+4182~2~
+4182~2~32.3
+4182~2~4
+4182~2~Bumrah to Sabbir Rahman, FOUR runs, edge first ball but no slip! Bumrah hustled him with a short ball, played awkwardly off the back foot but guided wide enough of Dhoni and plenty fine of third man to the rope.
+4182~2~
+4182~2~Sabbir Rahman enters with Shakib slowly running out of partners. Bangladesh win predictor has dipped below 20% according to Saurabh Somani. No slip in place for Sabbir.
+4182~2~
+4182~2~32.4
+4182~2~0
+4182~2~Bumrah to Sabbir Rahman, no run, follows the short ball with the yorker on middle stump, stabbed out.
+4182~2~
+4182~2~32.5
+4182~2~0
+4182~2~Bumrah to Sabbir Rahman, no run, good length ball on middle, defended to cover.
+4182~2~
+4182~2~32.6
+4182~2~0
+4182~2~Bumrah to Sabbir Rahman, no run, short of a length angled into leg stump, tries to flick this off his hips but is through the shot early, leading edge loops just wide of Bumrah going left in his follow-through.
+4182~2~
+4182~2~33.1
+4182~2~1
+4182~2~Pandya to Shakib Al Hasan, 1 run, short of a length angled into off stump, opens the face to run a single to third man. His wagon wheel is dominated there today. Hardly anything on the off-side in front of square.
+4182~2~END OF OVER:33 | 5 Runs 1 Wkt | BDESH: 177/5 (138 runs required from 17 overs, RR: 5.36, RRR: 8.11)
+4182~2~
+4182~2~    Sabbir Rahman4 (4b)
+4182~2~    Shakib Al Hasan65 (71b)
+4182~2~
+4182~2~    Jasprit Bumrah6-1-31-1
+4182~2~    Hardik Pandya7-0-44-2
+4182~2~
+4182~2~
+4182~2~33.2
+4182~2~0
+4182~2~Pandya to Sabbir Rahman, no run, slower ball at 122 kph lands on a fullish length on off stump, defended to extra cover.
+4182~2~
+4182~2~33.3
+4182~2~1
+4182~2~Pandya to Sabbir Rahman, 1 run, short of a length drifting onto the legs, clipped behind square to deep fine leg.
+4182~2~
+4182~2~33.4
+4182~2~0
+4182~2~Pandya to Shakib Al Hasan, no run, short ball on fifth stump, tennis ball bounce at 127 kph and Shakib leaps to hook but misses.
+4182~2~
+4182~2~Puneeth: "First ball of Shabbir Rehman, Bumrah bolwing,..team is in a very good position but dear respected captain..WHERE IS THE SLIP????"
+4182~2~
+4182~2~Around the stumps to Shakib.
+4182~2~
+4182~2~33.5
+4182~2~W
+4182~2~Pandya to Shakib Al Hasan, OUT, the change of pace foxes yet another Bangladesh batsman! Fullish length at 122 kph, offcutter angled into middle and leg stump, Shakib was backing away to create room but couldn't keep his hands back enough to wait for the pace off the ball, checks his shot and the ball balloons off somewhat of a leading edge toward Karthik on the ring at extra cover. He takes three steps in and pouches the catch at thigh height. Bangladesh's semi-final hopes have been submarined by Hardik in this chase.
+4182~2~
+4182~2~Shakib Al Hasan c Karthik b Pandya 66 (111m 74b 6x4 0x6) SR: 89.18
+4182~2~
+4182~2~33.6
+4182~2~0
+4182~2~Pandya to Mohammad Saifuddin, no run, good length on off stump, goes back to defend at 130 kph and a thick edge flies short of point.
+4182~2~
+4182~2~Stays around the stumps with no slip.
+4182~2~
+4182~2~34.1
+4182~2~0
+4182~2~Bumrah to Sabbir Rahman, no run, fullish length on middle stump, defended to midwicket.
+4182~2~END OF OVER:34 | 2 Runs 1 Wkt | BDESH: 179/6 (136 runs required from 16 overs, RR: 5.26, RRR: 8.50)
+4182~2~
+4182~2~    Mohammad Saifuddin0 (1b)
+4182~2~    Sabbir Rahman5 (6b)
+4182~2~
+4182~2~    Hardik Pandya8-0-46-3
+4182~2~    Jasprit Bumrah6-1-31-1
+4182~2~
+4182~2~
+4182~2~34.2
+4182~2~0
+4182~2~Bumrah to Sabbir Rahman, no run, Sabbir charges Bumrah, who drags the length back with a cutter at 120 kph and adjusts the line well outside off stump, Sabbir way out in front flailing with his head flying up.
+4182~2~
+4182~2~34.3
+4182~2~1
+4182~2~Bumrah to Sabbir Rahman, 1 run, attempted yorker on middle stump, dug out to mid-on.
+4182~2~
+4182~2~34.4
+4182~2~1
+4182~2~Bumrah to Mohammad Saifuddin, 1 run, full on the legs at 145 kph, clipped behind square.
+4182~2~
+4182~2~Slip in now. Around the stumps.
+4182~2~
+4182~2~34.5
+4182~2~0
+4182~2~Bumrah to Sabbir Rahman, no run, good length ball on fifth stump at 143 kph, tries to run this to third man. Bottom edge just wide of off stump stopped by Dhoni. Identical shot that saw Mosaddek back to the pavilion.
+4182~2~
+4182~2~34.6
+4182~2~1
+4182~2~Bumrah to Sabbir Rahman, 1 run, short and wide way outside off, cuts straight to the point sweeper.
+4182~2~
+4182~2~35.1
+4182~2~1w
+4182~2~Pandya to Sabbir Rahman, 1 wide, bouncer wide outside off, called a wide on height.
+4182~2~END OF OVER:35 | 3 Runs | BDESH: 182/6 (133 runs required from 15 overs, RR: 5.20, RRR: 8.86)
+4182~2~
+4182~2~    Sabbir Rahman7 (11b)
+4182~2~    Mohammad Saifuddin1 (2b)
+4182~2~
+4182~2~    Jasprit Bumrah7-1-34-1
+4182~2~    Hardik Pandya8-0-46-3
+4182~2~
+4182~2~
+4182~2~35.1
+4182~2~4
+4182~2~Pandya to Sabbir Rahman, FOUR runs, short on middle stump, pulled behind square. Deep fine leg runs across to cut this off, Bumrah. Instead of sliding he tries to reach down while in stride and makes a clumsy fumble knocking this over the rope. He's down on the ground now flat on his back and the physio sprints out.
+4182~2~
+4182~2~35.2
+4182~2~0
+4182~2~Pandya to Sabbir Rahman, no run, fullish length on the stumps at 124 kph, defended back to Hardik.
+4182~2~
+4182~2~Bumrah has to leave the field. Looks precautionary more than anything but the last thing any Indian fan wants to see. He's now tugging gingerly at his right shoulder. Jadeja on as a sub.
+4182~2~
+4182~2~35.3
+4182~2~2
+4182~2~Pandya to Sabbir Rahman, 2 runs, short ball on fourth stump, leaps onto his toes to pull behind square, well wide of deep fine leg and they get an easy two.
+4182~2~
+4182~2~Rahul: "Hardhik Pandya shows his worth as an all-rounder. A duck with the bat today but golden with his bowling. Great asset to this Indian team."
+4182~2~
+4182~2~35.4
+4182~2~0
+4182~2~Pandya to Sabbir Rahman, no run, slower ball full on off stump at 127 kph, defended back down the pitch.
+4182~2~
+4182~2~35.5
+4182~2~1
+4182~2~Pandya to Sabbir Rahman, 1 run, short ball on off stump at 132 kph, flat batted pull to mid-on.
+4182~2~
+4182~2~35.6
+4182~2~0
+4182~2~Pandya to Mohammad Saifuddin, no run, bouncer, ducked under with ease.
+4182~2~
+4182~2~Hardik has rarely bowled three balls in a row at the same pace all day. He's changed his pace practically two or three times an over and it's produced three wickets, including the whale, Shakib.
+4182~2~
+4182~2~36.1
+4182~2~1
+4182~2~Chahal to Sabbir Rahman, 1 run, flighted full on sixth stump, driven to the cover sweeper.
+4182~2~
+4182~2~Shankar: "Keep posting Bumrah updates. He is the heart of this Indian team." Nagraj Gollapudi in the press box says he looks fine, being kept off more for precautionary reasons.
+4182~2~
+4182~2~Chahal replaces him.
+4182~2~END OF OVER:36 | 8 Runs | BDESH: 190/6 (125 runs required from 14 overs, RR: 5.27, RRR: 8.92)
+4182~2~
+4182~2~    Mohammad Saifuddin1 (3b)
+4182~2~    Sabbir Rahman14 (16b)
+4182~2~
+4182~2~    Hardik Pandya9-0-54-3
+4182~2~    Jasprit Bumrah7-1-34-1
+4182~2~
+4182~2~
+4182~2~36.2
+4182~2~0
+4182~2~Chahal to Mohammad Saifuddin, no run, flighted full on leg stump, clipped off the pads straight to the man at 45.
+4182~2~
+4182~2~36.3
+4182~2~0
+4182~2~Chahal to Mohammad Saifuddin, no run, googly pitching on middle stump at 82 kph and spinning toward off, defended on the back foot back to Chahal.
+4182~2~
+4182~2~36.4
+4182~2~0
+4182~2~Chahal to Mohammad Saifuddin, no run, good length ball pitching outside leg and spinning down. Not given a wide for some reason, was about six inches down leg and clearly missed the pads and everything.
+4182~2~
+4182~2~36.5
+4182~2~0
+4182~2~Chahal to Mohammad Saifuddin, no run, good length ball on the stumps, flicked fine but straight to short fine leg once more.
+4182~2~
+4182~2~36.6
+4182~2~0
+4182~2~Chahal to Mohammad Saifuddin, no run, good length ball pitching on middle, goes back to defend to midwicket at 77 kph.
+4182~2~
+4182~2~37.1
+4182~2~4
+4182~2~Mohammed Shami to Sabbir Rahman, FOUR runs, short on the stumps, charged by Sabbir at 126 kph and swats this wide of mid-on, bounces away to the rope.
+4182~2~
+4182~2~Shami on now for another spell replacing Hardik.
+4182~2~END OF OVER:37 | 1 Run | BDESH: 191/6 (124 runs required from 13 overs, RR: 5.16, RRR: 9.53)
+4182~2~
+4182~2~    Mohammad Saifuddin1 (8b)
+4182~2~    Sabbir Rahman15 (17b)
+4182~2~
+4182~2~    Yuzvendra Chahal8-0-35-1
+4182~2~    Hardik Pandya9-0-54-3
+4182~2~
+4182~2~
+4182~2~37.2
+4182~2~4
+4182~2~Mohammed Shami to Sabbir Rahman, FOUR runs, goes deep in his crease in response and Shami goes short on the body, gets inside the line and hooks this very fine past Dhoni.
+4182~2~
+4182~2~37.3
+4182~2~1
+4182~2~Mohammed Shami to Sabbir Rahman, 1 run, short of a length on fifth stump at 139 kph, guided off the back foot to third man to bring up the 200.
+4182~2~
+4182~2~37.4
+4182~2~4
+4182~2~Mohammed Shami to Mohammad Saifuddin, FOUR runs, Shami charged again, Saifuddin slogs this on the up from fourth stump and goes straight back over the bowler's head. Not timed cleanly but with mid-on up in the ring, it bounces away easily to the rope.
+4182~2~
+4182~2~Around the stumps to Saifuddin.
+4182~2~
+4182~2~37.5
+4182~2~0
+4182~2~Mohammed Shami to Mohammad Saifuddin, no run, bouncer clears the batsman easily, but not too high to have to rebowl it.
+4182~2~
+4182~2~37.6
+4182~2~4
+4182~2~Mohammed Shami to Mohammad Saifuddin, FOUR runs, length ball on off stump, heaved over wide mid-on. They're going after Shami and succeeding in a big way.
+4182~2~
+4182~2~38.1
+4182~2~1
+4182~2~Chahal to Sabbir Rahman, 1 run, full and wide on fifth stump at 84 kph, driven square to the sweeper.
+4182~2~
+4182~2~Bumrah is back on the field.
+4182~2~END OF OVER:38 | 17 Runs | BDESH: 208/6 (107 runs required from 12 overs, RR: 5.47, RRR: 8.91)
+4182~2~
+4182~2~    Mohammad Saifuddin9 (11b)
+4182~2~    Sabbir Rahman24 (20b)
+4182~2~
+4182~2~    Mohammed Shami7-0-50-1
+4182~2~    Yuzvendra Chahal8-0-35-1
+4182~2~
+4182~2~
+4182~2~38.2
+4182~2~4
+4182~2~Chahal to Mohammad Saifuddin, FOUR runs, top-edge clears Bumrah at short fine leg! Went onto a knee to sweep a good length ball on leg stump. Not full enough to sweep and the extra bounce produces a top edge. Bumrah was caught flat-footed and a bit groggy having just returned to the field a ball earlier after getting a clean bill of health on his shoulder but couldn't backtrack to turn it into a chance.
+4182~2~
+4182~2~38.3
+4182~2~1w
+4182~2~Chahal to Mohammad Saifuddin, 1 wide, full length ball but spinning well down leg.
+4182~2~
+4182~2~38.3
+4182~2~0
+4182~2~Chahal to Mohammad Saifuddin, no run, full on off at 87 kph, clipped straight to midwicket.
+4182~2~
+4182~2~38.4
+4182~2~0
+4182~2~Chahal to Mohammad Saifuddin, no run, good length ball on middle spinning into leg, goes back to flick but can't get it away.
+4182~2~
+4182~2~38.5
+4182~2~1
+4182~2~Chahal to Mohammad Saifuddin, 1 run, short on fourth stump and spinning back in, chopped off the back foot to extra cover.
+4182~2~
+4182~2~38.6
+4182~2~4
+4182~2~Chahal to Sabbir Rahman, FOUR runs, full and wide on sixth stump, Sabbir reaches a long way across to sweep this on length against the spin and hammers it along the turf through midwicket for a crisp boundary.
+4182~2~
+4182~2~39.1
+4182~2~4
+4182~2~Pandya to Mohammad Saifuddin, FOUR runs, short on the stumps, scorching pull in front of square screams past the leg umpire to the rope.
+4182~2~
+4182~2~Shami yanked after one over. Hardik back around the stumps.
+4182~2~END OF OVER:39 | 11 Runs | BDESH: 219/6 (96 runs required from 11 overs, RR: 5.61, RRR: 8.72)
+4182~2~
+4182~2~    Sabbir Rahman29 (22b)
+4182~2~    Mohammad Saifuddin14 (15b)
+4182~2~
+4182~2~    Yuzvendra Chahal9-0-46-1
+4182~2~    Mohammed Shami7-0-50-1
+4182~2~
+4182~2~
+4182~2~39.2
+4182~2~1
+4182~2~Pandya to Mohammad Saifuddin, 1 run, missed runout off his own bowling! Short of a length on the stumps, goes back to tap this into the covers, Hardik pounces moving right, scoops, spins around and fires from 14 yards at the non-striker's end. Saifuddin was a dead duck by three yards but the ball bounces over the stumps.
+4182~2~
+4182~2~39.3
+4182~2~1
+4182~2~Pandya to Sabbir Rahman, 1 run, short of a length on the stumps, clipped behind square for a very long one. Rahul denies the second.
+4182~2~
+4182~2~39.4
+4182~2~0
+4182~2~Pandya to Mohammad Saifuddin, no run, slower bouncer wide on 7th stump at 127 kph, tries to uppercut this but misses.
+4182~2~
+4182~2~39.5
+4182~2~0
+4182~2~Pandya to Mohammad Saifuddin, no run, fullish length ball follows Saifuddin backing away down leg, can't get it away off the pads.
+4182~2~
+4182~2~39.6
+4182~2~0
+4182~2~Pandya to Mohammad Saifuddin, no run, slower bouncer on fifth stump, left alone by Saifuddin.
+4182~2~
+4182~2~40.1
+4182~2~0
+4182~2~Chahal to Sabbir Rahman, no run, full, looks for the sweep, but misses
+4182~2~END OF OVER:40 | 6 Runs | BDESH: 225/6 (90 runs required from 60 balls, RR: 5.62, RRR: 9.00)
+4182~2~
+4182~2~    Mohammad Saifuddin19 (20b)
+4182~2~    Sabbir Rahman30 (23b)
+4182~2~
+4182~2~    Hardik Pandya10-0-60-3
+4182~2~    Yuzvendra Chahal9-0-46-1
+4182~2~
+4182~2~Hardik is done with his 10 overs. I'm done with my final 10-over spell for the day too. Debayan to take you through to the finish!
+4182~2~
+4182~2~40.2
+4182~2~1w
+4182~2~Chahal to Sabbir Rahman, 1 wide, goes down the leg side with a flatter one, bowled at 91kph, will have to rebowl this
+4182~2~
+4182~2~40.2
+4182~2~0
+4182~2~Chahal to Sabbir Rahman, no run, goes back to tap a length ball back towards short midwicket. Chahal is first to it
+4182~2~
+4182~2~40.3
+4182~2~0
+4182~2~Chahal to Sabbir Rahman, no run, floats this one wider of off stump, and Sabbir wants to go hard at it. Misses, as the ball creeps under his bat, and he falls over. Just about stays inside the crease, as Dhoni lurks looking to effect the stumping
+4182~2~
+4182~2~40.4
+4182~2~1
+4182~2~Chahal to Sabbir Rahman, 1 run, pushes a length ball away towards sweeper cover
+4182~2~
+4182~2~40.5
+4182~2~1
+4182~2~Chahal to Mohammad Saifuddin, 1 run, googly, and he allows it to turn into him, and plays it away towards square leg. They want two, but Chahal gets there first. Superb commitment, as he puts in a dive to throw this to Dhoni
+4182~2~
+4182~2~Shabd Wahal: "India spent 4 years searching for their ideal no.4. And what they found..Pant who was not even in the initial 15. Laws of Nature are bizarre!!"
+4182~2~
+4182~2~40.6
+4182~2~1
+4182~2~Chahal to Sabbir Rahman, 1 run, flighted, outside off, and he drives this down to long off
+4182~2~
+4182~2~41.1
+4182~2~1
+4182~2~Mohammed Shami to Sabbir Rahman, 1 run, fuller ball, angles into him, and he plays this away to the left of square leg
+4182~2~END OF OVER:41 | 4 Runs | BDESH: 229/6 (86 runs required from 54 balls, RR: 5.58, RRR: 9.55)
+4182~2~
+4182~2~    Sabbir Rahman32 (28b)
+4182~2~    Mohammad Saifuddin20 (21b)
+4182~2~
+4182~2~    Yuzvendra Chahal10-0-50-1
+4182~2~    Hardik Pandya10-0-60-3
+4182~2~
+4182~2~Here's Shami
+4182~2~
+4182~2~The win probability briefly flirted with the early 20s and has now settled at around 18%, and then at 16%
+4182~2~
+4182~2~41.2
+4182~2~4
+4182~2~Mohammed Shami to Mohammad Saifuddin, FOUR runs, around the wicket, full, and he smacks this inside out! Saifuddin with a more than sufficient sting in the tail today!
+4182~2~
+4182~2~41.3
+4182~2~0
+4182~2~Mohammed Shami to Mohammad Saifuddin, no run, length, angles into him, and he pushes this back down the pitch
+4182~2~
+4182~2~A stat from S Rajesh to highlight how good Pandya was today: "Control % v Pandya 70, the lowest in the innings so far (at the end of 40th). But Bumrah and Bhuvi are close at 71.4%"
+4182~2~
+4182~2~41.4
+4182~2~4
+4182~2~Mohammed Shami to Mohammad Saifuddin, FOUR runs, walks closer to a ball outside off, and whips it away towards long leg. Targets the shorter boundary, and that's where this goes!
+4182~2~
+4182~2~41.5
+4182~2~1
+4182~2~Mohammed Shami to Mohammad Saifuddin, 1 run, short, and he plays what Kapil Dev had popularised as the Natraj shot! One foot up in the air, as he pulls it away towards deep square leg
+4182~2~
+4182~2~41.6
+4182~2~1
+4182~2~Mohammed Shami to Sabbir Rahman, 1 run, short, and he swings away to the on side. Goes off the underside of the bat towards square leg, and they pick up a single
+4182~2~
+4182~2~Raghu IFMR: "This partnership breezes along nicely.. OK, i have my panic button ready.. You'll let me know when i need to hit it, right?"
+4182~2~
+4182~2~42.1
+4182~2~1
+4182~2~Kumar to Sabbir Rahman, 1 run, length, a bit wide, and he slashes hard, but gets it towards a protected fence at deep point
+4182~2~
+4182~2~For the moment, here's Bhuvneshwar. Might also change up a lot with his pace and length
+4182~2~
+4182~2~Just 75 off 8. Two factors to remember - six wickets down, and possibly three overs of Bumrah!
+4182~2~END OF OVER:42 | 11 Runs | BDESH: 240/6 (75 runs required from 48 balls, RR: 5.71, RRR: 9.37)
+4182~2~
+4182~2~    Sabbir Rahman34 (30b)
+4182~2~    Mohammad Saifuddin29 (25b)
+4182~2~
+4182~2~    Mohammed Shami8-0-61-1
+4182~2~    Yuzvendra Chahal10-0-50-1
+4182~2~
+4182~2~
+4182~2~42.2
+4182~2~1
+4182~2~Kumar to Mohammad Saifuddin, 1 run, fuller ball, and he digs it out towards deep midwicket
+4182~2~
+4182~2~42.3
+4182~2~1w
+4182~2~Kumar to Sabbir Rahman, 1 wide, tossed wide. Too wide in fact, outside off, as he leaves
+4182~2~
+4182~2~Can these two pull off the ultimate heist? And if they don't, just how much must they be rueing the opportunity they had to put New Zealand away in just their second game?
+4182~2~
+4182~2~42.3
+4182~2~0
+4182~2~Kumar to Sabbir Rahman, no run, nails the yorker. Bowled at 136kph, and Sabbir plays it on to his boot. Wants a quick single, but it fell far too close to the wicket, with Bhuvneshwar running in quickly
+4182~2~
+4182~2~42.4
+4182~2~1w
+4182~2~Kumar to Sabbir Rahman, 1 wide, slower ball, outside off. He advances, but misses on contact. Wide called again!
+4182~2~
+4182~2~42.4
+4182~2~0
+4182~2~Kumar to Sabbir Rahman, no run, length, and he looks to run this down towards third man, but gets it too close to short third man. A change-up again from Bhuvi
+4182~2~
+4182~2~42.5
+4182~2~0
+4182~2~Kumar to Sabbir Rahman, no run, length, outside off, and he looks to play the steer towards third man again. This time it was 122kph, as he is beaten by the pace of it. A bit early, in fact
+4182~2~
+4182~2~42.6
+4182~2~1
+4182~2~Kumar to Sabbir Rahman, 1 run, full toss, on middle and leg, and he flicks it away but gets it to deep midwicket
+4182~2~
+4182~2~43.1
+4182~2~W
+4182~2~Bumrah to Sabbir Rahman, OUT, GOT HIM! Fullish, and a change of pace at just 118kph. Sabbir swings free, but cannot make any contact with this. It goes on to just brush the leg stump after missing his flashing blade. That has the ring of 'game, set, match India' all over it!
+4182~2~
+4182~2~Sabbir Rahman b Bumrah 36 (55m 36b 5x4 0x6) SR: 100.00
+4182~2~
+4182~2~Gourav: ""possibly 3 overs???" You said he is back on the field" --- He is, but had a side strain at the start of the IPL, if you recall. Will he be fit to bowl full tilt? Well, we'll find out, because here he comes
+4182~2~END OF OVER:43 | 5 Runs | BDESH: 245/6 (70 runs required from 42 balls, RR: 5.69, RRR: 10.00)
+4182~2~
+4182~2~    Sabbir Rahman36 (35b)
+4182~2~    Mohammad Saifuddin30 (26b)
+4182~2~
+4182~2~    Bhuvneshwar Kumar8-0-38-0
+4182~2~    Mohammed Shami8-0-61-1
+4182~2~
+4182~2~
+4182~2~43.2
+4182~2~0
+4182~2~Bumrah to Mashrafe Mortaza, no run, yorker, on off stump, and he digs it out. That went at 142kph
+4182~2~
+4182~2~Rameshwar: "Bumrahhhhhhhh!!!!!!!"
+4182~2~
+4182~2~In comes Mashrafe Mortaza
+4182~2~
+4182~2~43.3
+4182~2~1
+4182~2~Bumrah to Mashrafe Mortaza, 1 run, full ball, and he flicks it away towards midwicket
+4182~2~
+4182~2~43.4
+4182~2~1
+4182~2~Bumrah to Mohammad Saifuddin, 1 run, full ball, and he flicks this away towards deep midwicket
+4182~2~
+4182~2~43.5
+4182~2~1
+4182~2~Bumrah to Mashrafe Mortaza, 1 run, full, and he plays it away towards square leg
+4182~2~
+4182~2~43.6
+4182~2~1w
+4182~2~Bumrah to Mohammad Saifuddin, 1 wide, goes wide with a slower ball, but too wide of the tramlines on the off side
+4182~2~
+4182~2~Which fast bowler sits out if India play two spinners? Vote on our #LiveReport
+4182~2~
+4182~2~43.6
+4182~2~2
+4182~2~Bumrah to Mohammad Saifuddin, 2 runs, yoker, and he has timed this beautifully through the on side. Deep midiwcket has to trudge to his right and get this. 250 up for Bangladesh!
+4182~2~
+4182~2~44.1
+4182~2~6
+4182~2~Kumar to Mashrafe Mortaza, SIX runs, SMACKED HIGH AND STRAIGHT! Change of pace from Bhuvi, and Mortaza gets a lot of height as he targets the straight boundary, but only just clears the man there
+4182~2~
+4182~2~Arash: "Does Dhoni and Kedar need to learn from these two Bangladesh batsmen on how to keep the match alive. Either hit it or get out. You can not win match by staying and not scoring but you can win with hitting. " --- Though in hindsight, it may have been a useful late stand the other day to keep India's Net Run Rate at a decent pace? Bangladesh have no such compulsion. Just need to go for it
+4182~2~END OF OVER:44 | 6 Runs 1 Wkt | BDESH: 251/7 (64 runs required from 36 balls, RR: 5.70, RRR: 10.66)
+4182~2~
+4182~2~    Mohammad Saifuddin33 (28b)
+4182~2~    Mashrafe Mortaza2 (3b)
+4182~2~
+4182~2~    Jasprit Bumrah8-1-40-2
+4182~2~    Bhuvneshwar Kumar8-0-38-0
+4182~2~
+4182~2~
+4182~2~44.2
+4182~2~W
+4182~2~Kumar to Mashrafe Mortaza, OUT, ANOTHER ONE BITES THE DUST! Goes for another straight thwack, but the outside edge sends it flying to the right of Dhoni, who takes it safely. Bangladesh's campaign is approaching its end, but they aren't going down without a fight here
+4182~2~
+4182~2~Mashrafe Mortaza c Dhoni(wk) b Kumar 8 (8m 5b 0x4 1x6) SR: 160.00
+4182~2~
+4182~2~44.3
+4182~2~0
+4182~2~Kumar to Rubel Hossain, no run, slower ball attempted, ends up as a leg-side full toss, but Rubel can only play it away towards square leg
+4182~2~
+4182~2~Pomil Proch: "Hey Dwayne Bravo, requesting a lyrics edit. Please include "Bumrah is a champion" in there too."
+4182~2~
+4182~2~44.4
+4182~2~1
+4182~2~Kumar to Rubel Hossain, 1 run, short, and he backs away and looks to swipe this straight down the ground. Gets the outer edge as it flies to the right of third man
+4182~2~
+4182~2~44.5
+4182~2~1w
+4182~2~Kumar to Mohammad Saifuddin, 1 wide, slower ball, just down the leg side as Saifuddin looks to play the flick. Called a wide again
+4182~2~
+4182~2~Thomas : "Why does India even need to bother about NRR since they've qualified?" --- They don't now, but when chasing 338 the other day, they hadn't yet
+4182~2~
+4182~2~44.5
+4182~2~4
+4182~2~Kumar to Mohammad Saifuddin, FOUR runs, backs away and pumps a full ball through extra cover. What a super bit of timing!
+4182~2~
+4182~2~44.6
+4182~2~1
+4182~2~Kumar to Mohammad Saifuddin, 1 run, off cutter, change of pace, and he can flick this away towards midwicket and pick up a single to retain strike
+4182~2~
+4182~2~Ashish: "Need a magical spell from Boom Boom Bumrah to sail us through. Kohli is out of options not playing a 6th/7th bowler as an all-rounder might prove costly. Need to get the best winning combination soon. Next game I really hope we get the team combination right. Rest some key players and give more batting time to Dhoni and Pant who looked good today. Get Jadeja in the team and let him warm-up his engine. Rohit deserves a rest, let Rahul open with DK/Pant. Need everyone to be on top of their game. "
+4182~2~
+4182~2~45.1
+4182~2~0
+4182~2~Bumrah to Mohammad Saifuddin, no run, slower ball, a full toss, and he is surprised by how high it comes to him. Tapped away to point. He's looking for the full toss above waist height, but it isn't called
+4182~2~END OF OVER:45 | 13 Runs 1 Wkt | BDESH: 264/8 (51 runs required from 30 balls, RR: 5.86, RRR: 10.20)
+4182~2~
+4182~2~    Mohammad Saifuddin38 (30b)
+4182~2~    Rubel Hossain1 (2b)
+4182~2~
+4182~2~    Bhuvneshwar Kumar9-0-51-1
+4182~2~    Jasprit Bumrah8-1-40-2
+4182~2~
+4182~2~51 off 30 balls. Can Saifuddin pull off one of the greatest chases ever?
+4182~2~
+4182~2~45.2
+4182~2~1
+4182~2~Bumrah to Mohammad Saifuddin, 1 run, full ball, and he drives this down the ground to long off
+4182~2~
+4182~2~45.3
+4182~2~4
+4182~2~Bumrah to Rubel Hossain, FOUR runs, DRILLED BACK DOWN THE GROUND! I think Rubel will get the broadcasters to give him this clip for his archives. Gets down on one knee and slaps a full ball outside off back past Bumrah
+4182~2~
+4182~2~Sachin: "Everybody is talking about Dhoni-Jadhav partnership but ignoring how Rohit and Virat approached first ten overs. 27 in 10 chasing 338 is crime." --- Only Sachin can say that and get away with it!
+4182~2~
+4182~2~45.4
+4182~2~1
+4182~2~Bumrah to Rubel Hossain, 1 run, backs away from a short ball, and sends it flying towards point. Rishabh Pant decides not to attack the ball
+4182~2~
+4182~2~45.5
+4182~2~1
+4182~2~Bumrah to Mohammad Saifuddin, 1 run, full, angles across Saifuddin, who flicks this towards midwicket, and gets an easy single
+4182~2~
+4182~2~45.6
+4182~2~1
+4182~2~Bumrah to Rubel Hossain, 1 run, yorker, and he jams his bat down just in time to keep this 143kph ball away from his stumps. Runs it off the inner part of the bat down to fine leg
+4182~2~
+4182~2~Anuj: "Still concerned about Shami's 2 overs"
+4182~2~
+4182~2~46.1
+4182~2~0
+4182~2~Mohammed Shami to Rubel Hossain, no run, full, just outside off, and Rubel looks to go down the ground, but misses out
+4182~2~
+4182~2~Here's Shami
+4182~2~END OF OVER:46 | 8 Runs | BDESH: 272/8 (43 runs required from 24 balls, RR: 5.91, RRR: 10.75)
+4182~2~
+4182~2~    Rubel Hossain7 (5b)
+4182~2~    Mohammad Saifuddin40 (33b)
+4182~2~
+4182~2~    Jasprit Bumrah9-1-48-2
+4182~2~    Bhuvneshwar Kumar9-0-51-1
+4182~2~
+4182~2~
+4182~2~46.2
+4182~2~1
+4182~2~Mohammed Shami to Rubel Hossain, 1 run, full toss, and he puts in a lot of effort to whack this away. Eventually off the toe-end and back past Saifuddin at the non-striker's end, and goes towards long on
+4182~2~
+4182~2~Naveen Kumar S.: "Come on, please stop the talk of net run rate. It wasn't 200 they were reducing the impact of. It was 60, they got it down to 30. Zero intent is the worst a fan could think of. Also, everyone knows the reason why Karthik played ahead of Jadhav today. I am surprised that even Kohli is defending it, considering his motto when he started captaincy was 'to win matches even in tests and not draws.' " --- Yes, it won't be the last we'll hear of this, for sure
+4182~2~
+4182~2~46.3
+4182~2~1w
+4182~2~Mohammed Shami to Mohammad Saifuddin, 1 wide, short, and Saifuddin lets this pass. Too short, and is called a wide
+4182~2~
+4182~2~46.3
+4182~2~4
+4182~2~Mohammed Shami to Mohammad Saifuddin, FOUR runs, short, follows him as he backs away, and he can still connect and get it down to long leg. Terrific shot!
+4182~2~
+4182~2~46.4
+4182~2~1
+4182~2~Mohammed Shami to Mohammad Saifuddin, 1 run, full ball, and he drives this down towards long on
+4182~2~
+4182~2~46.5
+4182~2~0
+4182~2~Mohammed Shami to Rubel Hossain, no run, full ball, just outside off, and he tries to slap this away after backing away to the leg side, but cannot make contact
+4182~2~
+4182~2~Jasprit Bumrah is on song at the moment - when isn't he? Good time to revisit Nagraj Gollapudi's tale about Bumrah's non-hat-trick
+4182~2~
+4182~2~46.6
+4182~2~0
+4182~2~Mohammed Shami to Rubel Hossain, no run, full again, and he gets an inner edge in trying to thrash it down towards long on. Limps down the leg side, for Dhoni to take
+4182~2~
+4182~2~47.1
+4182~2~1
+4182~2~Bumrah to Mohammad Saifuddin, 1 run, full, and he whips this off middle stump towards midwicket
+4182~2~
+4182~2~Irtaza: "I love how all of you cricinfo commentators are defending the Dhoni-Jadhav partnership and kohlis defense of them" --- Not a question of defending them. Putting every possible angle before you. You guys will make the judgement. We probably shouldn't
+4182~2~END OF OVER:47 | 7 Runs | BDESH: 279/8 (36 runs required from 18 balls, RR: 5.93, RRR: 12.00)
+4182~2~
+4182~2~    Rubel Hossain8 (9b)
+4182~2~    Mohammad Saifuddin45 (35b)
+4182~2~
+4182~2~    Mohammed Shami9-0-68-1
+4182~2~    Jasprit Bumrah9-1-48-2
+4182~2~
+4182~2~Arjun: "I am an Indian rooting for an Bangladesh win.. At least then all the whining about selection, skills and captaincy(or the lack of it) will be justified. I have no idea why the team has been taking so much flak after being unbeaten until Sunday. Maybe the fans want some drama. "Are you entertained?""
+4182~2~
+4182~2~47.2
+4182~2~1
+4182~2~Bumrah to Rubel Hossain, 1 run, backs away and gets a bit of bat to a length ball angling into him, goes towards midwicket
+4182~2~
+4182~2~47.3
+4182~2~4
+4182~2~Bumrah to Mohammad Saifuddin, FOUR runs, WHAT A SHOT TO BRING UP FIFTY! It's a full ball, on the stumps, and he backs away and smacks this straight back down the ground. Long on gets around and dives to his right, but Virat Kohli can only just miss the ball there
+4182~2~
+4182~2~Mrinmoy Datta: "I am hoping that after 20 minutes we are not in a position to blame Dhoni again for the first three balls of the 50th over during India's batting." --- Hahaha, touche
+4182~2~
+4182~2~47.4
+4182~2~1
+4182~2~Bumrah to Mohammad Saifuddin, 1 run, fullish ball, at the pads, and he gets some bat to it and runs it along to square leg
+4182~2~
+4182~2~Around the wicket
+4182~2~
+4182~2~47.5
+4182~2~W
+4182~2~Bumrah to Rubel Hossain, OUT, YORKED HIM! Full, fast, and gives no chance to Rubel Hossain. He backs away yet again, but this time the angle of the ball gives him no chance to jam the bat down in time. Bangladesh are running out of wickets, but what an absolutely fantastic rearguard action it has been since Shakib fell!
+4182~2~
+4182~2~Rubel Hossain b Bumrah 9 (18m 11b 1x4 0x6) SR: 81.81
+4182~2~
+4182~2~47.6
+4182~2~W
+4182~2~Bumrah to Mustafizur Rahman, OUT, THROUGH HIM! That's how it's done, says Jasprit Bumrah. From one exponent of great death bowling to the other! That went through Mustafizur before his bat could even contemplate its descent down to meet with the ball. Goes through between the bottom the bat and his toe, and goes on to hit the base of off-stump.
+4182~2~
+4182~2~Mustafizur Rahman b Bumrah 0 (2m 1b 0x4 0x6) SR: 0.00
+4182~2~
+4182~2~The Fizz. Usually better at finishing with the ball...
+4182~2~
+4182~2~

@@ -1,0 +1,3239 @@
+4191~1~Team 1: Aaron Finch (c)!AJ Finch(c), David Warner!DA Warner, Peter Handscomb!PSP Handscomb, Steve Smith!SPD Smith, Glenn Maxwell!GJ Maxwell, Marcus Stoinis!MP Stoinis, Alex Carey (wk)!AT Carey(wk), Jason Behrendorff!JP Behrendorff, Pat Cummins!PJ Cummins, Mitchell Starc!MA Starc, Nathan Lyon!NM Lyon
+4191~1~Team 2: Jason Roy!JJ Roy, Jonny Bairstow!JM Bairstow, Joe Root!JE Root, Eoin Morgan (c)!EJG Morgan(c), Ben Stokes!BA Stokes, Jos Buttler (wk)!JC Buttler(wk), Chris Woakes!CR Woakes, Adil Rashid!AU Rashid, Liam Plunkett!LE Plunkett, Jofra Archer!JC Archer, Mark Wood!MA Wood.
+4191~1~0.1
+4191~1~4
+4191~1~Woakes to Warner, FOUR runs, Warner is off and running with a first-ball four. Overpitched and slanting away outside off with the angle, Warner plunges forward and creams a drive in the gap at the covers
+4191~1~
+4191~1~0.2
+4191~1~0
+4191~1~Woakes to Warner, no run, Woakes drags his length back outside off, Warner protects his off stump and shoulders arms. Better length from Woakes
+4191~1~
+4191~1~0.3
+4191~1~0
+4191~1~Woakes to Warner, no run, back of a length and around off stump, Warner cries 'wait on' after stabbing an inside edge to mid-on
+4191~1~
+4191~1~0.4
+4191~1~0
+4191~1~Woakes to Warner, no run, back of a length again, angling across off, Warner cries 'wait on' once again, after dabbing it gently towards point
+4191~1~
+4191~1~0.5
+4191~1~0
+4191~1~Woakes to Warner, no run, much fuller, starts on off and nips away further, Warner judges it well and lets it go
+4191~1~
+4191~1~0.6
+4191~1~0
+4191~1~Woakes to Warner, no run, fuller and attacking middle stump, Warner inches forward and pokes it towards point to close out the first over
+4191~1~
+4191~1~1.1
+4191~1~W
+4191~1~Archer to Finch, OUT, Ooooooh, Finch has been given out lbw by umpire Dharmasena. Finch reckons he has snicked it? Finch has a word with Warner and challenges the on-field out decision. Archer begins with a full inswinger, Finch is very vulnerable to it, particularly early in his innings. Starts outside off and nips back in towards middle, Finch gets too far across, plays around his front pad, much like how Kohli did yesterday v Boult, and is struck on the flap of the front pad. This is cannoning into middle stump. The tracker returns three reads and off you go for a golden duck in the semi-final, Finch
+4191~1~AJ Finch lbw b Archer 0 (6m 1b 0x4 0x6) SR: 0.00
+4191~1~
+4191~1~WATCH: England v Australia - LIVE on Hotstar (USA only)
+4191~1~
+4191~1~END OF OVER:1 | 4 Runs | AUS: 4/0 | RR: 4.00
+4191~1~David Warner
+4191~1~4 (6b)
+4191~1~Aaron Finch
+4191~1~0 (0b)
+4191~1~Chris Woakes
+4191~1~1-0-4-0
+4191~1~Shakir Qadeer A: "In absence of Khawaja today, would Smith be promoted to 3rd place? I think Australia needs to promote Smith to avoid any collapse in top order. They are wasting Smith on 4." --- He's padded up and is likely to slot in at No.3
+4191~1~
+4191~1~
+4191~1~1.2
+4191~1~0
+4191~1~Archer to Smith, no run, he welcomes Smith with a sizzling bouncer, he ducks under it and lets it go
+4191~1~Finch joins Warner. Well, well..
+4191~1~
+4191~1~Ash: "Huuuuuuuggggeeeee!!!"
+4191~1~
+4191~1~
+4191~1~1.3
+4191~1~0
+4191~1~Archer to Smith, no run, just short of a good length and outside off, Smith stabs an inside edge to the leg side now
+4191~1~
+4191~1~1.4
+4191~1~1
+4191~1~Archer to Smith, 1 run, Smith jumps across off in his own inimitable way, tips it in front of short midwicket, and sets off for a single
+4191~1~Yaswanth: "Steve Smith seems to be mentally ready for this, a century here today can find all the lost ground for him."
+4191~1~
+4191~1~
+4191~1~1.5
+4191~1~1
+4191~1~Archer to Warner, 1 run, short at the hips, Archer has Warner hopping and skipping now, glanced to long leg
+4191~1~
+4191~1~1.6
+4191~1~0
+4191~1~Archer to Smith, no run, on a length and on a fourth-stump line, Smith whisks it away to mid-on
+4191~1~
+4191~1~2.1
+4191~1~0
+4191~1~Woakes to Warner, no run, Woakes hits a hard length on middle, Warner hops again, jabbing back to the bowler
+4191~1~END OF OVER:2 | 2 Runs 1 Wkt | AUS: 6/1 | RR: 3.00
+4191~1~Steven Smith
+4191~1~1 (4b)
+4191~1~David Warner
+4191~1~5 (7b)
+4191~1~Jofra Archer
+4191~1~1-0-2-1
+4191~1~Chris Woakes
+4191~1~1-0-4-0
+4191~1~
+4191~1~2.2
+4191~1~0
+4191~1~Woakes to Warner, no run, short on middle and leg, cramps Warner for room, fended back to the bowler
+4191~1~
+4191~1~2.3
+4191~1~4
+4191~1~Woakes to Warner, FOUR runs, Look at that shot! Thunderous wallop straight over the bowler's head. Pitched further up on middle, Warner extends his arms and launches it down the ground
+4191~1~
+4191~1~2.4
+4191~1~W
+4191~1~Woakes to Warner, OUT, Nasty, prancing delivery and Warner has been bounced out. Woakes wheels away in celebration. England could not have asked for a better start to the semi-final. Back of a length and slanting away outside off from over the wicket, explodes from the deck, seams away further. Warner is squared up. He fends at it and tickles it to second slip where YJB grabs a sharp chance in front of his face
+4191~1~DA Warner c Bairstow b Woakes 9 (14m 11b 2x4 0x6) SR: 81.81
+4191~1~
+4191~1~
+4191~1~2.5
+4191~1~0
+4191~1~Woakes to Handscomb, no run, Woakes bowls the full inswinger now, Handscomb now falls over. Umpire Erasmus shakes his head. England review. Handscomb plays down the wrong line and is rapped on the front pad well above the knee-roll. Reckon height may be a concern here. Impact in line, but the tracker returns umpire's call on leg stump. So, England don't lose their review
+4191~1~Handscomb walks straight into the semi-final with Australia at 10 for 2 in the third over
+4191~1~
+4191~1~
+4191~1~2.6
+4191~1~1
+4191~1~Woakes to Handscomb, 1 run, pitched up and outside off, Handscomb leans out and drives sweetly to extra-cover, the ball bursts out of the fielder's hands. It was captain Morgan, I think
+4191~1~
+4191~1~3.1
+4191~1~1
+4191~1~Archer to Handscomb, 1 run, short and hurled in on middle at 142ks, Handscomb is happy hang back in his crease and pick it off through square leg
+4191~1~It's all happening at Edgbaston, fellas
+4191~1~
+4191~1~END OF OVER:3 | 5 Runs 1 Wkt | AUS: 11/2 | RR: 3.66
+4191~1~Peter Handscomb
+4191~1~1 (2b)
+4191~1~Steven Smith
+4191~1~1 (4b)
+4191~1~Chris Woakes
+4191~1~2-0-9-1
+4191~1~Jofra Archer
+4191~1~1-0-2-1
+4191~1~
+4191~1~3.2
+4191~1~0
+4191~1~Archer to Smith, no run, sharp lifter, 140ks, Archer catches Smith in a tangle, spliced in front of cover
+4191~1~
+4191~1~3.3
+4191~1~0
+4191~1~Archer to Smith, no run, short and swerves away outside off, finishes wider than a set of stumps outside off, but Smith still spars at it and is beaten emphatically. The ball was doing too much to graze the edge
+4191~1~
+4191~1~3.4
+4191~1~0
+4191~1~Archer to Smith, no run, banged in short, splice-jarring length, inside-edged onto the pad
+4191~1~
+4191~1~3.5
+4191~1~0
+4191~1~Archer to Smith, no run, shorter and outside off, 140ks, Smith goes back and across, calmly fending it back to the bowler
+4191~1~Navneet: "One minute silence for those who thinks india vs australia final after looking at the start!"
+4191~1~
+4191~1~
+4191~1~3.6
+4191~1~0
+4191~1~Archer to Smith, no run, Archer lets rip a proper bouncer, flies through to the keeper, as Smith rocks his head out of the way
+4191~1~
+4191~1~4.1
+4191~1~0
+4191~1~Woakes to Handscomb, no run, another full inswinger from Woakes, nips in from wide of the crease, raps Handscomb on the front pad again. Okay, an inside edge saves Handscomb, Morgan rightly decided against a review
+4191~1~END OF OVER:4 | 1 Run | AUS: 12/2 | RR: 3.00
+4191~1~Steven Smith
+4191~1~1 (9b)
+4191~1~Peter Handscomb
+4191~1~2 (3b)
+4191~1~Jofra Archer
+4191~1~2-0-3-1
+4191~1~Chris Woakes
+4191~1~2-0-9-1
+4191~1~
+4191~1~4.2
+4191~1~1
+4191~1~Woakes to Handscomb, 1 run, on a length and jags back in again, takes the inside edge and rolls away to the leg side
+4191~1~WATCH - Archer gets Finch for a golden duck (Australia, UK and SEA only)
+4191~1~
+4191~1~
+4191~1~4.3
+4191~1~0
+4191~1~Woakes to Smith, no run, pitched up, starts outside off and curves away late, the sort of ball that tempted Rahul yesterday. Smith tucks his bat inside the line and lets it go
+4191~1~
+4191~1~4.4
+4191~1~0
+4191~1~Woakes to Smith, no run, good length, angling in towards off, straightening just enough to take the outside edge. Sliced out to point
+4191~1~
+4191~1~4.5
+4191~1~0
+4191~1~Woakes to Smith, no run, pitched further up, wobbling away against the angle, Smith judges it well. Nothing doing from him
+4191~1~
+4191~1~4.6
+4191~1~0
+4191~1~Woakes to Smith, no run, after taking a few balls away from Smith, Woakes brings this full ball back into Smith and opens him up. Prodded to cover
+4191~1~
+4191~1~5.1
+4191~1~0
+4191~1~Archer to Handscomb, no run, back of a length and homing in at off stump, Handscomb is happy to camp back and pat it towards point
+4191~1~WATCH - Woakes removes Warner to give England stunning start (Australia, UK and SEA only)
+4191~1~
+4191~1~END OF OVER:5 | 1 Run | AUS: 13/2 | RR: 2.60
+4191~1~Steven Smith
+4191~1~1 (13b)
+4191~1~Peter Handscomb
+4191~1~3 (5b)
+4191~1~Chris Woakes
+4191~1~3-0-10-1
+4191~1~Jofra Archer
+4191~1~2-0-3-1
+4191~1~
+4191~1~5.2
+4191~1~0
+4191~1~Archer to Handscomb, no run, back of a length, angling in towards off, tricks Handscomb into playing for the angle but it straightens away at 145ks to beat the outside edge
+4191~1~Sheryar Masood: "The last time I remember a player getting straight into a semi final of a world tournament was Rumman Raees against England 2017 and before that Lendl Simmons against India in 2016. Handscomb could be a surprise here."
+4191~1~
+4191~1~
+4191~1~5.3
+4191~1~0
+4191~1~Archer to Handscomb, no run, shorter and zipping away past the outside edge once again. Archer cranks up to 146ks. The pressure from both ends is relentless
+4191~1~
+4191~1~5.4
+4191~1~0
+4191~1~Archer to Handscomb, no run, back of a length and holds its line around off, Archer keeps hitting the deck hard, spliced out in front of point
+4191~1~Sriram: "India and Australia have similar lineups, top-heavy and fragile middle. It would be interesting to see how Australian middle orders fares"
+4191~1~
+4191~1~
+4191~1~5.5
+4191~1~0
+4191~1~Archer to Handscomb, no run, shorter and wider outside off, no shot
+4191~1~
+4191~1~5.6
+4191~1~1
+4191~1~Archer to Handscomb, 1 run, shorter and outside off, Handscomb rides it down to square-ish third man
+4191~1~sachit: "in 1996 the hosts India knocked over Sri Lanka's dangerous opening pair for ducks and then SL went on to win the match - will we see something similar from today's hosts England?"
+4191~1~
+4191~1~Ramble: "Carey looks padded up to come in next....and very jittery in the legs! Nervous energy in the Ausdue dressing room. "
+4191~1~
+4191~1~
+4191~1~6.1
+4191~1~W
+4191~1~Woakes to Handscomb, OUT, The nip-backer from Woakes, bursting through the defences of Handscomb. Nice and full, bends back in towards middle, Handscomb has a loose drive at it, sitting back and leaving enough bat-pad gap for the ball to zip through and rattle the furniture. Australia three down for 14 inside seven overs
+4191~1~PSP Handscomb b Woakes 4 (15m 12b 0x4 0x6) SR: 33.33
+4191~1~
+4191~1~END OF OVER:6 | 1 Run | AUS: 14/2 | RR: 2.33
+4191~1~Peter Handscomb
+4191~1~4 (11b)
+4191~1~Steven Smith
+4191~1~1 (13b)
+4191~1~Jofra Archer
+4191~1~3-0-4-1
+4191~1~Chris Woakes
+4191~1~3-0-10-1
+4191~1~Javed Ghaffar: "Oh my ! yesterday it was Rohit Sharma and today it's Finch. Top scorers of WC failing in crunch games."
+4191~1~
+4191~1~
+4191~1~6.2
+4191~1~1
+4191~1~Woakes to Carey, 1 run, good length, starts on off, and nibbles away, catches Carey in the crease and his outside edge but does not carry to Root at second slip
+4191~1~Carey, the finisher, needs to rebuild the innings now. Are England already thinking of the Lord's final?
+4191~1~
+4191~1~
+4191~1~6.3
+4191~1~0
+4191~1~Woakes to Smith, no run, shorter and slanting in at off, Smith shuffles across off stump and taps it to short midwicket
+4191~1~
+4191~1~6.4
+4191~1~0
+4191~1~Woakes to Smith, no run, fullish and angling in at off stump, Smith stretches out and plays it up to cover
+4191~1~Rasesh Palav: "Superb planning and execution by the England new ball bowlers so far!"
+4191~1~
+4191~1~Sachin Mittal: "Scene is still on. Like 1992, first timer will win this world cup."
+4191~1~
+4191~1~
+4191~1~6.5
+4191~1~0
+4191~1~Woakes to Smith, no run, shorter and angling in at the body as Smith shuffles across and awkwardly fends it away
+4191~1~
+4191~1~6.6
+4191~1~0
+4191~1~Woakes to Smith, no run, back of a length, swings away after passing the batsman, left alone
+4191~1~
+4191~1~7.1
+4191~1~0
+4191~1~Archer to Carey, no run, shorter and zipping through the channel, ignored by Carey
+4191~1~END OF OVER:7 | 1 Run 1 Wkt | AUS: 15/3 | RR: 2.14
+4191~1~Steven Smith
+4191~1~1 (17b)
+4191~1~Alex Carey
+4191~1~1 (1b)
+4191~1~Chris Woakes
+4191~1~4-0-11-2
+4191~1~Jofra Archer
+4191~1~3-0-4-1
+4191~1~Trevor: "As an Aussie supporter, I'd gladly take India's innings of yesterday. Don't think our middle order has enough teeth to muster 200 from here."
+4191~1~
+4191~1~
+4191~1~7.2
+4191~1~3
+4191~1~Archer to Carey, 3 runs, pitched further up on middle, presses forward and bunts it straight of mid-on. Nice, confident stroke from Carey
+4191~1~Varun D Kanath: "Keep calm and believe in Steve Smith"
+4191~1~
+4191~1~
+4191~1~7.3
+4191~1~0
+4191~1~Archer to Smith, no run, back of a length on middle, Smith gets inside the line and whips it away towards short midwicket
+4191~1~
+4191~1~7.4
+4191~1~1
+4191~1~Archer to Smith, 1 run, back of a length and on a fourth-stump line, defended to the right of cover. Morgan swoops down on the ball, but can't throw the stumps down at the bowler's end. Smith dishes out a sprawling dive
+4191~1~
+4191~1~7.5
+4191~1~0
+4191~1~Archer to Carey, no run, back of a length on off, punchily driven to the man at mid-off
+4191~1~ravi: "Similar situation like yesterday. 3 out cheaply and Smith (like karthik) under pressure."
+4191~1~
+4191~1~
+4191~1~7.6
+4191~1~0
+4191~1~Archer to Carey, no run, Another nasty, prancing delivery from Archer. So nasty that it detaches Carey's helmet. 86mph, Carey looks away, ducks into it, cops it on the chin area, and the helmet flies off. Carey is bleeding and gets some treatment on his chin in the middle. The ball just about bounced over the stumps. Tense faces in the Australia change room. Remember, Harmison v Ponting?
+4191~1~
+4191~1~8.1
+4191~1~0
+4191~1~Woakes to Smith, no run, fuller and wobbles away outside off, Smith simply watches it through to the keeper
+4191~1~END OF OVER:8 | 4 Runs | AUS: 19/3 | RR: 2.37
+4191~1~Alex Carey
+4191~1~4 (5b)
+4191~1~Steven Smith
+4191~1~2 (19b)
+4191~1~Jofra Archer
+4191~1~4-0-8-1
+4191~1~Chris Woakes
+4191~1~4-0-11-2
+4191~1~
+4191~1~8.2
+4191~1~1lb
+4191~1~Woakes to Smith, 1 leg bye, short and angling into middle, Smith jumps across and deflects it away square on the leg side
+4191~1~
+4191~1~8.3
+4191~1~0
+4191~1~Woakes to Carey, no run, back of a length and angling across off, no shot from Carey whose chin is plastered up now
+4191~1~
+4191~1~8.4
+4191~1~0
+4191~1~Woakes to Carey, no run, short on the hips, cramps 'em up for room, fended off the back foot to the leg side
+4191~1~
+4191~1~8.5
+4191~1~0
+4191~1~Woakes to Carey, no run, that's a gem from Woakes. Perfect length, angling away, swerving away outside off, Carey reaches out. Feels for the ball and is beaten neck and crop
+4191~1~
+4191~1~8.6
+4191~1~4
+4191~1~Woakes to Carey, FOUR runs, crunnnnnnnnnnnched between extra-cover and mid-off. It was overpitched alright, but Carey leans into it and drives it away like a boss. Fetch that
+4191~1~
+4191~1~9.1
+4191~1~0
+4191~1~Archer to Smith, no run, just short of a good length and outside off, 146kph, Smith diffuses it to cover
+4191~1~Thokongco: "Losing Khawaja was Australia's biggest downfall coming into this game. Clearly shows how important he is to this Aus line-up. "
+4191~1~
+4191~1~END OF OVER:9 | 5 Runs | AUS: 24/3 | RR: 2.66
+4191~1~Alex Carey
+4191~1~8 (9b)
+4191~1~Steven Smith
+4191~1~2 (21b)
+4191~1~Chris Woakes
+4191~1~5-0-15-2
+4191~1~Jofra Archer
+4191~1~4-0-8-1
+4191~1~
+4191~1~9.2
+4191~1~1
+4191~1~Archer to Smith, 1 run, fuller and straightening away outside off, sliced out to deep third man
+4191~1~Saad Holland: "As a neutral fan, I am hoping Eng wins today. There Will be a new world cup winner on sunday then.. "
+4191~1~
+4191~1~
+4191~1~9.3
+4191~1~1
+4191~1~Archer to Carey, 1 run, short at the hips, glanced away to Rashid at long leg
+4191~1~David : "Can we acknowledge catch of the tournament please? Carey catching his helmet a millisecond after being hit in the face is the clear winner for me. " --- I'd still go with Neesham's one-hander yesterday #UnleashtheNeesh
+4191~1~
+4191~1~
+4191~1~9.4
+4191~1~1
+4191~1~Archer to Smith, 1 run, shorter, chest-hunting ball, fended away behind square off the back foot
+4191~1~
+4191~1~9.5
+4191~1~0
+4191~1~Archer to Carey, no run, lifter on leg stump, 90mph, Carey ducks under it and takes shelter
+4191~1~
+4191~1~9.6
+4191~1~0
+4191~1~Archer to Carey, no run, short and zipping across off from over the wicket, Carey drops his gloves and lets it go
+4191~1~Kaushal: "The difference between India and Australia is, India sent Pandya to stable the innings rather than Dhoni. While Australia sent Carey to stable the innings rather than Maxwell. Perfect decision by Australia. "
+4191~1~
+4191~1~
+4191~1~10.1
+4191~1~0
+4191~1~Woakes to Smith, no run, on a length and angling in outside off, played back off the front foot
+4191~1~Woakes is into his sixth over
+4191~1~
+4191~1~END OF OVER:10 | 3 Runs | AUS: 27/3 | RR: 2.70
+4191~1~Alex Carey
+4191~1~9 (12b)
+4191~1~Steven Smith
+4191~1~4 (24b)
+4191~1~Jofra Archer
+4191~1~5-0-11-1
+4191~1~Chris Woakes
+4191~1~5-0-15-2
+4191~1~Australia chalk up their lowest Powerplay score of the 2019 World Cup: 27 for 3
+4191~1~
+4191~1~
+4191~1~10.2
+4191~1~0
+4191~1~Woakes to Smith, no run, good length and angling into a neat front-foot push on off stump
+4191~1~
+4191~1~10.3
+4191~1~0
+4191~1~Woakes to Smith, no run, much fuller and outside off, the bat turns in Smith's hands as he stabs off the inside half to midwicket
+4191~1~Dean: "Game hinges on these two for me. We all know what Smith is capable of and Carey has had an excellent WC if you ask me. If they can get Aus past 230 I think it will be a very challenging chase under pressure and facing the challenge of Starc."
+4191~1~
+4191~1~
+4191~1~10.4
+4191~1~1
+4191~1~Woakes to Smith, 1 run, shorter and wider outside off, Smith latches onto the width and lashes the ball away to sweeper cover off the back foot
+4191~1~
+4191~1~10.5
+4191~1~0
+4191~1~Woakes to Carey, no run, short of a length, might have pitched outside leg, Carey falls over and wears it on the thigh pad
+4191~1~Raja: "Why everyone comparing aus innings with India. Nz also had the same situation first day but they recovered well. Aussies should aim to bat 50 overs and Bowlers will do the rest"
+4191~1~
+4191~1~
+4191~1~10.6
+4191~1~0
+4191~1~Woakes to Carey, no run, back of a length and angling across off, Carey shoulders arms
+4191~1~Shankar: "Am surprised by Australia sticking with Stoinis...Apart from a great hundred in Auckland, has he ever done anything in ODI cricket? That they have to go to him is an indictment in itself"
+4191~1~
+4191~1~Rehan: "This is the beauty of game that strong or week team doesn't matter. It's delivery in crunch moment by whichever team."
+4191~1~
+4191~1~
+4191~1~11.1
+4191~1~0
+4191~1~Stokes to Smith, no run, hits a hard length right away, angling in on off, Smith is rushed into a defence to the leg side
+4191~1~Meanwhile, there's been debate in recent years about the benefits of having two simultaneous leagues in Indian football. Is there a common ground that can be found, and how do the models in U.S. and China serve as potential examples?. And it's time for Stokes at Edgbaston
+4191~1~
+4191~1~END OF OVER:11 | 1 Run | AUS: 28/3 | RR: 2.54
+4191~1~Alex Carey
+4191~1~9 (14b)
+4191~1~Steven Smith
+4191~1~5 (28b)
+4191~1~Chris Woakes
+4191~1~6-0-16-2
+4191~1~Jofra Archer
+4191~1~5-0-11-1
+4191~1~
+4191~1~11.2
+4191~1~0
+4191~1~Stokes to Smith, no run, short and holds its line outside off, Smith gets on top of the ball and punches it to short cover
+4191~1~Abhilash: "A ENG-NZ final with NZ going on to win the cup would be an absolute fairy tale. "
+4191~1~
+4191~1~
+4191~1~11.3
+4191~1~1
+4191~1~Stokes to Smith, 1 run, overpitched and outside off, Smith opens the face and drills it to sweeper on the off side
+4191~1~
+4191~1~11.4
+4191~1~0
+4191~1~Stokes to Carey, no run, sharp bouncer outside off, Carey has nothing to do with it, sails through to the keeper
+4191~1~
+4191~1~11.5
+4191~1~0
+4191~1~Stokes to Carey, no run, back of a length and skidding away outside off, left alone
+4191~1~WATCH - Archer bouncer leaves Carey with bloodied chin (Australia, UK and SEA only)
+4191~1~
+4191~1~
+4191~1~11.6
+4191~1~0
+4191~1~Stokes to Carey, no run, short on off, Carey hops and fends back
+4191~1~Akshaykamat: "Why ground is not full? Come on its WC SF, host are playing, still empty stands.. Why why why? " --- Osman Samiuddin says that the Edgbaston is nearly full now
+4191~1~
+4191~1~
+4191~1~12.1
+4191~1~1w
+4191~1~Wood to Smith, 1 wide, mighty full, starts outside off and nips away, finishing past the tramline. Off-side wide
+4191~1~Double-change. Wood from the Birmingham end. Over the wicket
+4191~1~
+4191~1~END OF OVER:12 | 1 Run | AUS: 29/3 | RR: 2.41
+4191~1~Alex Carey
+4191~1~9 (17b)
+4191~1~Steven Smith
+4191~1~6 (31b)
+4191~1~Ben Stokes
+4191~1~1-0-1-0
+4191~1~Chris Woakes
+4191~1~6-0-16-2
+4191~1~
+4191~1~12.1
+4191~1~1
+4191~1~Wood to Smith, 1 run, very full and wide outside off, Smith doesn't need any second invitations. Caressed away to sweeper cover
+4191~1~Manish: "Still AUS have maxwell, Cummins and Stonis, who can be danger on any day. so dont expect Eng can make final easly."
+4191~1~
+4191~1~
+4191~1~12.2
+4191~1~0
+4191~1~Wood to Carey, no run, full and swinging away outside off, Carey loses his patience. He slashes recklessly and misses
+4191~1~
+4191~1~12.3
+4191~1~1w
+4191~1~Wood to Carey, 1 wide, banged down the leg side, 140ks, Carey swerves out of the way, leg-side wide now from Wood
+4191~1~Imran Khurshid: "England batting pitches: Start of worldcup: 300+ chase able End of worldcup: 239 not chase able"
+4191~1~
+4191~1~
+4191~1~12.3
+4191~1~2lb
+4191~1~Wood to Carey, 2 leg byes, another leg-side delivery, Carey gets a little tickle, Woakes runs across from long leg, slides near the edge of the boundary, and hauls the ball in smartly. He saves a couple for England
+4191~1~Rehan Yousaf: "I recall the CWC-1996 Semi-final at Mohali, where Australia batted first against the West Indies. Top order was dismantled cheaply by the opening West Indian bowlers. Aussie batsman Stuart Law played a big hand and had taken the total score past 200 in that match. The same scenario replicates in that game. Can Steve Smith take this ship to behest a memorable knock?"
+4191~1~
+4191~1~
+4191~1~12.4
+4191~1~1
+4191~1~Wood to Carey, 1 run, Stokes throws himself to his right from backward point and stops a certain four. Short and outside off, thrashed on the up. Stokes swoops down on the ball. England's fielding has been sharp today
+4191~1~
+4191~1~12.5
+4191~1~1w
+4191~1~Wood to Smith, 1 wide, very full and slanting down the leg side as Smith shuffles across and does not get any bat onto his leg-side flick
+4191~1~
+4191~1~12.5
+4191~1~0
+4191~1~Wood to Smith, no run, good length and holds its line outside off, Smith ignores it
+4191~1~Tabrez: "Autralia will fight tooth and nail to win this contest. They have chocked only once in Finals and that was in 1996. Never since have they lost in semis or finals. Even if they get 200 on board, England will have to bat out of their skins to win this contest"
+4191~1~
+4191~1~
+4191~1~12.6
+4191~1~0
+4191~1~Wood to Smith, no run, wide of the crease, angling in towards off, forces Smith into jabbing at it, then straightens late past the outside edge. Cracking ball to close out a long over. Nearly found the edge
+4191~1~
+4191~1~13.1
+4191~1~1
+4191~1~Stokes to Carey, 1 run, short on leg stump, dinked into the midwicket region for one
+4191~1~Carey is getting some more treatment in the middle. Archer sips some drinks near the boundary
+4191~1~
+4191~1~END OF OVER:13 | 7 Runs | AUS: 36/3 | RR: 2.76
+4191~1~Steven Smith
+4191~1~7 (34b)
+4191~1~Alex Carey
+4191~1~10 (20b)
+4191~1~Mark Wood
+4191~1~1-0-5-0
+4191~1~Ben Stokes
+4191~1~1-0-1-0
+4191~1~WATCH - Archer and Woakes rip through Australia's top order (Australia, UK and SEA only)
+4191~1~
+4191~1~
+4191~1~13.2
+4191~1~4
+4191~1~Stokes to Smith, FOUR runs, banged in short and outside off, Smith swivels on the back foot and hauls a pull to the right of midwicket. That should give Australia some breathing space. First boundary for Smith
+4191~1~
+4191~1~13.3
+4191~1~0
+4191~1~Stokes to Smith, no run, fuller and holds its line outside off, ignored
+4191~1~
+4191~1~13.4
+4191~1~0
+4191~1~Stokes to Smith, no run, sharp, lifting delivery outside off, diffused back to Stokes
+4191~1~
+4191~1~13.5
+4191~1~2
+4191~1~Stokes to Smith, 2 runs, Smith jumps across off, gets inside the line and pootles a flick to the right of mid-on
+4191~1~
+4191~1~13.6
+4191~1~2
+4191~1~Stokes to Smith, 2 runs, Smith leaps back, rides the bounce of this short ball outside off and glides it away to the left of backward point and right of deep third man
+4191~1~
+4191~1~14.1
+4191~1~0
+4191~1~Wood to Carey, no run, banged in short and angling away, Carey leaps and fends it off to po
+4191~1~Shades of Rick McCosker in Alex Carey's new wraparound bandage. Is he also batting with a broken jaw?
+4191~1~
+4191~1~END OF OVER:14 | 9 Runs | AUS: 45/3 | RR: 3.21
+4191~1~Steven Smith
+4191~1~15 (39b)
+4191~1~Alex Carey
+4191~1~11 (21b)
+4191~1~Ben Stokes
+4191~1~2-0-10-0
+4191~1~Mark Wood
+4191~1~1-0-5-0
+4191~1~Tiggsy: "The ball is seaming around, surely that screams Plunkett more than Stokes or Wood? That said, Rash may have a limited bowling day if things continue..."
+4191~1~
+4191~1~
+4191~1~14.2
+4191~1~0
+4191~1~Wood to Carey, no run, bumper, slanting away outside off, Carey swivels... but shelves the hook at the last instant
+4191~1~
+4191~1~14.3
+4191~1~0
+4191~1~Wood to Carey, no run, Wood keeps pushing Carey back with the short stuff, Carey ducks under another one
+4191~1~Manish: "Rooting for repeat of 2015 WC final with a different result. A win for NZ, in case that was not clear. "
+4191~1~
+4191~1~Sachit: "Can only imagine how hard it is for smith out there. He's clearly struggling to get runs and the crowd is jeering him and waiting for his dismissal. Hope he gets a big 100 today to shut them up."
+4191~1~
+4191~1~
+4191~1~14.4
+4191~1~1
+4191~1~Wood to Carey, 1 run, short on middle, run away to point, and Carey - his jaw strapped and all - gets off strike
+4191~1~
+4191~1~14.5
+4191~1~1
+4191~1~Wood to Smith, 1 run, much fuller on off, Smith hangs back and carves an outside edge, but wide of backward point. Trickles down to deep third man
+4191~1~Kartik: "Carey's plaster reminds me of Kumble v WI....bowled with a broken jaw"
+4191~1~
+4191~1~
+4191~1~14.6
+4191~1~0
+4191~1~Wood to Carey, no run, Carey rides the bounce of this short ball and plays it to point
+4191~1~
+4191~1~15.1
+4191~1~4
+4191~1~Plunkett to Smith, FOUR runs, pitched up and drilled back down the ground, timing and placement and that's the shot of the day for Australia so far
+4191~1~LIam Plunkett into the attack now
+4191~1~
+4191~1~Hello again... Well, that was a lively start! This is no mere day trip to the crunch, as Alex Carey well knows, battling on admirably despite the damage sustained by that Archer bouncer. But it aint over until it's over, as we saw on more than one occasion during the first semi
+4191~1~
+4191~1~END OF OVER:15 | 2 Runs | AUS: 47/3 | RR: 3.13
+4191~1~Alex Carey
+4191~1~12 (26b)
+4191~1~Steven Smith
+4191~1~16 (40b)
+4191~1~Mark Wood
+4191~1~2-0-7-0
+4191~1~Ben Stokes
+4191~1~2-0-10-0
+4191~1~That's drinks. Australia surely need a breather. And say hello to Alan Gardner who will take you through the next passage play
+4191~1~
+4191~1~
+4191~1~15.2
+4191~1~1
+4191~1~Plunkett to Smith, 1 run, cutter on the stumps, Smith nurdles this through midwicket
+4191~1~Seems a good time to hear from Cornered Tiger: "Today is the start of Smith ruining the summer for England. Australia gonna walk this one and the Ashes later, with Smith scoring at least 4 centuries starting with today."
+4191~1~
+4191~1~
+4191~1~15.3
+4191~1~0
+4191~1~Plunkett to Carey, no run, on the stumps, 128kph/78mph and Carey pokes back down the track
+4191~1~
+4191~1~15.4
+4191~1~0
+4191~1~Plunkett to Carey, no run, fullish, around middle and off, defended coming forwards
+4191~1~
+4191~1~15.5
+4191~1~3
+4191~1~Plunkett to Carey, 3 runs, sweetly struck by Carey this time, almost beats mid-off but Roy gets a hand to the ball and Wood hares after it all the way to the rope to prevent four more
+4191~1~
+4191~1~15.6
+4191~1~0
+4191~1~Plunkett to Smith, no run, shortish outside off, dabbed down square
+4191~1~
+4191~1~16.1
+4191~1~0
+4191~1~Wood to Carey, no run, back of a length from round the wicket, blocked down into the on side
+4191~1~"Can Aus please lose this game and let Eng and NZ play the final," pleads pradeep shanmuk, "for the sake of cricket, let one of them lift their very first world cup...Supporting NZ from India"
+4191~1~
+4191~1~END OF OVER:16 | 8 Runs | AUS: 55/3 | RR: 3.43
+4191~1~Steven Smith
+4191~1~21 (43b)
+4191~1~Alex Carey
+4191~1~15 (29b)
+4191~1~Liam Plunkett
+4191~1~1-0-8-0
+4191~1~Mark Wood
+4191~1~2-0-7-0
+4191~1~Saharsh has been to see the oracle in his coracle: "Octopus Paul says - Aus will score 248 and win by 15 runs."
+4191~1~
+4191~1~
+4191~1~16.2
+4191~1~1
+4191~1~Wood to Carey, 1 run, dropped down into the off side, this could be a tight run but Smith called it running to the danger end and makes it safely
+4191~1~
+4191~1~16.3
+4191~1~0
+4191~1~Wood to Smith, no run, short outside off, stroked towards backward point
+4191~1~
+4191~1~16.4
+4191~1~0
+4191~1~Wood to Smith, no run, banged in short, 141kph/88mph and Smith nods his head out of the way coming across
+4191~1~
+4191~1~16.5
+4191~1~2
+4191~1~Wood to Smith, 2 runs, dug in, 86mph and taken off the ribs through backward square leg, the sweeper has to run around and they get back for two
+4191~1~
+4191~1~16.6
+4191~1~4
+4191~1~Wood to Smith, FOUR runs, slashed for four! Smith finding his range now, opens the face and whiplashes a drive behind point - no cutting that off
+4191~1~"Can we issue a *cries with laughter emoji* to Cornered Tiger??" snorts Ricky
+4191~1~
+4191~1~
+4191~1~17.1
+4191~1~1
+4191~1~Plunkett to Carey, 1 run, length on the stumps, 132kph/82mph and Carey works across the line
+4191~1~Here's Jes: "Exciting, gutsy cricket at its best. Hats off to Carey for playing through what looks like a serious injury - physio and doctor can't seem to get the blood to stop, but here he is, wrapped up, broken jaw, swollen face, fighting in face of adversities." Indeed. And will he be able to keep wicket?
+4191~1~
+4191~1~END OF OVER:17 | 7 Runs | AUS: 62/3 | RR: 3.64
+4191~1~Steven Smith
+4191~1~27 (47b)
+4191~1~Alex Carey
+4191~1~16 (31b)
+4191~1~Mark Wood
+4191~1~3-0-14-0
+4191~1~Liam Plunkett
+4191~1~1-0-8-0
+4191~1~
+4191~1~17.2
+4191~1~1
+4191~1~Plunkett to Smith, 1 run, in the channel outside off, Smith runs this down to third man
+4191~1~
+4191~1~17.3
+4191~1~0
+4191~1~Plunkett to Carey, no run, tight lines from Plunkett, defended into the covers
+4191~1~
+4191~1~17.4
+4191~1~2
+4191~1~Plunkett to Carey, 2 runs, this is too straight, taken off the pads through backward square leg
+4191~1~"As a neutral supporter, one usually wants underdog to win. Looking at the comments on wanting NZ vs Eng finals, it will be interesting to know if fans in general think that Eng is weaker than Aus or is it the comment moderator who thinks that way? :)" I think "moderator" is a bit strong, David. Comment "copy-and-paster" probably more accurate
+4191~1~
+4191~1~
+4191~1~17.5
+4191~1~0
+4191~1~Plunkett to Carey, no run, short of a length outside off, Carey blocks towards extra cover, early call of 'No!'
+4191~1~
+4191~1~17.6
+4191~1~0
+4191~1~Plunkett to Carey, no run, length ball, 130kph/81mph pushed towards mid-off
+4191~1~
+4191~1~18.1
+4191~1~4
+4191~1~Wood to Smith, FOUR runs, banged in short, rising up around the eyes but Smith is well in control as he pulls smoothly through backward square leg for four
+4191~1~END OF OVER:18 | 4 Runs | AUS: 66/3 | RR: 3.66
+4191~1~Alex Carey
+4191~1~19 (36b)
+4191~1~Steven Smith
+4191~1~28 (48b)
+4191~1~Liam Plunkett
+4191~1~2-0-12-0
+4191~1~Mark Wood
+4191~1~3-0-14-0
+4191~1~Here's Abhijato: "I don't know about an Aussie victory, Saharsh, but the Crystal Ball says that Carey will hold his arms aloft in celebration today while wearing the bandage ... It will be an iconic image to say the least!"
+4191~1~
+4191~1~
+4191~1~18.2
+4191~1~1
+4191~1~Wood to Smith, 1 run, on the stumps, 146kph/91mph and flicked off the pads as Smith shuffles across
+4191~1~"Octopus paul is dead." But he lives on in spirit, Aakash Dahal
+4191~1~
+4191~1~
+4191~1~18.3
+4191~1~0
+4191~1~Wood to Carey, no run, round the wicket, 90mph and pitched back of a length, Carey defends on off stump
+4191~1~
+4191~1~18.4
+4191~1~0
+4191~1~Wood to Carey, no run, fuller and a touch wide, 148kph/92mph this time, mistimed on the drive and loops to mid-off
+4191~1~
+4191~1~18.5
+4191~1~0
+4191~1~Wood to Carey, no run, back of a length and tucked towards midwicket
+4191~1~
+4191~1~18.6
+4191~1~1
+4191~1~Wood to Carey, 1 run, touch short, 91mph outside off and Carey settles for running one to third man
+4191~1~TV Umpire: "Carey is Australia's Black Knight !" Nothing but a flesh wound
+4191~1~
+4191~1~
+4191~1~19.1
+4191~1~0
+4191~1~Rashid to Carey, no run, flighted on middle and off, Carey chips it back to the bowler... bump ball
+4191~1~Hello, Adil Rashid on, first look at spin on this pitch
+4191~1~
+4191~1~"The silver lining for Marsh injury is that Hanscomb is there as a reserve keeper," notes Akash. Yes, he might be some use after all
+4191~1~
+4191~1~END OF OVER:19 | 6 Runs | AUS: 72/3 | RR: 3.78
+4191~1~Alex Carey
+4191~1~20 (40b)
+4191~1~Steven Smith
+4191~1~33 (50b)
+4191~1~Mark Wood
+4191~1~4-0-20-0
+4191~1~Liam Plunkett
+4191~1~2-0-12-0
+4191~1~
+4191~1~19.2
+4191~1~0
+4191~1~Rashid to Carey, no run, pushed through outside off, maybe the wrong'un, Carey cuts but can't get it past backward point
+4191~1~
+4191~1~19.3
+4191~1~1
+4191~1~Rashid to Carey, 1 run, touch short, Carey goes deep and flat-bats this hard past the dive of Rashid to long-on
+4191~1~
+4191~1~19.4
+4191~1~1
+4191~1~Rashid to Smith, 1 run, tossed up, spinning a touch as Smith goes back and taps into the covers
+4191~1~
+4191~1~19.5
+4191~1~4
+4191~1~Rashid to Carey, FOUR runs, gets him coming forwards, driven in the air... but between cover and mid-off, that'll scuttle away to the rope! Risk in the shot but Carey gets his reward
+4191~1~Vanessa G: "Australia will win. England only scored 221 against them last time." But will history be repeating itself (in every sense) today?
+4191~1~
+4191~1~
+4191~1~19.6
+4191~1~0
+4191~1~Rashid to Carey, no run, tossed up on middle and leg, tapped back to the bowler
+4191~1~
+4191~1~20.1
+4191~1~0
+4191~1~Plunkett to Smith, no run, fullish outside off, Smith drives firmly but Plunkett gather in his follow through
+4191~1~END OF OVER:20 | 6 Runs | AUS: 78/3 | RR: 3.90
+4191~1~Alex Carey
+4191~1~25 (45b)
+4191~1~Steven Smith
+4191~1~34 (51b)
+4191~1~Adil Rashid
+4191~1~1-0-6-0
+4191~1~Mark Wood
+4191~1~4-0-20-0
+4191~1~
+4191~1~20.2
+4191~1~0
+4191~1~Plunkett to Smith, no run, pitched up on off stump and again Smith pings it back to the bowler, admonishes himself... and presumably makes a mental note to practise that shot in the shower later
+4191~1~
+4191~1~20.3
+4191~1~1
+4191~1~Plunkett to Smith, 1 run, shorter length, comes across and opens the face for one
+4191~1~
+4191~1~20.4
+4191~1~0
+4191~1~Plunkett to Carey, no run, length ball on leg stump, tucked to midwicket
+4191~1~
+4191~1~20.5
+4191~1~0
+4191~1~Plunkett to Carey, no run, angled across from over the wicket, Carey strokes into the covers
+4191~1~"As a Kiwi I'm hoping for a final against Australia," declares Ben. "It's our chance to avenge 2015, and at the same time, continue the storied Trans-Tasman rivalry at the home of cricket. But I am certainly not betting against England here, this game is shaping up to be an absolute classic."
+4191~1~
+4191~1~
+4191~1~20.6
+4191~1~1
+4191~1~Plunkett to Carey, 1 run, shortish, 129kph/80mph and whipped off the pads, just one to deep backward square
+4191~1~
+4191~1~21.1
+4191~1~1
+4191~1~Rashid to Carey, 1 run, tossed up, Carey spring-heels down the pitch but can't get under the ball, dinked down the ground to long-on
+4191~1~END OF OVER:21 | 2 Runs | AUS: 80/3 | RR: 3.80
+4191~1~Alex Carey
+4191~1~26 (48b)
+4191~1~Steven Smith
+4191~1~35 (54b)
+4191~1~Liam Plunkett
+4191~1~3-0-14-0
+4191~1~Adil Rashid
+4191~1~1-0-6-0
+4191~1~"Every one here trying Jinx on Carey, keep going mates," hoots Adam hamdule
+4191~1~
+4191~1~
+4191~1~21.2
+4191~1~1
+4191~1~Rashid to Smith, 1 run, floated up full on off and driven back past the bowler
+4191~1~
+4191~1~21.3
+4191~1~2
+4191~1~Rashid to Carey, 2 runs, full on leg stump, Carey gets the ball away fine on the sweep for two more
+4191~1~
+4191~1~21.4
+4191~1~1
+4191~1~Rashid to Carey, 1 run, tossed up wide of off stump, slightly quicker and steered through backward point
+4191~1~"Just love Australia for their abilities to thrive in High Pressure situations and high pressure games," coos Deep, "the belief, the confidence - mesmerizing to say the least"
+4191~1~
+4191~1~
+4191~1~21.5
+4191~1~1
+4191~1~Rashid to Smith, 1 run, pushed through, Smith goes back and stuns a drive past mid-on
+4191~1~
+4191~1~21.6
+4191~1~1
+4191~1~Rashid to Carey, 1 run, flighted, Carey is well forward and dabs into the covers, they set off early and although Buttler sprints out and has a shy at the non-striker's, he was safely in
+4191~1~
+4191~1~22.1
+4191~1~0
+4191~1~Plunkett to Carey, no run, length ball tapped into the covers on the front foot
+4191~1~END OF OVER:22 | 7 Runs | AUS: 87/3 | RR: 3.95
+4191~1~Alex Carey
+4191~1~31 (52b)
+4191~1~Steven Smith
+4191~1~37 (56b)
+4191~1~Adil Rashid
+4191~1~2-0-13-0
+4191~1~Liam Plunkett
+4191~1~3-0-14-0
+4191~1~"The way Smith is batting is outstanding regarding the situation," muses Nikesh Lamsal. Good job someone picked him as 'In the spotlight' for the preview...
+4191~1~
+4191~1~
+4191~1~22.2
+4191~1~4
+4191~1~Plunkett to Carey, FOUR runs, timing from Carey, like he's a Swiss watch-maker... Stroked through the covers, no one out there for protection
+4191~1~
+4191~1~22.3
+4191~1~0
+4191~1~Plunkett to Carey, no run, shortish, misses out on a flick off the hip
+4191~1~
+4191~1~22.4
+4191~1~1
+4191~1~Plunkett to Carey, 1 run, touch full of a length and driven coming forwards on off, one back past the bowler
+4191~1~
+4191~1~22.5
+4191~1~0
+4191~1~Plunkett to Smith, no run, was that a chance? No, didn't quite carry to backward point... Excellent diving stop from Stokes, in the event, as Smith opened the face to flash an uppish drive
+4191~1~
+4191~1~22.6
+4191~1~0
+4191~1~Plunkett to Smith, no run, length, sliding into the pads, deflected wide of Buttler... Plunkett seems to enquire about lbw, but settles for the dot ball
+4191~1~
+4191~1~23.1
+4191~1~1
+4191~1~Rashid to Carey, 1 run, floated up and whipped with the spin through midwicket
+4191~1~Rashid continues, with Australia looking build
+4191~1~
+4191~1~END OF OVER:23 | 5 Runs | AUS: 92/3 | RR: 4.00
+4191~1~Steven Smith
+4191~1~37 (58b)
+4191~1~Alex Carey
+4191~1~36 (56b)
+4191~1~Liam Plunkett
+4191~1~4-0-19-0
+4191~1~Adil Rashid
+4191~1~2-0-13-0
+4191~1~Here's Morten: "Last year when the Aussies batted first, 214, 270 and even 304 were not enough and England chased it down successfully. Also, has anyone even considered this may be a 300+ wicket and the England bowlers have just done an amazing job. Cheering from The Netherlands, I think this will be England all the way!"
+4191~1~
+4191~1~
+4191~1~23.2
+4191~1~0
+4191~1~Rashid to Smith, no run, flighted, Smith punches along the carpet to mid-off
+4191~1~
+4191~1~23.3
+4191~1~2
+4191~1~Rashid to Smith, 2 runs, waits for this to pitch and then straighten, tapped square of cover... and then Rashid can only get fingertips on the throw to deflect it past the man backing up and gift them an overthrow
+4191~1~
+4191~1~23.4
+4191~1~0
+4191~1~Rashid to Smith, no run, floated up on off, pushed towards extra cover
+4191~1~
+4191~1~23.5
+4191~1~2
+4191~1~Rashid to Smith, 2 runs, flighted, slightly wide and Smith is forward, skelps a drive in front of the cover sweeper for two
+4191~1~
+4191~1~23.6
+4191~1~1
+4191~1~Rashid to Smith, 1 run, punched into a gap coming across
+4191~1~"Australia has never lost a world cup semi final! I repeat, Australia has never lost a world cup semi final," murmurs Urchin. England fans getting nervous again yet?
+4191~1~
+4191~1~
+4191~1~24.1
+4191~1~1
+4191~1~Plunkett to Smith, 1 run, length ball on the stumps, clipped through midwicket
+4191~1~Damian Saunders is taking the positive view: "This partnership shows that the pitch isn't bad for batting, which hopefully bodes well for the chase"
+4191~1~
+4191~1~END OF OVER:24 | 6 Runs | AUS: 98/3 | RR: 4.08
+4191~1~Steven Smith
+4191~1~42 (63b)
+4191~1~Alex Carey
+4191~1~37 (57b)
+4191~1~Adil Rashid
+4191~1~3-0-19-0
+4191~1~Liam Plunkett
+4191~1~4-0-19-0
+4191~1~
+4191~1~24.2
+4191~1~1w
+4191~1~Plunkett to Carey, 1 wide, round the wicket, slung down the leg side as Carey throws the hands - a wide brings up the Australia 100
+4191~1~
+4191~1~24.2
+4191~1~1
+4191~1~Plunkett to Carey, 1 run, pitched up and driven through the covers coming forwards
+4191~1~
+4191~1~24.3
+4191~1~1
+4191~1~Plunkett to Smith, 1 run, touch short and Smith bottom-handed shovels through square leg
+4191~1~"Morten - welcome to the pressure of a World Cup semi," warns Tyler. "It's a whole different ballgame. In a chase of 260, I'd happily back the team batting first."
+4191~1~
+4191~1~
+4191~1~24.4
+4191~1~0
+4191~1~Plunkett to Carey, no run, full outside off, 131kph/81mph and it clips the inside edge as Carey pushes forward
+4191~1~
+4191~1~24.5
+4191~1~1w
+4191~1~Plunkett to Carey, 1 wide, leg-side cutter from Plunkett, doesn't get up
+4191~1~
+4191~1~24.5
+4191~1~0
+4191~1~Plunkett to Carey, no run, hits a length and Carey sends it to mid-off
+4191~1~
+4191~1~24.6
+4191~1~0
+4191~1~Plunkett to Carey, no run, touch fuller on off, blocked into the covers with half a stride
+4191~1~
+4191~1~25.1
+4191~1~1w
+4191~1~Rashid to Smith, 1 wide, this one spins, but the line was very wide and Smith takes the extra
+4191~1~END OF OVER:25 | 5 Runs | AUS: 103/3 | RR: 4.12
+4191~1~Alex Carey
+4191~1~38 (61b)
+4191~1~Steven Smith
+4191~1~44 (65b)
+4191~1~Liam Plunkett
+4191~1~5-0-24-0
+4191~1~Adil Rashid
+4191~1~3-0-19-0
+4191~1~"Doesn't seem as if there's anything in the pitch for the spinner?" Not much, from the looks of it, Richard. But then this has been billed as a flat'un, after all
+4191~1~
+4191~1~
+4191~1~25.1
+4191~1~1
+4191~1~Rashid to Smith, 1 run, pushed through and punched back down the ground for one
+4191~1~
+4191~1~25.2
+4191~1~4
+4191~1~Rashid to Carey, FOUR runs, tosses up the googly, Carey spots it and absolutely belts a flat slog-sweep in front of deep midwicket! Superb connection on that, no chance for the boundary rider
+4191~1~
+4191~1~25.3
+4191~1~1
+4191~1~Rashid to Carey, 1 run, sliding across and dabbed off the back foot behind point
+4191~1~
+4191~1~25.4
+4191~1~1
+4191~1~Rashid to Smith, 1 run, floats up another Bosie, Smith punches down the ground
+4191~1~
+4191~1~25.5
+4191~1~1
+4191~1~Rashid to Carey, 1 run, tossed up on off stump, Carey drops back and runs it towards short third man
+4191~1~
+4191~1~25.6
+4191~1~1
+4191~1~Rashid to Smith, 1 run, flat legbreak outside off, Smith cracks it through the covers for one more
+4191~1~"Old fashioned, milking ones and two's in middle overs with low risk....." Got to be done, Timothy Walsh. Leave the wham-bam stuff for later
+4191~1~
+4191~1~
+4191~1~26.1
+4191~1~1
+4191~1~Stokes to Smith, 1 run, short ball outside off, Smith dabs down to third man
+4191~1~Ben Stokes back, replacing Plunkett
+4191~1~
+4191~1~"Carey is my new Favourite Aussie! the Fight he is showing with that bandage around his head is inspiring!" I imagine Sareth isn't alone
+4191~1~
+4191~1~END OF OVER:26 | 10 Runs | AUS: 113/3 | RR: 4.34
+4191~1~Steven Smith
+4191~1~47 (68b)
+4191~1~Alex Carey
+4191~1~44 (64b)
+4191~1~Adil Rashid
+4191~1~4-0-29-0
+4191~1~Liam Plunkett
+4191~1~5-0-24-0
+4191~1~
+4191~1~26.2
+4191~1~0
+4191~1~Stokes to Carey, no run, pitched up from over the wicket, 138kph/86mph and clipped to mid-on
+4191~1~Hundred partnership up between these two
+4191~1~
+4191~1~
+4191~1~26.3
+4191~1~2
+4191~1~Stokes to Carey, 2 runs, short ball, pulled off the hip and they get a couple towards deep midwicket
+4191~1~
+4191~1~26.4
+4191~1~0
+4191~1~Stokes to Carey, no run, tempter in the channel, 139kph/87mph and Carey has a little flirt without moving his feet
+4191~1~
+4191~1~26.5
+4191~1~0
+4191~1~Stokes to Carey, no run, pitched up leg side and skidding into the pads
+4191~1~"I think what you guys are failing to realise that in a cricket World Cup Semi final even 220 is defendable as we saw against India vs NZ." This is very true, Jammy. Although Australia haven't got 220 yet...
+4191~1~
+4191~1~
+4191~1~26.6
+4191~1~0
+4191~1~Stokes to Carey, no run, good length on off, defended down into the covers
+4191~1~
+4191~1~27.1
+4191~1~1
+4191~1~Rashid to Smith, 1 run, driven coming forwards, well struck but Stokes does well to cut it off on the dive at extra cover
+4191~1~Here's Rohan : "100 runs partnership in 20 overs, great recovery. 260+ will be hard to chase, Eng need to strike soon otherwise this will be a great platform for Maxi & Stoinis to exploit and take the game away quickly."
+4191~1~
+4191~1~END OF OVER:27 | 3 Runs | AUS: 116/3 | RR: 4.29
+4191~1~Alex Carey
+4191~1~46 (69b)
+4191~1~Steven Smith
+4191~1~48 (69b)
+4191~1~Ben Stokes
+4191~1~3-0-13-0
+4191~1~Adil Rashid
+4191~1~4-0-29-0
+4191~1~"Batsmen seem to be taking 1s a lot more comfortably than India NZ game. The ball coming on to the bat better?" Think it's a decent surface, Jay. But cracks can appear anywhere when scoreboard pressure is on
+4191~1~
+4191~1~
+4191~1~27.2
+4191~1~W
+4191~1~Rashid to Carey, OUT, skips down, flicked leg side... but too well! Picks out deep midwicket on the fence! That's the partnership broken, and it came from a lapse rather than any great delivery, just a wander down the pitch and chipping to the fielder! A shot without due Carey attention and England have their fourth
+4191~1~AT Carey c sub (JM Vince) b Rashid 46 (94m 70b 4x4 0x6) SR: 65.71
+4191~1~
+4191~1~
+4191~1~27.3
+4191~1~0
+4191~1~Rashid to Smith, no run, pushed through on off, Smith runs it to backward point
+4191~1~Out comes Marcus Stoinis, Australia still needing some dig-in
+4191~1~
+4191~1~
+4191~1~27.4
+4191~1~1
+4191~1~Rashid to Smith, 1 run, lobbed up on the stumps, Smith drive back past the bowler - that's his half-century up, a top knock in the circumstances. Can he convert, as he in the semi did four years ago?
+4191~1~
+4191~1~27.5
+4191~1~0
+4191~1~Rashid to Stoinis, no run, floated up and punched to cover
+4191~1~
+4191~1~27.6
+4191~1~W
+4191~1~Rashid to Stoinis, OUT, googly, hit on the knee roll... GIVEN! Australia have no reviews! Was it high? The ball actually hit the thigh pad, skidding on inside a woolly waft from Stoinis, and after an age Dharmasena's finger went up! Smith gives a look of anguish at the non-striker's end as Stoinis heads off. Might well have been umpire's call - but what a call that was!
+4191~1~MP Stoinis lbw b Rashid 0 (4m 2b 0x4 0x6) SR: 0.00
+4191~1~
+4191~1~
+4191~1~28.1
+4191~1~2
+4191~1~Stokes to Smith, 2 runs, Smith comes across and works this behind square on the leg side
+4191~1~END OF OVER:28 | 2 Runs 2 Wkts | AUS: 118/5 | RR: 4.21
+4191~1~Steven Smith
+4191~1~50 (72b)
+4191~1~Adil Rashid
+4191~1~5-0-31-2
+4191~1~Ben Stokes
+4191~1~3-0-13-0
+4191~1~Two in the over for Rashid, and this game turns on it's head again!
+4191~1~
+4191~1~
+4191~1~28.2
+4191~1~1
+4191~1~Stokes to Smith, 1 run, edged behind backward point, slightly wafty from Smith but he gets one for it
+4191~1~That Stoinis dismissal was ump's call on impact and hitting the stumps, so the review wouldn't have saved him
+4191~1~
+4191~1~Nitin Deokate: "oh boy!! Rashid is on roll!"
+4191~1~
+4191~1~
+4191~1~28.3
+4191~1~0
+4191~1~Stokes to Maxwell, no run, full outside off, Maxwell appears to be late on it as the ball squeezes under the bat through to the keeper
+4191~1~First ball for the new man, Glenn Maxwell
+4191~1~
+4191~1~
+4191~1~28.4
+4191~1~1
+4191~1~Stokes to Maxwell, 1 run, shortish and clipped off the pads through square leg
+4191~1~
+4191~1~28.5
+4191~1~4
+4191~1~Stokes to Smith, FOUR runs, spanked through cover! Slightly overpitched but that's a peerless shot from Smith! Threading the gap as he goes back and across
+4191~1~"Thanks Rohan for the Woof!" squawks Luke Curtis. No idea what that means, but still
+4191~1~
+4191~1~
+4191~1~28.6
+4191~1~1
+4191~1~Stokes to Smith, 1 run, on the body and nudged behind square
+4191~1~
+4191~1~29.1
+4191~1~1
+4191~1~Rashid to Smith, 1 run, tossed up, this spins sharply away as Smith goes back and slaps down the ground
+4191~1~"'..game turned on its head'.....well here's Maxwell, who knows a thing or two on how to do THAT!" intones Venu, knowingly
+4191~1~
+4191~1~END OF OVER:29 | 9 Runs | AUS: 127/5 | RR: 4.37
+4191~1~Steven Smith
+4191~1~58 (76b)
+4191~1~Glenn Maxwell
+4191~1~1 (2b)
+4191~1~Ben Stokes
+4191~1~4-0-22-0
+4191~1~Adil Rashid
+4191~1~5-0-31-2
+4191~1~
+4191~1~29.2
+4191~1~2
+4191~1~Rashid to Maxwell, 2 runs, flighted legbreak, turn again, Maxwell drives and edges wide of slip! Root was diving to his right, just got enough bat on it to squirt a couple away
+4191~1~Slip in for Maxwell
+4191~1~
+4191~1~
+4191~1~29.3
+4191~1~0
+4191~1~Rashid to Maxwell, no run, pushed through on the stumps, Maxwell defends
+4191~1~
+4191~1~29.4
+4191~1~0
+4191~1~Rashid to Maxwell, no run, grip for Rashid, finds the outside edge again - though this one dies quickly, runs to short third man
+4191~1~
+4191~1~29.5
+4191~1~0
+4191~1~Rashid to Maxwell, no run, floated up on the stumps and pushed into the covers
+4191~1~Tawhid Rehan: "The Golden Arm for England indeed, when in need. Adil Usman Rashid." Good time to turn up, I guess
+4191~1~
+4191~1~
+4191~1~29.6
+4191~1~0
+4191~1~Rashid to Maxwell, no run, pushed through and Maxwell dabs towards mid-off - another good over from Rashid, who seems to have discovered his groove
+4191~1~
+4191~1~30.1
+4191~1~1
+4191~1~Archer to Smith, 1 run, short of a length, maybe a slower ball and Smith works it through midwicket
+4191~1~Jofra Archer back, England hunting further breakthroughs. Twenty overs to go
+4191~1~
+4191~1~END OF OVER:30 | 3 Runs | AUS: 130/5 | RR: 4.33
+4191~1~Glenn Maxwell
+4191~1~3 (7b)
+4191~1~Steven Smith
+4191~1~59 (77b)
+4191~1~Adil Rashid
+4191~1~6-0-34-2
+4191~1~Ben Stokes
+4191~1~4-0-22-0
+4191~1~
+4191~1~30.2
+4191~1~0
+4191~1~Archer to Maxwell, no run, back of a length on off, Maxwell shows it a straight bat
+4191~1~"Is the outfield slow? And is the pitch slow? Will it slow up later on in the second innings?" That's the $64m question, Sarah...
+4191~1~
+4191~1~
+4191~1~30.3
+4191~1~0
+4191~1~Archer to Maxwell, no run, comes across and lines this one up
+4191~1~Slip is in
+4191~1~
+4191~1~
+4191~1~30.4
+4191~1~4
+4191~1~Archer to Maxwell, FOUR runs, banged in, Maxwell swivels and pulls, arms extended and battered through midwicket for four! Passes his first test
+4191~1~
+4191~1~30.5
+4191~1~0
+4191~1~Archer to Maxwell, no run, beaten this time, on a length, indeterminate footwork from Maxwell, nibbling through to the keeper
+4191~1~
+4191~1~30.6
+4191~1~0
+4191~1~Archer to Maxwell, no run, Archer digs this in short, more grunt in the bumper and Maxi ducks
+4191~1~
+4191~1~31.1
+4191~1~0
+4191~1~Rashid to Smith, no run, floated up and tapped into the off side
+4191~1~WATCH - Rashid gets Carey to stall Australia's progress (Australia, UK and SEA only)
+4191~1~
+4191~1~END OF OVER:31 | 5 Runs | AUS: 135/5 | RR: 4.35
+4191~1~Glenn Maxwell
+4191~1~7 (12b)
+4191~1~Steven Smith
+4191~1~60 (78b)
+4191~1~Jofra Archer
+4191~1~6-0-16-1
+4191~1~Adil Rashid
+4191~1~6-0-34-2
+4191~1~Can Maxwell make it a Freaky Thursday, with his team in trouble? asks Osman Samiuddin
+4191~1~
+4191~1~
+4191~1~31.2
+4191~1~0
+4191~1~Rashid to Smith, no run, pushes through a googly, Smith goes back and runs it to short third man
+4191~1~
+4191~1~31.3
+4191~1~1
+4191~1~Rashid to Smith, 1 run, floats up the legbreak, straightening on leg stump and Smith tucks it away
+4191~1~
+4191~1~31.4
+4191~1~6
+4191~1~Rashid to Maxwell, SIX runs, smoked over long-on! Big hit from the Big Show! Tossed up and in the zone, Maxwell stays still and then cleans the ball out with a crisp swing
+4191~1~
+4191~1~31.5
+4191~1~0
+4191~1~Rashid to Maxwell, no run, flatter, on the stumps, defended
+4191~1~First six of the Australia innings...
+4191~1~
+4191~1~
+4191~1~31.6
+4191~1~0
+4191~1~Rashid to Maxwell, no run, tossed up on off stump, patted into the covers
+4191~1~Here's Gul Rao: "England need to bowled out Aussies as early as possible and they need just one more wicket to expose the tail. If Aussies managed to play 50 overs, they will reach around 240-250 and that will be a tough task for any time."
+4191~1~
+4191~1~
+4191~1~32.1
+4191~1~0
+4191~1~Archer to Smith, no run, dug in short on middle, Smith ducks out of the way and lets it go
+4191~1~12.55pm Thanks, Alan Right, can Smith and Maxwell save the day for Australia. This is the last recognised pair for Australia although Starc and Cummins can bat
+4191~1~
+4191~1~END OF OVER:32 | 7 Runs | AUS: 142/5 | RR: 4.43
+4191~1~Glenn Maxwell
+4191~1~13 (15b)
+4191~1~Steven Smith
+4191~1~61 (81b)
+4191~1~Adil Rashid
+4191~1~7-0-41-2
+4191~1~Jofra Archer
+4191~1~6-0-16-1
+4191~1~Time for drinks, Australia looking for a slurp of Maxwell magic. Here's Deiva again to see this one through
+4191~1~
+4191~1~
+4191~1~32.2
+4191~1~0
+4191~1~Archer to Smith, no run, shortish and angling into off, Smith jumps across and flicks but backward square lurks and stops it
+4191~1~
+4191~1~32.3
+4191~1~0
+4191~1~Archer to Smith, no run, on a length and moves away outside off, slower variation from Archer. Smith stabs early and is beaten
+4191~1~
+4191~1~32.4
+4191~1~0
+4191~1~Archer to Smith, no run, back of a length and on a fourth-stump line, played back to the bowler
+4191~1~
+4191~1~32.5
+4191~1~1
+4191~1~Archer to Smith, 1 run, Smith rises on top of a short ball outside off and forces to sweeper cover
+4191~1~
+4191~1~32.6
+4191~1~1
+4191~1~Archer to Maxwell, 1 run, leg-stump half-volley, Maxwell only picks it away to deep midwicket
+4191~1~
+4191~1~33.1
+4191~1~2
+4191~1~Rashid to Maxwell, 2 runs, Maxwell continues to attack Rashid. He heaves this against the break to cow corner. YJB cuts it off in the outfield
+4191~1~WATCH - Rashid rips a googly to trap Stoinis lbw (Australia, UK and SEA only)
+4191~1~
+4191~1~END OF OVER:33 | 2 Runs | AUS: 144/5 | RR: 4.36
+4191~1~Glenn Maxwell
+4191~1~14 (16b)
+4191~1~Steven Smith
+4191~1~62 (86b)
+4191~1~Jofra Archer
+4191~1~7-0-18-1
+4191~1~Adil Rashid
+4191~1~7-0-41-2
+4191~1~
+4191~1~33.2
+4191~1~0
+4191~1~Rashid to Maxwell, no run, pushed through on middle, played back to the bowler
+4191~1~
+4191~1~33.3
+4191~1~0
+4191~1~Rashid to Maxwell, no run, was that the wrong'un? Looks like but dragged short, punched to midwicket off the back foot
+4191~1~
+4191~1~33.4
+4191~1~4
+4191~1~Rashid to Maxwell, FOUR runs, heaved away once again, this time between deep midwicket and long-on. Dragged down outside off, and duly put away off the back foot by Maxwell
+4191~1~
+4191~1~33.5
+4191~1~1
+4191~1~Rashid to Maxwell, 1 run, short and spins away outside off, laced to sweeper off the back foot
+4191~1~
+4191~1~33.6
+4191~1~1
+4191~1~Rashid to Smith, 1 run, tossed on middle, eased down to long-off off the front foot
+4191~1~
+4191~1~34.1
+4191~1~1
+4191~1~Archer to Smith, 1 run, full and wide outside off, Smith chases a drive and inside-edges it to fine leg
+4191~1~END OF OVER:34 | 8 Runs | AUS: 152/5 | RR: 4.47
+4191~1~Steven Smith
+4191~1~63 (87b)
+4191~1~Glenn Maxwell
+4191~1~21 (21b)
+4191~1~Adil Rashid
+4191~1~8-0-49-2
+4191~1~Jofra Archer
+4191~1~7-0-18-1
+4191~1~
+4191~1~34.2
+4191~1~1
+4191~1~Archer to Maxwell, 1 run, shorter and outside off, Maxwell solidly steers to sweeper cover
+4191~1~
+4191~1~34.3
+4191~1~0
+4191~1~Archer to Smith, no run, shortish and angling into a leg-side flick to backward square leg
+4191~1~
+4191~1~34.4
+4191~1~1w
+4191~1~Archer to Smith, 1 wide, bumper on middle, Smith ducks under it. Too high, so that's a wide
+4191~1~
+4191~1~34.4
+4191~1~1
+4191~1~Archer to Smith, 1 run, wedged into the gap between midwicket and backward square leg
+4191~1~
+4191~1~34.5
+4191~1~1w
+4191~1~Archer to Maxwell, 1 wide, another bumper, another wide, Archer has a wry smile on his face
+4191~1~Mayank N: "A lot of respect for Smith. He might stay in the shadows of others through the tournament, but when the day asked him, he's there delivering. The best batsman of this Aussie squad. "
+4191~1~
+4191~1~
+4191~1~34.5
+4191~1~W
+4191~1~Archer to Maxwell, OUT, Spliced into the lap of short cover. Slower variation from Archer, he rolls his fingers across it, kicks up from a length and tricks Maxwell into lobbing it to Morgan. Archer was brought back for this and he delivers. Okay, replays suggest it was the knuckle ball from Archer
+4191~1~GJ Maxwell c Morgan b Archer 22 (29m 23b 2x4 1x6) SR: 95.65
+4191~1~
+4191~1~
+4191~1~34.6
+4191~1~0
+4191~1~Archer to Cummins, no run, mighty full and outside off, stabbed to point with an open face
+4191~1~Can Cummins hang around with Smith?
+4191~1~
+4191~1~
+4191~1~35.1
+4191~1~1
+4191~1~Rashid to Smith, 1 run, googly, worked off the back foot to deep midwicket
+4191~1~END OF OVER:35 | 5 Runs 1 Wkt | AUS: 157/6 | RR: 4.48
+4191~1~Pat Cummins
+4191~1~0 (1b)
+4191~1~Steven Smith
+4191~1~65 (90b)
+4191~1~Jofra Archer
+4191~1~8-0-23-2
+4191~1~Adil Rashid
+4191~1~8-0-49-2
+4191~1~James Lincoln: "Typical Maxwell innings. All on Smith now."
+4191~1~
+4191~1~
+4191~1~35.2
+4191~1~1
+4191~1~Rashid to Cummins, 1 run, Cummins stretches out and drives with the break to sweeper cover
+4191~1~
+4191~1~35.3
+4191~1~0
+4191~1~Rashid to Smith, no run, Smith presses forward and whisks this full ball to short midwicket
+4191~1~
+4191~1~35.4
+4191~1~1
+4191~1~Rashid to Smith, 1 run, dirty long-hop on middle, pulled only as far as deep midwicket
+4191~1~Satya: "If England wins this, we shall have first time world up champions on 14th July, 2019!!"
+4191~1~
+4191~1~Kush: "In comes Cummins.. Can he do a Jaddu..???"
+4191~1~
+4191~1~
+4191~1~35.5
+4191~1~1
+4191~1~Rashid to Cummins, 1 run, short and darted outside off, forced down to long-off off the back foot
+4191~1~Riert: "Respect for Smith indeed. In a lot of ways. (from an England supporter who doesn't like to give any Aussie compliments)"
+4191~1~
+4191~1~
+4191~1~35.6
+4191~1~0
+4191~1~Rashid to Smith, no run, tossed outside off, stretches out and drills to extra-cover
+4191~1~
+4191~1~36.1
+4191~1~2
+4191~1~Archer to Cummins, 2 runs, short and angling into off, run down to the right of deep third man
+4191~1~Elsewhere, the first of the women's singles semi-finals has got under way at Wimbledon. So, is the stage set for a Serena Williams vs Simona Halep final on Saturday or do Barbora Strycova and Elina Svitolina also have a chance? Why not check out some expert predictions? --- Well, Archer keeps going. Can he bring England one more wicket?
+4191~1~
+4191~1~END OF OVER:36 | 4 Runs | AUS: 161/6 | RR: 4.47
+4191~1~Steven Smith
+4191~1~67 (94b)
+4191~1~Pat Cummins
+4191~1~2 (3b)
+4191~1~Adil Rashid
+4191~1~9-0-53-2
+4191~1~Jofra Archer
+4191~1~8-0-23-2
+4191~1~
+4191~1~36.2
+4191~1~0
+4191~1~Archer to Cummins, no run, full and on off, punched to mid-on
+4191~1~Amyth: "Nothing better than a fast bowler to finish off the tail..mark wood should be brought back on now..some sweet chin music.."
+4191~1~
+4191~1~
+4191~1~36.3
+4191~1~0
+4191~1~Archer to Cummins, no run, another slower variation, stops on off, another knuckle ball, nearly carries back for a return catch
+4191~1~
+4191~1~36.4
+4191~1~0
+4191~1~Archer to Cummins, no run, lifter outside off, Cummins tries to ramp it away... No dice
+4191~1~
+4191~1~36.5
+4191~1~0
+4191~1~Archer to Cummins, no run, banged in short, nearly spliced back to the bowler
+4191~1~
+4191~1~36.6
+4191~1~2
+4191~1~Archer to Cummins, 2 runs, full and heading down leg, deflected to fine leg
+4191~1~
+4191~1~37.1
+4191~1~0
+4191~1~Rashid to Smith, no run, dangled up on off stump, Smith plays it back to the bowler
+4191~1~END OF OVER:37 | 4 Runs | AUS: 165/6 | RR: 4.45
+4191~1~Pat Cummins
+4191~1~6 (9b)
+4191~1~Steven Smith
+4191~1~67 (94b)
+4191~1~Jofra Archer
+4191~1~9-0-27-2
+4191~1~Adil Rashid
+4191~1~9-0-53-2
+4191~1~
+4191~1~37.2
+4191~1~0
+4191~1~Rashid to Smith, no run, slid through faster on off, Smith stays leg-side of the ball and smears it to cover
+4191~1~
+4191~1~37.3
+4191~1~1
+4191~1~Rashid to Smith, 1 run, tossed up and turns away outside off, Smith flashes the ball away to sweeper cover
+4191~1~
+4191~1~37.4
+4191~1~W
+4191~1~Rashid to Cummins, OUT, Grabbed at first slip. Joe Root goes low hangs onto the fast-travelling ball to leave Australia seven down and sinking. Flighted and drifts in just outside off and turns away. Cummins has a crack at it and snicks it behind. Wicket no. 3 for Rashid, in his last over
+4191~1~PJ Cummins c Root b Rashid 6 (11m 10b 0x4 0x6) SR: 60.00
+4191~1~
+4191~1~
+4191~1~37.5
+4191~1~0
+4191~1~Rashid to Starc, no run, sliding across off, wrong'un, drags Starc forward and beats the outside edge
+4191~1~
+4191~1~37.6
+4191~1~0
+4191~1~Rashid to Starc, no run, starts on leg stump and turns away viciously past the outside edge and the off stump. A ripping wrong'un to close out the spell. Well done, Rashid
+4191~1~
+4191~1~38.1
+4191~1~1
+4191~1~Archer to Smith, 1 run, shorter and outside off, fended off to the covers for one
+4191~1~END OF OVER:38 | 1 Run 1 Wkt | AUS: 166/7 | RR: 4.36
+4191~1~Mitchell Starc
+4191~1~0 (2b)
+4191~1~Steven Smith
+4191~1~68 (97b)
+4191~1~Adil Rashid
+4191~1~10-0-54-3
+4191~1~Jofra Archer
+4191~1~9-0-27-2
+4191~1~
+4191~1~38.2
+4191~1~1
+4191~1~Archer to Starc, 1 run, short and just a shade outside off, stabbed past slip to third man
+4191~1~Round the wicket
+4191~1~
+4191~1~
+4191~1~38.3
+4191~1~0
+4191~1~Archer to Smith, no run, lifter outside off, Smith manages to pat it down to point
+4191~1~
+4191~1~38.4
+4191~1~1
+4191~1~Archer to Smith, 1 run, back of a length and outside off, punched away to the left of cover
+4191~1~
+4191~1~38.5
+4191~1~2
+4191~1~Archer to Starc, 2 runs, full on the stumps, Starc hangs back and picks it away to the right of deep midwicket
+4191~1~Tushar Patil: "Innovative Captaincy from Morgan. He is attacking and finishing Archer's quota. May be Woakes will start from other. This is really good. Get them under 200 rather than letting them stroll through for 230-240."
+4191~1~
+4191~1~
+4191~1~38.6
+4191~1~0
+4191~1~Archer to Starc, no run, bouncer outside off, flies to the keeper, Starc drops his wrists. Archer finishes with 2 for 32 in his 10
+4191~1~
+4191~1~39.1
+4191~1~0
+4191~1~Wood to Smith, no run, back of a length and skidding through outside off, Smith leans back for a drive but the ball whistles past the outside edge
+4191~1~Wood. Over the wicket
+4191~1~
+4191~1~END OF OVER:39 | 5 Runs | AUS: 171/7 | RR: 4.38
+4191~1~Mitchell Starc
+4191~1~3 (5b)
+4191~1~Steven Smith
+4191~1~70 (100b)
+4191~1~Jofra Archer
+4191~1~10-0-32-2
+4191~1~Adil Rashid
+4191~1~10-0-54-3
+4191~1~
+4191~1~39.2
+4191~1~2
+4191~1~Wood to Smith, 2 runs, banged in outside off, Smith goes airborne and lashes it away to the right of sweeper cover
+4191~1~Tushar Patil: "Innovative Captaincy from Morgan. He is attacking and finishing Archer's quota. May be Woakes will start from other. This is really good. Get them under 200 rather than letting them stroll through for 230-240."
+4191~1~
+4191~1~
+4191~1~ Patil. Innovative captaincy?! Just following Kane's example from yesterday..."
+4191~1~
+4191~1~
+4191~1~39.3
+4191~1~1
+4191~1~Wood to Smith, 1 run, Smith shuffles across off, gets inside the line of this length ball and tickles a single to fine leg
+4191~1~Doc: "
+4191~1~39.4
+4191~1~0
+4191~1~Wood to Starc, no run, back of a length and holds its line outside off from round the stumps, punched straight to short cover
+4191~1~
+4191~1~39.5
+4191~1~1
+4191~1~Wood to Starc, 1 run, shorter and outside off, fenced down to deep third man
+4191~1~Vicky: "Get the Aussies out below 200... just to shatter their confidence... even if they get all out on exactly 200... they will be a different bowling unit all together..."
+4191~1~
+4191~1~
+4191~1~39.6
+4191~1~0
+4191~1~Wood to Smith, no run, dug in short and just a shade outside off, fended back to Wood
+4191~1~
+4191~1~Deivarayan Muthu Thought it would take a day or two for you to get Recovered after last evening setback " ---- Umm, why? It was a good game and the team that handled pressure better won
+4191~1~
+4191~1~
+4191~1~40.1
+4191~1~0
+4191~1~Plunkett to Starc, no run, full on middle, Starc shovels a drive down to mid-on
+4191~1~Plunkett comes back on
+4191~1~
+4191~1~END OF OVER:40 | 4 Runs | AUS: 175/7 | RR: 4.37
+4191~1~Steven Smith
+4191~1~73 (104b)
+4191~1~Mitchell Starc
+4191~1~4 (7b)
+4191~1~Mark Wood
+4191~1~5-0-24-0
+4191~1~Jofra Archer
+4191~1~10-0-32-2
+4191~1~Nomaan Haqqie: "
+4191~1~40.2
+4191~1~0
+4191~1~Plunkett to Starc, no run, short at the body from round the wicket, blocked to mid-on
+4191~1~WATCH - Another googly gives Rashid his third wicket (Australia, UK and SEA only)
+4191~1~
+4191~1~
+4191~1~40.3
+4191~1~0
+4191~1~Plunkett to Starc, no run, back of a length and outside off, Starc yanks his bottom hand off the handle and splices it to mid-off
+4191~1~
+4191~1~40.4
+4191~1~0
+4191~1~Plunkett to Starc, no run, length ball on off stump, tight lines, defended back to the bowler
+4191~1~
+4191~1~40.5
+4191~1~0
+4191~1~Plunkett to Starc, no run, just short of a good length and outside off, Starc throws his bat at the ball... and misses
+4191~1~
+4191~1~40.6
+4191~1~1
+4191~1~Plunkett to Starc, 1 run, Starc clears his front leg and smites this length ball from off to long-on
+4191~1~
+4191~1~41.1
+4191~1~1lb
+4191~1~Wood to Starc, 1 leg bye, short and sliding into the body from round the wicket, fended off for one
+4191~1~JohnSBlack: "This is starting to feel like a Rugby World Cup. England, New Zealand and Australia."
+4191~1~
+4191~1~END OF OVER:41 | 1 Run | AUS: 176/7 | RR: 4.29
+4191~1~Mitchell Starc
+4191~1~5 (13b)
+4191~1~Steven Smith
+4191~1~73 (104b)
+4191~1~Liam Plunkett
+4191~1~6-0-25-0
+4191~1~Mark Wood
+4191~1~5-0-24-0
+4191~1~AfrozK: "Morgan should look to wipe off the tail or else, if Australia manage 240-250, then England may find themselves in India's position yesterday."
+4191~1~
+4191~1~
+4191~1~41.2
+4191~1~0
+4191~1~Wood to Smith, no run, bouncer angling in on middle, Smith ducks under it
+4191~1~
+4191~1~41.3
+4191~1~1lb
+4191~1~Wood to Smith, 1 leg bye, good length and angling in on middle, Smith shuffles across and deflects the ball in front of square on the leg side
+4191~1~kiran: "what is the major difference between Virat kohli and Steve Smith ? I would say Virat is big player but steve smith is a big match player " --- Williamson is right up there with Smith
+4191~1~
+4191~1~
+4191~1~JohnSBlack - if only the ICC allowed Ireland into the tournament"
+4191~1~
+4191~1~
+4191~1~41.4
+4191~1~1
+4191~1~Wood to Starc, 1 run, short and outside off, helped down to third man
+4191~1~Aminur: "
+4191~1~41.5
+4191~1~1
+4191~1~Wood to Smith, 1 run, Smith hangs back to a full ball on off and whips it away to fine leg like only e can
+4191~1~Anurag Uniyal: "Can't help but think about yesterday's game; India in a similar situation would've required 60 off 9 overs. Just shows how well Australia kept their run rate."
+4191~1~
+4191~1~
+4191~1~41.6
+4191~1~1
+4191~1~Wood to Starc, 1 run, lifter on off, drop and run to point
+4191~1~
+4191~1~42.1
+4191~1~1
+4191~1~Plunkett to Starc, 1 run, fended to fine leg for one
+4191~1~Carey update: All clear. Cut to chin which required stitches. Will be fine to keep.
+4191~1~
+4191~1~END OF OVER:42 | 5 Runs | AUS: 181/7 | RR: 4.30
+4191~1~Mitchell Starc
+4191~1~7 (16b)
+4191~1~Steven Smith
+4191~1~74 (107b)
+4191~1~Mark Wood
+4191~1~6-0-27-0
+4191~1~Liam Plunkett
+4191~1~6-0-25-0
+4191~1~
+4191~1~42.2
+4191~1~1
+4191~1~Plunkett to Smith, 1 run, short and outside off, Smith goes hard on a pull and drags it to midwicket. Smith runs around Plunkett and dishes out a desperate dive. A direct hit could have had Smith
+4191~1~
+4191~1~42.3
+4191~1~1
+4191~1~Plunkett to Starc, 1 run, slower short ball outside off, Starc delays his pull and strokes it to deep midwicket
+4191~1~Farooq: "another Edgbaston humdinger shaping up.. Stokes to be the Klusener this time round.. Archer in the Donald role.. and Lyon to do a Warnie!! "
+4191~1~
+4191~1~
+4191~1~42.4
+4191~1~0
+4191~1~Plunkett to Smith, no run, back of a length on off stump, Smith shuffles in line and punches back to the bowler
+4191~1~
+4191~1~42.5
+4191~1~0
+4191~1~Plunkett to Smith, no run, slower variation once again. Short, wide, slapped straight to backward point
+4191~1~
+4191~1~42.6
+4191~1~2
+4191~1~Plunkett to Smith, 2 runs, shorter and outside off, carved away to the right of deep third man. Smith comes back for the second
+4191~1~
+4191~1~43.1
+4191~1~0
+4191~1~Wood to Starc, no run, yorker, homing in at the toes, squeezed to the leg side
+4191~1~END OF OVER:43 | 5 Runs | AUS: 186/7 | RR: 4.32
+4191~1~Steven Smith
+4191~1~77 (111b)
+4191~1~Mitchell Starc
+4191~1~9 (18b)
+4191~1~Liam Plunkett
+4191~1~7-0-30-0
+4191~1~Mark Wood
+4191~1~6-0-27-0
+4191~1~
+4191~1~43.2
+4191~1~4
+4191~1~Wood to Starc, FOUR runs, shot, Starc! He leans back to a half-volley on off, and muscles a drive straight of mid-off
+4191~1~
+4191~1~43.3
+4191~1~0
+4191~1~Wood to Starc, no run, fuller and straighter, clipped to midwicket
+4191~1~Venu: "The Smith blitzkrieg should start soon....Starc is giving solid support, an thats all he needs !! Hold on to your hats England !!"
+4191~1~
+4191~1~
+4191~1~43.4
+4191~1~0
+4191~1~Wood to Starc, no run, lifter on middle, Starc gets under it
+4191~1~favourites from here. That's mainly thanks to yesterday though if I'm honest."
+4191~1~
+4191~1~
+4191~1~43.5
+4191~1~1w
+4191~1~Wood to Starc, 1 wide, short and shoved down the leg side for a wide
+4191~1~
+4191~1~43.5
+4191~1~1
+4191~1~Wood to Starc, 1 run, back of a length on off, stabbed in front of point for one
+4191~1~Jason: "????? Wood still bowling means that Woakes will not bowl his full 10 overs Why on earth???"
+4191~1~
+4191~1~
+4191~1~43.6
+4191~1~0
+4191~1~Wood to Smith, no run, back of a length and angling into a punch to short midwicket's left
+4191~1~Farhan Shahzad: "Just give the trophy to Kiwis please. No one deserves it more !"
+4191~1~
+4191~1~
+4191~1~44.1
+4191~1~6
+4191~1~Plunkett to Starc, SIX runs, pitched up and outside off, right in the wheelhouse for Starc. It's a slower ball, but Starc hoists it over mid-off
+4191~1~END OF OVER:44 | 6 Runs | AUS: 192/7 | RR: 4.36
+4191~1~Steven Smith
+4191~1~77 (112b)
+4191~1~Mitchell Starc
+4191~1~14 (23b)
+4191~1~Mark Wood
+4191~1~7-0-33-0
+4191~1~Liam Plunkett
+4191~1~7-0-30-0
+4191~1~
+4191~1~44.2
+4191~1~1
+4191~1~Plunkett to Starc, 1 run, short and attacking the body, clipped off the back foot behind the leg umpire
+4191~1~
+4191~1~44.3
+4191~1~1
+4191~1~Plunkett to Smith, 1 run, glanced from middle stump to fine leg as Smith jumps across and gets inside the line. 200 up for Australia in the 45th over
+4191~1~
+4191~1~44.4
+4191~1~1w
+4191~1~Plunkett to Starc, 1 wide, bumper on middle, Starc ducks under it, the leg umpire deems it a wide
+4191~1~
+4191~1~44.4
+4191~1~0
+4191~1~Plunkett to Starc, no run, short and wide outside off, scythed away off the back foot but straight to point
+4191~1~Woakes is warming up
+4191~1~
+4191~1~
+4191~1~44.5
+4191~1~1
+4191~1~Plunkett to Starc, 1 run, slower ball on off stump, a whirl of the wrists sends the ball into the gap behind square on the leg side
+4191~1~Chinmay: "Ravindra Starc? Mitchell Jadeja???"
+4191~1~
+4191~1~Vivek Satle: "Aussies are doing exactly what Kiwis did, reaching to a fighting total. So can't write the Aussie off yet."
+4191~1~
+4191~1~
+4191~1~44.6
+4191~1~4
+4191~1~Plunkett to Smith, FOUR runs, First boundary for Smith since the 29th over. Hip-high short ball outside off, Smith camps back, sizes it up and puts it away to the midwicket boundary. Cracking pull
+4191~1~
+4191~1~45.1
+4191~1~1
+4191~1~Woakes to Starc, 1 run, shorter and angling across, Starc stays leg-side of the ball and guides it down to square-ish third man
+4191~1~Srinath : "The trophy should go to either ENG or AUS. NZ doesn't deserve a trophy. They are not as strong as the rest of the teams." --- Did you really watch yesterday's game? All teams have weaknesses, it's about papering over the cracks and handling pressure. Don't write off NZ yet...
+4191~1~
+4191~1~END OF OVER:45 | 14 Runs | AUS: 206/7 | RR: 4.57
+4191~1~Steven Smith
+4191~1~82 (114b)
+4191~1~Mitchell Starc
+4191~1~22 (27b)
+4191~1~Liam Plunkett
+4191~1~8-0-44-0
+4191~1~Mark Wood
+4191~1~7-0-33-0
+4191~1~
+4191~1~45.2
+4191~1~1
+4191~1~Woakes to Smith, 1 run, back of a length and outside off, drag-flicked away to deep midwicket
+4191~1~
+4191~1~45.3
+4191~1~0
+4191~1~Woakes to Starc, no run, back of a length and on off stump, played back down the pitch to mid-off
+4191~1~ABINASH DAS: "Australia and England team tail can wag for a really long time so today's it will be the ultimate battle between the Unstoppable force (Aus/Eng strike bowlers) vs the Immovable Object (Low order batsmen of Aus/Eng). A true semifinal in every sense for a cricketing purist."
+4191~1~
+4191~1~
+4191~1~45.4
+4191~1~0
+4191~1~Woakes to Starc, no run, slower short ball outside off, swatted away, tennis-style, down to mid-off
+4191~1~
+4191~1~45.5
+4191~1~1
+4191~1~Woakes to Starc, 1 run, hip-high short ball on middle, Starc swivels on the back foot and swings it away to deep square
+4191~1~
+4191~1~45.6
+4191~1~1lb
+4191~1~Woakes to Smith, 1 leg bye, back of a length, angling in from wide of the crease, Smith falls over the flick, and Woakes spins around for an lbw appeal. Not given by the umpire, so Morgan challenges the on-field not-out decision. Smith was struck on the flap of the front pad. No inside edge, height may be an issue. Trimming the bails, and the tracker returns umpire's call
+4191~1~What score do Australia need to stay competitive? Have your say on the Live Report
+4191~1~
+4191~1~
+4191~1~46.1
+4191~1~1
+4191~1~Wood to Smith, 1 run, slower ball from Wood, an inside edge saves Smith. He turns the strike over
+4191~1~END OF OVER:46 | 4 Runs | AUS: 210/7 | RR: 4.56
+4191~1~Steven Smith
+4191~1~83 (116b)
+4191~1~Mitchell Starc
+4191~1~24 (31b)
+4191~1~Chris Woakes
+4191~1~7-0-19-2
+4191~1~Liam Plunkett
+4191~1~8-0-44-0
+4191~1~
+4191~1~46.2
+4191~1~2
+4191~1~Wood to Starc, 2 runs, back of a length on middle, hangs back and works a double through midwicket
+4191~1~
+4191~1~46.3
+4191~1~2
+4191~1~Wood to Starc, 2 runs, picked away off the pads to fine leg
+4191~1~
+4191~1~Srinath so winning doesn't count? Couldn't quite make out your point over all those tears"
+4191~1~
+4191~1~Danish: "Smith's LBW vs. Kohli's LBW yesterday ; Umpire's call - Game of fine margins but big results."
+4191~1~
+4191~1~
+4191~1~46.4
+4191~1~0
+4191~1~Wood to Starc, no run, full on middle, hangs back and bunts the ball to mid-on
+4191~1~Ross: "
+4191~1~46.5
+4191~1~1
+4191~1~Wood to Starc, 1 run, short ball, aimed at the throat, Starc top-edges a hook, but it lands in front of fine leg. Fifty stand off 57 balls from Smith and Starc
+4191~1~
+4191~1~46.6
+4191~1~1
+4191~1~Wood to Smith, 1 run, dug in short and outside off, tugged away to deep midwicket off the back foot
+4191~1~RANDY BRIDGEMAN: "I like underdogs so am backing NZ. Would like to see A Trans-Tasman Final with the Black Caps taking it all."
+4191~1~
+4191~1~
+4191~1~47.1
+4191~1~W
+4191~1~Woakes to Smith, OUT, slower ball on middle, 116ks, Smith is early into the pull and is fooled by the lack of pace. Deflected off the body behind the stumps. Smith and Starc chance a leg bye. Buttler takes his right glove off, swoops down on the ball, and nails a direct hit at the non-striker's end to catch Smith short. England needed some brilliance to end Smith's innings
+4191~1~SPD Smith run out (Buttler(wk)) 85 (201m 119b 6x4 0x6) SR: 71.42
+4191~1~
+4191~1~END OF OVER:47 | 7 Runs | AUS: 217/7 | RR: 4.61
+4191~1~Steven Smith
+4191~1~85 (118b)
+4191~1~Mitchell Starc
+4191~1~29 (35b)
+4191~1~Mark Wood
+4191~1~8-0-40-0
+4191~1~Chris Woakes
+4191~1~7-0-19-2
+4191~1~
+4191~1~47.2
+4191~1~W
+4191~1~Woakes to Starc, OUT, Two in two for England. Both set batsmen gone. Why didn't Morgan go to him earlier? Seam-up, hits a hard length outside off. Starc has an almighty swish at it... and simply feathers it behind to Buttler
+4191~1~MA Starc c Buttler(wk) b Woakes 29 (45m 36b 1x4 1x6) SR: 80.55
+4191~1~
+4191~1~
+4191~1~47.3
+4191~1~0
+4191~1~Woakes to Lyon, no run, back of a length and outside off, resolutely defended
+4191~1~
+4191~1~47.4
+4191~1~1
+4191~1~Woakes to Lyon, 1 run, back of a length and just a shade outside off, Lyon angles out to point and sets off. Archer can't throw the stumps down and capitalise on a little mix-up
+4191~1~
+4191~1~47.5
+4191~1~0
+4191~1~Woakes to Behrendorff, no run, much fuller on off, stabbed away towards mid-on
+4191~1~RK: "Guptill ran out Dhoni yesterday by almost same distance as Bulter ran our Smith today. Chahal was out in the similar fashion as Starc. "
+4191~1~
+4191~1~
+4191~1~47.6
+4191~1~0
+4191~1~Woakes to Behrendorff, no run, shorter and hits the bat hard, spliced out to cover. Just one run and two wickets off that Woakes over
+4191~1~
+4191~1~48.1
+4191~1~0
+4191~1~Wood to Lyon, no run, back of a length and zipping away outside off, Lyon has a waft at it. Nearly scratches the edge
+4191~1~END OF OVER:48 | 1 Run 2 Wkts | AUS: 218/9 | RR: 4.54
+4191~1~Jason Behrendorff
+4191~1~0 (2b)
+4191~1~Nathan Lyon
+4191~1~1 (2b)
+4191~1~Chris Woakes
+4191~1~8-0-20-3
+4191~1~Mark Wood
+4191~1~8-0-40-0
+4191~1~
+4191~1~48.2
+4191~1~1
+4191~1~Wood to Lyon, 1 run, banged in short and angling in at the body, defeats the hook. The ball rolls to the off side and Lyon brings Behrendoff back on strike
+4191~1~
+4191~1~48.3
+4191~1~1
+4191~1~Wood to Behrendorff, 1 run, dug in on middle, stays leg-side of the ball and tickles a single down to deep third man
+4191~1~
+4191~1~48.4
+4191~1~2
+4191~1~Wood to Lyon, 2 runs, shovel-pulled away to fine leg
+4191~1~
+4191~1~48.5
+4191~1~1
+4191~1~Wood to Lyon, 1 run, full-toss on off stump, smeared away to sweeper cover
+4191~1~
+4191~1~48.6
+4191~1~W
+4191~1~Wood to Behrendorff, OUT, sizzing yorker from Wood. 146ks, bursts under Behrendoff's bat and pings the off stump. Wood pumps his fist and wraps up Australia for 223
+4191~1~JP Behrendorff b Wood 1 (10m 4b 0x4 0x6) SR: 25.00
+4191~1~
+4191~2~##########
+4191~2~
+4191~2~0.1
+4191~2~0
+4191~2~Behrendorff to Roy, no run, shortish length, outside off at 131kph/81mph and Roy feels for it slightly, gets an inside edge to backward square leg
+4191~2~Here come the England openers, two men who have been key to the England machine. Jason Behrendorff has the new ball in hand. One slip in place
+4191~2~
+4191~2~0.2
+4191~2~0
+4191~2~Behrendorff to Roy, no run, length on middle stump, defended back down the track with a straight bat
+4191~2~
+4191~2~0.3
+4191~2~0
+4191~2~Behrendorff to Roy, no run, length ball, a touch leg side and tucked toward midwicket
+4191~2~
+4191~2~0.4
+4191~2~1
+4191~2~Behrendorff to Roy, 1 run, back of a length, 137kph/85mph and sliding across as Roy opens his shoulders and slices towards third man for the first England run
+4191~2~
+4191~2~0.5
+4191~2~4
+4191~2~Behrendorff to Bairstow, FOUR runs, overpitched and wide, Bairstow steps out and creams his first ball through point for four! A more guttural response from the crowd this time
+4191~2~Some nervy cheers around Edgbaston...
+4191~2~
+4191~2~
+4191~2~0.6
+4191~2~0
+4191~2~Behrendorff to Bairstow, no run, pitched up, swinging in a fraction as YJB defends... there's half an appeal, maybe pad involved but I think bat first. No review
+4191~2~"Can you get the stat How many times team batting first have won the match in WC19" I think it's up at around 29 now, Emraan. Or two-thirds of the games
+4191~2~
+4191~2~
+4191~2~1.1
+4191~2~0
+4191~2~Starc to Roy, no run, pitched up, on the money straight away but Roy is forwards and drives smoothly to mid-on
+4191~2~Mitchell Starc, surely the key man for Australia today, with the other new ball
+4191~2~
+4191~2~"Lyon should start proceedings from other end. we have seen the effect of spin against Roy in previous matches as well" I think that plan will have to wait, Mohammad Yousuf...
+4191~2~
+4191~2~END OF OVER:1 | 5 Runs | ENG: 5/0 (219 runs required from 49 overs, RR: 5.00, RRR: 4.46)
+4191~2~Jonny Bairstow
+4191~2~4 (2b)
+4191~2~Jason Roy
+4191~2~1 (4b)
+4191~2~Jason Behrendorff
+4191~2~1-0-5-0
+4191~2~
+4191~2~1.2
+4191~2~0
+4191~2~Starc to Roy, no run, length ball, 146kph/91mph and slanting across on off, defended square
+4191~2~
+4191~2~1.3
+4191~2~0
+4191~2~Starc to Roy, no run, good pace, up above 90mph on middle and off stump, blocked firmly
+4191~2~That Behrendorff delivery to Bairstow did just brush the front pad before hitting the middle of the bat, btw - but was umpire's call on hitting off stump. "Morally not out," says Miller, to my left
+4191~2~
+4191~2~
+4191~2~1.4
+4191~2~0
+4191~2~Starc to Roy, no run, slams this into the pitch again, 148kph/92mph as Roy squares himself up to defend watchfully
+4191~2~Two slips for Starc
+4191~2~
+4191~2~
+4191~2~1.5
+4191~2~0
+4191~2~Starc to Roy, no run, smashed in short, Roy is late on this, takes a blow on body... 151kph/94mph from Starc, no doubt he's feeling it. And Roy will be too
+4191~2~
+4191~2~1.6
+4191~2~1w
+4191~2~Starc to Roy, 1 wide, length but starting too straight and swinging down the leg side
+4191~2~
+4191~2~1.6
+4191~2~0
+4191~2~Starc to Roy, no run, on target again, 144 clicks but Roy just calmly taps it back down the pitch
+4191~2~ESPNcricinfo Forecaster has England on 81% to win, as things stand
+4191~2~
+4191~2~
+4191~2~2.1
+4191~2~0
+4191~2~Behrendorff to Bairstow, no run, on the stumps, shaping in a touch and defended back down the track
+4191~2~Bit of delay while they get the sightscreen right for YJB...
+4191~2~
+4191~2~END OF OVER:2 | 1 Run | ENG: 6/0 (218 runs required from 48 overs, RR: 3.00, RRR: 4.54)
+4191~2~Jason Roy
+4191~2~1 (10b)
+4191~2~Jonny Bairstow
+4191~2~4 (2b)
+4191~2~Mitchell Starc
+4191~2~1-0-1-0
+4191~2~Jason Behrendorff
+4191~2~1-0-5-0
+4191~2~"Roy, Root, & Jonny - if 2 of these got out early in 10 overs, Australia wrap up the others quickly." Jimmy Ansari is (probably) not wrong
+4191~2~
+4191~2~
+4191~2~2.2
+4191~2~0
+4191~2~Behrendorff to Bairstow, no run, good length, 133kph/82mph outside off, pushed towards extra cover
+4191~2~
+4191~2~2.3
+4191~2~0
+4191~2~Behrendorff to Bairstow, no run, pitched up, attacking the stumps and YJB drives along the carpet towards mid-on
+4191~2~
+4191~2~2.4
+4191~2~0
+4191~2~Behrendorff to Bairstow, no run, presses on to the front foot and blocks towards cover
+4191~2~Here's John: "During the innings break, Channel 9 here in Australia had a viewer poll asking who would win from here and it was 52% England and 48% Australia. There's a fine line between optimism and delusion." What is it with 52-48 polls, eh?
+4191~2~
+4191~2~
+4191~2~2.5
+4191~2~0
+4191~2~Behrendorff to Bairstow, no run, line of beauty from Behrendorff, nearly does for Bairstow! Good length and then nipping across as the batsman feels for it
+4191~2~
+4191~2~2.6
+4191~2~0
+4191~2~Behrendorff to Bairstow, no run, done him again, full and he goes for the booming drive, scuttles through low past the outside edge! Maiden from Behrendorff
+4191~2~
+4191~2~3.1
+4191~2~4
+4191~2~Starc to Roy, FOUR runs, no trouble this time, pitched up and flayed through the covers for four! Roy finds the boundary for the first time
+4191~2~Remember the trouble England have had with left-armers...
+4191~2~
+4191~2~WATCH: England v Australia - LIVE on Hotstar (USA only)
+4191~2~
+4191~2~END OF OVER:3 | (maiden) | ENG: 6/0 (218 runs required from 47 overs, RR: 2.00, RRR: 4.63)
+4191~2~Jonny Bairstow
+4191~2~4 (8b)
+4191~2~Jason Roy
+4191~2~1 (10b)
+4191~2~Jason Behrendorff
+4191~2~2-1-5-0
+4191~2~Mitchell Starc
+4191~2~1-0-1-0
+4191~2~"Australia will win this match by 40 odd runs," hollers Monty. "England will crumble under pressure. Australia are 5 time champions for a reason"
+4191~2~
+4191~2~
+4191~2~3.2
+4191~2~2
+4191~2~Starc to Roy, 2 runs, more runs, this time whipped through midwicket as Starc overpitches a fraction
+4191~2~
+4191~2~3.3
+4191~2~0
+4191~2~Starc to Roy, no run, pushed across the bows as Roy gets into line
+4191~2~
+4191~2~3.4
+4191~2~0
+4191~2~Starc to Roy, no run, back of a length, 150kph/93mph and defended with a straight bat
+4191~2~
+4191~2~3.5
+4191~2~0
+4191~2~Starc to Roy, no run, dug in outside off, 90mph and Roy rides it, steered down into the gully region
+4191~2~
+4191~2~3.6
+4191~2~4
+4191~2~Starc to Roy, FOUR runs, pinged! That's gone to the rope on rails! Not a bad ball from Starc but Roy was moving well, trusted the bounce and c-r-u-u-u-u-u-u-u-u-u-n-c-h-e-d through cover
+4191~2~
+4191~2~4.1
+4191~2~0
+4191~2~Behrendorff to Bairstow, no run, full on off, 134kph/82mph and Bairstow drives, mid-on comes across
+4191~2~What's the importance of the Roy-Bairstow partnership in England's success? Gaurav Sundararaman dissects here
+4191~2~
+4191~2~END OF OVER:4 | 10 Runs | ENG: 16/0 (208 runs required from 46 overs, RR: 4.00, RRR: 4.52)
+4191~2~Jason Roy
+4191~2~11 (16b)
+4191~2~Jonny Bairstow
+4191~2~4 (8b)
+4191~2~Mitchell Starc
+4191~2~2-0-11-0
+4191~2~Jason Behrendorff
+4191~2~2-1-5-0
+4191~2~
+4191~2~4.2
+4191~2~0
+4191~2~Behrendorff to Bairstow, no run, touch wide, YJB drops back and throws the hands through a bottom-edged cut
+4191~2~
+4191~2~4.3
+4191~2~1
+4191~2~Behrendorff to Bairstow, 1 run, shortish and worked off the hip through square leg
+4191~2~"Yeah Alan, England had problem with left armers in last match... But there is one big difference who is gonna take England over the line this time.. Jason Roy!" Good point, Zubair Hameed
+4191~2~
+4191~2~
+4191~2~4.4
+4191~2~2
+4191~2~Behrendorff to Roy, 2 runs, back of a length over leg stump and Roy bottom-hands a force in front of deep square for a couple
+4191~2~
+4191~2~4.5
+4191~2~0
+4191~2~Behrendorff to Roy, no run, back of a length, pushed back down the track
+4191~2~Long-off is out, for some reason
+4191~2~
+4191~2~
+4191~2~4.6
+4191~2~0
+4191~2~Behrendorff to Roy, no run, makes a move down the pitch but Behrendorff cramps him, jabbed into the leg side
+4191~2~"'c-r-u-u-u-u-u-u-u-u-u-n-c-h-e-d'...Alan, have you been having the well-known frosted flakes for breakfast?" I'm always in a tigerish mood, Owlhelm
+4191~2~
+4191~2~
+4191~2~5.1
+4191~2~1w
+4191~2~Starc to Bairstow, 1 wide, short, 145kph/90mph but slung down the leg side again
+4191~2~"Not here to jinx anybody, but I am really looking forward to Roy-Bairstow 100+ partnership hat-trick !!!" Hus Silverado has obviously read that G-Stats piece...
+4191~2~
+4191~2~END OF OVER:5 | 3 Runs | ENG: 19/0 (205 runs required from 45 overs, RR: 3.80, RRR: 4.55)
+4191~2~Jason Roy
+4191~2~13 (19b)
+4191~2~Jonny Bairstow
+4191~2~5 (11b)
+4191~2~Jason Behrendorff
+4191~2~3-1-8-0
+4191~2~Mitchell Starc
+4191~2~2-0-11-0
+4191~2~
+4191~2~5.1
+4191~2~4
+4191~2~Starc to Bairstow, FOUR runs, thunk! Absolutely zootered off the middle of the bat! Short but wide from Starc and Bairstow is up on his tippy-toes to ram a cut past the dive of Maxwell at point
+4191~2~
+4191~2~5.2
+4191~2~0
+4191~2~Starc to Bairstow, no run, tighter to the stumps, shows it a respectful straight bat this time
+4191~2~
+4191~2~5.3
+4191~2~0
+4191~2~Starc to Bairstow, no run, shortish on off stump, 142kph/88mph and Bairstow sets up immediately after stabbing into the leg side... but an early 'No! No! No!' from Roy averts disaster
+4191~2~Just one slip in now
+4191~2~
+4191~2~
+4191~2~5.4
+4191~2~1
+4191~2~Starc to Bairstow, 1 run, angled across on a length, Bairstow sits back and glides to third man
+4191~2~
+4191~2~5.5
+4191~2~6
+4191~2~Starc to Roy, SIX runs, pitched up and flicked off the pads, is fine leg in the game... No, it goes all the way for six! Familiar wristy pugilism from Roy, who purses his lips and wanders up the track after watching the ball clear the rope and thump into the boundary boards
+4191~2~Here's Len: "Would like to see England 40-3 nothing like a good bit of tension. 40-0 and it's game over!"
+4191~2~
+4191~2~
+4191~2~5.6
+4191~2~0
+4191~2~Starc to Roy, no run, back of a length on the stumps, nothing to hit this time and Roy defends
+4191~2~
+4191~2~6.1
+4191~2~0
+4191~2~Cummins to Bairstow, no run, barrels in and pitches the ball short, angling towards the body and YJB tucks it away calmly
+4191~2~First change, Pat Cummins on
+4191~2~
+4191~2~"That's called blistering start, which was lacking from India yesterday. I hope this get published." Manan, it's your lucky day
+4191~2~
+4191~2~END OF OVER:6 | 12 Runs | ENG: 31/0 (193 runs required from 44 overs, RR: 5.16, RRR: 4.38)
+4191~2~Jason Roy
+4191~2~19 (21b)
+4191~2~Jonny Bairstow
+4191~2~10 (15b)
+4191~2~Mitchell Starc
+4191~2~3-0-23-0
+4191~2~Jason Behrendorff
+4191~2~3-1-8-0
+4191~2~
+4191~2~6.2
+4191~2~0
+4191~2~Cummins to Bairstow, no run, tight lines, short of a length and tapped down
+4191~2~By a long way, this is the highest opening stand in this year's CWC semis
+4191~2~
+4191~2~
+4191~2~6.3
+4191~2~0
+4191~2~Cummins to Bairstow, no run, fuller, Bairstow comes forward to drive but checks it and gets a thickish inside edge
+4191~2~
+4191~2~6.4
+4191~2~0
+4191~2~Cummins to Bairstow, no run, spicy bumper, 'perfume ball' around off stump and YJB sways out of the way
+4191~2~
+4191~2~6.5
+4191~2~0
+4191~2~Cummins to Bairstow, no run, short of a length outside off, 141kph/88mph and Bairstow punches on the up towards point
+4191~2~
+4191~2~6.6
+4191~2~2
+4191~2~Cummins to Bairstow, 2 runs, full and inviting the drive, stroked through the covers for a couple more
+4191~2~
+4191~2~7.1
+4191~2~0
+4191~2~Behrendorff to Roy, no run, ooh, nearly gets himself in trouble... Roy advancing and then decides late to try and guide the ball instead, just clears the top edge
+4191~2~Jason Behrendorff switches ends
+4191~2~
+4191~2~END OF OVER:7 | 2 Runs | ENG: 33/0 (191 runs required from 43 overs, RR: 4.71, RRR: 4.44)
+4191~2~Jonny Bairstow
+4191~2~12 (21b)
+4191~2~Jason Roy
+4191~2~19 (21b)
+4191~2~Pat Cummins
+4191~2~1-0-2-0
+4191~2~Mitchell Starc
+4191~2~3-0-23-0
+4191~2~"EngLAND knowing their LAND, dominating right now..." chuckles Shankar. They're certainly on a good run in Brum
+4191~2~
+4191~2~
+4191~2~7.2
+4191~2~0
+4191~2~Behrendorff to Roy, no run, touch short on off stump, pushed into the covers
+4191~2~
+4191~2~7.3
+4191~2~1lb
+4191~2~Behrendorff to Roy, 1 leg bye, smacks into the pads, Roy standing in front of his stumps... but it must have pitched outside leg. Kumar Dharmasena signals a leg bye
+4191~2~"One wicket, and this house of cards will come crumbling down," roars BK
+4191~2~
+4191~2~
+4191~2~7.4
+4191~2~2
+4191~2~Behrendorff to Bairstow, 2 runs, length on the stumps, 130kph/81mph and Bairstow whips it behind square for a couple
+4191~2~
+4191~2~7.5
+4191~2~4
+4191~2~Behrendorff to Bairstow, FOUR runs, pitched up and drilled... Behrendorff sticks out a paw but can't prevent four, neither can the chasing mid-off! It was in the air, but not even remotely a chance
+4191~2~
+4191~2~7.6
+4191~2~0
+4191~2~Behrendorff to Bairstow, no run, hangs back on off stump and steers towards point
+4191~2~
+4191~2~8.1
+4191~2~0
+4191~2~Cummins to Roy, no run, bit of nibble from back of a length, seaming in to hit Roy on the thigh
+4191~2~END OF OVER:8 | 7 Runs | ENG: 40/0 (184 runs required from 42 overs, RR: 5.00, RRR: 4.38)
+4191~2~Jonny Bairstow
+4191~2~18 (24b)
+4191~2~Jason Roy
+4191~2~19 (24b)
+4191~2~Jason Behrendorff
+4191~2~4-1-14-0
+4191~2~Pat Cummins
+4191~2~1-0-2-0
+4191~2~
+4191~2~8.2
+4191~2~0
+4191~2~Cummins to Roy, no run, excellent line, 142kph/88mph over the top of off and Roy is beaten trying to work it to leg
+4191~2~
+4191~2~8.3
+4191~2~0
+4191~2~Cummins to Roy, no run, banged this one in short, Roy ducks
+4191~2~"England winning the World Cup Sunday, on my birthday. What a treat!!" Careful now, David. Hubris is followed by Nemesis (and I'm not talking about on Twitter)
+4191~2~
+4191~2~
+4191~2~8.4
+4191~2~0
+4191~2~Cummins to Roy, no run, length ball, 138kph/86mph and pushed down into the off side
+4191~2~
+4191~2~8.5
+4191~2~0
+4191~2~Cummins to Roy, no run, touch fuller, pushed in with the arm and Roy nudges it towards midwicket
+4191~2~
+4191~2~8.6
+4191~2~4
+4191~2~Cummins to Roy, FOUR runs, whippage! Wristed away through square leg, taken from off stump and sent racing to the rope at deep backward square to spoil an otherwise immaculate over from Cummins
+4191~2~Tony: "Time to bring on Warne." Will a stint in the commentary box do?
+4191~2~
+4191~2~
+4191~2~9.1
+4191~2~1
+4191~2~Behrendorff to Bairstow, 1 run, length ball on the stumps, deflected into the leg side
+4191~2~"Don't give a single wicket to Starc and whack him apart!!! He's troubled the Kiwis enough last time around." Easier said than done, Omi. In fact, I think I'm right in saying Starc has never gone wicketless in a World Cup match...
+4191~2~
+4191~2~END OF OVER:9 | 4 Runs | ENG: 44/0 (180 runs required from 41 overs, RR: 4.88, RRR: 4.39)
+4191~2~Jason Roy
+4191~2~23 (30b)
+4191~2~Jonny Bairstow
+4191~2~18 (24b)
+4191~2~Pat Cummins
+4191~2~2-0-6-0
+4191~2~Jason Behrendorff
+4191~2~4-1-14-0
+4191~2~
+4191~2~9.2
+4191~2~1
+4191~2~Behrendorff to Roy, 1 run, Roy works one more off his pads
+4191~2~
+4191~2~9.3
+4191~2~1
+4191~2~Behrendorff to Bairstow, 1 run, good length and tucked to the on side again
+4191~2~
+4191~2~9.4
+4191~2~2
+4191~2~Behrendorff to Roy, 2 runs, slightly overpitched and Roy snaps on it like a beartrap again, two more out towards wide long-off
+4191~2~
+4191~2~9.5
+4191~2~1
+4191~2~Behrendorff to Roy, 1 run, slower ball from Behrendorff, punched back down the ground - raises the 50 opening stand between J-Roy and YJB
+4191~2~
+4191~2~9.6
+4191~2~0
+4191~2~Behrendorff to Bairstow, no run, shortish on leg stump, turned to square leg
+4191~2~"'It's your lucky day'...that much hype for comment getting posted in Cricinfo... not bad...." Don't pretend you've not got a warm glow, Reddy
+4191~2~
+4191~2~
+4191~2~10.1
+4191~2~6
+4191~2~Lyon to Roy, SIX runs, launched down the ground first ball! Roy plants this for a straight six, never mind the fact long-on was back! Welcome to the game, Garry
+4191~2~Powerplay done with, Nathan Lyon into the attack
+4191~2~
+4191~2~Meanwhile, Ben's gone there: "50/0. Its coming home :)"
+4191~2~
+4191~2~END OF OVER:10 | 6 Runs | ENG: 50/0 (174 runs required from 40 overs, RR: 5.00, RRR: 4.35)
+4191~2~Jonny Bairstow
+4191~2~20 (27b)
+4191~2~Jason Roy
+4191~2~27 (33b)
+4191~2~Jason Behrendorff
+4191~2~5-1-20-0
+4191~2~Pat Cummins
+4191~2~2-0-6-0
+4191~2~
+4191~2~10.2
+4191~2~0
+4191~2~Lyon to Roy, no run, done him in the flight, some form of revenge for Lyon, as Roy pushes at it hesitantly and misses
+4191~2~
+4191~2~10.3
+4191~2~1
+4191~2~Lyon to Roy, 1 run, pushed through and slapped off the back foot through cover point
+4191~2~
+4191~2~10.4
+4191~2~1
+4191~2~Lyon to Bairstow, 1 run, flat offbreak, YJB gets across and down early to shovel behind square
+4191~2~
+4191~2~10.5
+4191~2~4
+4191~2~Lyon to Roy, FOUR runs, slapped disdainfully through backward point, reverse-swat from Roy and it races away! No chance for the spinner to settle
+4191~2~
+4191~2~10.6
+4191~2~1
+4191~2~Lyon to Roy, 1 run, fired in quicker and Roy gets turned around, but a leading edge falls safely
+4191~2~"Been delight to follow cricinfo's unbiased commentary during the WC. Hat's off to the team." Cheers, Abrar. Cricket's the winner, and all that
+4191~2~
+4191~2~
+4191~2~11.1
+4191~2~0
+4191~2~Cummins to Roy, no run, shortish, 142kph/88mph on off, prodded back towards the bowler
+4191~2~Cummins pulls out in his delivery straight, as Roy makes an early move across...
+4191~2~
+4191~2~END OF OVER:11 | 13 Runs | ENG: 63/0 (161 runs required from 39 overs, RR: 5.72, RRR: 4.12)
+4191~2~Jason Roy
+4191~2~39 (38b)
+4191~2~Jonny Bairstow
+4191~2~21 (28b)
+4191~2~Nathan Lyon
+4191~2~1-0-13-0
+4191~2~Jason Behrendorff
+4191~2~5-1-20-0
+4191~2~
+4191~2~11.2
+4191~2~1
+4191~2~Cummins to Roy, 1 run, short ball, wheeled away down to fine leg on the pull
+4191~2~Still a slip in for now
+4191~2~
+4191~2~
+4191~2~11.3
+4191~2~0
+4191~2~Cummins to Bairstow, no run, trapped on the crease, concerted appeal for lbw from Cummins... Heading leg side? Australia choose not to gamble on a review
+4191~2~Omi's back: "I am gonna party tonight!! My comment finally got published :-; and by way I am rooting for NZ-Eng final (before the semi final began even though I am a true India fan) especially after reading that Ian Chappell article few days ago! #bestforcricket" I think, to be fair to Chappelli, that forecast was a final-par pay-off that got turned into a headline. But I'm sure he can live with the criticism
+4191~2~
+4191~2~
+4191~2~11.4
+4191~2~5w
+4191~2~Cummins to Bairstow, 5 wides, slammed in short, heading leg side - Carey leaps in vain and it whistles away to the rope!
+4191~2~
+4191~2~11.4
+4191~2~2
+4191~2~Cummins to Bairstow, 2 runs, slashed through backward point, they come haring back for a second... but Bairstow immediately crumples to his knees and seems to be in some trouble
+4191~2~The crowd are getting a little boisterous now. Meanwhile, Forecaster has England up to 95%
+4191~2~
+4191~2~
+4191~2~11.5
+4191~2~0
+4191~2~Cummins to Bairstow, no run, good nut from Cummins, sidling back in at 141kph/88mph to strike YJB on the thigh pad
+4191~2~Bairstow is going to require some treatment from the physio, looks like he jarred his left knee or ankle while turning for the second run. No sign yet that they are going to take him off - yep, he's strapping his pads back on, the Magic Sponge™ having seemingly done its work
+4191~2~
+4191~2~
+4191~2~11.6
+4191~2~0
+4191~2~Cummins to Bairstow, no run, god length in the channel and punched on the up wide of mid-off, quickly fielded
+4191~2~
+4191~2~12.1
+4191~2~1
+4191~2~Lyon to Roy, 1 run, pushes through an offbreak, cut off the back foot in front of off stump
+4191~2~END OF OVER:12 | 8 Runs | ENG: 71/0 (153 runs required from 38 overs, RR: 5.91, RRR: 4.02)
+4191~2~Jonny Bairstow
+4191~2~23 (32b)
+4191~2~Jason Roy
+4191~2~40 (40b)
+4191~2~Pat Cummins
+4191~2~3-0-14-0
+4191~2~Nathan Lyon
+4191~2~1-0-13-0
+4191~2~"Did I miss the swapping of the pitch? Surely it cant be the same as this mornings....." Yes, Travor, it's part of the playing conditions for this World Cup. England get to pick a new one at halfway
+4191~2~
+4191~2~
+4191~2~12.2
+4191~2~0
+4191~2~Lyon to Bairstow, no run, YJB gets down early to attempt a paddle but only manages to deflect it into his front pad
+4191~2~
+4191~2~12.3
+4191~2~0
+4191~2~Lyon to Bairstow, no run, pulled hard off the back foot but square leg does well to cut it off and prevent one
+4191~2~
+4191~2~12.4
+4191~2~4
+4191~2~Lyon to Bairstow, FOUR runs, swings like a barn door in the breeze, but a thick top edge evades short third man and runs away! Cummins can't pull it back on the rope!
+4191~2~
+4191~2~12.5
+4191~2~0
+4191~2~Lyon to Bairstow, no run, tossed up and tucked into the leg side
+4191~2~
+4191~2~12.6
+4191~2~0
+4191~2~Lyon to Bairstow, no run, flatter outside off, goes back to cut but finds a fielder
+4191~2~Nauman gilani: "The brand of cricket Roy plays is truly outstanding. Shows how far England have come from their classical truffs in the last CWC to this one. Truly dictates the game as an aggressor." What's a truff?
+4191~2~
+4191~2~
+4191~2~13.1
+4191~2~0
+4191~2~Cummins to Roy, no run, short length outside off, 142kph/88mph and Roy punches, gets a thick inside edge into his pads
+4191~2~END OF OVER:13 | 5 Runs | ENG: 76/0 (148 runs required from 37 overs, RR: 5.84, RRR: 4.00)
+4191~2~Jonny Bairstow
+4191~2~27 (37b)
+4191~2~Jason Roy
+4191~2~41 (41b)
+4191~2~Nathan Lyon
+4191~2~2-0-18-0
+4191~2~Pat Cummins
+4191~2~3-0-14-0
+4191~2~
+4191~2~13.2
+4191~2~0
+4191~2~Cummins to Roy, no run, slower ball, pops up to hit the splice as Roy turns it to the on side
+4191~2~"Can the forecaster ever show 100% win probability before the match ends?" No, dPTs. That would be madness
+4191~2~
+4191~2~
+4191~2~13.3
+4191~2~4
+4191~2~Cummins to Roy, FOUR runs, back of a length, 89mph on the hip and helped on its way, using the pace to beat fine leg
+4191~2~
+4191~2~13.4
+4191~2~0
+4191~2~Cummins to Roy, no run, banged in, steepling bumper that Roy leaves well alone
+4191~2~
+4191~2~13.5
+4191~2~0
+4191~2~Cummins to Roy, no run, on the stumps, jabbed into the leg side
+4191~2~"Why do you have to be so rude to Travor there? He was just asking a question jeez!!" I'm just joshing, Hari. Let me confirm: it is the same pitch
+4191~2~
+4191~2~
+4191~2~13.6
+4191~2~0
+4191~2~Cummins to Roy, no run, length, 140kph/87mph cross-seamer and pushed uppishly towards mid-off... not in control, but lands just short
+4191~2~
+4191~2~14.1
+4191~2~4
+4191~2~Starc to Bairstow, FOUR runs, pitched up and larruped over mid-off! Short shift from YJB, not much in the way of footwork, simply boshed down the ground
+4191~2~Mitchell Starc back, Australia in need of a wicket
+4191~2~
+4191~2~END OF OVER:14 | 4 Runs | ENG: 80/0 (144 runs required from 36 overs, RR: 5.71, RRR: 4.00)
+4191~2~Jason Roy
+4191~2~45 (47b)
+4191~2~Jonny Bairstow
+4191~2~27 (37b)
+4191~2~Pat Cummins
+4191~2~4-0-18-0
+4191~2~Nathan Lyon
+4191~2~2-0-18-0
+4191~2~
+4191~2~14.2
+4191~2~1
+4191~2~Starc to Bairstow, 1 run, better length, sliced behind point for one
+4191~2~
+4191~2~14.3
+4191~2~4
+4191~2~Starc to Roy, FOUR runs, full, no swing and this is basically a half-volley, pumped back down the ground! Roy gives Starc some tap now
+4191~2~"Can we just remind ourselves that Jason Roy wasn't that long ago dropped from this England team. If I remember right he only got back in due to an injury to Alex Hales?" It was the Bristol Incident, LT... But yes, he hasn't looked back
+4191~2~
+4191~2~
+4191~2~14.4
+4191~2~0
+4191~2~Starc to Roy, no run, short and wide, crashed towards point, well fielded
+4191~2~
+4191~2~14.5
+4191~2~1w
+4191~2~Starc to Roy, 1 wide, spared down the leg side at 145kph/90mph... Carey comes up appealing for a catch, but the umpire signals wide
+4191~2~
+4191~2~14.5
+4191~2~4
+4191~2~Starc to Roy, FOUR runs, smashed through cover! Roy raises his fifty, as he goes about razing Australia in this semi-final... From the sounds of it, the England fans in the house are beginning to believe
+4191~2~
+4191~2~14.6
+4191~2~1
+4191~2~Starc to Roy, 1 run, shortish and worked to leg for one more
+4191~2~"Starcstruck!" hoots Waj
+4191~2~
+4191~2~
+4191~2~15.1
+4191~2~1
+4191~2~Smith to Roy, 1 run, floated up and Roy reaches for a cross-batted swipe down the ground
+4191~2~Steven Smith into the attack, as Finch searches for something anything. Boos from the crowd...
+4191~2~
+4191~2~END OF OVER:15 | 15 Runs | ENG: 95/0 (129 runs required from 35 overs, RR: 6.33, RRR: 3.68)
+4191~2~Jason Roy
+4191~2~54 (51b)
+4191~2~Jonny Bairstow
+4191~2~32 (39b)
+4191~2~Mitchell Starc
+4191~2~4-0-38-0
+4191~2~Pat Cummins
+4191~2~4-0-18-0
+4191~2~On come the drinks - the way these two are batting, a couple of G&Ts would seem appropriate
+4191~2~
+4191~2~WATCH on Hotstar (India only): How Australia were bowled out
+4191~2~
+4191~2~
+4191~2~15.2
+4191~2~1w
+4191~2~Smith to Bairstow, 1 wide, floated full but drifting down the leg side as Bairstow aims a vengeful blow
+4191~2~
+4191~2~15.2
+4191~2~1
+4191~2~Smith to Bairstow, 1 run, tossed up, YJB crunches this flat and hard but Maxwell swoops brilliantly at long-on to keep them to one
+4191~2~
+4191~2~15.3
+4191~2~6
+4191~2~Smith to Roy, SIX runs, full toss, smeared over the head of long-on! No chance for the leaping Maxwell this time, clattered down the ground for six
+4191~2~
+4191~2~15.4
+4191~2~6
+4191~2~Smith to Roy, SIX runs, goes again, hard and flat for a straight six! Humpty-Dumpty and it sails over the rope
+4191~2~
+4191~2~15.5
+4191~2~6
+4191~2~Smith to Roy, SIX runs, OUT OF THE GROUND! Or into the top tier at least... Roy goes into Beast Mode with a murderous blow down the ground. Brutal from Roy, who's having fun now
+4191~2~
+4191~2~15.6
+4191~2~0
+4191~2~Smith to Roy, no run, flatter outside off, tapped square
+4191~2~Forecaster has gone up to 99.61%
+4191~2~
+4191~2~
+4191~2~16.1
+4191~2~1
+4191~2~Stoinis to Bairstow, 1 run, on the stumps and worked to leg
+4191~2~Marcus Stoinis into the attack
+4191~2~
+4191~2~END OF OVER:16 | 21 Runs | ENG: 116/0 (108 runs required from 34 overs, RR: 7.25, RRR: 3.17)
+4191~2~Jason Roy
+4191~2~73 (56b)
+4191~2~Jonny Bairstow
+4191~2~33 (40b)
+4191~2~Steven Smith
+4191~2~1-0-21-0
+4191~2~Mitchell Starc
+4191~2~4-0-38-0
+4191~2~
+4191~2~16.2
+4191~2~2
+4191~2~Stoinis to Roy, 2 runs, whipped away through the leg side, well fielded on the midwicket boundary
+4191~2~
+4191~2~16.3
+4191~2~0
+4191~2~Stoinis to Roy, no run, length, stopping in the pitch a touch, pushed back down the track
+4191~2~
+4191~2~16.4
+4191~2~0
+4191~2~Stoinis to Roy, no run, pitched up, 78mph and squirted towards backward point
+4191~2~
+4191~2~16.5
+4191~2~0
+4191~2~Stoinis to Roy, no run, pitched up and steered towards extra cover on the front foot
+4191~2~"Will Steve Smith bowl his full allocation of 10 overs?" wonders Nick
+4191~2~
+4191~2~
+4191~2~16.6
+4191~2~1w
+4191~2~Stoinis to Roy, 1 wide, pushes this one down the leg side
+4191~2~
+4191~2~16.6
+4191~2~4
+4191~2~Stoinis to Roy, FOUR runs, hauled through midwicket! Makes the move and then muscles it away in front of deep midwicket, the crowd lapping it up now!
+4191~2~
+4191~2~17.1
+4191~2~0
+4191~2~Starc to Bairstow, no run, Starc bangs a short ball on leg stump, YJB ducks under it
+4191~2~Thanks, Alan. Roy and YJB continue to purr away
+4191~2~
+4191~2~END OF OVER:17 | 8 Runs | ENG: 124/0 (100 runs required from 33 overs, RR: 7.29, RRR: 3.03)
+4191~2~Jason Roy
+4191~2~79 (61b)
+4191~2~Jonny Bairstow
+4191~2~34 (41b)
+4191~2~Marcus Stoinis
+4191~2~1-0-8-0
+4191~2~Steven Smith
+4191~2~1-0-21-0
+4191~2~Right, here's Deiva again
+4191~2~
+4191~2~
+4191~2~17.2
+4191~2~W
+4191~2~Starc to Bairstow, OUT, Starc provides Australia with the breakthrough. It looks plumb, but Bairstow calls for a review. Full inswinger from over the wicket, Bairstow plays around it and is pinned on the back leg in line with middle. This is cannoning into middle and there's a tiny opening for Australia
+4191~2~JM Bairstow lbw b Starc 34 (88m 43b 5x4 0x6) SR: 79.06
+4191~2~
+4191~2~
+4191~2~17.3
+4191~2~4
+4191~2~Starc to Root, FOUR runs, bumper on the leg stump, 143ks, Root rises with it and flaps it away with the glove. The ball balloons to the left of the diving keeper
+4191~2~Vinayak: "Roy often reminds me of Virender Sehwag... same swag, fearlessness.. never afraid of get going from ball one ... simple rule "see the ball hit the ball""
+4191~2~
+4191~2~
+4191~2~17.4
+4191~2~0
+4191~2~Starc to Root, no run, back of a length and angling across off, solidly punched into the covers
+4191~2~Ankush: "As Mr. Vaughn tweeted, anyone who beats India, can win the tournament. Rightly so, Eng vs NZ on the cards! They both come on top and now will play for the glory!"
+4191~2~
+4191~2~
+4191~2~17.5
+4191~2~4
+4191~2~Starc to Root, FOUR runs, full and heading down the leg side, tickled away on its way to the fine leg boundary
+4191~2~
+4191~2~17.6
+4191~2~4
+4191~2~Starc to Root, FOUR runs, short and wide outside off, Root latches onto the width and cracks it away to the sweeper boundary off the back foot
+4191~2~Salil Dubey: "As a wise man once said... Starc has never been wicketless in a world cup match"
+4191~2~
+4191~2~
+4191~2~SeerviBharath
+4191~2~ Most wickets in a WC edition:
+4191~2~
+4191~2~27* Starc, 2019
+4191~2~26 McGrath, 2007
+4191~2~23 Vaas, 2003
+4191~2~23 Muralitharan, 2007
+4191~2~23 Tait, 2007
+4191~2~22 Lee, 2003
+4191~2~22 Boult, 2015
+4191~2~22 Starc, 2015#AusvEng #CWC19
+4191~2~
+4191~2~97
+4191~2~8:39 PM - Jul 11, 2019
+4191~2~Twitter Ads info and privacy
+4191~2~40 people are talking about this
+4191~2~END OF OVER:18 | 12 Runs 1 Wkt | ENG: 136/1 (88 runs required from 32 overs, RR: 7.55, RRR: 2.75)
+4191~2~Joe Root
+4191~2~12 (4b)
+4191~2~Jason Roy
+4191~2~79 (61b)
+4191~2~Mitchell Starc
+4191~2~5-0-50-1
+4191~2~Marcus Stoinis
+4191~2~1-0-8-0
+4191~2~
+4191~2~18.1
+4191~2~4
+4191~2~Stoinis to Roy, FOUR runs, shortish and outside off, sits up to be hit. Roy happily obliges. Slugs it to midwicket, the ball bursts through the hands and into the boundary
+4191~2~
+4191~2~Bharath Seervi
+4191~2~✔
+4191~2~
+4191~2~18.2
+4191~2~1
+4191~2~Stoinis to Roy, 1 run, back of a length and holds its line outside off, eased down to deep third man
+4191~2~
+4191~2~18.3
+4191~2~0
+4191~2~Stoinis to Root, no run, on a length and outside off, guided to point off the front foot
+4191~2~Menon : "Moment your best bowler goes for 1/50 in 5 overs , it's very tough. "
+4191~2~
+4191~2~
+4191~2~18.4
+4191~2~0
+4191~2~Stoinis to Root, no run, short and outside off, punched to extra-cover
+4191~2~
+4191~2~18.5
+4191~2~0
+4191~2~Stoinis to Root, no run, much fuller and just a shade outside off, driven to mid-off off the front foot
+4191~2~
+4191~2~18.6
+4191~2~0
+4191~2~Stoinis to Root, no run, short and outside off, jabbed away to square point. There's a backward point lurking as well
+4191~2~Merlin: "My favorite thing about this performance is how it's going to play in their minds come The Ashes."
+4191~2~
+4191~2~
+4191~2~19.1
+4191~2~1
+4191~2~Cummins to Roy, 1 run, on the pads, tucked away to fine leg
+4191~2~EdMo: "Awful decision to review the Bairstow wicket. I've never seen anything more LBW than that."
+4191~2~
+4191~2~END OF OVER:19 | 5 Runs | ENG: 141/1 (83 runs required from 31 overs, RR: 7.42, RRR: 2.67)
+4191~2~Joe Root
+4191~2~12 (8b)
+4191~2~Jason Roy
+4191~2~84 (63b)
+4191~2~Marcus Stoinis
+4191~2~2-0-13-0
+4191~2~Mitchell Starc
+4191~2~5-0-50-1
+4191~2~
+4191~2~19.2
+4191~2~4
+4191~2~Cummins to Root, FOUR runs, short and wide outside off, flayed away in the gap between square point and backward point. Beats deep third man as well
+4191~2~
+4191~2~19.3
+4191~2~1
+4191~2~Cummins to Root, 1 run, Root rides the bounce of this short ball outside off and pulls it away to deep midwicket
+4191~2~
+4191~2~19.4
+4191~2~W
+4191~2~Cummins to Roy, OUT, Has Roy been bounced out? Umpire Dharmasena raises his finger. Lifter at the arm-pit of Roy, heading down the leg side, Roy aims a pull, but it's miles away from his reach. Good grab from Carey - injured jaw and all - but the question is was there bat on this? Replays suggest Roy did not touch it. England have lost their review and Roy has to go. He's seething, but umpire Erasmus chats with him and sends him off. He throws his gloves in the change room
+4191~2~JJ Roy c Carey(wk) b Cummins 85 (99m 65b 9x4 5x6) SR: 130.76
+4191~2~
+4191~2~WATCH - Starc traps Bairstow to finally break England's opening stand (Australia, UK and SEA only)
+4191~2~
+4191~2~
+4191~2~19.5
+4191~2~0
+4191~2~Cummins to Morgan, no run, bouncer outside off, Morgan gets out of the way
+4191~2~
+4191~2~19.6
+4191~2~0
+4191~2~Cummins to Morgan, no run, another sharp short ball angling across off, Morgan sways his upper body out of the way
+4191~2~
+4191~2~20.1
+4191~2~0
+4191~2~Starc to Root, no run, full on off, driven back to the bowler
+4191~2~Srini: "Roy out. What a shocker decision by the umpire. Roy is robbed as YJB used the review."
+4191~2~
+4191~2~END OF OVER:20 | 6 Runs 1 Wkt | ENG: 147/2 (77 runs required from 30 overs, RR: 7.35, RRR: 2.56)
+4191~2~Eoin Morgan
+4191~2~0 (2b)
+4191~2~Joe Root
+4191~2~17 (10b)
+4191~2~Pat Cummins
+4191~2~5-0-24-1
+4191~2~Marcus Stoinis
+4191~2~2-0-13-0
+4191~2~
+4191~2~20.2
+4191~2~0
+4191~2~Starc to Root, no run, fuller and on the stumps, struck back to the bowler once again
+4191~2~Chris: "I was worried that ridiculous Bairstow review would hurt England and it didn't take long!"
+4191~2~
+4191~2~
+4191~2~20.3
+4191~2~0
+4191~2~Starc to Root, no run, overpitched and outside off, driven firmly to cover off the front foot
+4191~2~
+4191~2~20.4
+4191~2~2
+4191~2~Starc to Root, 2 runs, back of a length on off, whipped away through midwicket off the back foot
+4191~2~niksau: "Roy is seething but how is Bairstow feeling? Quite sheepish, I guess. Wasted the review which is meant for this kind of howler!"
+4191~2~
+4191~2~
+4191~2~20.5
+4191~2~0
+4191~2~Starc to Root, no run, shortish on off, guided to point off the back foot
+4191~2~
+4191~2~20.6
+4191~2~2
+4191~2~Starc to Root, 2 runs, shorter and outside off, Root now finds the gap, steering to third man's right
+4191~2~
+4191~2~21.1
+4191~2~1
+4191~2~Cummins to Morgan, 1 run, short on the hips, glanced to fine leg
+4191~2~END OF OVER:21 | 4 Runs | ENG: 151/2 (73 runs required from 29 overs, RR: 7.19, RRR: 2.51)
+4191~2~Joe Root
+4191~2~21 (16b)
+4191~2~Eoin Morgan
+4191~2~0 (2b)
+4191~2~Mitchell Starc
+4191~2~6-0-54-1
+4191~2~Pat Cummins
+4191~2~5-0-24-1
+4191~2~
+4191~2~21.2
+4191~2~1
+4191~2~Cummins to Root, 1 run, back of a length and too straight, tucked to the right of deep square leg
+4191~2~
+4191~2~21.3
+4191~2~0
+4191~2~Cummins to Morgan, no run, lifter, angling across Morgan, he sways his upper body out of the way
+4191~2~
+4191~2~21.4
+4191~2~0
+4191~2~Cummins to Morgan, no run, short on leg stump, Morgan stays leg-side of the ball and defends
+4191~2~John: "It looked to me like Bairstow actually took that review on Roy's say-so, in which case Roy might be largely responsible for his own demise. It looked like Bairstow asked Roy and I suspect Roy may have said that it probably pitched outside leg."
+4191~2~
+4191~2~
+4191~2~21.5
+4191~2~0
+4191~2~Cummins to Morgan, no run, short and angling in from round the wicket, Morgan drops his hands and lets it go
+4191~2~
+4191~2~21.6
+4191~2~0
+4191~2~Cummins to Morgan, no run, another sharp short ball, nearly rips off Morgan's glove as he fends at it
+4191~2~
+4191~2~22.1
+4191~2~0
+4191~2~Starc to Root, no run, on a length and angling across off, driven to cover off the front foot
+4191~2~END OF OVER:22 | 2 Runs | ENG: 153/2 (71 runs required from 28 overs, RR: 6.95, RRR: 2.53)
+4191~2~Eoin Morgan
+4191~2~1 (7b)
+4191~2~Joe Root
+4191~2~22 (17b)
+4191~2~Pat Cummins
+4191~2~6-0-26-1
+4191~2~Mitchell Starc
+4191~2~6-0-54-1
+4191~2~
+4191~2~22.2
+4191~2~0
+4191~2~Starc to Root, no run, short, wide, cracked to point
+4191~2~Kiran: "My my my! Did Dharmasena just give the Aussies the sniff they needed? They never give up, do they?"
+4191~2~
+4191~2~
+4191~2~22.3
+4191~2~0
+4191~2~Starc to Root, no run, short and angling across off, Root flaps at it and is beaten outside off
+4191~2~
+4191~2~22.4
+4191~2~1
+4191~2~Starc to Root, 1 run, glanced off the hips to fine leg
+4191~2~
+4191~2~22.5
+4191~2~4
+4191~2~Starc to Morgan, FOUR runs, Starc digs it short and outside off, Morgan backs away and scythes it up and over cover
+4191~2~Finch is right behind Carey at long stop
+4191~2~
+4191~2~Bala: "Against India he was not given out. Today he was not given not-out. Cricket is a Great leveler."
+4191~2~
+4191~2~
+4191~2~22.6
+4191~2~0
+4191~2~Starc to Morgan, no run, Morgan hops and fends a short ball on middle to cover
+4191~2~
+4191~2~23.1
+4191~2~1
+4191~2~Cummins to Root, 1 run, short and outside off, bunted wide of short midwicket
+4191~2~END OF OVER:23 | 5 Runs | ENG: 158/2 (66 runs required from 27 overs, RR: 6.86, RRR: 2.44)
+4191~2~Eoin Morgan
+4191~2~5 (9b)
+4191~2~Joe Root
+4191~2~23 (21b)
+4191~2~Mitchell Starc
+4191~2~7-0-59-1
+4191~2~Pat Cummins
+4191~2~6-0-26-1
+4191~2~
+4191~2~23.2
+4191~2~0
+4191~2~Cummins to Morgan, no run, short and skidding into the body, Morgan is tucked up for room as he fends at it
+4191~2~
+4191~2~23.3
+4191~2~1
+4191~2~Cummins to Morgan, 1 run, edged fine of deep third man
+4191~2~
+4191~2~23.4
+4191~2~1
+4191~2~Cummins to Root, 1 run, short, wide, smeared to sweeper cover
+4191~2~WATCH - 'F***ing embarrassing' - Roy furious after losing wicket (Australia, UK and SEA only)
+4191~2~
+4191~2~
+4191~2~23.5
+4191~2~1w
+4191~2~Cummins to Morgan, 1 wide, bouncer on middle, Morgan ducks under it
+4191~2~
+4191~2~23.5
+4191~2~0
+4191~2~Cummins to Morgan, no run, short at the body, fended off this time
+4191~2~
+4191~2~23.6
+4191~2~4
+4191~2~Cummins to Morgan, FOUR runs, pitched up on off, Morgan gives himself some swinging room and pumps it over mid-off
+4191~2~
+4191~2~24.1
+4191~2~0
+4191~2~Starc to Root, no run, back of a length and outside off, punched to mid-off
+4191~2~END OF OVER:24 | 8 Runs | ENG: 166/2 (58 runs required from 26 overs, RR: 6.91, RRR: 2.23)
+4191~2~Eoin Morgan
+4191~2~10 (13b)
+4191~2~Joe Root
+4191~2~25 (23b)
+4191~2~Pat Cummins
+4191~2~7-0-34-1
+4191~2~Mitchell Starc
+4191~2~7-0-59-1
+4191~2~
+4191~2~24.2
+4191~2~0
+4191~2~Starc to Root, no run, pitched up and outside off, caressed to cover
+4191~2~
+4191~2~24.3
+4191~2~0
+4191~2~Starc to Root, no run, short on middle, Root hops and fends it to point
+4191~2~Jay: "Give a sniff to Aussie?? are you kidding me? If ENG can't get 2.5/over from here then they don't even deserve to be in semi. Should wrap this up in next 10 overs. "
+4191~2~
+4191~2~
+4191~2~24.4
+4191~2~4
+4191~2~Starc to Root, FOUR runs, full-toss sliding down the leg side, 149ks, helped away fine of long leg for four
+4191~2~
+4191~2~24.5
+4191~2~0
+4191~2~Starc to Root, no run, back of a length on off, stabbed to point
+4191~2~Pradeep: "This is the first time I am seeing an Australian team going down without a semblance of fight."
+4191~2~
+4191~2~
+4191~2~24.6
+4191~2~1
+4191~2~Starc to Root, 1 run, shortish and outside off, punched away to the left of mid-off
+4191~2~
+4191~2~25.1
+4191~2~1
+4191~2~Lyon to Root, 1 run, spinning into the pads, clipped with the break to deep square leg
+4191~2~Lyon returns
+4191~2~
+4191~2~END OF OVER:25 | 5 Runs | ENG: 171/2 (53 runs required from 25 overs, RR: 6.84, RRR: 2.12)
+4191~2~Joe Root
+4191~2~30 (29b)
+4191~2~Eoin Morgan
+4191~2~10 (13b)
+4191~2~Mitchell Starc
+4191~2~8-0-64-1
+4191~2~Pat Cummins
+4191~2~7-0-34-1
+4191~2~
+4191~2~25.2
+4191~2~0
+4191~2~Lyon to Morgan, no run, tossed outside off, Morgan reverse-sweeps and collects only fresh air
+4191~2~
+4191~2~25.3
+4191~2~0
+4191~2~Lyon to Morgan, no run, flighted on middle, Morgan dead-bats it away
+4191~2~Faisal Jaan: "What an anticlimax to a promising semi final at Birmingham. Two decades ago, Australia was involved in the greatest ODI ever against South Africa in WC semi final at Birmingham. Today, the Aussies are probably involved in one of the most one-sided semi finals ever in WC history."
+4191~2~
+4191~2~
+4191~2~25.4
+4191~2~0
+4191~2~Lyon to Morgan, no run, shorter on middle, forced to extra-cover off the back foot
+4191~2~
+4191~2~25.5
+4191~2~4
+4191~2~Lyon to Morgan, FOUR runs, whoa! Pushed through on middle, Morgan drops down to one knee and nails a reverse-sweep over backward point. Such fast hands from Morgan
+4191~2~
+4191~2~25.6
+4191~2~2
+4191~2~Lyon to Morgan, 2 runs, Morgan backs away and dinks this full ball towards third man
+4191~2~
+4191~2~26.1
+4191~2~1
+4191~2~Behrendorff to Root, 1 run, on the pads, worked away in front of square on the leg side
+4191~2~WATCH - Highlights of Roy's dazzling 85 (Australia, UK and SEA only)
+4191~2~
+4191~2~END OF OVER:26 | 7 Runs | ENG: 178/2 (46 runs required from 24 overs, RR: 6.84, RRR: 1.91)
+4191~2~Eoin Morgan
+4191~2~16 (18b)
+4191~2~Joe Root
+4191~2~31 (30b)
+4191~2~Nathan Lyon
+4191~2~3-0-25-0
+4191~2~Mitchell Starc
+4191~2~8-0-64-1
+4191~2~
+4191~2~26.2
+4191~2~0
+4191~2~Behrendorff to Morgan, no run, back of a length and holds its line outside off, Morgan feels for it and is beaten on the outside edge
+4191~2~
+4191~2~26.3
+4191~2~2
+4191~2~Behrendorff to Morgan, 2 runs, pitched up and outside off, slower variation, Morgan slices it off the outside half. Finch runs around from mid-off, but the ball eludes his outstretched right hand
+4191~2~Damian Saunders: "It's not an anticlimax if you are an England fan. Its absolute heaven"
+4191~2~
+4191~2~
+4191~2~26.4
+4191~2~0
+4191~2~Behrendorff to Morgan, no run, full on off, slogged straight to midwicket
+4191~2~
+4191~2~26.5
+4191~2~4
+4191~2~Behrendorff to Morgan, FOUR runs, short and angling into off from over the wicket, Morgan sizes it up and clobbers it away to the square-leg boundary. Pulled with great authority
+4191~2~
+4191~2~26.6
+4191~2~1
+4191~2~Behrendorff to Morgan, 1 run, hip-high short ball on off, this is swung away to the boundary rider at square leg
+4191~2~Anushrut : "England haven't beaten Australia in a world cup game since 1992. Let that sink in."
+4191~2~
+4191~2~
+4191~2~27.1
+4191~2~1
+4191~2~Lyon to Morgan, 1 run, chopped from the stumps to deep point
+4191~2~Colm: "I think Eoin Morgan has dealt with the short ball quite well since he came out. That will stand him in good stead for the final...."
+4191~2~
+4191~2~END OF OVER:27 | 8 Runs | ENG: 186/2 (38 runs required from 23 overs, RR: 6.88, RRR: 1.65)
+4191~2~Eoin Morgan
+4191~2~23 (23b)
+4191~2~Joe Root
+4191~2~32 (31b)
+4191~2~Jason Behrendorff
+4191~2~6-1-28-0
+4191~2~Nathan Lyon
+4191~2~3-0-25-0
+4191~2~
+4191~2~27.2
+4191~2~1
+4191~2~Lyon to Root, 1 run, tapped down to long-on for one
+4191~2~WATCH - 'That's up here in the commentary box!' - Roy smashes Smith for three consecutive sixes (Australia, UK and SEA only)
+4191~2~
+4191~2~
+4191~2~27.3
+4191~2~4
+4191~2~Lyon to Morgan, FOUR runs, Morgan goes low and sweeps a non-turning offbreak past short fine leg for four
+4191~2~Raghu: "New Zealand Bowling vs England Batting. Boult is key for NZ chances. Can Martin Guptill do a Gilchrist (2007)? "
+4191~2~
+4191~2~
+4191~2~27.4
+4191~2~4
+4191~2~Lyon to Morgan, FOUR runs, Morgan backs away and lashes a middle-stump ball to the cover boundary. Pinged off the middle of the bat
+4191~2~
+4191~2~27.5
+4191~2~0
+4191~2~Lyon to Morgan, no run, Morgan comes down the track, but is deceived in flight, offbreak, spins away, sliced but does not carry to short third man
+4191~2~
+4191~2~27.6
+4191~2~1
+4191~2~Lyon to Morgan, 1 run, short, wide, cut away for one
+4191~2~Paco Stropion: "I'm a big SL fan and flew from Vietnam to Australia to catch up with my best friends and currently in NSW, blue mountains.. Freaking cold and feels like - 1. We (my friends) planned to do big celebration tomorrow if Aussie wins but weldon Eng and thanks alot, I can sleep well and catch the flight back to Vietnam tomorrow. "
+4191~2~
+4191~2~
+4191~2~28.1
+4191~2~0
+4191~2~Behrendorff to Morgan, no run, back of a length on off, spliced away to mid-on
+4191~2~Jake: "Kiwi Fan here - good for NZ that the middle to lower order of Eng not being tested. hopefully they feel the pinch Sunday !! "
+4191~2~
+4191~2~END OF OVER:28 | 11 Runs | ENG: 197/2 (27 runs required from 22 overs, RR: 7.03, RRR: 1.22)
+4191~2~Eoin Morgan
+4191~2~33 (28b)
+4191~2~Joe Root
+4191~2~33 (32b)
+4191~2~Nathan Lyon
+4191~2~4-0-36-0
+4191~2~Jason Behrendorff
+4191~2~6-1-28-0
+4191~2~
+4191~2~28.2
+4191~2~0
+4191~2~Behrendorff to Morgan, no run, banged in short and outside off, down the track and dragged to midwicket
+4191~2~Atif: "ENG had not beaten IND, NZ, AUS in WC since 1992. They're nearly there to beating all three in a hattrick!"
+4191~2~
+4191~2~
+4191~2~28.3
+4191~2~0
+4191~2~Behrendorff to Morgan, no run, bouncer outside off, Morgan shelves the hook and ignores it
+4191~2~
+4191~2~28.4
+4191~2~0
+4191~2~Behrendorff to Morgan, no run, back of a length and slanting in on middle, Morgan gets right behind the line and blocks
+4191~2~
+4191~2~28.5
+4191~2~0
+4191~2~Behrendorff to Morgan, no run, slower bouncer, floats down the leg side, beats Morgan's pull this time
+4191~2~
+4191~2~28.6
+4191~2~0
+4191~2~Behrendorff to Morgan, no run, Morgan ventures down the track and hacks a short ball from outside off to mid-on
+4191~2~
+4191~2~29.1
+4191~2~1
+4191~2~Lyon to Root, 1 run, floated up and worked with the spin to short fine leg
+4191~2~Howdy. I think it's coming (to the) home (of cricket) on Sunday
+4191~2~
+4191~2~END OF OVER:29 | (maiden) | ENG: 197/2 (27 runs required from 21 overs, RR: 6.79, RRR: 1.28)
+4191~2~Eoin Morgan
+4191~2~33 (34b)
+4191~2~Joe Root
+4191~2~33 (32b)
+4191~2~Jason Behrendorff
+4191~2~7-2-28-0
+4191~2~Nathan Lyon
+4191~2~4-0-36-0
+4191~2~England are just 27 away from joining NZ in the final. Alan is back to apply the finishing touches
+4191~2~
+4191~2~
+4191~2~29.2
+4191~2~4
+4191~2~Lyon to Morgan, FOUR runs, blapped in front of point! Morgan hurls the hands and slices up and over, skitters away to the rope
+4191~2~
+4191~2~29.3
+4191~2~2
+4191~2~Lyon to Morgan, 2 runs, flighted from round the wicket, swept in front of square for a couple more
+4191~2~
+4191~2~29.4
+4191~2~1
+4191~2~Lyon to Morgan, 1 run, pushed through outside off, chopped through point
+4191~2~
+4191~2~29.5
+4191~2~4
+4191~2~Lyon to Root, FOUR runs, Root goes for the reverse styles now, swatted behind point and away - target coming rapidly into view
+4191~2~
+4191~2~29.6
+4191~2~1
+4191~2~Lyon to Root, 1 run, lobbed up straight and nudged off the pads
+4191~2~
+4191~2~30.1
+4191~2~0
+4191~2~Behrendorff to Root, no run, back of a length and steered towards point
+4191~2~END OF OVER:30 | 13 Runs | ENG: 210/2 (14 runs required from 20 overs, RR: 7.00, RRR: 0.70)
+4191~2~Joe Root
+4191~2~39 (35b)
+4191~2~Eoin Morgan
+4191~2~40 (37b)
+4191~2~Nathan Lyon
+4191~2~5-0-49-0
+4191~2~Jason Behrendorff
+4191~2~7-2-28-0
+4191~2~"I don't think even England can lose from here," suggests Simonwoody1. I'm almost tempted to agree
+4191~2~
+4191~2~
+4191~2~30.2
+4191~2~1w
+4191~2~Behrendorff to Root, 1 wide, slower ball down the leg side
+4191~2~Richard Powell: "Double up at 30? Be afraid Black Caps, be very afraid..." Though sadly they don't get to carry this score over into the final (and who would dare write off NZ after what they did the other day)
+4191~2~
+4191~2~
+4191~2~30.2
+4191~2~0
+4191~2~Behrendorff to Root, no run, angled across, tapped down into the covers
+4191~2~
+4191~2~30.3
+4191~2~0
+4191~2~Behrendorff to Root, no run, another slow cutter from Behrendorff, defended calmly propping on to the front foot
+4191~2~
+4191~2~30.4
+4191~2~4
+4191~2~Behrendorff to Root, FOUR runs, short ball, tennis-ball bounce and fetched from outside off stump, that'll race into the untended acres at midwicket for four more
+4191~2~"What is the win percentage right now?" I think it's officially Come Hell or High Water, Ashim
+4191~2~
+4191~2~
+4191~2~30.5
+4191~2~0
+4191~2~Behrendorff to Root, no run, full, dug out on off stump, Root looking for the quick single but Morgan declines
+4191~2~
+4191~2~30.6
+4191~2~1
+4191~2~Behrendorff to Root, 1 run, full toss helped away off leg stump for one
+4191~2~
+4191~2~31.1
+4191~2~0
+4191~2~Starc to Root, no run, shortish and tapped down square on the off side
+4191~2~Mitchell Starc returns
+4191~2~
+4191~2~"Absolutely stunned, and overjoyed by this," weeps Woody. "Out of interest, what is the win percentage indicated now? Surely it must be 100%?!" It will be in just a few balls' time
+4191~2~
+4191~2~END OF OVER:31 | 6 Runs | ENG: 216/2 (8 runs required from 19 overs, RR: 6.96, RRR: 0.42)
+4191~2~Joe Root
+4191~2~44 (41b)
+4191~2~Eoin Morgan
+4191~2~40 (37b)
+4191~2~Jason Behrendorff
+4191~2~8-2-34-0
+4191~2~Nathan Lyon
+4191~2~5-0-49-0
+4191~2~
+4191~2~31.2
+4191~2~4
+4191~2~Starc to Root, FOUR runs, slapped on the up through point for four! Root whistles a square drive to the fence... Almost time to start the car
+4191~2~
+4191~2~31.3
+4191~2~1
+4191~2~Starc to Root, 1 run, short and pulled... The crowd giving it the big'un but there's a man out there
+4191~2~
+4191~2~31.4
+4191~2~1
+4191~2~Starc to Morgan, 1 run, full outside off, bunted into the covers
+4191~2~
+4191~2~31.5
+4191~2~0
+4191~2~Starc to Root, no run, length outside off, 146kph/91mph and Root eases it to cover on the drive
+4191~2~
+4191~2~31.6
+4191~2~0
+4191~2~Starc to Root, no run, short outside off and Root lashes a cut, brilliantly cut off on the dive by Glenn Maxwell! Full marks for effort, there
+4191~2~WATCH on Hotstar (India only): Jason Roy smashed an entertaining 65-ball 85
+4191~2~
+4191~2~"Five England Batsmen have scored centuries and four of their bowlers are into double figures plus Ben Stokes - Is this a triumph of depth of talent?" wonders Steve. Well, that and the fact they've been No1 in the world for a while. But they haven't won anything (other than a semi-final) yet
+4191~2~
+4191~2~
+4191~2~32.1
+4191~2~4
+4191~2~Behrendorff to Morgan, FOUR runs, short and heaved over mid-on, England are in the World Cup final! Root and Morgan embrace, they've completed an eight-wicket demolition at Edgbaston
+4191~2~END OF OVER:32 | 6 Runs | ENG: 222/2 (2 runs required from 18 overs, RR: 6.93, RRR: 0.11)
+4191~2~Joe Root
+4191~2~49 (46b)
+4191~2~Eoin Morgan
+4191~2~41 (38b)
+4191~2~Mitchell Starc
+4191~2~9-0-70-1
+4191~2~Jason Behrendorff
+4191~2~8-2-34-0
+4191~2~
+4191~2~

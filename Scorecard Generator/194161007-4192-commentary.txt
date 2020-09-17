@@ -1,0 +1,3806 @@
+4192~1~Team 1: Martin Guptill!MJ Guptill, Nicholls!HM Nicholls, Kane Williamson (c)!KS Williamson(c), Ross Taylor!LRPL Taylor, Tom Latham (wk)!TWM Latham(wk), James Neesham!JDS Neesham, Colin de Grandhomme!C de Grandhomme, Mitchell Santner!MJ Santner, Matt Henry!MJ Henry, Lockie Ferguson!LH Ferguson, Trent Boult!TA Boult
+4192~1~Team 2: Jason Roy!JJ Roy, Jonny Bairstow!JM Bairstow, Joe Root!JE Root, Eoin Morgan (c)!EJG Morgan(c), Ben Stokes!BA Stokes, Jos Buttler (wk)!JC Buttler(wk), Chris Woakes!CR Woakes, Adil Rashid!AU Rashid, Liam Plunkett!LE Plunkett, Jofra Archer!JC Archer, Mark Wood!MA Wood.
+4192~1~0.1
+4192~1~1w
+4192~1~Woakes to Guptill, 1 wide, wide outswinger on a fullish length, and Guptill gets down on his back knee and has a proper old slash at that. He's nowhere near connecting, and the umpire signals wide
+4192~1~
+4192~1~0.1
+4192~1~0
+4192~1~Woakes to Guptill, no run, back of a length, close to off stump, a bit of shape away. Gets back and across and defends towards cover point
+4192~1~
+4192~1~0.2
+4192~1~0
+4192~1~Woakes to Guptill, no run, fuller this time, curves away from the fourth-stump line, left alone
+4192~1~
+4192~1~0.3
+4192~1~0
+4192~1~Woakes to Guptill, no run, back of a length, straightens towards middle stump. Gets on his toes to ride the bounce and defend back down the pitch
+4192~1~
+4192~1~0.4
+4192~1~0
+4192~1~Woakes to Guptill, no run, back of a length outside off, doesn't quite come onto the bat for the horizontal-bat slap. Hits it hard into the ground and it rolls slowly into the point region
+4192~1~Interesting field. Big gap between cover point and mid-off.
+4192~1~
+4192~1~Mohit Bhartia: "Woakes starts with a wide! Shades of Zaheer Khan and the 2003 WC final. Just saying..."
+4192~1~
+4192~1~
+4192~1~0.5
+4192~1~4
+4192~1~Woakes to Guptill, FOUR runs, first runs off the bat, and it's a boundary. Back of a length again, not too much width, and a bit of extra bounce. Looks to punch off the back foot and it hits high on the bat, near the outside edge, and runs away quickly to the left of Ben Stokes at backward point
+4192~1~
+4192~1~0.6
+4192~1~0
+4192~1~Woakes to Guptill, no run, back of a length, a little closer to off stump, left alone
+4192~1~
+4192~1~1.1
+4192~1~0
+4192~1~Archer to Nicholls, no run, length ball, straightens a little towards top of off, defended to midwicket
+4192~1~Here's Jofra Archer, over the wicket to the left-handed Henry Nicholls.
+4192~1~
+4192~1~END OF OVER:1 | 5 Runs | NZ: 5/0 | RR: 5.00
+4192~1~Martin Guptill
+4192~1~4 (6b)
+4192~1~Henry Nicholls
+4192~1~0 (0b)
+4192~1~Chris Woakes
+4192~1~1-0-5-0
+4192~1~
+4192~1~1.2
+4192~1~1lb
+4192~1~Archer to Nicholls, 1 leg bye, similar length, a touch too straight, worked off the hip to fine leg
+4192~1~
+4192~1~1.3
+4192~1~0
+4192~1~Archer to Guptill, no run, back of a length on off stump, gets behind it to tuck it towards square leg. He wants one - the fielder is pretty much on the edge of the circle - but Nicholls sends him back
+4192~1~
+4192~1~1.4
+4192~1~2
+4192~1~Archer to Guptill, 2 runs, length ball, nips back a little towards middle stump, worked away to the left of long leg
+4192~1~
+4192~1~1.5
+4192~1~0
+4192~1~Archer to Guptill, no run, got him, what a beaut! Or did he edge that at all? Squared him up in defence with late movement from the shorter side of a good length, on a tight off-stump line. Replays show the ball has sneaked past the outside edge and hit the pocket of Guptill's trousers on the way to the keeper. England trust in Marais Erasmus' not-out decision and decide not to review, wisely so.
+4192~1~
+4192~1~1.6
+4192~1~0
+4192~1~Archer to Guptill, no run, length ball on off stump, blocked back to the bowler
+4192~1~
+4192~1~2.1
+4192~1~0
+4192~1~Woakes to Nicholls, no run, back of a length on leg stump, tucked off the hip to square leg
+4192~1~Two slips for Nicholls as Woakes continues from over the wicket.
+4192~1~
+4192~1~END OF OVER:2 | 3 Runs | NZ: 8/0 | RR: 4.00
+4192~1~Martin Guptill
+4192~1~6 (10b)
+4192~1~Henry Nicholls
+4192~1~0 (2b)
+4192~1~Jofra Archer
+4192~1~1-0-2-0
+4192~1~Chris Woakes
+4192~1~1-0-5-0
+4192~1~
+4192~1~2.2
+4192~1~0
+4192~1~Woakes to Nicholls, no run, slants this one across, pitching just outside off on a fullish length. No swing back in, and Nicholls ignores it
+4192~1~
+4192~1~2.3
+4192~1~0
+4192~1~Woakes to Nicholls, no run, ooh, this one does come back in, and Kumar Dharmasena doesn't wait too long to raise his finger to Woakes' lbw appeal. Nicholls reviews. Lovely length, fullish but not full enough to bring out a proper front-foot stride, and Nicholls is stuck on the crease, playing down the wrong line, looking for the straight-bat defensive push to mid-on. Beats the inside edge, and hits back thigh pad. The ball pitched on a middle-and-leg line, and straightened, but the bounce would have taken it over the stumps, according to ball-tracking. Wow!
+4192~1~
+4192~1~2.4
+4192~1~0
+4192~1~Woakes to Nicholls, no run, length ball, straightening towards middle and off. Gets in half a stride this time and defends, with ball hitting the inside half of the bat
+4192~1~
+4192~1~2.5
+4192~1~2
+4192~1~Woakes to Nicholls, 2 runs, a touch shorter on off stump, worked away with the swing through square leg
+4192~1~
+4192~1~2.6
+4192~1~0
+4192~1~Woakes to Nicholls, no run, back of a length, this one keeps going with the angle, pitching on middle and finishing just outside off stump. Gets nicely back and across to defend into the covers
+4192~1~Greg: "We always focus on the players, buy umpire Erasmus has had an an incredible world cup as well. That was an excellent decision under pressure - even the TV coverage added a '1' to the wicket column immediately, but Erasmus stood firm."
+4192~1~
+4192~1~
+4192~1~3.1
+4192~1~0
+4192~1~Archer to Guptill, no run, back of a length, a bit of nip back towards off stump, defended into the on side off the back foot
+4192~1~END OF OVER:3 | 2 Runs | NZ: 10/0 | RR: 3.33
+4192~1~Henry Nicholls
+4192~1~2 (8b)
+4192~1~Martin Guptill
+4192~1~6 (10b)
+4192~1~Chris Woakes
+4192~1~2-0-7-0
+4192~1~Jofra Archer
+4192~1~1-0-2-0
+4192~1~
+4192~1~3.2
+4192~1~6
+4192~1~Archer to Guptill, SIX runs, digs this in short, rising shoulder high outside off, and Guptill stays leg-side of the ball, lets the ball come to him, and deliberately slices underneath the ball to uppercut over the boundary fine of third man
+4192~1~Like for Woakes, a big gap between cover point and mid-off. The length, you'd expect, will be on the shorter side.
+4192~1~
+4192~1~
+4192~1~3.3
+4192~1~0
+4192~1~Archer to Guptill, no run, back of a length outside off, left alone
+4192~1~
+4192~1~3.4
+4192~1~4
+4192~1~Archer to Guptill, FOUR runs, wham. A shimmy out of his crease this time, and he converts Archer's length ball into a half-volley, and extends his arms through the line to drive it back past the startled bowler, at shoulder height
+4192~1~
+4192~1~3.5
+4192~1~1
+4192~1~Archer to Guptill, 1 run, length ball, angling into middle and leg, tucked away to fine leg
+4192~1~
+4192~1~3.6
+4192~1~1
+4192~1~Archer to Nicholls, 1 run, length ball on leg stump, stays on the back foot and pushes to the left of midwicket, with a straight bat, for a quick single
+4192~1~
+4192~1~4.1
+4192~1~0
+4192~1~Woakes to Nicholls, no run, fullish, slanting across into the fifth-stump channel, left alone
+4192~1~END OF OVER:4 | 12 Runs | NZ: 22/0 | RR: 5.50
+4192~1~Henry Nicholls
+4192~1~3 (9b)
+4192~1~Martin Guptill
+4192~1~17 (15b)
+4192~1~Jofra Archer
+4192~1~2-0-14-0
+4192~1~Chris Woakes
+4192~1~2-0-7-0
+4192~1~
+4192~1~4.2
+4192~1~1
+4192~1~Woakes to Nicholls, 1 run, shortish outside off, jumps up to ride the bounce and chops it down to third man
+4192~1~
+4192~1~4.3
+4192~1~1
+4192~1~Woakes to Guptill, 1 run, fullish, angling into middle stump. Guptill comes forward and plays a little uncertainly, looking to clip through the leg side while playing for a bit of outswing. Doesn't swing, and a thick inside edge runs away towards long leg
+4192~1~Devi: "MSD in 2011 was out of sort in WC until he walked in to the folklores in the finals; can Guptill repeat ?" -- Gilchrist in 2007 is another example.
+4192~1~
+4192~1~
+4192~1~4.4
+4192~1~0
+4192~1~Woakes to Nicholls, no run, shortish outside off, jumps up again and jabs to backward point
+4192~1~
+4192~1~4.5
+4192~1~0
+4192~1~Woakes to Nicholls, no run, length ball slanting away from off stump, gets a stride forward and punches towards backward point
+4192~1~
+4192~1~4.6
+4192~1~0
+4192~1~Woakes to Nicholls, no run, length ball attacking the top of off stump. Gets back and across to defend into the covers
+4192~1~
+4192~1~5.1
+4192~1~1
+4192~1~Archer to Guptill, 1 run, back of a length on off stump, uses his wrists to tuck it into the short midwicket region and they immediately set off for the single, with the bowler having to run across and field it himself
+4192~1~END OF OVER:5 | 2 Runs | NZ: 24/0 | RR: 4.80
+4192~1~Henry Nicholls
+4192~1~4 (14b)
+4192~1~Martin Guptill
+4192~1~18 (16b)
+4192~1~Chris Woakes
+4192~1~3-0-9-0
+4192~1~Jofra Archer
+4192~1~2-0-14-0
+4192~1~
+4192~1~5.2
+4192~1~0
+4192~1~Archer to Nicholls, no run, back of a length, fairly close to off stump, hops across to push into the cover point region
+4192~1~
+4192~1~5.3
+4192~1~2
+4192~1~Archer to Nicholls, 2 runs, length ball on middle and leg, clipped away through backward square leg
+4192~1~
+4192~1~5.4
+4192~1~0
+4192~1~Archer to Nicholls, no run, length ball on middle and off, defended towards mid-off
+4192~1~
+4192~1~5.5
+4192~1~0
+4192~1~Archer to Nicholls, no run, good ball, a bit of movement in from just short of a length. Pitches on about leg stump and straightens from there. Looks to work it through the leg side and the ball beats his inside edge and hits thigh pad
+4192~1~Abir Utsha: "Can we check for squash balls in Guppy's gloves?"
+4192~1~
+4192~1~
+4192~1~5.6
+4192~1~1
+4192~1~Archer to Nicholls, 1 run, similar ball, back of a length and straightening towards middle and leg. Tucked away to the left of midwicket this time
+4192~1~
+4192~1~6.1
+4192~1~1
+4192~1~Woakes to Nicholls, 1 run, length ball, swings back in late, towards middle and leg, as Nicholls looks to push forward and defend. Inside-edge onto pad, and runs away wide of second slip
+4192~1~END OF OVER:6 | 4 Runs | NZ: 28/0 | RR: 4.66
+4192~1~Henry Nicholls
+4192~1~7 (19b)
+4192~1~Martin Guptill
+4192~1~19 (17b)
+4192~1~Jofra Archer
+4192~1~3-0-18-0
+4192~1~Chris Woakes
+4192~1~3-0-9-0
+4192~1~
+4192~1~6.2
+4192~1~W
+4192~1~Woakes to Guptill, OUT, Given! And Guptill consults with his partner for an age before reviewing with a couple of seconds left on the clock. Length ball, nips back in off the seam, and Guptill, looking to drive on the up through mid-off, is beaten on the inside edge. Hits the bent back leg, just above the flap of the pads. Impact is in line with middle and off, and the ball is hitting middle stump two-thirds of the way up. Why did he review that if there was no edge? Chris Woakes gets the first wicket of the World Cup final, with a lovely delivery that went off the seam in the opposite direction to how he usually swings it
+4192~1~MJ Guptill lbw b Woakes 19 (30m 18b 2x4 1x6) SR: 105.55
+4192~1~
+4192~1~One of the slips comes out to plug the gap at short extra-cover.
+4192~1~
+4192~1~
+4192~1~6.3
+4192~1~0
+4192~1~Woakes to Williamson, no run, greets him with a fifth-stump outswinger, and Williamson gets on the front foot and leaves it alone
+4192~1~Here he comes again, Kane Williamson. Three slips in place, and only two fielders on the leg side: fine leg and mid-on. Wow.
+4192~1~
+4192~1~
+4192~1~6.4
+4192~1~0
+4192~1~Woakes to Williamson, no run, again the line is fifth stump. A good-length ball with a bit of late outswing, and Williamson won't be tempted into playing at it
+4192~1~
+4192~1~6.5
+4192~1~0
+4192~1~Woakes to Williamson, no run, length ball angling into off stump, defended off the front foot into the point region
+4192~1~
+4192~1~6.6
+4192~1~0
+4192~1~Woakes to Williamson, no run, ooh, lovely. This one's not as full as the previous ball, and it's pitched in the fourth-stump channel. Williamson is unsure whether to play or leave, and he kind of ends up halfway between the two as the ball straightens past his outside edge
+4192~1~
+4192~1~7.1
+4192~1~0
+4192~1~Archer to Nicholls, no run, shortish, and there's some extra bounce at 145kph. Straightens into Nicholls from a middle-and-leg line, and the ball beats the inside edge of his defensive bat and hits him on the stomach
+4192~1~END OF OVER:7 | 1 Run 1 Wkt | NZ: 29/1 | RR: 4.14
+4192~1~Kane Williamson
+4192~1~0 (4b)
+4192~1~Henry Nicholls
+4192~1~8 (20b)
+4192~1~Chris Woakes
+4192~1~4-0-10-1
+4192~1~Jofra Archer
+4192~1~3-0-18-0
+4192~1~
+4192~1~7.2
+4192~1~1
+4192~1~Archer to Nicholls, 1 run, back of a length, close to off stump. Jumps back and across to defend, and the ball straightens and hits the inside half of the bat and rolls gently between his legs. He has no idea where the ball is, but Williamson calls for a quick single and he immediately responds
+4192~1~
+4192~1~7.3
+4192~1~0
+4192~1~Archer to Williamson, no run, short ball, rising to shoulder height in the corridor outside off, Williamson leaves it, swaying his upper body out of the way
+4192~1~
+4192~1~7.4
+4192~1~0
+4192~1~Archer to Williamson, no run, ooh, that's massive outswing, most of it after passing the edge. Lovely length, fourth-stump line, and Williamson is half-forward to defend, and the ball swings past the edge and then swings some more before reaching the keeper
+4192~1~
+4192~1~7.5
+4192~1~0
+4192~1~Archer to Williamson, no run, bouncer, rising steeply and without apparent effort over middle and off. Ducks his head and shoulders hurriedly out of the way
+4192~1~
+4192~1~7.6
+4192~1~0
+4192~1~Archer to Williamson, no run, length ball close to off stump, defended with soft hands into the cover point region. Thinks of the quick single, but the fielder rushing in makes him decide against it
+4192~1~
+4192~1~8.1
+4192~1~0
+4192~1~Woakes to Nicholls, no run, length ball slanting across to off stump, defended to mid-off. Not much footwork there, just played that from the crease while staying nice and compact
+4192~1~END OF OVER:8 | 1 Run | NZ: 30/1 | RR: 3.75
+4192~1~Kane Williamson
+4192~1~0 (8b)
+4192~1~Henry Nicholls
+4192~1~9 (22b)
+4192~1~Jofra Archer
+4192~1~4-0-19-0
+4192~1~Chris Woakes
+4192~1~4-0-10-1
+4192~1~
+4192~1~8.2
+4192~1~0
+4192~1~Woakes to Nicholls, no run, this one isn't compact at all. Back of a length, widish line outside off, and he has a big slash at it away from his body and misses
+4192~1~
+4192~1~8.3
+4192~1~0
+4192~1~Woakes to Nicholls, no run, back of a length, straightens into the fourth-stump channel, gets back and across for the straight-bat punch down the pitch
+4192~1~
+4192~1~8.4
+4192~1~1
+4192~1~Woakes to Nicholls, 1 run, overpitched, but Nicholls can't find the gap with his drive. Hits it to the right of mid-off, not far enough to beat him, and sets off for a quick single. Has to stretch at the end to beat Roy's throw at the non-striker's end. Doesn't hit the stumps and he'd probably have been just in anyway
+4192~1~
+4192~1~8.5
+4192~1~0
+4192~1~Woakes to Williamson, no run, good-length ball with a bit of outswing, just outside off stump. Gets forward, head over ball, and defends with soft hands
+4192~1~
+4192~1~8.6
+4192~1~0
+4192~1~Woakes to Williamson, no run, back of a length outside off, left alone
+4192~1~
+4192~1~9.1
+4192~1~0
+4192~1~Archer to Nicholls, no run, length ball close to off stump, gets behind it and defends back to the bowler
+4192~1~Rashid Saleem: "I think the closest WC final was 1987, with Australia edging past England only by 7 runs, probably due to one excellent death over from Steve Waugh to Defreitas." -- And that Gatting reverse-sweep...
+4192~1~
+4192~1~END OF OVER:9 | 1 Run | NZ: 31/1 | RR: 3.44
+4192~1~Kane Williamson
+4192~1~0 (10b)
+4192~1~Henry Nicholls
+4192~1~10 (26b)
+4192~1~Chris Woakes
+4192~1~5-0-11-1
+4192~1~Jofra Archer
+4192~1~4-0-19-0
+4192~1~
+4192~1~9.2
+4192~1~1lb
+4192~1~Archer to Nicholls, 1 leg bye, this isn't the easiest pitch to bat on. Back of a length, straightens into Nicholls from a leg-stump line with a bit of extra bounce. Beats the inside edge of his attempted flick and hits him on the thigh pad
+4192~1~
+4192~1~9.3
+4192~1~0
+4192~1~Archer to Williamson, no run, length ball wide of off stump, looks like the offcutter, but it pitches too wide to make Williamson play
+4192~1~
+4192~1~9.4
+4192~1~1
+4192~1~Archer to Williamson, 1 run, length ball angling into off stump, leans forward and meets the ball right under his eye to tuck it gently to the right of midwicket
+4192~1~
+4192~1~9.5
+4192~1~0
+4192~1~Archer to Nicholls, no run, appeal for lbw, and Nicholls shows the umpire his bat. Bounce may have taken it over the stumps too. Pitches just short of a length on middle or thereabouts, and straightens in past the back-foot defensive. May have kissed inside edge through to thigh pad
+4192~1~
+4192~1~9.6
+4192~1~0
+4192~1~Archer to Nicholls, no run, length ball on middle and off, defended back to the bowler
+4192~1~
+4192~1~10.1
+4192~1~1w
+4192~1~Woakes to Williamson, 1 wide, back of a length, nips in a little but down the leg side. Williamson thinks of a flick, but decides to lift his bat over his head in the end
+4192~1~That's the end of the first Powerplay. Woakes continues.
+4192~1~
+4192~1~END OF OVER:10 | 2 Runs | NZ: 33/1 | RR: 3.30
+4192~1~Henry Nicholls
+4192~1~10 (30b)
+4192~1~Kane Williamson
+4192~1~1 (12b)
+4192~1~Jofra Archer
+4192~1~5-0-20-0
+4192~1~Chris Woakes
+4192~1~5-0-11-1
+4192~1~
+4192~1~10.1
+4192~1~1
+4192~1~Woakes to Williamson, 1 run, back of a length outside off, chopped down to third man
+4192~1~
+4192~1~10.2
+4192~1~0
+4192~1~Woakes to Nicholls, no run, a bit of movement in from outside off. Nicholls shuffles across to work it leg side, but the ball beats his inside edge and hits his pad
+4192~1~
+4192~1~10.3
+4192~1~4
+4192~1~Woakes to Nicholls, FOUR runs, rare gimme ball. Short and wide, and Nicholls slaps it away to the left of backward point
+4192~1~
+4192~1~10.4
+4192~1~1
+4192~1~Woakes to Nicholls, 1 run, and Woakes goes wide again, fuller this time. Gets on the front foot to slap to the newly stationed deep point fielder
+4192~1~Cover point drops back to deep point.
+4192~1~
+4192~1~
+4192~1~10.5
+4192~1~0
+4192~1~Woakes to Williamson, no run, back of a length, nips back slightly towards off stump, goes on the back foot to defend back to the bowler
+4192~1~
+4192~1~10.6
+4192~1~0
+4192~1~Woakes to Williamson, no run, length ball, fifth-stump line, left alone
+4192~1~
+4192~1~11.1
+4192~1~0
+4192~1~Plunkett to Nicholls, no run, fullish on off stump, met with a checked drive to mid-off
+4192~1~First bowling change, here's Liam Plunkett, from over the wicket to Nicholls.
+4192~1~
+4192~1~Deepankar DM: "Guptill's intent, 'few' runs, Nicholls excellent review, and the survival of the openers till 7 overs ensured this is a 50-50 start as opposed to a usual horror start. England seemed a little flat early, as did India few days ago. These little things can be so so useful in such situations. NZ winning these moments in the SF led to their eventual victory. Could be crucial in this match too! " -- England certainly haven't been flat from what I've seen of them. The ball's been nibbling around and they've been pretty accurate, though the TV commentators have pointed out that Archer could have been a little fuller - none of the balls he's bowled so far would have gone on to hit the stumps, by the estimation of ball-tracking.
+4192~1~
+4192~1~END OF OVER:11 | 7 Runs | NZ: 40/1 | RR: 3.63
+4192~1~Kane Williamson
+4192~1~2 (15b)
+4192~1~Henry Nicholls
+4192~1~15 (33b)
+4192~1~Chris Woakes
+4192~1~6-0-18-1
+4192~1~Jofra Archer
+4192~1~5-0-20-0
+4192~1~
+4192~1~11.2
+4192~1~2
+4192~1~Plunkett to Nicholls, 2 runs, length ball close to off stump, gets forward for the push to the right of extra-cover. Woakes' throw at the keeper's end has no one backing up inside the circle, and they run an overthrow
+4192~1~
+4192~1~11.3
+4192~1~0
+4192~1~Plunkett to Nicholls, no run, back of a length, nips in off the pitch as Nicholls goes back and across to try and work it leg side. Hits his thigh pad again
+4192~1~
+4192~1~11.4
+4192~1~2
+4192~1~Plunkett to Nicholls, 2 runs, short, gets up to about chest height outside off stump, pulled away to the right of deep square leg
+4192~1~
+4192~1~11.5
+4192~1~0
+4192~1~Plunkett to Nicholls, no run, full outside off, drives firmly but straight to short extra-cover
+4192~1~
+4192~1~11.6
+4192~1~2
+4192~1~Plunkett to Nicholls, 2 runs, full and on the pads, flicked away to the left of deep square leg
+4192~1~The four fielders back are deep point, third man, fine leg and deep square leg, as is usually the case for Plunkett
+4192~1~
+4192~1~
+4192~1~12.1
+4192~1~0
+4192~1~Woakes to Williamson, no run, length ball close to off stump, defended into the point region
+4192~1~Woakes into his seventh over now.
+4192~1~
+4192~1~Hassan Shafique: "New Zealand reaching the semis with help of NRR, beat the top side of the Table in the Semis, New Zealand batting first in the final, New Zealand in the away dressing room it looks like New Zealand replaced Pakistan from 1992. Can they win the cup? Hoping for England to win it though!"
+4192~1~
+4192~1~Obee: "I wished to see Moeen in this team of WC Final as he was a key member of this English Transition, from too much caution old school England team to a Brave & Fearless Unit." -- I love Moeen Ali, but who could he have come in for?
+4192~1~
+4192~1~END OF OVER:12 | 6 Runs | NZ: 46/1 | RR: 3.83
+4192~1~Henry Nicholls
+4192~1~21 (39b)
+4192~1~Kane Williamson
+4192~1~2 (15b)
+4192~1~Liam Plunkett
+4192~1~1-0-6-0
+4192~1~Chris Woakes
+4192~1~6-0-18-1
+4192~1~
+4192~1~12.2
+4192~1~0
+4192~1~Woakes to Williamson, no run, full outside off, lets it come on and plays a checked drive to short extra-cover
+4192~1~
+4192~1~12.3
+4192~1~1w
+4192~1~Woakes to Williamson, 1 wide, back of a length, ends up slanting a fair way down the leg side, past the attempted flick off the hip
+4192~1~
+4192~1~12.3
+4192~1~0
+4192~1~Woakes to Williamson, no run, ooh, lovely delivery, the nip-backer from a perfect length, against the slope. Height the issue, though, as Williamson steps across to defend and is beaten on the inside edge
+4192~1~
+4192~1~12.4
+4192~1~0
+4192~1~Woakes to Williamson, no run, a bit fuller on off stump, driven firmly back to the bowler
+4192~1~
+4192~1~12.5
+4192~1~0
+4192~1~Woakes to Williamson, no run, length ball close to off stump, shuffles across and dabs to backward point
+4192~1~
+4192~1~12.6
+4192~1~0
+4192~1~Woakes to Williamson, no run, fullish, angling into off stump, defended to short extra
+4192~1~
+4192~1~13.1
+4192~1~1
+4192~1~Plunkett to Nicholls, 1 run, length ball outside off, his weight isn't fully forward as he looks to drive through the covers, ends up slicing it towards third man
+4192~1~Plunkett comes round the wicket now, to Nicholls.
+4192~1~
+4192~1~Ayush Punia: "I feel New Zealand are off to a good start given its a pressure game. 270-280 would be very competitive total."
+4192~1~
+4192~1~END OF OVER:13 | 1 Run | NZ: 47/1 | RR: 3.61
+4192~1~Kane Williamson
+4192~1~2 (21b)
+4192~1~Henry Nicholls
+4192~1~21 (39b)
+4192~1~Chris Woakes
+4192~1~7-0-19-1
+4192~1~Liam Plunkett
+4192~1~1-0-6-0
+4192~1~
+4192~1~13.2
+4192~1~0
+4192~1~Plunkett to Williamson, no run, short and wide, and he gets across to cut, but straight to backward point
+4192~1~Back over the wicket to Williamson.
+4192~1~
+4192~1~
+4192~1~13.3
+4192~1~1
+4192~1~Plunkett to Williamson, 1 run, ooh, offcutter on off stump, on a fullish length. Comes forward, initially looking to drive down the ground, and catches up with the offcutter a little late with a twirl of the wrists. Runs away through square leg off the inside half of the bat
+4192~1~
+4192~1~13.4
+4192~1~1
+4192~1~Plunkett to Nicholls, 1 run, shortish outside off, chopped to third man
+4192~1~Back round the wicket to Nicholls
+4192~1~
+4192~1~
+4192~1~13.5
+4192~1~1
+4192~1~Plunkett to Williamson, 1 run, another offcutter, back of a length outside off. Stops on Williamson and he chops it away to deep point
+4192~1~Over the wicket to Williamson.
+4192~1~
+4192~1~
+4192~1~13.6
+4192~1~4
+4192~1~Plunkett to Nicholls, FOUR runs, they've taken a bunch of singles and Plunkett's had to keep changing his angle as a result. Sends down a full one on the pads and Nicholls puts it away with a flick to the backward square leg boundary
+4192~1~Round the wicket once more.
+4192~1~
+4192~1~
+4192~1~14.1
+4192~1~1w
+4192~1~Wood to Williamson, 1 wide, full, wide outswinger, and Williamson chases it with a big drive and misses. Harsh call of wide, maybe
+4192~1~Woakes' first spell ends at seven overs. On comes Mark Wood now. Same four fielders on the boundary, and a slip in place. 6-3 field with fine leg, deep square leg and mid-on on the leg side.
+4192~1~
+4192~1~END OF OVER:14 | 8 Runs | NZ: 55/1 | RR: 3.92
+4192~1~Henry Nicholls
+4192~1~27 (42b)
+4192~1~Kane Williamson
+4192~1~4 (24b)
+4192~1~Liam Plunkett
+4192~1~2-0-14-0
+4192~1~Chris Woakes
+4192~1~7-0-19-1
+4192~1~
+4192~1~14.1
+4192~1~0
+4192~1~Wood to Williamson, no run, wide-ish line again, more outswing, but this one's shorter. Williamson has an uncharacteristic jab at it away from his body, and misses
+4192~1~
+4192~1~14.2
+4192~1~0
+4192~1~Wood to Williamson, no run, lovely. Angles this into the fourth-stump channel and swings it away from a good length. Left alone
+4192~1~
+4192~1~14.3
+4192~1~0
+4192~1~Wood to Williamson, no run, full-toss, about half a stump high, angling into off stump and curving away late. Williamson flicks it back to the bowler - may have initially been aiming through midwicket
+4192~1~
+4192~1~14.4
+4192~1~1
+4192~1~Wood to Williamson, 1 run, shortish, a bit of width, punched to deep point
+4192~1~
+4192~1~14.5
+4192~1~1lb
+4192~1~Wood to Nicholls, 1 leg bye, fullish, swinging down leg, misses the flick and the ball rolls off the pad to fine leg. 153kph!
+4192~1~Zahir: "Wow. Some swing from Wood. Why didn't he open with Woakes?" -- Tough choice, given how good Archer is and has been at the World Cup.
+4192~1~
+4192~1~
+4192~1~14.6
+4192~1~1w
+4192~1~Wood to Williamson, 1 wide, shortish, angling down leg. Looks to flick initially, and then decides against it
+4192~1~
+4192~1~14.6
+4192~1~4
+4192~1~Wood to Williamson, FOUR runs, short, angling down leg but not as far. A little shorter than the previous ball too, and Williamson swivels to hook it fine, to the left of the keeper. I suspect it came off glove, but Williamson won't mind that
+4192~1~
+4192~1~15.1
+4192~1~4
+4192~1~Plunkett to Nicholls, FOUR runs, short and slanting into the hips from round the stumps, Nicholls sizes up this one on the back foot. Swivel-pulled away to the left of deep square leg. Has the sliding Stokes done his half at the boundary?
+4192~1~11.57am Thanks, KK. Hello, again, everyone. England's seamers kept pegging away around off - and outside off - with the new ball but Nicholls and Williamson rode out that phase. The semi-new ball is still nibbling around, how will Williamson and Nicholls go? A steady diet of singles and improved their scoring rate, though. Here is Plunkett from round the wicket
+4192~1~
+4192~1~
+4192~1~Asif Mujawar : "While I've always admired Kohli's ability to absorb the pressure and his game awareness which comes good 8/10 times, it's the big pressure games like ICC Knockouts he'll have to learn so much from Williamson in terms of reading the situation, staying calm in adverse and pressure situations and more importantly leading from the front. He's been failing in ICC knockouts for quite a long time now."
+4192~1~
+4192~1~END OF OVER:15 | 8 Runs | NZ: 63/1 | RR: 4.20
+4192~1~Kane Williamson
+4192~1~9 (29b)
+4192~1~Henry Nicholls
+4192~1~27 (43b)
+4192~1~Mark Wood
+4192~1~1-0-7-0
+4192~1~Liam Plunkett
+4192~1~2-0-14-0
+4192~1~Drinks. It's time once more for Deiva Muthu.
+4192~1~
+4192~1~
+4192~1~15.2
+4192~1~0
+4192~1~Plunkett to Nicholls, no run, good length and outside off, blocked off the front foot
+4192~1~
+4192~1~15.3
+4192~1~0
+4192~1~Plunkett to Nicholls, no run, much fuller and outside off, driven through the line to mid-off
+4192~1~
+4192~1~15.4
+4192~1~0
+4192~1~Plunkett to Nicholls, no run, pitched up and outside off, another fluent front-foot drive, but can't get it past extra-cover
+4192~1~
+4192~1~15.5
+4192~1~1
+4192~1~Plunkett to Nicholls, 1 run, back of a length and angling into the pads, picked away between long leg and deep square leg
+4192~1~
+4192~1~15.6
+4192~1~0
+4192~1~Plunkett to Williamson, no run, pitched up and holds its line outside off, Williamson leans into a charming front-foot drive but finds mid-off at the edge of the circle
+4192~1~
+4192~1~16.1
+4192~1~0
+4192~1~Wood to Nicholls, no run, good length and skids back in against the angle from over the wicket, 148ks, Nicholls is late onto it and is pinged on the thigh pad
+4192~1~END OF OVER:16 | 5 Runs | NZ: 68/1 | RR: 4.25
+4192~1~Kane Williamson
+4192~1~9 (30b)
+4192~1~Henry Nicholls
+4192~1~32 (48b)
+4192~1~Liam Plunkett
+4192~1~3-0-19-0
+4192~1~Mark Wood
+4192~1~1-0-7-0
+4192~1~
+4192~1~16.2
+4192~1~0
+4192~1~Wood to Nicholls, no run, shorter and angling away outside off, Nicholls rides the bounce and guides it to point
+4192~1~
+4192~1~16.3
+4192~1~1
+4192~1~Wood to Nicholls, 1 run, shortish and darts back in at off stump, Nicholls hops and jabs it away just wide of short midwicket to pick up a single
+4192~1~srs: "Also, Kohli is sometimes ultra aggressive and tries to impose his authority by playing drives even to swinging balls and getting out. Same was the case in CT final 2017, in Adelaide test against Aus, etc."
+4192~1~
+4192~1~
+4192~1~16.4
+4192~1~0
+4192~1~Wood to Williamson, no run, wide of the crease, back of a length and angling in at off, 149ks, Williamson goes back and across, defensively pushing the ball down to mid-on
+4192~1~Arslan Arif: "Excellent game plan here from these two. One reading all the bowlers so that he could attack them later while the other is keeping the runrate balanced. "
+4192~1~
+4192~1~
+4192~1~16.5
+4192~1~1
+4192~1~Wood to Williamson, 1 run, wide of the crease, even shorter at the body, Williamson leaps and fends a single to the right of mid-on
+4192~1~
+4192~1~16.6
+4192~1~0
+4192~1~Wood to Nicholls, no run, good length and tight on off, Nicholls replies with an equally tight front-foot defence, getting right behind the line and showing off his straight bat
+4192~1~
+4192~1~17.1
+4192~1~1
+4192~1~Rashid to Williamson, 1 run, tossed outside off, no turn either way, Williamson stretches out and drives a single down to long-off
+4192~1~Anand: "Wood can be wayward but I sense he will force a wicket here with his pace." --- Time for Rashid's legbreaks and maybe googlies
+4192~1~
+4192~1~END OF OVER:17 | 2 Runs | NZ: 70/1 | RR: 4.11
+4192~1~Henry Nicholls
+4192~1~33 (52b)
+4192~1~Kane Williamson
+4192~1~10 (32b)
+4192~1~Mark Wood
+4192~1~2-0-9-0
+4192~1~Liam Plunkett
+4192~1~3-0-19-0
+4192~1~
+4192~1~17.2
+4192~1~1
+4192~1~Rashid to Nicholls, 1 run, pushed through on off stump, Nicholls goes well to jump across the stumps and paddle-sweep a single down to fine leg
+4192~1~Over the stumps to the left-handed Nicholls too
+4192~1~
+4192~1~
+4192~1~17.3
+4192~1~1
+4192~1~Rashid to Williamson, 1 run, Rashid dangles up a legbreak outside off, Williamson does not allow it to turn, venturing down the track and driving smoothly to long-off
+4192~1~
+4192~1~17.4
+4192~1~1
+4192~1~Rashid to Nicholls, 1 run, slides on leg stump,looks like an attempted wrong'un, Nicholls brings out the sweep again. Rolls his wrists and strokes it to long leg
+4192~1~
+4192~1~17.5
+4192~1~2
+4192~1~Rashid to Williamson, 2 runs, flighted on middle, Williamson doesn't get quite get underneath the length. Slices it in the air over midwicket
+4192~1~
+4192~1~17.6
+4192~1~1
+4192~1~Rashid to Williamson, 1 run, skids on outside off, spins away late, Williamson reads it and dabs with the break through point
+4192~1~
+4192~1~18.1
+4192~1~1
+4192~1~Wood to Williamson, 1 run, chest-high short ball, slanting in from over the wicket, Williamson controls a pull to Rashid at long leg
+4192~1~Jasz: "I think the way NZ have batted, the fate of the match will be decided by the bowling of Boult and probably Henry too."
+4192~1~
+4192~1~END OF OVER:18 | 7 Runs | NZ: 77/1 | RR: 4.27
+4192~1~Kane Williamson
+4192~1~15 (36b)
+4192~1~Henry Nicholls
+4192~1~35 (54b)
+4192~1~Adil Rashid
+4192~1~1-0-7-0
+4192~1~Mark Wood
+4192~1~2-0-9-0
+4192~1~
+4192~1~18.2
+4192~1~4
+4192~1~Wood to Nicholls, FOUR runs, short and angling across off, 145ks, Nicholls rides the bounce. He opens the face and delightfully punches it to the right of backward point, then beats deep third man to his left and sweeper to his right in the deep
+4192~1~
+4192~1~18.3
+4192~1~1
+4192~1~Wood to Nicholls, 1 run, back of a length and much straighter, Nicholls sits back and tickles a single through the square-leg region
+4192~1~
+4192~1~18.4
+4192~1~1
+4192~1~Wood to Williamson, 1 run, wide of the crease, back of a length and holds its line outside off. There's a wide slip in place, but Williamson dabs it away past him and finds deep third man
+4192~1~
+4192~1~18.5
+4192~1~0
+4192~1~Wood to Nicholls, no run, lifter, rising steeply at the throat of Nicholls, on middle, the batsman leaps off his feet. Keeps his eyes locked on the ball and fends it off to cover
+4192~1~
+4192~1~18.6
+4192~1~0
+4192~1~Wood to Nicholls, no run, back of a length and skidding away outside off, Nicholls has an almighty swish with his feet rooted to the crease. The ball sneaks under his bat-swing
+4192~1~CJ: "Ross Taylor must be getting a little confused. Almost 20 overs gone and he hasn't had a chance to bat."
+4192~1~
+4192~1~
+4192~1~19.1
+4192~1~4
+4192~1~Rashid to Williamson, FOUR runs, flighted on off stump, Williamsom stretches out, gets close to the pitch. In the previous Rashid over, he sliced under it, this time he nails it against the break in the air over mid-on's right. Four
+4192~1~END OF OVER:19 | 7 Runs | NZ: 84/1 | RR: 4.42
+4192~1~Henry Nicholls
+4192~1~40 (58b)
+4192~1~Kane Williamson
+4192~1~17 (38b)
+4192~1~Mark Wood
+4192~1~3-0-16-0
+4192~1~Adil Rashid
+4192~1~1-0-7-0
+4192~1~
+4192~1~19.2
+4192~1~0
+4192~1~Rashid to Williamson, no run, full, drifts in towards off stump, breaks away, Williamson adjusts, opening the bat-face and dinking it to point
+4192~1~
+4192~1~19.3
+4192~1~0
+4192~1~Rashid to Williamson, no run, tossed up slower and higher on off, Williamson is forward to smother it
+4192~1~
+4192~1~19.4
+4192~1~2
+4192~1~Rashid to Williamson, 2 runs, fuller and straighter, Williamson rolls his wrists and sweeps it flat to the right of deep square. Archer tidies up in the outfield
+4192~1~
+4192~1~19.5
+4192~1~0
+4192~1~Rashid to Williamson, no run, back of a length, flatter and outside off, Williamson jumps back and punches off the back foot to the covers
+4192~1~
+4192~1~19.6
+4192~1~1
+4192~1~Rashid to Williamson, 1 run, looks like a wrong'un, but it's short on middle, allowing Williamson to punch it down to long-on off the back foot
+4192~1~Aruna Caldera: "Have NZ left their best batting performance for the final ?"
+4192~1~
+4192~1~
+4192~1~20.1
+4192~1~3
+4192~1~Wood to Williamson, 3 runs, slightly overpitched and outside off, Williamson leans into it and drives with an open face. Carsessed through the covers. Bairstow slides to his right at the edge of the boundary and hauls the ball in. Top work in the outfield
+4192~1~28 runs off the last five overs with minimal risk
+4192~1~
+4192~1~END OF OVER:20 | 7 Runs | NZ: 91/1 | RR: 4.55
+4192~1~Kane Williamson
+4192~1~24 (44b)
+4192~1~Henry Nicholls
+4192~1~40 (58b)
+4192~1~Adil Rashid
+4192~1~2-0-14-0
+4192~1~Mark Wood
+4192~1~3-0-16-0
+4192~1~
+4192~1~20.2
+4192~1~0
+4192~1~Wood to Nicholls, no run, dug in short and skidding in to strike Nicholls on the thigh pad as he falls over the leg-side flick
+4192~1~
+4192~1~20.3
+4192~1~2
+4192~1~Wood to Nicholls, 2 runs, Nicholls jumps across off, gets closer to this short ball outside off and laces it away square of Rashid at deep third man
+4192~1~
+4192~1~20.4
+4192~1~1
+4192~1~Wood to Nicholls, 1 run, hip-high short ball outside off, swatted off the back foot to deep midwicket
+4192~1~Round the wicket
+4192~1~
+4192~1~
+4192~1~20.5
+4192~1~0
+4192~1~Wood to Williamson, no run, shortish and slanting in around off from over the wicket, Williamson allows the ball to come onto him. Then opens the face so very late, and pats it away towards point
+4192~1~Kiran: "Kane Williamson has scored around 30% of NZ's runs in this tournament, which is staggering to me. Shows how key he is from this point forward in the final still."
+4192~1~
+4192~1~
+4192~1~20.6
+4192~1~1
+4192~1~Wood to Williamson, 1 run, on a length and straightens a bit outside off, rare false stroke from Williamson. He aims to drive on the up, instead slices a thick outside edge past slip. It rolls down to deep third man
+4192~1~
+4192~1~21.1
+4192~1~1
+4192~1~Rashid to Williamson, 1 run, on the pads, Williamson picks it away to left of deep square leg. Archer is the boundary-rider there
+4192~1~END OF OVER:21 | 7 Runs | NZ: 98/1 | RR: 4.66
+4192~1~Kane Williamson
+4192~1~28 (47b)
+4192~1~Henry Nicholls
+4192~1~43 (61b)
+4192~1~Mark Wood
+4192~1~4-0-23-0
+4192~1~Adil Rashid
+4192~1~2-0-14-0
+4192~1~
+4192~1~21.2
+4192~1~1
+4192~1~Rashid to Nicholls, 1 run, tossed up slower and outside off, Nicholls uses his feet and scoops a drive to mid-off down the ground. Hundred up for NZ
+4192~1~
+4192~1~21.3
+4192~1~1
+4192~1~Rashid to Williamson, 1 run, flighted and turns in on off stump, Williamson quietly bunts to short midwicket's right. Rashid isn't quite ripping the googly today
+4192~1~
+4192~1~21.4
+4192~1~1
+4192~1~Rashid to Nicholls, 1 run, here comes Nicholls: down the track, takes this full ball from middle stump and drills a drive to long-on
+4192~1~
+4192~1~21.5
+4192~1~0
+4192~1~Rashid to Williamson, no run, good length, starts on off and spins away a wee bit, jabbed back to the bowler
+4192~1~
+4192~1~21.6
+4192~1~0
+4192~1~Rashid to Williamson, no run, full on off, Williamson jabs it back to Rashid
+4192~1~
+4192~1~22.1
+4192~1~0
+4192~1~Plunkett to Nicholls, no run, on a length and angling across off, Nicholls stands up tall and punches serenely with a high elbow but can't get it past short cover
+4192~1~Plunkett swaps with Wood. Over the wicket
+4192~1~
+4192~1~END OF OVER:22 | 4 Runs | NZ: 102/1 | RR: 4.63
+4192~1~Kane Williamson
+4192~1~30 (51b)
+4192~1~Henry Nicholls
+4192~1~45 (63b)
+4192~1~Adil Rashid
+4192~1~3-0-18-0
+4192~1~Mark Wood
+4192~1~4-0-23-0
+4192~1~
+4192~1~22.2
+4192~1~1
+4192~1~Plunkett to Nicholls, 1 run, full and straight, tapped to mid-on. Nicholls and Williamson take on Archer's arm for an urgent single
+4192~1~
+4192~1~22.3
+4192~1~0
+4192~1~Plunkett to Williamson, no run, pitched up and holds its line outside off, Williamson opens the face and creams it away, but Morgan swoops down on the ball at short cover
+4192~1~
+4192~1~22.4
+4192~1~W
+4192~1~Plunkett to Williamson, OUT, Plunkett thinks he has Williamson. Umpire Dharmasena does not budge. Morgan wants a review. Good length, angling in towards off from over the wicket, kicking up and nipping away outside off. Williamson is undone by the cross-seamer as he drives at it fairly away from his body. Replays indicate that the ball moves away just enough, scratches the outside edge and Buttler gobbles that up. Plunkett returns to the attack and claims the prize scalp of Williamson. That's why England pick him ahead of Moeen
+4192~1~KS Williamson c Buttler(wk) b Plunkett 30 (77m 53b 2x4 0x6) SR: 56.60
+4192~1~
+4192~1~
+4192~1~22.5
+4192~1~0
+4192~1~Plunkett to Taylor, no run, fuller and on middle, defensively pushed to mid-on
+4192~1~Taylor
+4192~1~
+4192~1~
+4192~1~22.6
+4192~1~0
+4192~1~Plunkett to Taylor, no run, pitched up and holds its line outside off, Taylor inches forward and pushes it to cover
+4192~1~
+4192~1~23.1
+4192~1~0
+4192~1~Rashid to Nicholls, no run, flighted on off stump, Nicholls bends forward and defends to cover
+4192~1~END OF OVER:23 | 1 Run 1 Wkt | NZ: 103/2 | RR: 4.47
+4192~1~Ross Taylor
+4192~1~0 (2b)
+4192~1~Henry Nicholls
+4192~1~46 (65b)
+4192~1~Liam Plunkett
+4192~1~4-0-20-1
+4192~1~Adil Rashid
+4192~1~3-0-18-0
+4192~1~
+4192~1~23.2
+4192~1~1
+4192~1~Rashid to Nicholls, 1 run, pushed through on leg stump, down the track and whipped firmly to long-on
+4192~1~
+4192~1~23.3
+4192~1~1
+4192~1~Rashid to Taylor, 1 run, wrong'un, full on middle, Taylor picks it off the pitch and turns it away through square leg
+4192~1~
+4192~1~23.4
+4192~1~1
+4192~1~Rashid to Nicholls, 1 run, looks like another wrong'un, sliding across off, draws the outside edge and rolls down to third man
+4192~1~Well-earned drink for Plunkett at the edge of the boundary
+4192~1~
+4192~1~
+4192~1~23.5
+4192~1~2
+4192~1~Rashid to Taylor, 2 runs, on the pads, picked away fine of short fine leg
+4192~1~
+4192~1~23.6
+4192~1~0
+4192~1~Rashid to Taylor, no run, on a length and breaks away outside off, Taylor stabs it away to the left of Rashid
+4192~1~
+4192~1~24.1
+4192~1~0
+4192~1~Plunkett to Nicholls, no run, short and wide outside off, lashed away straight to backward point
+4192~1~Kavan: "The outcome of this contest will be entirely decided by the showdown between Jason Moriarty Roy and Trent Sherlock Boult. Mark my words!"
+4192~1~
+4192~1~END OF OVER:24 | 5 Runs | NZ: 108/2 | RR: 4.50
+4192~1~Ross Taylor
+4192~1~3 (5b)
+4192~1~Henry Nicholls
+4192~1~48 (68b)
+4192~1~Adil Rashid
+4192~1~4-0-23-0
+4192~1~Liam Plunkett
+4192~1~4-0-20-1
+4192~1~
+4192~1~24.2
+4192~1~1
+4192~1~Plunkett to Nicholls, 1 run, back of a length and angling across off, wristed away through backward square leg
+4192~1~
+4192~1~24.3
+4192~1~0
+4192~1~Plunkett to Taylor, no run, good length and slanting in just outside off, Taylor presses forward and prods it to cover
+4192~1~
+4192~1~24.4
+4192~1~0
+4192~1~Plunkett to Taylor, no run, much fuller and skidding in at off, Taylor gets into a tangle and pokes to cover once again
+4192~1~
+4192~1~24.5
+4192~1~0
+4192~1~Plunkett to Taylor, no run, looks like another cross-seamer, but this does not bounce much. Short, outside off, but sneaks under Taylor's cut
+4192~1~
+4192~1~24.6
+4192~1~0
+4192~1~Plunkett to Taylor, no run, back of a length and skidding in at off, Taylor gets forward, loosens his grip, and fends it back to the bowler
+4192~1~Khurram Khan: "Bad day for Dharmasena continue. All 3 of his decisions are send for review and twice he is proved wrong. "
+4192~1~
+4192~1~
+4192~1~25.1
+4192~1~1
+4192~1~Rashid to Nicholls, 1 run, tossed on middle, Nicholls steps out, drives to long-on, and raises a solid half-century in the final
+4192~1~Is that the World Cup. Has a Liam Plunkett offcutter won the World Cup? Don't say we didn't warn you. Here's Osman Samiuddin on the man
+4192~1~
+4192~1~END OF OVER:25 | 1 Run | NZ: 109/2 | RR: 4.36
+4192~1~Ross Taylor
+4192~1~3 (9b)
+4192~1~Henry Nicholls
+4192~1~49 (70b)
+4192~1~Liam Plunkett
+4192~1~5-0-21-1
+4192~1~Adil Rashid
+4192~1~4-0-23-0
+4192~1~
+4192~1~25.2
+4192~1~1
+4192~1~Rashid to Taylor, 1 run, glanced away through square leg for one
+4192~1~
+4192~1~25.3
+4192~1~1
+4192~1~Rashid to Nicholls, 1 run, flatter and on the pads, swept flat and hard to deep square leg
+4192~1~Aniket: "Ross Taylor enters and finds himself in completely unfamiliar territory not having Williamson at other end."
+4192~1~
+4192~1~
+4192~1~25.4
+4192~1~0
+4192~1~Rashid to Taylor, no run, Taylor jumps down the track, gets too close to the pitch, and stabs it back to Rashid
+4192~1~
+4192~1~25.5
+4192~1~1
+4192~1~Rashid to Taylor, 1 run, Taylor jumps down the track once again, this time he bunts a single down to long-on
+4192~1~Himanshu Agrawa: "Nicholls should not get disturbed with Williamson's wicket. Instead, he should take over and slowly start hitting to allow Taylor to settle."
+4192~1~
+4192~1~
+4192~1~25.6
+4192~1~1
+4192~1~Rashid to Nicholls, 1 run, tossed up and spins in on middle, Nicholls leaves his crease and works a single into the midwicket region
+4192~1~WATCH - Williamson departs after England review caught-behind decision (Australia, UK and SEA only)
+4192~1~
+4192~1~
+4192~1~Aniket: On the flip side, Taylor has a chance to show that he is the most experienced batter in the side."
+4192~1~
+4192~1~END OF OVER:26 | 5 Runs | NZ: 114/2 | RR: 4.38
+4192~1~Henry Nicholls
+4192~1~52 (73b)
+4192~1~Ross Taylor
+4192~1~5 (12b)
+4192~1~Adil Rashid
+4192~1~5-0-28-0
+4192~1~Liam Plunkett
+4192~1~5-0-21-1
+4192~1~
+4192~1~26.1
+4192~1~0
+4192~1~Plunkett to Nicholls, no run, fullish and on off stump, Nicholls solidly plays back to the bowler
+4192~1~Mujeeb Mohammed: "
+4192~1~26.2
+4192~1~0
+4192~1~Plunkett to Nicholls, no run, even fuller and on a fourth-stump line, stabbed away off the toe-end straight of mid-on
+4192~1~
+4192~1~26.3
+4192~1~3
+4192~1~Plunkett to Nicholls, 3 runs, pitched up and outside off, drilled away through the covers. Just one man in the deep on the off side. Stokes who is sweeping the boundary runs across to his left and cuts it off
+4192~1~
+4192~1~26.4
+4192~1~1
+4192~1~Plunkett to Taylor, 1 run, back of a length and holds its line outside off, Taylor glides it down to deep third man
+4192~1~
+4192~1~26.5
+4192~1~W
+4192~1~Plunkett to Nicholls, OUT, What a double-strike from Plunkett! Back of a length and swerves back in after starting just outside off. It's the cross-seam variety once again. A crease-bound Nicholls aims to punch through the covers off the back foot, but is cramped for room. He winds up dragging on. The leg bail is tipped off. Plunkett has taken down both Williamson and Nicholls
+4192~1~HM Nicholls b Plunkett 55 (123m 77b 4x4 0x6) SR: 71.42
+4192~1~
+4192~1~
+4192~1~26.6
+4192~1~0
+4192~1~Plunkett to Latham, no run, fullish and outside off, forward and driven down to mid-off
+4192~1~Latham
+4192~1~
+4192~1~
+4192~1~27.1
+4192~1~0
+4192~1~Rashid to Taylor, no run, tossed on middle, Taylor aims leg-side and leading-edges it through cover-point
+4192~1~END OF OVER:27 | 4 Runs 1 Wkt | NZ: 118/3 | RR: 4.37
+4192~1~Tom Latham
+4192~1~0 (1b)
+4192~1~Ross Taylor
+4192~1~6 (13b)
+4192~1~Liam Plunkett
+4192~1~6-0-25-2
+4192~1~Adil Rashid
+4192~1~5-0-28-0
+4192~1~
+4192~1~27.2
+4192~1~1
+4192~1~Rashid to Taylor, 1 run, down the track comes Taylor, Rashid holds this one back. Taylor quietly knocks it away to the leg side
+4192~1~
+4192~1~27.3
+4192~1~1
+4192~1~Rashid to Latham, 1 run, shorter and breaks in on middle, punched away through backward square off the back foot
+4192~1~
+4192~1~27.4
+4192~1~1
+4192~1~Rashid to Taylor, 1 run, flat and full on off, eased down to long-on for one
+4192~1~Kritish : "Come on Neesham! Get a daddy hundred. Love from India. "
+4192~1~
+4192~1~
+4192~1~27.5
+4192~1~1
+4192~1~Rashid to Latham, 1 run, tossed slower and higher on middle, driven to Rashid's left towards long-on
+4192~1~
+4192~1~27.6
+4192~1~0
+4192~1~Rashid to Taylor, no run, wrong'un, chipped in the air but does not carry to short midwicket
+4192~1~
+4192~1~28.1
+4192~1~0
+4192~1~Plunkett to Latham, no run, good length and nibbling away outside off, Latham covers his off stump and shoulders arms
+4192~1~Stats legend Shiva: Liam Plunkett has been the chief partnership-breaker for England in this World Cup - the average stand he has broken to take his nine wickets in this series has been 63 runs. Among bowlers to take nine wickets or more in this series, only Afghanistan Gulbadin Naib has a bigger average, of 65.3 runs per wicket.
+4192~1~
+4192~1~END OF OVER:28 | 4 Runs | NZ: 122/3 | RR: 4.35
+4192~1~Ross Taylor
+4192~1~8 (17b)
+4192~1~Tom Latham
+4192~1~2 (3b)
+4192~1~Adil Rashid
+4192~1~6-0-32-0
+4192~1~Liam Plunkett
+4192~1~6-0-25-2
+4192~1~
+4192~1~28.2
+4192~1~0
+4192~1~Plunkett to Latham, no run, Plunkett hits that in-between length again, slanting away outside off, Latham looks to force the ball through cover and ends up inside-edging it onto the pad
+4192~1~
+4192~1~28.3
+4192~1~0
+4192~1~Plunkett to Latham, no run, shortish and angling across off, forward and tipped to short cover. Taylor sends Latham back
+4192~1~Asher Ali: "I wonder if this is a 250 runs pitch. English opener are quite destructive and with this strong middle order .. game is slipping away from newzeland"
+4192~1~
+4192~1~
+4192~1~28.4
+4192~1~0
+4192~1~Plunkett to Latham, no run, slightly overpitched and outside off, Latham leans into a handsomb front-foot drive, but Plunkett stops it with his boot
+4192~1~
+4192~1~28.5
+4192~1~0
+4192~1~Plunkett to Latham, no run, full and straight, driven away, but short midwicket throws himself to his left to intercept the ball
+4192~1~Rehan Yousaf: "For NZ cause, Ross Taylor and Neesham will be the key. Their contributions are vital if NZ want to reach 280 or more. If NZ post of total in excess of 280, it will not be a easy target for England to chase down in the final. The likes of Boult, Henry and Ferguson will not offer to much to be put away."
+4192~1~
+4192~1~
+4192~1~28.6
+4192~1~1
+4192~1~Plunkett to Latham, 1 run, picked off the hips towards long leg off the back foot
+4192~1~Aruna Caldera: "Last thing NZ wants here is, Latham to score at snails pace and put extra pressure on Taylor "
+4192~1~
+4192~1~
+4192~1~29.1
+4192~1~1
+4192~1~Rashid to Latham, 1 run, short and dragged down outside off, forced to sweeper cover off the back foot
+4192~1~END OF OVER:29 | 1 Run | NZ: 123/3 | RR: 4.24
+4192~1~Tom Latham
+4192~1~3 (9b)
+4192~1~Ross Taylor
+4192~1~8 (17b)
+4192~1~Liam Plunkett
+4192~1~7-0-26-2
+4192~1~Adil Rashid
+4192~1~6-0-32-0
+4192~1~
+4192~1~29.2
+4192~1~0
+4192~1~Rashid to Taylor, no run, was that the googly? Skids in on middle, defended from a full length
+4192~1~
+4192~1~29.3
+4192~1~0
+4192~1~Rashid to Taylor, no run, pushed through on off, tapped back to Rashid
+4192~1~Mahesh: "I have been trying to pick a side since Friday night. But been unable to do so and I fid myself supporting both teams on and off."
+4192~1~
+4192~1~
+4192~1~29.4
+4192~1~0
+4192~1~Rashid to Taylor, no run, tossed outside off and breaks away, Taylor uses his feet and chips a drive in front of short cover
+4192~1~
+4192~1~29.5
+4192~1~1
+4192~1~Rashid to Taylor, 1 run, Taylor shows his ace early, ventures down the track. Rashid drags his length back and slips in a wrong'un. Chopped hastily onto the ground, it bounces over Buttler's hand, and Taylor gets away
+4192~1~
+4192~1~29.6
+4192~1~1
+4192~1~Rashid to Latham, 1 run, faster and flatter on the stumps, patted down to long-on
+4192~1~Ahmad Ali: "Time for Latham to prove his credentials. He's such a good player, hasn't had a good tournament. All he needs is to play alongside Taylor till 40 overs & take the score around 180 to give free hand to hard hitting Neesham & Grandhomme to go berserk in last 10 with Taylor holding one end."
+4192~1~
+4192~1~
+4192~1~30.1
+4192~1~1
+4192~1~Stokes to Latham, 1 run, short on off, whipped behind the leg umpire off the back foot
+4192~1~Here's England's sixth bowler: Ben Stokes
+4192~1~
+4192~1~END OF OVER:30 | 3 Runs | NZ: 126/3 | RR: 4.20
+4192~1~Tom Latham
+4192~1~5 (11b)
+4192~1~Ross Taylor
+4192~1~9 (21b)
+4192~1~Adil Rashid
+4192~1~7-0-35-0
+4192~1~Liam Plunkett
+4192~1~7-0-26-2
+4192~1~
+4192~1~30.2
+4192~1~1
+4192~1~Stokes to Taylor, 1 run, short and angling into the body. Taylor hops and clips a single through square leg
+4192~1~
+4192~1~30.3
+4192~1~0
+4192~1~Stokes to Latham, no run, short and outside off, Latham has a slash.. and misses
+4192~1~
+4192~1~30.4
+4192~1~1
+4192~1~Stokes to Latham, 1 run, fullish and on off, tapped back past Stokes
+4192~1~
+4192~1~30.5
+4192~1~1
+4192~1~Stokes to Taylor, 1 run, Picked away through backward square leg once again
+4192~1~Saurabh Somani: Forecaster was 268 after 30 overs, the lowest it's been all innings
+4192~1~
+4192~1~
+4192~1~30.6
+4192~1~0
+4192~1~Stokes to Latham, no run, short, wide, there's the release...or not. Flashed straight to backward point
+4192~1~
+4192~1~31.1
+4192~1~1
+4192~1~Rashid to Taylor, 1 run, fullish, on the pads, clipped to the right of midwicket
+4192~1~Rashid continues.
+4192~1~
+4192~1~Thanks, Deiva. Latham's been hitting a lot of pretty shots straight to the fielders so far. An illustration of how the game is going on a wider scale. New Zealand have kept themselves there or thereabouts, but England haven't allowed them to get away at any point.
+4192~1~
+4192~1~END OF OVER:31 | 4 Runs | NZ: 130/3 | RR: 4.19
+4192~1~Tom Latham
+4192~1~7 (15b)
+4192~1~Ross Taylor
+4192~1~11 (23b)
+4192~1~Ben Stokes
+4192~1~1-0-4-0
+4192~1~Adil Rashid
+4192~1~7-0-35-0
+4192~1~1.05pm That's drinks. Plunkett's back-of-a-length cross-seamers have forced NZ to regroup once again. Here is KK for a fresh spell
+4192~1~
+4192~1~
+4192~1~31.2
+4192~1~1
+4192~1~Rashid to Latham, 1 run, a bit of flight on off stump and Latham is down the track to clip to long-on
+4192~1~
+4192~1~31.3
+4192~1~1
+4192~1~Rashid to Taylor, 1 run, on the pads once more, clipped to deep midwicket
+4192~1~
+4192~1~31.4
+4192~1~1
+4192~1~Rashid to Latham, 1 run, flat length ball pitching on middle and spinning towards middle, goes deep in his crease to whip to deep square leg
+4192~1~
+4192~1~31.5
+4192~1~0
+4192~1~Rashid to Taylor, no run, nice length, bowled pretty quick on off and middle, Taylor can't get a big enough stretch out to drive. Clipped watchfully to straight midwicket
+4192~1~
+4192~1~31.6
+4192~1~0
+4192~1~Rashid to Taylor, no run, tossed up a bit wider, gets forward for a push to short extra-cover
+4192~1~
+4192~1~32.1
+4192~1~0
+4192~1~Stokes to Latham, no run, back of a length, fairly close to off stump, opens his bat face and dabs to backward point
+4192~1~Stokes round the wicket to Latham.
+4192~1~
+4192~1~END OF OVER:32 | 4 Runs | NZ: 134/3 | RR: 4.18
+4192~1~Ross Taylor
+4192~1~13 (27b)
+4192~1~Tom Latham
+4192~1~9 (17b)
+4192~1~Adil Rashid
+4192~1~8-0-39-0
+4192~1~Ben Stokes
+4192~1~1-0-4-0
+4192~1~
+4192~1~32.2
+4192~1~1
+4192~1~Stokes to Latham, 1 run, short, gets up to about shoulder height outside off stump. Pulled round to deep square leg
+4192~1~Archer and Stokes are laying big batches of sawdust on the bowlers' landing areas both sides of the wicket, over and round.
+4192~1~
+4192~1~
+4192~1~32.3
+4192~1~1
+4192~1~Stokes to Taylor, 1 run, not quite short enough for the pull, on off stump, but Taylor's quick hands come to his rescue and he swipes it along the ground to deep midwicket
+4192~1~
+4192~1~32.4
+4192~1~1
+4192~1~Stokes to Latham, 1 run, ooh, good ball. Offcutter, angling into the fourth-stump channel and nipping away. Half-forward, looks to play the angle towards wide mid-on, ends up getting a thick outside edge down to third man
+4192~1~
+4192~1~32.5
+4192~1~2lb
+4192~1~Stokes to Taylor, 2 leg byes, shortish, angling into Taylor's body, tucked off the hip to the right of fine leg. May have just come off the hip, in fact
+4192~1~
+4192~1~32.6
+4192~1~1w
+4192~1~Stokes to Taylor, 1 wide, slower ball, back of a length and wide of off stump. Called wide after Taylor misses the cut
+4192~1~Nishank: "Latham's shot resembles some player's, but not able to put a finger on it. And it's bugging me..Help? Please?" -- Not sure who he reminds you of, but he has one of the best left-handers' straight drives I've seen.
+4192~1~
+4192~1~
+4192~1~32.6
+4192~1~1
+4192~1~Stokes to Taylor, 1 run, this one nips away from the right-hander in the fifth-stump channel. Taylor leans over the ball for a push into the covers, ends up edging thickly down to third man
+4192~1~
+4192~1~33.1
+4192~1~W
+4192~1~Wood to Taylor, OUT, and he strikes first ball, and Taylor can't review because his old pal Martin Guptill used up New Zealand's only one. Length ball angling in from wide of the crease, and Taylor, shuffling across his crease, misses one as he plays around his front leg looking to work the ball square on the leg side. To me it seemed to bounce a fair amount, and it struck him above the knee-roll. Would that have hit the stumps? Marais Erasmus thought it would have... Ball tracking says it would have missed the top of leg stump.
+4192~1~LRPL Taylor lbw b Wood 15 (47m 31b 0x4 0x6) SR: 48.38
+4192~1~
+4192~1~Wood returns to the attack.
+4192~1~
+4192~1~Suvadip : "I know you can't publish this but I must say, what a pale end to this exciting WC. This is not a thrilling contest by any means. Two teams having best points till semis should qualify for finals." -- This isn't dissimilar to how New Zealand's innings went against India, and we know how thrilling that game got towards its finish. And not sure why I can't publish it?
+4192~1~
+4192~1~END OF OVER:33 | 7 Runs | NZ: 141/3 | RR: 4.27
+4192~1~Ross Taylor
+4192~1~15 (30b)
+4192~1~Tom Latham
+4192~1~11 (20b)
+4192~1~Ben Stokes
+4192~1~2-0-9-0
+4192~1~Adil Rashid
+4192~1~8-0-39-0
+4192~1~
+4192~1~33.2
+4192~1~0
+4192~1~Wood to Neesham, no run, back of a length on off stump, defended into the extra-cover region
+4192~1~Two left-handers at the crease. Wood goes round the wicket to Jimmy Neesham.
+4192~1~
+4192~1~
+4192~1~33.3
+4192~1~0
+4192~1~Wood to Neesham, no run, bouncer angling in and rising over off stump, Neesham ducks under
+4192~1~
+4192~1~33.4
+4192~1~0
+4192~1~Wood to Neesham, no run, back of a length, angling into middle and off, defended into the covers
+4192~1~
+4192~1~33.5
+4192~1~0
+4192~1~Wood to Neesham, no run, back of a length, angling into the batsman, who's standing on leg stump and not really going across his crease. Looks to work it leg side and misses, and the ball hits his thigh pad
+4192~1~
+4192~1~33.6
+4192~1~0
+4192~1~Wood to Neesham, no run, beauty. Angling into the fourth-stump channel and holding its line. Neesham again stays leg-side of the ball and looks to jab at it. The ball sneaks past his outside edge
+4192~1~
+4192~1~34.1
+4192~1~1
+4192~1~Stokes to Latham, 1 run, length ball outside off, with a bit of extra bounce. Slapped away to deep point
+4192~1~Stokes round the wicket now to Latham.
+4192~1~
+4192~1~END OF OVER:34 | (wicket maiden) | NZ: 141/4 | RR: 4.14
+4192~1~James Neesham
+4192~1~0 (5b)
+4192~1~Tom Latham
+4192~1~11 (20b)
+4192~1~Mark Wood
+4192~1~5-1-23-1
+4192~1~Ben Stokes
+4192~1~2-0-9-0
+4192~1~
+4192~1~34.2
+4192~1~0
+4192~1~Stokes to Neesham, no run, full-toss, about stump high, angling into leg stump. England are looking to deny Neesham any room here, they know he's looking to stay leg side of the ball, so they're angling it into his body. Is a little surprised by that ball and looks to jab it away, but can't put bat to ball and is hit on the thigh pad
+4192~1~
+4192~1~34.3
+4192~1~0
+4192~1~Stokes to Neesham, no run, back of a length outside off, chopped into the point region
+4192~1~
+4192~1~34.4
+4192~1~4
+4192~1~Stokes to Neesham, FOUR runs, too full on the legs, and Neesham clips it away neatly, leaving deep square leg sprawled on the floor after chasing to his right on the boundary
+4192~1~
+4192~1~34.5
+4192~1~1w
+4192~1~Stokes to Neesham, 1 wide, full, angling down leg, Neesham steps across and misses the flick
+4192~1~
+4192~1~34.5
+4192~1~4
+4192~1~Stokes to Neesham, FOUR runs, short ball, sits up at chest height outside off, and Neesham pounces on it. Opens up at the hip and pulls it away between mid-on and midwicket. Top shot
+4192~1~
+4192~1~34.6
+4192~1~1
+4192~1~Stokes to Neesham, 1 run, full, on middle stump, gets his front leg out of the way and drives with a straight bat to the right of mid-on
+4192~1~That Neesham flick was the first boundary in 93 balls. Now, like buses, etc...
+4192~1~
+4192~1~
+4192~1~35.1
+4192~1~0
+4192~1~Wood to Neesham, no run, full outside off, driven crisply to short cover
+4192~1~A slip in place for Neesham as Wood gallops in from round the wicket.
+4192~1~
+4192~1~END OF OVER:35 | 11 Runs | NZ: 152/4 | RR: 4.34
+4192~1~James Neesham
+4192~1~9 (10b)
+4192~1~Tom Latham
+4192~1~12 (21b)
+4192~1~Ben Stokes
+4192~1~3-0-20-0
+4192~1~Mark Wood
+4192~1~5-1-23-1
+4192~1~
+4192~1~35.2
+4192~1~0
+4192~1~Wood to Neesham, no run, length ball angling into off stump, gets nicely behind it to block it back to the bowler
+4192~1~
+4192~1~35.3
+4192~1~0
+4192~1~Wood to Neesham, no run, bouncer rising over off stump, and Neesham gets out of the way, bending at the knees and pulling his head and shoulders away from the line
+4192~1~
+4192~1~35.4
+4192~1~1
+4192~1~Wood to Neesham, 1 run, short outside off, pulled to the right of deep square leg, and now he pulls off a good diving save. Woakes the fielder
+4192~1~
+4192~1~35.5
+4192~1~0
+4192~1~Wood to Latham, no run, fullish outside off, not quite up there for the cover drive. Straightens a bit and beats the angled bat of Latham
+4192~1~
+4192~1~35.6
+4192~1~0
+4192~1~Wood to Latham, no run, back of a length on off stump, blocked back to the bowler
+4192~1~
+4192~1~36.1
+4192~1~0
+4192~1~Plunkett to Neesham, no run, shortish, not too much width outside off to free the arms, jabbed to backward point
+4192~1~Plunkett comes back now, from over the wicket.
+4192~1~
+4192~1~Vishal: "In my opinion this is a very interesting game, great batting early on with England bringing it back with the ball. If New Zealand get 260+ they are probably above par with the element of the pressure of a final and their bowling attack."
+4192~1~
+4192~1~END OF OVER:36 | 1 Run | NZ: 153/4 | RR: 4.25
+4192~1~Tom Latham
+4192~1~12 (23b)
+4192~1~James Neesham
+4192~1~10 (14b)
+4192~1~Mark Wood
+4192~1~6-1-24-1
+4192~1~Ben Stokes
+4192~1~3-0-20-0
+4192~1~
+4192~1~36.2
+4192~1~1
+4192~1~Plunkett to Neesham, 1 run, back of a length, straightens in towards middle stump. Probably another of those cross-seam balls. Jabs his bat down and the ball hits the inside half of it and drops a short distance away on the leg side. Latham calls quickly for the single, and Neesham responds immediately
+4192~1~
+4192~1~36.3
+4192~1~0
+4192~1~Plunkett to Latham, no run, slower length ball on off stump, lets it come on and dabs towards backward point
+4192~1~
+4192~1~36.4
+4192~1~4
+4192~1~Plunkett to Latham, FOUR runs, wow. That's back of a length, gets up to waist height on middle stump, and this is more of a flick than a pull from Latham, picks it up and dumps it one-bounce, over the backward square leg boundary
+4192~1~
+4192~1~36.5
+4192~1~1
+4192~1~Plunkett to Latham, 1 run, full now, on middle stump, clipped gently into the leg side, asking Archer to run in a fair distance from mid-on
+4192~1~
+4192~1~36.6
+4192~1~0
+4192~1~Plunkett to Neesham, no run, back of a length on middle stump. Stays leg-side of the ball and jabs into the backward point region
+4192~1~
+4192~1~37.1
+4192~1~4
+4192~1~Wood to Latham, FOUR runs, shot of the innings. Length ball angling into a fourth-stump line, and he takes a small step forward, and transfers his weight perfectly into a checked push to the right of extra-cover that leaves deep point attempting a futile sprint to his left
+4192~1~Wood continues from round the wicket.
+4192~1~
+4192~1~Pratik: "Similarities with 2015 WC final. Ross Taylor fell at 35 overs to make it 150/4, which triggered a collapse! Hope they do better this time around."
+4192~1~
+4192~1~END OF OVER:37 | 6 Runs | NZ: 159/4 | RR: 4.29
+4192~1~James Neesham
+4192~1~11 (17b)
+4192~1~Tom Latham
+4192~1~17 (26b)
+4192~1~Liam Plunkett
+4192~1~8-0-32-2
+4192~1~Mark Wood
+4192~1~6-1-24-1
+4192~1~
+4192~1~37.2
+4192~1~0
+4192~1~Wood to Latham, no run, excellent response. Similar length, but a touch shorter, and it straightens off the seam to beat the outside edge as Latham looks for another front-foot push
+4192~1~
+4192~1~37.3
+4192~1~1
+4192~1~Wood to Latham, 1 run, back of a length outside off, dabbed down to third man
+4192~1~
+4192~1~37.4
+4192~1~0
+4192~1~Wood to Neesham, no run, back of a length, again it nips away slightly off the seam in the corridor. Neesham watches it well and plays late, dabs to backward point
+4192~1~
+4192~1~37.5
+4192~1~0
+4192~1~Wood to Neesham, no run, good bouncer, only gets up to about neck height over off stump, and Neesham has to duck in a hurry to get under it
+4192~1~
+4192~1~37.6
+4192~1~1
+4192~1~Wood to Neesham, 1 run, length ball on off stump, stays leg-side of the ball and jabs it away to deep point
+4192~1~Slip has been in place for Neesham through this over, by the way.
+4192~1~
+4192~1~
+4192~1~38.1
+4192~1~0
+4192~1~Plunkett to Neesham, no run, ooh, that's not a great shot. Not short enough to pull, and it's too close to off stump to be playing across the line like that. Wasn't too far away after he missed
+4192~1~Plunkett continues from right-arm over.
+4192~1~
+4192~1~Naresh mungamur: "Root is the only guy who can break Sachin's 673 in this World Cup. He needs 125 to go past Sachin"
+4192~1~
+4192~1~END OF OVER:38 | 6 Runs | NZ: 165/4 | RR: 4.34
+4192~1~James Neesham
+4192~1~12 (20b)
+4192~1~Tom Latham
+4192~1~22 (29b)
+4192~1~Mark Wood
+4192~1~7-1-30-1
+4192~1~Liam Plunkett
+4192~1~8-0-32-2
+4192~1~
+4192~1~38.2
+4192~1~1
+4192~1~Plunkett to Neesham, 1 run, back of a length close to off stump, dabbed towards third man
+4192~1~
+4192~1~38.3
+4192~1~1
+4192~1~Plunkett to Latham, 1 run, length ball slanting away from off stump, punched off the front foot to deep point
+4192~1~
+4192~1~38.4
+4192~1~2
+4192~1~Plunkett to Neesham, 2 runs, length ball angling away from off stump, opens his bat face and glides it fine of third man
+4192~1~
+4192~1~38.5
+4192~1~4
+4192~1~Plunkett to Neesham, FOUR runs, back of a length, pretty close to off stump, and Neesham plays that really well. Stands tall and forces it away to the right of extra-cover. Didn't have much room to free his arms, but he's easily beaten deep point to his left
+4192~1~
+4192~1~38.6
+4192~1~W
+4192~1~Plunkett to Neesham, OUT, boundary, wicket. There's that Plunkett cross-seamer that doesn't quite come onto the bat as expected. Fullish on off stump, but it sits up a little off the pitch, and Neesham just doesn't time that attempted loft over mid-on. Comes off the bat with a weird clunk, and Root takes a straightforward catch at mid-on. Three wickets now for Plunkett. What a final he's having.
+4192~1~JDS Neesham c Root b Plunkett 19 (28m 25b 3x4 0x6) SR: 76.00
+4192~1~
+4192~1~
+4192~1~39.1
+4192~1~1
+4192~1~Wood to Latham, 1 run, back of a length outside off, steered down to third man
+4192~1~Wood continues from round the wicket, as Colin de Grandhomme takes his place at the non-striker's end.
+4192~1~
+4192~1~END OF OVER:39 | 8 Runs 1 Wkt | NZ: 173/5 | RR: 4.43
+4192~1~Tom Latham
+4192~1~23 (30b)
+4192~1~Liam Plunkett
+4192~1~9-0-40-3
+4192~1~Mark Wood
+4192~1~7-1-30-1
+4192~1~
+4192~1~39.2
+4192~1~2
+4192~1~Wood to de Grandhomme, 2 runs, back of a length outside off, de Grandhomme is off the mark with a chop to the right of third man
+4192~1~
+4192~1~39.3
+4192~1~0
+4192~1~Wood to de Grandhomme, no run, that ball is the definition of 'hard length'. It's pitched outside off, and de Grandhomme swivels into a pull, but it hits the bat jarringly high, and rolls gently to midwicket instead of pinging away to the boundary
+4192~1~
+4192~1~39.4
+4192~1~2
+4192~1~Wood to de Grandhomme, 2 runs, full now, on middle and leg, clipped away with terrific timing to the right of deep square leg, where Bairstow makes a super diving save
+4192~1~
+4192~1~39.5
+4192~1~0
+4192~1~Wood to de Grandhomme, no run, back of a length, nips back in off the seam. Looks to dab into the off side for one, but ends up inside-edging into his thigh pad
+4192~1~
+4192~1~39.6
+4192~1~1
+4192~1~Wood to de Grandhomme, 1 run, fullish, close to off stump, jabbed to the left of extra-cover
+4192~1~
+4192~1~40.1
+4192~1~0
+4192~1~Plunkett to de Grandhomme, no run, back of a length, nips away like a legcutter in the corridor. No footwork from de Grandhomme, pokes at it and the feet follow after the ball has gone past his outside edge
+4192~1~William: "Technically Roy could beat Sachin's record by scoring 248. Or for that matter so could Boult by scoring 600 odd off a whole lot of no balls..."
+4192~1~
+4192~1~Ten overs to go. Can New Zealand score 80-odd off those 60 balls? A fifth fielder can go out on the boundary now. Plunkett continues.
+4192~1~
+4192~1~END OF OVER:40 | 6 Runs | NZ: 179/5 | RR: 4.47
+4192~1~Colin de Grandhomme
+4192~1~5 (5b)
+4192~1~Tom Latham
+4192~1~24 (31b)
+4192~1~Mark Wood
+4192~1~8-1-36-1
+4192~1~Liam Plunkett
+4192~1~9-0-40-3
+4192~1~
+4192~1~40.2
+4192~1~0
+4192~1~Plunkett to de Grandhomme, no run, bouncer over off stump, and de Grandhomme, who had initially shuffled across to get into position to hook, decides in the end to duck
+4192~1~
+4192~1~40.3
+4192~1~1
+4192~1~Plunkett to de Grandhomme, 1 run, slower ball on off stump, clipped towards deep midwicket
+4192~1~
+4192~1~40.4
+4192~1~1
+4192~1~Plunkett to Latham, 1 run, short ball angling away from off stump, pulled to deep midwicket. That's the extra fielder on the boundary - and two successive balls have been hit there, once by the right-hander and once by the left-hander
+4192~1~
+4192~1~40.5
+4192~1~0
+4192~1~Plunkett to de Grandhomme, no run, lovely slower ball, back of a length close to off stump. Again there's no feet from de Grandhomme, pushes at it and misses
+4192~1~
+4192~1~40.6
+4192~1~0
+4192~1~Plunkett to de Grandhomme, no run, ooh, well bowled. Fuller now, another legcutter, pitching on off stump. CdG looks to whip through midwicket, and at the last moment checks himself, and the ball squirts along the ground to short cover off the leading edge. End of a fantastic, and possibly match-defining 10 overs from Plunkett
+4192~1~
+4192~1~41.1
+4192~1~1
+4192~1~Archer to Latham, 1 run, length ball on leg stump, clipped to the left of mid-on
+4192~1~Here's Archer.
+4192~1~
+4192~1~END OF OVER:41 | 2 Runs | NZ: 181/5 | RR: 4.41
+4192~1~Colin de Grandhomme
+4192~1~6 (10b)
+4192~1~Tom Latham
+4192~1~25 (32b)
+4192~1~Liam Plunkett
+4192~1~10-0-42-3
+4192~1~Mark Wood
+4192~1~8-1-36-1
+4192~1~Hus Silverado: "Plunkett playing the role of Faulkner in 2015 WC Final !!!"
+4192~1~
+4192~1~
+4192~1~41.2
+4192~1~0
+4192~1~Archer to de Grandhomme, no run, another legcutter beats the leaden-footed de Grandhomme's outside edge. Back of a length, in the corridor, and he simply pushes at it with his hands
+4192~1~
+4192~1~41.3
+4192~1~1
+4192~1~Archer to de Grandhomme, 1 run, ouch! Follows up with a slippery short ball on off stump. Gets up above the right shoulder, and de Grandhomme top-edges his hook into the top of his helmet, just above the badge, and the ball pops up in the air but safely to the left of backward point. Out comes the physio to check on de Grandhomme
+4192~1~
+4192~1~41.4
+4192~1~1
+4192~1~Archer to Latham, 1 run, full, angling away from off stump, driven to the right of mid-off
+4192~1~CdG seems to be fine.
+4192~1~
+4192~1~
+4192~1~41.5
+4192~1~1
+4192~1~Archer to de Grandhomme, 1 run, full on off stump, driven firmly and straight to mid-off, and they chase the quick single anyway. Makes it safely to the danger end in the end
+4192~1~
+4192~1~41.6
+4192~1~1w
+4192~1~Archer to Latham, 1 wide, slower ball, full, ends up outside leg stump, and Latham swings too early through the attempted flick
+4192~1~
+4192~1~41.6
+4192~1~0
+4192~1~Archer to Latham, no run, bouncer over middle and off, Latham ducks low to evade it
+4192~1~
+4192~1~42.1
+4192~1~1
+4192~1~Wood to de Grandhomme, 1 run, full on the pads, clipped to long leg
+4192~1~Chibi Vijayan: "Archer is hitting at least one batsman in the head every game. what a consistency." -- His short balls are so slippery. They just don't seem to sit in the pitch as long as other bowlers' deliveries do.
+4192~1~
+4192~1~END OF OVER:42 | 5 Runs | NZ: 186/5 | RR: 4.42
+4192~1~Tom Latham
+4192~1~27 (35b)
+4192~1~Colin de Grandhomme
+4192~1~8 (13b)
+4192~1~Jofra Archer
+4192~1~6-0-25-0
+4192~1~Liam Plunkett
+4192~1~10-0-42-3
+4192~1~
+4192~1~42.2
+4192~1~1
+4192~1~Wood to Latham, 1 run, slower length ball on off stump, lets it come and dabs behind point with an open face
+4192~1~
+4192~1~42.3
+4192~1~4lb
+4192~1~Wood to de Grandhomme, 4 leg byes, ooh, that's a difficult bouncer to deal with. Wide of the crease, angling into the stumps, and in the end it only probably gets up to shoulder height, and de Grandhomme ducks awkwardly. Hits his left shoulder and ricochets beyond the reach of the keeper trying to leap up to his left with one glove extended. Evasive action, so it counts as leg byes
+4192~1~Hk: "All the talk about English batting order being the most dangerous, I think their bowlers have been equally brilliant."
+4192~1~
+4192~1~
+4192~1~42.4
+4192~1~2
+4192~1~Wood to de Grandhomme, 2 runs, drifts onto the pads and he clips it away towards long leg. They see it's Rashid fielding it and immediately decide on running two. The throw isn't the strongest, and Buttler has to leave his post by the stumps to collect it on the bounce
+4192~1~
+4192~1~42.5
+4192~1~1
+4192~1~Wood to de Grandhomme, 1 run, slower ball, back of a length outside off, chopped down to third man
+4192~1~
+4192~1~42.6
+4192~1~1
+4192~1~Wood to Latham, 1 run, shuffles across to off stump and Wood slants his short ball wider. Has to fetch the pull from outside off, from shoulder height, and he hits it uppishly, but fortunately for him without too much power, so it doesn't carry anywhere near deep midwicket coming in off the boundary
+4192~1~
+4192~1~43.1
+4192~1~1
+4192~1~Archer to Latham, 1 run, slower ball, fullish and on middle stump, clipped to the left of mid-on
+4192~1~END OF OVER:43 | 10 Runs | NZ: 196/5 | RR: 4.55
+4192~1~Tom Latham
+4192~1~29 (37b)
+4192~1~Colin de Grandhomme
+4192~1~12 (17b)
+4192~1~Mark Wood
+4192~1~9-1-42-1
+4192~1~Jofra Archer
+4192~1~6-0-25-0
+4192~1~
+4192~1~43.2
+4192~1~1lb
+4192~1~Archer to de Grandhomme, 1 leg bye, slower ball, shortish, just outside off. Swings too early into the pull, and the ball hits him on the back and ricochets towards third man. Third blow to his body today?
+4192~1~
+4192~1~43.3
+4192~1~1
+4192~1~Archer to Latham, 1 run, head-high bouncer over off stump. Stays leg-side of it and tennis-smashes it into the midwicket region
+4192~1~
+4192~1~43.4
+4192~1~1w
+4192~1~Archer to de Grandhomme, 1 wide, slower bouncer outside off, and de Grandhomme sways out of the way. Not sure he picked the change of pace. Signalled wide, though, and that brings up New Zealand's 200
+4192~1~
+4192~1~43.4
+4192~1~0
+4192~1~Archer to de Grandhomme, no run, digs it in short outside off, extra bounce imperils the flat-bat slap, and he top-edges it, but the ball doesn't balloon far enough for Stokes, running in from point, to be able to catch it
+4192~1~
+4192~1~43.5
+4192~1~1lb
+4192~1~Archer to de Grandhomme, 1 leg bye, he's hit on the back for the second time this over. Another slower short ball outside off, and again he swings too early on the pull. Runs away to third man for a leg bye
+4192~1~
+4192~1~43.6
+4192~1~1w
+4192~1~Archer to Latham, 1 wide, attempts the yorker this time, ends up bowling it down the leg side, past the attempted flick
+4192~1~
+4192~1~43.6
+4192~1~1w
+4192~1~Archer to Latham, 1 wide, third wide of the over. Bouncer, Latham ducks, but it's the line that's the issue - outside leg - rather than the height
+4192~1~
+4192~1~43.6
+4192~1~1
+4192~1~Archer to Latham, 1 run, back of a length on off stump, gets back and across and tucks it into the square leg region
+4192~1~
+4192~1~44.1
+4192~1~0
+4192~1~Wood to Latham, no run, slower length ball, angling away from off stump. Looks to step across and swipe it away through midwicket, but the angle only allows him to play it to mid-on
+4192~1~Forecaster is currently pegging New Zealand's eventual total at 250.
+4192~1~
+4192~1~Fraser Rew: "12 off the bat and 8 extras for de Grandhomme so far ..."
+4192~1~
+4192~1~END OF OVER:44 | 8 Runs | NZ: 204/5 | RR: 4.63
+4192~1~Tom Latham
+4192~1~32 (40b)
+4192~1~Colin de Grandhomme
+4192~1~12 (20b)
+4192~1~Jofra Archer
+4192~1~7-0-31-0
+4192~1~Mark Wood
+4192~1~9-1-42-1
+4192~1~
+4192~1~44.2
+4192~1~0
+4192~1~Wood to Latham, no run, hits that hard length and slants it away from off stump. Can't drive, can't pull, so he ends up playing an in-between diagonal bat swat, and can't put bat to ball
+4192~1~
+4192~1~44.3
+4192~1~6
+4192~1~Wood to Latham, SIX runs, what a shot. A touch too full this time, on leg stump, and he clears his front leg slightly and whips it up and over wide long-on
+4192~1~
+4192~1~44.4
+4192~1~0
+4192~1~Wood to Latham, no run, another blow to the body. Slower short ball, swivels through the pull too early and is hit on the stomach
+4192~1~
+4192~1~44.5
+4192~1~1
+4192~1~Wood to Latham, 1 run, bouncer, gets over shoulder height and he hooks a little uppishly, but into the gap to the right of fine leg. de Grandhomme wants the second, he's sent back, and a more accurate throw to the keeper might have ended his innings. As it happened, Buttler had to run towards the silly point area to collect, and then he spun around and threw the stumps down, and the batsman was juuuust in
+4192~1~Given how hard the slower bouncer has been to score off, or even connect, I expect Lockie Ferguson and Neesham to bowl a lot of them today
+4192~1~
+4192~1~
+4192~1~44.6
+4192~1~0
+4192~1~Wood to de Grandhomme, no run, bouncer, CdG ducks under it
+4192~1~
+4192~1~45.1
+4192~1~1
+4192~1~Archer to Latham, 1 run, back of a length on off stump, opens up and whips it away to deep midwicket
+4192~1~Archer continues from over the wicket.
+4192~1~
+4192~1~END OF OVER:45 | 7 Runs | NZ: 211/5 | RR: 4.68
+4192~1~Colin de Grandhomme
+4192~1~12 (21b)
+4192~1~Tom Latham
+4192~1~39 (45b)
+4192~1~Mark Wood
+4192~1~10-1-49-1
+4192~1~Jofra Archer
+4192~1~7-0-31-0
+4192~1~
+4192~1~45.2
+4192~1~1
+4192~1~Archer to de Grandhomme, 1 run, low full-toss on the stumps, and de Grandhomme gets his feet out of the way to whip to the left of deep midwicket
+4192~1~
+4192~1~45.3
+4192~1~1
+4192~1~Archer to Latham, 1 run, slower ball, full, on off stump, clipped towards deep midwicket
+4192~1~
+4192~1~45.4
+4192~1~0
+4192~1~Archer to de Grandhomme, no run, shortish, angling into the body. Looks to step across outside off and whip towards fine leg, but all he manages is glove onto thigh pad, and the ball lobs up gently and drops a few feet short of the keeper
+4192~1~
+4192~1~45.5
+4192~1~0
+4192~1~Archer to de Grandhomme, no run, looks to make room this time, can't get any power on this full slower ball on the stumps, jabs it along the ground to mid-on
+4192~1~
+4192~1~45.6
+4192~1~0
+4192~1~Archer to de Grandhomme, no run, slower bouncer over off stump, swivels too early through the pull and misses
+4192~1~
+4192~1~46.1
+4192~1~1
+4192~1~Woakes to Latham, 1 run, full, slanting away from off stump, slower ball, driven to the right of mid-off
+4192~1~Four overs to go. Probably Archer and Woakes to finish? The Forecaster's forecast is 246. Here's Woakes, from over the wicket to Latham.
+4192~1~
+4192~1~END OF OVER:46 | 3 Runs | NZ: 214/5 | RR: 4.65
+4192~1~Colin de Grandhomme
+4192~1~13 (25b)
+4192~1~Tom Latham
+4192~1~41 (47b)
+4192~1~Jofra Archer
+4192~1~8-0-34-0
+4192~1~Mark Wood
+4192~1~10-1-49-1
+4192~1~
+4192~1~46.2
+4192~1~2
+4192~1~Woakes to de Grandhomme, 2 runs, slower ball, back of a length on off stump, gets across to clip to the left of fine leg
+4192~1~
+4192~1~46.3
+4192~1~1
+4192~1~Woakes to de Grandhomme, 1 run, back of a length on off stump, looks to work it wide of mid-on, initially, but adjusts once the ball straightens off the seam. Off the leading edge towards backward point
+4192~1~
+4192~1~46.4
+4192~1~1
+4192~1~Woakes to Latham, 1 run, shuffles across early and Woakes slants a slower length ball wider outside off. Swiped away to deep square leg
+4192~1~
+4192~1~46.5
+4192~1~W
+4192~1~Woakes to de Grandhomme, OUT, another slower ball, on the fuller side of a good length on off stump, and de Grandhomme's struggle ends. Looks to whip it over mid-on, plays too early, and balloons a leading edge to mid-off instead
+4192~1~C de Grandhomme c sub (JM Vince) b Woakes 16 (38m 28b 0x4 0x6) SR: 57.14
+4192~1~
+4192~1~
+4192~1~46.6
+4192~1~1
+4192~1~Woakes to Latham, 1 run, slower length ball on off stump, clipped to deep midwicket
+4192~1~Mitchell Santner is the new batsman.
+4192~1~
+4192~1~
+4192~1~47.1
+4192~1~1
+4192~1~Archer to Latham, 1 run, slower length ball on off stump, clipped away into the backward square leg region. They think of two, but the fielder is off the boundary in a flash to close down the ball
+4192~1~Ashutosh Sahoo: "This World Cup is turning out to be a battle of philosophies in a game format that's in a state of flux with the advent of T20 and facing existential challenges. There are two clear approaches - the classic approach and the hybrid ultra-modern approach.The classic approach, pioneered and practiced to perfection by India and followed by A/NZ, banks on solidity and conservation of resources. The threat of an under-par total is subverted by the odd impact players like Pandya/CDG/Maxwell. The hybrid approach is to stay on overdrive throughout the course of the innings but ameliorate the risks through multidimensional team selection giving inordinate depth to the batting order and by having one anchor player (like J Root or Shai Hope). Pioneered by England ever since their 2015 WC debacle, tried out by WIndies with sporadic success, this approach is an alluring future to the game of cricket but at the cost of the bowlers' graveyard."
+4192~1~
+4192~1~END OF OVER:47 | 6 Runs 1 Wkt | NZ: 220/6 | RR: 4.68
+4192~1~Tom Latham
+4192~1~44 (50b)
+4192~1~Mitchell Santner
+4192~1~0 (0b)
+4192~1~Chris Woakes
+4192~1~8-0-25-2
+4192~1~Jofra Archer
+4192~1~8-0-34-0
+4192~1~
+4192~1~47.2
+4192~1~1
+4192~1~Archer to Santner, 1 run, shortish ball on off stump, gets on his toes to dab towards backward point
+4192~1~
+4192~1~47.3
+4192~1~0
+4192~1~Archer to Latham, no run, bouncer rising fast and steep over leg stump. Latham has no option but to duck
+4192~1~
+4192~1~47.4
+4192~1~1
+4192~1~Archer to Latham, 1 run, slower ball, ends up as a full-toss wide of off stump. Slapped to extra-cover on the 30-yard circle
+4192~1~
+4192~1~47.5
+4192~1~1
+4192~1~Archer to Santner, 1 run, low full-toss outside off, jabbed towards mid-off
+4192~1~
+4192~1~47.6
+4192~1~1
+4192~1~Archer to Latham, 1 run, slower short ball over off stump. Looks to pull, and ends up dragging it to fine leg off the toe end
+4192~1~
+4192~1~48.1
+4192~1~1lb
+4192~1~Woakes to Latham, 1 leg bye, appeal for lbw as Latham looks to shuffle across and whip it leg side. Probably pitched outside leg, I reckon, but England have reviewed. The batsmen sneaked a risky leg bye, and Latham would have been out at the non-striker's end, by a number of feet, had Woakes hit direct, but he missed. Yup, it's pitched well outside leg stump.
+4192~1~END OF OVER:48 | 5 Runs | NZ: 225/6 | RR: 4.68
+4192~1~Tom Latham
+4192~1~47 (54b)
+4192~1~Mitchell Santner
+4192~1~2 (2b)
+4192~1~Jofra Archer
+4192~1~9-0-39-0
+4192~1~Chris Woakes
+4192~1~8-0-25-2
+4192~1~
+4192~1~48.2
+4192~1~1
+4192~1~Woakes to Santner, 1 run, slower length ball close to off stump, slanting away, swatted away to deep midwicket
+4192~1~
+4192~1~48.3
+4192~1~5w
+4192~1~Woakes to Latham, 5 wides, slower bouncer wide of leg stump, and it's run away for five wides. Latham had no option but to leave it, and the ball bounced a second time before reaching Buttler, who'd sidestepped to his right to get behind the ball, only for it to beat him with turn
+4192~1~
+4192~1~48.3
+4192~1~W
+4192~1~Woakes to Latham, OUT, gone, a third wicket for Woakes. England haven't allowed the lofted hits over mid-on/mid-off/extra-cover, and this slower ball, which ends up as a low full-toss outside off stump, is also a hard one to put away. Hits low on the bat as Latham looks to go over mid-off, but he only succeeds in spooning it to the fielder. He goes for 47 - a scrappy innings, which could prove valuable for New Zealand if this pitch remains two-paced
+4192~1~TWM Latham c sub (JM Vince) b Woakes 47 (104m 56b 2x4 1x6) SR: 83.92
+4192~1~
+4192~1~
+4192~1~48.4
+4192~1~1nb
+4192~1~Woakes to Santner, 1 no ball, whoops, high full-toss, and Woakes will get a warning for this. Slanting across the left-hander, ends up hitting Santner's left shoulder as he aims to swat it away into the leg side
+4192~1~
+4192~1~48.4
+4192~1~0
+4192~1~Woakes to Santner, no run, another slower ball, full and angling away from off stump. Santner swings early, looking to slog over midwicket, and misses
+4192~1~Free-hit.
+4192~1~
+4192~1~
+4192~1~48.5
+4192~1~1
+4192~1~Woakes to Santner, 1 run, full, close to off stump, driven along the ground to mid-off and they chance the quick single. A direct hit from Wood could have had Santner in trouble at the non-striker's end
+4192~1~
+4192~1~48.6
+4192~1~4
+4192~1~Woakes to Henry, FOUR runs, boom! A rare ball in the slot, angling into off stump, and he clears his front leg and wallops it over midwicket, one bounce and over the rope. Most of England's other 'full' balls have been off-pace, and/or too full to get underneath
+4192~1~Matt Henry's on strike now, for the first time.
+4192~1~
+4192~1~
+4192~1~49.1
+4192~1~0
+4192~1~Archer to Santner, no run, slower bouncer over leg stump. Shuffles across and looks to hoick it towards fine leg, misses
+4192~1~END OF OVER:49 | 13 Runs 1 Wkt | NZ: 238/7 | RR: 4.85
+4192~1~Matt Henry
+4192~1~4 (1b)
+4192~1~Mitchell Santner
+4192~1~4 (6b)
+4192~1~Chris Woakes
+4192~1~9-0-37-3
+4192~1~Jofra Archer
+4192~1~9-0-39-0
+4192~1~
+4192~1~49.2
+4192~1~1
+4192~1~Archer to Santner, 1 run, in the blockhole on off stump, makes room and stabs to extra-cover. Another risky single - they have to take all of them - and another failure to hit the stumps. Santner has to slide home, and he may have hurt himself in the process. Seemed a little worse for the wear initially, but he looks okay
+4192~1~
+4192~1~49.3
+4192~1~1w
+4192~1~Archer to Henry, 1 wide, slower bouncer, and Henry misses the attempted tennis-swat over square leg. Wided for height
+4192~1~
+4192~1~49.3
+4192~1~W
+4192~1~Archer to Henry, OUT, top of off. Well, usually fast bowlers look to hit top of off on the bounce, and Archer's simply hit it on the full. Looks to clear his front leg and slog it away, but can't put bat to ball
+4192~1~MJ Henry b Archer 4 (7m 2b 1x4 0x6) SR: 200.00
+4192~1~
+4192~1~
+4192~1~49.4
+4192~1~0
+4192~1~Archer to Boult, no run, slower yorker, angling into middle and leg. Looks to make room, can't find any, stabs it back to the bowler
+4192~1~Speaking of 1992 comparisons, can New Zealand get to Pakistan's total of 249?
+4192~1~
+4192~1~
+4192~1~49.5
+4192~1~1
+4192~1~Archer to Boult, 1 run, looks to make room again and Archer follows him with a blockhole ball. Jabbed to mid-off
+4192~1~
+4192~1~49.6
+4192~1~0
+4192~1~Archer to Santner, no run, ha. Kind of sums up the latter half of New Zealand's innings, this ball. Santner ducks under a slower bouncer over leg stump. Then he thinks of stealing a bye and decides against it. Archer is just so deceptive, you can't blame Santner for it
+4192~1~
+4192~2~##########
+4192~2~
+4192~2~0.1
+4192~2~0
+4192~2~Boult to Roy, no run, gone first ball? No? Marais Erasmus doesn't think it's out, but that looked pretty close, and New Zealand have reviewed... It's the trademark Boult inswinger from left-arm over, past Roy's attempt at a straight-bat drive to mid-on. No inside edge... Pitching on around middle stump, and it's umpire's call on leg stump! Roy survives. Just. What saved him, I think, was that he was 
+4192~2~
+4192~2~0.2
+4192~2~1
+4192~2~Boult to Roy, 1 run, full again, more off-stumpish this time. Pushes at it with firm hands and it runs down to third man off the outside half of the bat
+4192~2~
+4192~2~0.3
+4192~2~0
+4192~2~Boult to Bairstow, no run, fullish, fourth-stump channel, straightens slightly. Left alone
+4192~2~
+4192~2~0.4
+4192~2~0
+4192~2~Boult to Bairstow, no run, back of a length, holds its line outside off, defended off the back foot
+4192~2~
+4192~2~0.5
+4192~2~0
+4192~2~Boult to Bairstow, no run, looks to flick, ball swings past his inside edge and hits his pad, but this one's clearly missing leg stump
+4192~2~
+4192~2~0.6
+4192~2~0
+4192~2~Boult to Bairstow, no run, ooh, this one swings in from about middle and off and was probably headed for leg stump. Bairstow plays a hurried flick and the ball squirts off the inside half of his bat to that short square leg fielder
+4192~2~
+4192~2~1.1
+4192~2~0
+4192~2~Henry to Roy, no run, nice and full, slanting in on middle, flapped in the air...but does not carry to short midwicket
+4192~2~Here's Matt Henry from over the stumps with two slips and a catching midwicket
+4192~2~
+4192~2~END OF OVER:1 | 1 Run | ENG: 1/0 (241 runs required from 294 balls, RR: 1.00, RRR: 4.91)
+4192~2~Jonny Bairstow
+4192~2~0 (4b)
+4192~2~Jason Roy
+4192~2~1 (2b)
+4192~2~Trent Boult
+4192~2~1-0-1-0
+4192~2~
+4192~2~1.2
+4192~2~0
+4192~2~Henry to Roy, no run, Henry chops Roy into half! Good length, angling in, swinging back in up the slope, beats the inside edge and the off stump
+4192~2~
+4192~2~1.3
+4192~2~0
+4192~2~Henry to Roy, no run, whoa, another cracker! On a length, comes in with the angle from over the wicket. Henry tricks Roy into playing for the angle, but it snakes away like a fast legcutter. Opens up Roy and beats the outside edge this time
+4192~2~
+4192~2~1.4
+4192~2~0
+4192~2~Henry to Roy, no run, Roy dashes down the track, Henry pulls his length back. Quietly bunted to mid-on
+4192~2~
+4192~2~1.5
+4192~2~0
+4192~2~Henry to Roy, no run, shorter and just a shade outside off, forced to mid-off
+4192~2~
+4192~2~1.6
+4192~2~4
+4192~2~Henry to Roy, FOUR runs, a bit too full on middle, Roy leans into this overpitched ball and drives with the full face of the bat, nutmegging YJB. Caressed straight of mid-on. Well, that was an eventful over
+4192~2~
+4192~2~2.1
+4192~2~1w
+4192~2~Boult to Bairstow, 1 wide, fuller than a good length, angling away outside off, moving past the tramline, off-side wide from Boult
+4192~2~END OF OVER:2 | 4 Runs | ENG: 5/0 (237 runs required from 288 balls, RR: 2.50, RRR: 4.93)
+4192~2~Jason Roy
+4192~2~5 (8b)
+4192~2~Jonny Bairstow
+4192~2~0 (4b)
+4192~2~Matt Henry
+4192~2~1-0-4-0
+4192~2~Trent Boult
+4192~2~1-0-1-0
+4192~2~
+4192~2~2.1
+4192~2~0
+4192~2~Boult to Bairstow, no run, Boult lets rip a full inswinger, YJB plays around his front pad and flicks to short midwicket
+4192~2~
+4192~2~2.2
+4192~2~0
+4192~2~Boult to Bairstow, no run, shorter and swings back in, Boult catches YJB in a tangle. Pings the back thigh and wanders away to cover
+4192~2~
+4192~2~2.3
+4192~2~1
+4192~2~Boult to Bairstow, 1 run, pitched up and angling across off, Boult encourages YJB to drive. He doesn't move his feet and drags an inside edge past leg stump
+4192~2~
+4192~2~2.4
+4192~2~0
+4192~2~Boult to Roy, no run, Whoa, pitches around leg stump and hoops back in sharply. Near-yorker length, Roy is in a tangle, nutmegs him and fizzes through to the keeper. Was there a woody sound there? No that didn't hit the furniture
+4192~2~
+4192~2~2.5
+4192~2~4
+4192~2~Boult to Roy, FOUR runs, Roy gives himself some swinging room, Boult goes shorter and outside off. Roy stays leg-side of the ball and clatters it away between covers and point. That's some riposte
+4192~2~
+4192~2~2.6
+4192~2~1
+4192~2~Boult to Roy, 1 run, back of a length and on the stumps, Roy stands tall and punches the ball straight of mid-off
+4192~2~Dhaivat: "This is the biggest test for England openers! Good conditions for swing bowling and two class bowlers against them. Let's see if they can manage 20 runs here!"
+4192~2~
+4192~2~
+4192~2~3.1
+4192~2~0
+4192~2~Henry to Roy, no run, good length and angling in from over the wicket, but does not threaten off stump. Left alone in the channel
+4192~2~END OF OVER:3 | 7 Runs | ENG: 12/0 (230 runs required from 282 balls, RR: 4.00, RRR: 4.89)
+4192~2~Jason Roy
+4192~2~10 (11b)
+4192~2~Jonny Bairstow
+4192~2~1 (7b)
+4192~2~Trent Boult
+4192~2~2-0-8-0
+4192~2~Matt Henry
+4192~2~1-0-4-0
+4192~2~
+4192~2~3.2
+4192~2~0
+4192~2~Henry to Roy, no run, fuller, angling in towards off, then straightens away late. That's how he got Rohit in the semi-final. That's how he has got a lot of wickets this World Cup. This does too much to scratch the outside edge
+4192~2~
+4192~2~3.3
+4192~2~1
+4192~2~Henry to Roy, 1 run, full on the pads, picked away through square leg
+4192~2~
+4192~2~3.4
+4192~2~1
+4192~2~Henry to Bairstow, 1 run, good length, angling in, straightens around off, Bairstow pokes off the outside edge behind point
+4192~2~Rishabh: "If England openers go unscathed for another 5 overs, it's game over for NZ. "
+4192~2~
+4192~2~
+4192~2~!!"
+4192~2~
+4192~2~
+4192~2~
+4192~2~3.5
+4192~2~0
+4192~2~Henry to Roy, no run, shorter and angling into a leg-side clip to short midwicket
+4192~2~Hemant : "This is bowling of the HIGEST CLASS...Kiwis really unlucky...but a wicket will change equations. Breathtaking STUFF...
+4192~2~3.6
+4192~2~2
+4192~2~Henry to Roy, 2 runs, length ball on middle, Roy races down the track, aims to biff it over mid-on. He just about skies it over the fielder running back
+4192~2~
+4192~2~4.1
+4192~2~0
+4192~2~Boult to Bairstow, no run, pitched up and swinging into middle, clipped away to midwicket
+4192~2~For those in the US, you can watch the chase LIVE on Hotstar right here
+4192~2~
+4192~2~END OF OVER:4 | 4 Runs | ENG: 16/0 (226 runs required from 276 balls, RR: 4.00, RRR: 4.91)
+4192~2~Jason Roy
+4192~2~13 (16b)
+4192~2~Jonny Bairstow
+4192~2~2 (8b)
+4192~2~Matt Henry
+4192~2~2-0-8-0
+4192~2~Trent Boult
+4192~2~2-0-8-0
+4192~2~
+4192~2~4.2
+4192~2~0
+4192~2~Boult to Bairstow, no run, back of a length, hoops back in on middle, thumps the back thigh and rolls to the slip cordon
+4192~2~
+4192~2~4.3
+4192~2~4
+4192~2~Boult to Bairstow, FOUR runs, on a length and outside off, Bairstow senses a scoring opportunity. He drags himself forward and drives on the up between point and the covers. Pinged off the middle of the bat
+4192~2~
+4192~2~4.4
+4192~2~0
+4192~2~Boult to Bairstow, no run, Boult responds with a well-directed bouncer on leg stump, forces the batsman to duck under it
+4192~2~Arif: "SL lost consecutive WC final to AUS(2007) & IND (2011). NZ lost to AUS in last WC final. Are we going to see another successive CWC Runner up team?"
+4192~2~
+4192~2~
+4192~2~4.5
+4192~2~4
+4192~2~Boult to Bairstow, FOUR runs, swinging full-toss outside off, Bairstow latches onto this loose ball and creams it between covers and mid-off this time
+4192~2~
+4192~2~4.6
+4192~2~0
+4192~2~Boult to Bairstow, no run, shortish and around off stump, Bairstow carefully defends back to Boult to close out the over
+4192~2~
+4192~2~5.1
+4192~2~0
+4192~2~Henry to Roy, no run, on a length and angling in on a fourth-stump line, punched on the up to mid-off
+4192~2~END OF OVER:5 | 8 Runs | ENG: 24/0 (218 runs required from 270 balls, RR: 4.80, RRR: 4.84)
+4192~2~Jonny Bairstow
+4192~2~10 (14b)
+4192~2~Jason Roy
+4192~2~13 (16b)
+4192~2~Trent Boult
+4192~2~3-0-16-0
+4192~2~Matt Henry
+4192~2~2-0-8-0
+4192~2~James : "About to get on a 5 hour flight don't know if it's a curse or a hidden blessing! I am Sooooo nervous!!!! Hoping to turn my phone on the other side with a England win."
+4192~2~
+4192~2~
+4192~2~5.2
+4192~2~4
+4192~2~Henry to Roy, FOUR runs, regally punched on the up once again, this time Roy pierces the gap between covers and mid-off. He rocks forward and cracks it away
+4192~2~
+4192~2~5.3
+4192~2~0
+4192~2~Henry to Roy, no run, much fuller from Henry, angling in towards off and then nibbling away late to beat the outside edge. Roy gets away with the drive
+4192~2~
+4192~2~5.4
+4192~2~W
+4192~2~Henry to Roy, OUT, this is trademark Henry! New Zealand finally have their man. Nice and full, angling in towards off stump, this is what Henry does with the new ball. He makes you play. And this ball straightens away late. Roy feels for the moving ball and nicks it off. Not too dissimilar to how Rohit was dismissed in the semi-final. Nice catch from Latham - bending forward to grab a low chance
+4192~2~JJ Roy c Latham(wk) b Henry 17 (24m 20b 3x4 0x6) SR: 85.00
+4192~2~
+4192~2~
+4192~2~5.5
+4192~2~0
+4192~2~Henry to Root, no run, good length and slanting in at off, Root pats it to point
+4192~2~Roooooooooooot at one drop
+4192~2~
+4192~2~
+4192~2~5.6
+4192~2~0
+4192~2~Henry to Root, no run, much fuller and sliding in at off stump, Root covers up in defence and keeps it out
+4192~2~
+4192~2~6.1
+4192~2~0
+4192~2~Boult to Bairstow, no run, pitched up and angling across off, driven fluently off the front foot to mid-off
+4192~2~END OF OVER:6 | 4 Runs 1 Wkt | ENG: 28/1 (214 runs required from 264 balls, RR: 4.66, RRR: 4.86)
+4192~2~Joe Root
+4192~2~0 (2b)
+4192~2~Jonny Bairstow
+4192~2~10 (14b)
+4192~2~Matt Henry
+4192~2~3-0-12-1
+4192~2~Trent Boult
+4192~2~3-0-16-0
+4192~2~
+4192~2~6.2
+4192~2~0
+4192~2~Boult to Bairstow, no run, shorter and swinging back into the hips, deflected away to short square leg
+4192~2~
+4192~2~6.3
+4192~2~1w
+4192~2~Boult to Bairstow, 1 wide, another inswinger but Boult sends it down the leg side
+4192~2~
+4192~2~6.3
+4192~2~4
+4192~2~Boult to Bairstow, FOUR runs, good length and swings back in at middle, Bairstow sizes it up and drives it straight of Ferguson at mid-on. Nicely done by Bairstow
+4192~2~
+4192~2~6.4
+4192~2~0
+4192~2~Boult to Bairstow, no run, back of a length and angling across off, Bairstow stretches out and glides it away towards point
+4192~2~
+4192~2~6.5
+4192~2~0
+4192~2~Boult to Bairstow, no run, back of a length and slanting away outside off, too wide to draw a stroke from the batsman
+4192~2~
+4192~2~6.6
+4192~2~0
+4192~2~Boult to Bairstow, no run, fuller and closer to off, but not close enough to make Bairstow play
+4192~2~
+4192~2~7.1
+4192~2~0
+4192~2~Henry to Root, no run, full and wobbles away against the angle, Root lets it go outside off
+4192~2~END OF OVER:7 | 5 Runs | ENG: 33/1 (209 runs required from 258 balls, RR: 4.71, RRR: 4.86)
+4192~2~Jonny Bairstow
+4192~2~14 (20b)
+4192~2~Joe Root
+4192~2~0 (2b)
+4192~2~Trent Boult
+4192~2~4-0-21-0
+4192~2~Matt Henry
+4192~2~3-0-12-1
+4192~2~
+4192~2~7.2
+4192~2~0
+4192~2~Henry to Root, no run, good length and angling in at off stump, Root gets right behind the line and blocks back to the bowler
+4192~2~
+4192~2~7.3
+4192~2~0
+4192~2~Henry to Root, no run, full and homing in at off stump again, Root is right forward to deal with it
+4192~2~
+4192~2~7.4
+4192~2~1
+4192~2~Henry to Root, 1 run, Root walks down the pitch and forces a a single between mid-off and the covers. He finds some breathing space at the other end
+4192~2~
+4192~2~7.5
+4192~2~0
+4192~2~Henry to Bairstow, no run, perfectly-pitched ball, angling in from off, seams away from Bairstow's bat. He drives, but how did that miss the edge?
+4192~2~
+4192~2~7.6
+4192~2~0
+4192~2~Henry to Bairstow, no run, good length and nibbles away just outside off, Bairstow does not bite this time
+4192~2~
+4192~2~8.1
+4192~2~1
+4192~2~Boult to Root, 1 run, pitched up and angling away outside off, driven to the right of short cover and left of mid-off
+4192~2~END OF OVER:8 | 1 Run | ENG: 34/1 (208 runs required from 252 balls, RR: 4.25, RRR: 4.95)
+4192~2~Jonny Bairstow
+4192~2~14 (22b)
+4192~2~Joe Root
+4192~2~1 (6b)
+4192~2~Matt Henry
+4192~2~4-0-13-1
+4192~2~Trent Boult
+4192~2~4-0-21-0
+4192~2~
+4192~2~8.2
+4192~2~0
+4192~2~Boult to Bairstow, no run, shorter and zipping away into Latham's gloves, left alone in the channel
+4192~2~nikhil mehta: "England handled the new ball better than Indian batsmen. Still need to be careful for another 5 overs. "
+4192~2~
+4192~2~
+4192~2~8.3
+4192~2~0
+4192~2~Boult to Bairstow, no run, shortish and angling away just a shade outside off, fended off in front of short cover
+4192~2~Dr. Haroon : "How can Williamson manage to absorb so much pressure??? It should be a criminal offence to remain so calm in such pressure "
+4192~2~
+4192~2~
+4192~2~8.4
+4192~2~0
+4192~2~Boult to Bairstow, no run, fuller and angling across off, Bairstow shovels it with the bottom wrist but gets it only as far as Boult
+4192~2~
+4192~2~8.5
+4192~2~4
+4192~2~Boult to Bairstow, FOUR runs, hip-high short ball on off stump, Bairstow stays deep in the crease and hauls a pull to the right of the square-leg umpire
+4192~2~
+4192~2~Nikhil, Eng have just been very lucky. If that Roy decision had gone the other way (it looked plumb in real time), they would've been at least 3 down by now. "
+4192~2~
+4192~2~
+4192~2~8.6
+4192~2~0
+4192~2~Boult to Bairstow, no run, shorter, angling away, swinging after passing the batsman, who had let it go
+4192~2~Raghav: "
+4192~2~9.1
+4192~2~0
+4192~2~Henry to Root, no run, good length and angling in at middle, Root taps it defensively to mid-on
+4192~2~END OF OVER:9 | 5 Runs | ENG: 39/1 (203 runs required from 246 balls, RR: 4.33, RRR: 4.95)
+4192~2~Jonny Bairstow
+4192~2~18 (27b)
+4192~2~Joe Root
+4192~2~2 (7b)
+4192~2~Trent Boult
+4192~2~5-0-26-0
+4192~2~Matt Henry
+4192~2~4-0-13-1
+4192~2~
+4192~2~9.2
+4192~2~0
+4192~2~Henry to Root, no run, Root gets on top of a short ball outside off and punches crisply to cover
+4192~2~
+4192~2~9.3
+4192~2~0
+4192~2~Henry to Root, no run, good length, nibbling in at off and then swings away outside off. Root does well not to chase the moving ball. He plays inside the line and allows himself to get beaten
+4192~2~
+4192~2~9.4
+4192~2~0
+4192~2~Henry to Root, no run, full and slanting down the leg side off, grazes the pad and Latham dives behind the stumps to collect the ball
+4192~2~
+4192~2~9.5
+4192~2~0
+4192~2~Henry to Root, no run, short and darts back in at top of off, stabbed back off the back foot to Henry
+4192~2~
+4192~2~9.6
+4192~2~0
+4192~2~Henry to Root, no run, full, swings in at middle to mess with Root's leg-side flick. Chipped in the air to square leg
+4192~2~
+4192~2~10.1
+4192~2~0
+4192~2~de Grandhomme to Bairstow, no run, good length and wobbles away at 120ks, left alone outside off
+4192~2~First change: Colin de Grandhomme. Right-arm over
+4192~2~
+4192~2~END OF OVER:10 | (maiden) | ENG: 39/1 (203 runs required from 240 balls, RR: 3.90, RRR: 5.07)
+4192~2~Joe Root
+4192~2~2 (13b)
+4192~2~Jonny Bairstow
+4192~2~18 (27b)
+4192~2~Matt Henry
+4192~2~5-1-13-1
+4192~2~Trent Boult
+4192~2~5-0-26-0
+4192~2~
+4192~2~10.2
+4192~2~0
+4192~2~de Grandhomme to Bairstow, no run, good length and just a shade outside off, YJB is too early into a drive and spoons it in the air... but it does not carry to Williamson at mid-off
+4192~2~
+4192~2~10.3
+4192~2~0
+4192~2~de Grandhomme to Bairstow, no run, good length and nibbles away outside off, no shot this time
+4192~2~
+4192~2~10.4
+4192~2~0
+4192~2~de Grandhomme to Bairstow, no run, on a length and on a fifth-stump line outside off, run away towards point
+4192~2~Wonder why Latham is standing back and there's no slip
+4192~2~
+4192~2~
+4192~2~10.5
+4192~2~0
+4192~2~de Grandhomme to Bairstow, no run, back of a length and angling into a defensive little push to mid-on
+4192~2~
+4192~2~10.6
+4192~2~0
+4192~2~de Grandhomme to Bairstow, no run, What have you done, de Grandhomme? He has shelled a fairly straightforward return catch. Neesham has his hands on his head. Pitched up at off stump, Bairstow is early into it and chips a drive. The bowler can't close his hands around it. Pops in, hits the mid-riff, and pops out. What a moment in the game
+4192~2~
+4192~2~11.1
+4192~2~0
+4192~2~Henry to Root, no run, shorter and outside off, run away to point
+4192~2~END OF OVER:11 | (maiden) | ENG: 39/1 (203 runs required from 234 balls, RR: 3.54, RRR: 5.20)
+4192~2~Jonny Bairstow
+4192~2~18 (33b)
+4192~2~Joe Root
+4192~2~2 (13b)
+4192~2~Colin de Grandhomme
+4192~2~1-1-0-0
+4192~2~Matt Henry
+4192~2~5-1-13-1
+4192~2~
+4192~2~11.2
+4192~2~0
+4192~2~Henry to Root, no run, back of a length and outside off, punched through the line to mid-off
+4192~2~
+4192~2~11.3
+4192~2~0
+4192~2~Henry to Root, no run, on a length and angling in at off, Root hangs back and defends
+4192~2~Asif Masood: "Has CDG dropped the World Cup? I think he has... "
+4192~2~
+4192~2~
+4192~2~11.4
+4192~2~0
+4192~2~Henry to Root, no run, on a length and outside off, Root stretches out and drives off the inside half to mid-on
+4192~2~
+4192~2~11.5
+4192~2~0
+4192~2~Henry to Root, no run, back of a length and curves in from over the wicket, Root chops at it but the ball sneaks under his bat
+4192~2~
+4192~2~11.6
+4192~2~0
+4192~2~Henry to Root, no run, yorker, tails in at leg stump from over the wicket, Root is opened up as he scoops a leading edge to cover. That's three maidens in a row.
+4192~2~
+4192~2~12.1
+4192~2~1
+4192~2~de Grandhomme to Bairstow, 1 run, YJB breaks the sequence of dots by tucking this length ball on middle into the midwicket region
+4192~2~END OF OVER:12 | (maiden) | ENG: 39/1 (203 runs required from 228 balls, RR: 3.25, RRR: 5.34)
+4192~2~Joe Root
+4192~2~2 (19b)
+4192~2~Jonny Bairstow
+4192~2~18 (33b)
+4192~2~Matt Henry
+4192~2~6-2-13-1
+4192~2~Colin de Grandhomme
+4192~2~1-1-0-0
+4192~2~
+4192~2~12.2
+4192~2~0
+4192~2~de Grandhomme to Root, no run, looks like an offcutter outside off, really full, jammed to mid-off
+4192~2~
+4192~2~12.3
+4192~2~0
+4192~2~de Grandhomme to Root, no run, full and wobbles in at off, driven back to the bowler. De Grandhomme throws himself to his right to stop the ball
+4192~2~
+4192~2~12.4
+4192~2~1
+4192~2~de Grandhomme to Root, 1 run, Root walks down the track and works this with the angle through midwicket. Latham needs to be whisked in to stop the batsmen from leaving the crease
+4192~2~
+4192~2~12.5
+4192~2~0
+4192~2~de Grandhomme to Bairstow, no run, back of a length and angling into off, Bairstow shuffles across off and works to short midwicket
+4192~2~
+4192~2~12.6
+4192~2~1
+4192~2~de Grandhomme to Bairstow, 1 run, short and angling in at middle, stands tall and punches a single down to long-on
+4192~2~ABINASH DAS: "The pressure of dot bowling is really on England's batsmen now. Their top order would like to break free by taking their chances against the bowlers to release the pressure and that will be the best opportunity for NewZealand to chip away with the wickets."
+4192~2~
+4192~2~
+4192~2~13.1
+4192~2~0
+4192~2~Henry to Bairstow, no run, full and slanting in on middle, forward and driven to mid-on
+4192~2~Henry into his seventh over
+4192~2~
+4192~2~END OF OVER:13 | 3 Runs | ENG: 42/1 (200 runs required from 222 balls, RR: 3.23, RRR: 5.40)
+4192~2~Jonny Bairstow
+4192~2~20 (36b)
+4192~2~Joe Root
+4192~2~3 (22b)
+4192~2~Colin de Grandhomme
+4192~2~2-1-3-0
+4192~2~Matt Henry
+4192~2~6-2-13-1
+4192~2~
+4192~2~13.2
+4192~2~0
+4192~2~Henry to Bairstow, no run, on a length and outside off, YJB yanks his bottom hand off the bat and splices to mid-off
+4192~2~
+4192~2~13.3
+4192~2~0
+4192~2~Henry to Bairstow, no run, good length, angling in towards off and bends away in the channel. YJB shows restraint in shouldering arms
+4192~2~Asif Masood: "Watching Matt Henry's swinging deliveries is a treat to watch. He is bowling a gem of a spell in Lord's. Proper CWC final spell I reckon. "
+4192~2~
+4192~2~
+4192~2~13.4
+4192~2~4
+4192~2~Henry to Bairstow, FOUR runs, overpitched on middle, too straight, Henry searches for the big inswinger. Bairstow loads up and flicks it powerfully through midwicket
+4192~2~
+4192~2~13.5
+4192~2~4
+4192~2~Henry to Bairstow, FOUR runs, just short of a good length and outside off, YJB throws his bat at the ball and inside-edges it past leg stump and into the fine-leg boundary. Fifty up for England
+4192~2~
+4192~2~13.6
+4192~2~1
+4192~2~Henry to Bairstow, 1 run, back of a length and angling into a gentle push to the right of short midwicket
+4192~2~
+4192~2~14.1
+4192~2~0
+4192~2~de Grandhomme to Bairstow, no run, back of a length and just a shade outside off, jabbed back to the bowler
+4192~2~WATCH - De Grandhomme drops return catch to reprieve Bairstow (Australia, UK and SEA only)
+4192~2~
+4192~2~END OF OVER:14 | 9 Runs | ENG: 51/1 (191 runs required from 216 balls, RR: 3.64, RRR: 5.30)
+4192~2~Jonny Bairstow
+4192~2~29 (42b)
+4192~2~Joe Root
+4192~2~3 (22b)
+4192~2~Matt Henry
+4192~2~7-2-22-1
+4192~2~Colin de Grandhomme
+4192~2~2-1-3-0
+4192~2~
+4192~2~14.2
+4192~2~1
+4192~2~de Grandhomme to Bairstow, 1 run, back of a length and angling into a smooth push down to Boult at long-on
+4192~2~
+4192~2~14.3
+4192~2~2
+4192~2~de Grandhomme to Root, 2 runs, full and outside off, Root stretches out for a drive and caresses it away to the left of short cover. Sweeper cleans it up in the outfield
+4192~2~
+4192~2~14.4
+4192~2~1
+4192~2~de Grandhomme to Root, 1 run, short and just a shade outside off, Root glides it behind Neesham at point
+4192~2~
+4192~2~14.5
+4192~2~1
+4192~2~de Grandhomme to Bairstow, 1 run, full and swings back in on middle, flicked in the air... but does not carry to Taylor at short midwicket
+4192~2~
+4192~2~14.6
+4192~2~0
+4192~2~de Grandhomme to Root, no run, back of a length and wide outside off, Root slashes and edges it behind to Latham
+4192~2~Shernawaz: "Grandhomme is bowling very well and conditions are perfect for him today." --- Yeah, but he dropped that catch off his own bowling. How costly will that turn out to be?
+4192~2~
+4192~2~
+4192~2~15.1
+4192~2~0
+4192~2~Ferguson to Bairstow, no run, banged in short and slanting in from outside off, Bairstow flashes...and misses
+4192~2~Lockie Ferguson. Over the wicket
+4192~2~
+4192~2~END OF OVER:15 | 5 Runs | ENG: 56/1 (186 runs required from 210 balls, RR: 3.73, RRR: 5.31)
+4192~2~Joe Root
+4192~2~6 (25b)
+4192~2~Jonny Bairstow
+4192~2~31 (45b)
+4192~2~Colin de Grandhomme
+4192~2~3-1-8-0
+4192~2~Matt Henry
+4192~2~7-2-22-1
+4192~2~
+4192~2~15.2
+4192~2~1w
+4192~2~Ferguson to Bairstow, 1 wide, lifter angling down the leg side as YJB ducks under it. Wide called
+4192~2~Can Ferguson do a Plunkett in the middle overs?
+4192~2~
+4192~2~
+4192~2~15.2
+4192~2~0
+4192~2~Ferguson to Bairstow, no run, splice-jarring length, the line is outside off, stabbed to cover
+4192~2~Nitish R: "I have a feeling that NZ's fifth and sixth bowlers (Neesham/Santner) will hold the key to NZ winning this match If Santner creates more dot ball pressure, then we are in for a thriller.!!"
+4192~2~
+4192~2~
+4192~2~15.3
+4192~2~0
+4192~2~Ferguson to Bairstow, no run, short and outside off, punched to the covers
+4192~2~
+4192~2~15.4
+4192~2~1
+4192~2~Ferguson to Bairstow, 1 run, overpitched and outside off, YJB laces it away but Williamson throws himself to his left at extra-cover to intercept the ball
+4192~2~
+4192~2~15.5
+4192~2~0
+4192~2~Ferguson to Root, no run, chest-high short ball on middle, Root pulls along the ground to Guptill at leg-gully
+4192~2~
+4192~2~15.6
+4192~2~1
+4192~2~Ferguson to Root, 1 run, Root jumps on top of a short ball outside off and slices it away to deep third man
+4192~2~
+4192~2~16.1
+4192~2~0
+4192~2~de Grandhomme to Root, no run, full and wobbling in at middle, Root is caught playing around his front pad and falls over the flick. This seems to be heading down the leg side
+4192~2~END OF OVER:16 | 3 Runs | ENG: 59/1 (183 runs required from 204 balls, RR: 3.68, RRR: 5.38)
+4192~2~Joe Root
+4192~2~7 (27b)
+4192~2~Jonny Bairstow
+4192~2~32 (49b)
+4192~2~Lockie Ferguson
+4192~2~1-0-3-0
+4192~2~Colin de Grandhomme
+4192~2~3-1-8-0
+4192~2~
+4192~2~16.2
+4192~2~0
+4192~2~de Grandhomme to Root, no run, Root loses his patience. He runs down the track, has a wild leg-side mow, and just collects thin air
+4192~2~
+4192~2~16.3
+4192~2~W
+4192~2~de Grandhomme to Root, OUT, Root searches for the release and instead edges de Grandhomme behind. Routine catch behind the stumps for Latham. Good length and swings away wide outside off, Root chases a drive, plays a long way away from the body and tickles it to the keeper. Credit to Henry too - he gave up just one run off 18 balls to Root
+4192~2~JE Root c Latham(wk) b de Grandhomme 7 (40m 30b 0x4 0x6) SR: 23.33
+4192~2~
+4192~2~
+4192~2~16.4
+4192~2~1
+4192~2~de Grandhomme to Morgan, 1 run, length ball slanting across to off stump. Waits on it and dabs to third man to get off the mark
+4192~2~Thanks, Deiva. What a time to jump into commentary. What a crackling contest we have here! Here's Eoin Morgan.
+4192~2~
+4192~2~The drink will taste sweeter for de Grandhomme and NZ. Time to hand over the controls to KK
+4192~2~
+4192~2~
+4192~2~16.5
+4192~2~0
+4192~2~de Grandhomme to Bairstow, no run, length ball, a bit of inward nip towards off stump. Good stride forward to defend
+4192~2~
+4192~2~16.6
+4192~2~0
+4192~2~de Grandhomme to Bairstow, no run, another good length ball on off stump, and Bairstow blocks it back down the pitch, towards the non-striker
+4192~2~
+4192~2~17.1
+4192~2~0
+4192~2~Ferguson to Morgan, no run, back of a length, angling across to off stump, stabbed towards backward point with an open face
+4192~2~END OF OVER:17 | 1 Run 1 Wkt | ENG: 60/2 (182 runs required from 198 balls, RR: 3.52, RRR: 5.51)
+4192~2~Jonny Bairstow
+4192~2~32 (51b)
+4192~2~Eoin Morgan
+4192~2~1 (1b)
+4192~2~Colin de Grandhomme
+4192~2~4-1-9-1
+4192~2~Lockie Ferguson
+4192~2~1-0-3-0
+4192~2~
+4192~2~17.2
+4192~2~2
+4192~2~Ferguson to Morgan, 2 runs, length ball on middle stump, stays leg-side of the ball and steers it past the diving backward point fielder. Third man has a long way to run to his left, and they hurry through for two
+4192~2~
+4192~2~17.3
+4192~2~0
+4192~2~Ferguson to Morgan, no run, full now, and Morgan plays around it while attempting to flick. No lbw appeal, because it pitched outside leg. Morgan's back foot is staying resolutely on leg stump, and possibly moving away as well. Moving from middle stump to leg stump, in fact, as replays show
+4192~2~
+4192~2~17.4
+4192~2~0
+4192~2~Ferguson to Morgan, no run, bouncer now, over leg stump. Morgan ducks under
+4192~2~
+4192~2~17.5
+4192~2~1
+4192~2~Ferguson to Morgan, 1 run, bouncer, homing in on Morgan's front shoulder. An ungainly whipped hook, manages to keep it down in front of fine leg
+4192~2~
+4192~2~17.6
+4192~2~0
+4192~2~Ferguson to Bairstow, no run, full, angling into middle stump, punched to mid-on
+4192~2~
+4192~2~18.1
+4192~2~2
+4192~2~de Grandhomme to Morgan, 2 runs, down the track and CdG floats a slower ball wide of off stump. Reaches out to try and launch it over mid-off, doesn't middle it, and it lands juust beyond Williamson's reach as he turns around and gives chase
+4192~2~Kiran Bhanushal: "The ball from CdG to get Root was at best an average delivery. But the cricketing sense from CdG to float a juicy away swinging half volley at that precise point to tempt Root was cricketing sense at its finest. 29 balls for 7 runs, under pressure to feel ball on bat, swung wildly the previous ball. As an allrounder CdG must have smelled that desperate feeling on Root!"
+4192~2~
+4192~2~END OF OVER:18 | 3 Runs | ENG: 63/2 (179 runs required from 192 balls, RR: 3.50, RRR: 5.59)
+4192~2~Jonny Bairstow
+4192~2~32 (52b)
+4192~2~Eoin Morgan
+4192~2~4 (6b)
+4192~2~Lockie Ferguson
+4192~2~2-0-6-0
+4192~2~Colin de Grandhomme
+4192~2~4-1-9-1
+4192~2~
+4192~2~18.2
+4192~2~0
+4192~2~de Grandhomme to Morgan, no run, slower offcutter outside off. Comes forward to try and dab behind point, ends up playing inside the line and getting beaten
+4192~2~
+4192~2~18.3
+4192~2~0
+4192~2~de Grandhomme to Morgan, no run, down the track again and CdG bowls back of a length this time, looking to cramp Morgan. Jabbed into the covers
+4192~2~
+4192~2~18.4
+4192~2~0
+4192~2~de Grandhomme to Morgan, no run, shortish, a bit of width, can't get that square cut past backward point
+4192~2~
+4192~2~18.5
+4192~2~1
+4192~2~de Grandhomme to Morgan, 1 run, short ball on leg stump, leg-stumpish, pulled round to long leg
+4192~2~
+4192~2~18.6
+4192~2~0
+4192~2~de Grandhomme to Bairstow, no run, loopy slower ball, ends up as a full-toss on middle stump. Looks to whip it away but can't get it past short fine leg
+4192~2~Sateesh Peddaia: "With Root gone, now its safe to say Rohit Sharma is the highest run getter in CWC19 "
+4192~2~
+4192~2~
+4192~2~19.1
+4192~2~1lb
+4192~2~Ferguson to Morgan, 1 leg bye, shortish, tucked off the hips to fine leg
+4192~2~END OF OVER:19 | 3 Runs | ENG: 66/2 (176 runs required from 186 balls, RR: 3.47, RRR: 5.67)
+4192~2~Jonny Bairstow
+4192~2~32 (53b)
+4192~2~Eoin Morgan
+4192~2~7 (11b)
+4192~2~Colin de Grandhomme
+4192~2~5-1-12-1
+4192~2~Lockie Ferguson
+4192~2~2-0-6-0
+4192~2~
+4192~2~19.2
+4192~2~4
+4192~2~Ferguson to Bairstow, FOUR runs, length ball outside off, and that's a beautiful shot from Bairstow, bat meeting ball on top of the bounce and whippy wrists forcing it past the cover fielder to his right
+4192~2~
+4192~2~19.3
+4192~2~W
+4192~2~Ferguson to Bairstow, OUT, bowled 'im! Back of a length, close to off stump, too close to be trying to force away square on the off side. Jumps up to ride the bounce, jabs at it with an angled bat, and inside-edges onto his stumps. Ferguson now has more middle-overs wickets than any other bowler at this World Cup. He's gone past Mitchell Starc
+4192~2~JM Bairstow b Ferguson 36 (79m 55b 7x4 0x6) SR: 65.45
+4192~2~
+4192~2~
+4192~2~19.4
+4192~2~1
+4192~2~Ferguson to Stokes, 1 run, shortish, too straight, whipped off the hip to fine leg
+4192~2~In walks Ben Stokes.
+4192~2~
+4192~2~
+4192~2~19.5
+4192~2~0
+4192~2~Ferguson to Morgan, no run, shortish on middle and leg. Morgan is leg-side of the ball again, hops to ride the bounce and block it back to the bowler
+4192~2~When Osman Samiuddin wrote this brilliant piece, Ferguson and Starc had 12 middle-overs wickets each.
+4192~2~
+4192~2~
+4192~2~19.6
+4192~2~1
+4192~2~Ferguson to Morgan, 1 run, back of a length on off stump, jumps and punches to deep point
+4192~2~A slip and a wide gully in place for Morgan, by the way.
+4192~2~
+4192~2~
+4192~2~20.1
+4192~2~1
+4192~2~de Grandhomme to Morgan, 1 run, fullish, angling across to off stump, driven to sweeper cover
+4192~2~END OF OVER:20 | 7 Runs 1 Wkt | ENG: 73/3 (169 runs required from 180 balls, RR: 3.65, RRR: 5.63)
+4192~2~Eoin Morgan
+4192~2~8 (14b)
+4192~2~Ben Stokes
+4192~2~1 (1b)
+4192~2~Lockie Ferguson
+4192~2~3-0-12-1
+4192~2~Colin de Grandhomme
+4192~2~5-1-12-1
+4192~2~England are 73 for 3. At the same stage of their semi-final against New Zealand, India were 70 for 4. And we know how that game went...
+4192~2~
+4192~2~
+4192~2~20.2
+4192~2~0
+4192~2~de Grandhomme to Stokes, no run, length ball, fifth-stump line, left alone
+4192~2~CdG goes round the wicket to Stokes.
+4192~2~
+4192~2~
+4192~2~20.3
+4192~2~0
+4192~2~de Grandhomme to Stokes, no run, down the track and de Grandhomme hits a shorter length than Stokes wants. He ends up in no-man's land, looking to defend, and the ball straightens past his outside edge
+4192~2~
+4192~2~20.4
+4192~2~1w
+4192~2~de Grandhomme to Stokes, 1 wide, looks to step out again, and de Grandhomme slides down the leg side in an attempt to cramp him for room with a full one
+4192~2~
+4192~2~20.4
+4192~2~0
+4192~2~de Grandhomme to Stokes, no run, shortish, fairly wide of off, and Stokes plays and misses, looking to punch it square. Sticks in the pitch a little and nips away off the pitch
+4192~2~
+4192~2~20.5
+4192~2~0
+4192~2~de Grandhomme to Stokes, no run, back of a length on off stump, blocked back to the bowler
+4192~2~
+4192~2~20.6
+4192~2~0
+4192~2~de Grandhomme to Stokes, no run, down the track again and again de Grandhomme's length is shorter than Stokes would like, angling into him. Stretches out and blocks it back to the bowler
+4192~2~
+4192~2~21.1
+4192~2~0
+4192~2~Ferguson to Morgan, no run, in the blockhole on middle stump, jabbed back to the bowler
+4192~2~Ferguson stays over the wicket to Morgan. The slip and wide gully are still around.
+4192~2~
+4192~2~END OF OVER:21 | 2 Runs | ENG: 75/3 (167 runs required from 174 balls, RR: 3.57, RRR: 5.75)
+4192~2~Ben Stokes
+4192~2~1 (6b)
+4192~2~Eoin Morgan
+4192~2~9 (15b)
+4192~2~Colin de Grandhomme
+4192~2~6-1-14-1
+4192~2~Lockie Ferguson
+4192~2~3-0-12-1
+4192~2~
+4192~2~21.2
+4192~2~0
+4192~2~Ferguson to Morgan, no run, back of a length on leg stump, stays leg-side of it, hops, and defends back to the bowler
+4192~2~
+4192~2~21.3
+4192~2~0
+4192~2~Ferguson to Morgan, no run, that's a brute of a bouncer at 145kph, and it nearly decapitates Morgan as he falls over backwards, onto his backside, to evade it. The umpires are checking for something... Having a word with Morgan, checking if he's okay, basically. It grazed his helmet as it went through, and Morgan took his eye off the ball
+4192~2~Only three back - third man, fine leg, deep backward square leg. Slip has gone away now to short extra-cover
+4192~2~
+4192~2~
+4192~2~21.4
+4192~2~2lb
+4192~2~Ferguson to Morgan, 2 leg byes, full, too straight, misses the flick but picks up leg byes to the left of fine leg
+4192~2~
+4192~2~21.5
+4192~2~0
+4192~2~Ferguson to Morgan, no run, back of a length on leg stump, stays leg-side of the ball and blocks it back to Ferguson
+4192~2~
+4192~2~21.6
+4192~2~5w
+4192~2~Ferguson to Morgan, 5 wides, another bouncer, slanting across over middle stump this time, and Morgan can keep his eye on it and sway away. The bouncer is too hot to handle for Tom Latham, however, and it eludes his gloves as he jumps up, arms outstretched
+4192~2~
+4192~2~21.6
+4192~2~0
+4192~2~Ferguson to Morgan, no run, back of a length on off stump, chopped to cover point
+4192~2~Round the wicket now.
+4192~2~
+4192~2~
+4192~2~22.1
+4192~2~0
+4192~2~de Grandhomme to Stokes, no run, fullish, angling into middle stump, blocked back to the bowler
+4192~2~Newistan: "Who is supposed to play Jaddu's role today?"
+4192~2~
+4192~2~CdG continues from round the wicket.
+4192~2~
+4192~2~END OF OVER:22 | 7 Runs | ENG: 82/3 (160 runs required from 168 balls, RR: 3.72, RRR: 5.71)
+4192~2~Eoin Morgan
+4192~2~9 (21b)
+4192~2~Ben Stokes
+4192~2~1 (6b)
+4192~2~Lockie Ferguson
+4192~2~4-0-17-1
+4192~2~Colin de Grandhomme
+4192~2~6-1-14-1
+4192~2~
+4192~2~22.2
+4192~2~0
+4192~2~de Grandhomme to Stokes, no run, back of a length on off stump, stands tall and chops it away on top of the bounce, but this is a slow pitch and he can't really hit it square. Drags it to extra-cover
+4192~2~
+4192~2~22.3
+4192~2~4
+4192~2~de Grandhomme to Stokes, FOUR runs, down the track again, and though he doesn't get close to the pitch of the ball, this time it's short enough for him to whip it away through square leg, with a strong swivel at the hips
+4192~2~
+4192~2~22.4
+4192~2~0
+4192~2~de Grandhomme to Stokes, no run, back of a length on off stump, blocked back to the bowler
+4192~2~Tom Latham calls for a helmet, and goes up to the stumps now. Stokes can't run down the track so easily now. Ross Taylor moves finer at slip
+4192~2~
+4192~2~
+4192~2~22.5
+4192~2~0
+4192~2~de Grandhomme to Stokes, no run, length ball, a bit of inward movement towards middle stump. Defended solidly towards midwicket with the straightest of bats
+4192~2~
+4192~2~22.6
+4192~2~0
+4192~2~de Grandhomme to Stokes, no run, back of a length on middle stump, defended to mid-on
+4192~2~
+4192~2~Newistan Stokes can do all what Jaddu can do today, except the sword rotating celebration after 50 ;)"
+4192~2~
+4192~2~Pranav Nigadkar: "Ben Stokes will be the key in England's chase here, He has already shown us in this tournament against Sri Lanka and Australia that he can bat deep in such tricky situations, but both of his innings ended up in a losing cause. Today is his his chance to right the wrong in the best possible way at the World Cup finals!!"
+4192~2~
+4192~2~END OF OVER:23 | 4 Runs | ENG: 86/3 (156 runs required from 162 balls, RR: 3.73, RRR: 5.77)
+4192~2~Ben Stokes
+4192~2~5 (12b)
+4192~2~Eoin Morgan
+4192~2~9 (21b)
+4192~2~Colin de Grandhomme
+4192~2~7-1-18-1
+4192~2~Lockie Ferguson
+4192~2~4-0-17-1
+4192~2~
+4192~2~23.1
+4192~2~W
+4192~2~Neesham to Morgan, OUT, and he strikes first ball! Or he will have, if this catch is deemed to be clean. What a bit of work on the point boundary from Lockie Ferguson! Wide length ball, carved away in the air, and Lockie sprints in from the boundary, throws himself forward, and grabs it two-handed, perfectly clean, a couple of inches off the ground. The soft signal was out, but the soft signal doesn't matter at all, because the replays were so conclusive. We've seen some outstanding catches at this World Cup. This is among the top three. Or four. Or five. Or one.
+4192~2~EJG Morgan c Ferguson b Neesham 9 (34m 22b 0x4 0x6) SR: 40.90
+4192~2~
+4192~2~Greeshmanth: "Am i missing something or Santner didn't start to bowl" -- Good question. I wonder if the two left-handers in the middle are making Williamson delay his introduction. He has other options anyway. Here's Jimmy Neesham, over the wicket to Morgan.
+4192~2~
+4192~2~Ajay: "
+4192~2~23.2
+4192~2~2
+4192~2~Neesham to Buttler, 2 runs, back of a length, angling into the legs, tucked away through square leg
+4192~2~England's chances have dropped from 62% to 49.5% after that wicket, according to Forecaster. New Zealand are favourites for the first time. Here's Jos Butter.
+4192~2~
+4192~2~
+4192~2~23.3
+4192~2~1
+4192~2~Neesham to Buttler, 1 run, length ball outside off, nice stride forward for a push into the point region
+4192~2~
+4192~2~23.4
+4192~2~0
+4192~2~Neesham to Stokes, no run, fullish, slanting away into a sixth-stump line. Go ahead, drive me, says Neesham. Stokes leaves it alone
+4192~2~Zulfiqar : "Another '92 moment... Gooch (c) was caught in the deep by an excellent Aquib effort... Here Capt Morgan is done in by Ferguson!! "
+4192~2~
+4192~2~
+4192~2~23.5
+4192~2~0
+4192~2~Neesham to Stokes, no run, again he angles across into that wide line, dangling it up pretty full. Again Stokes ignores the bait
+4192~2~
+4192~2~23.6
+4192~2~0
+4192~2~Neesham to Stokes, no run, ooh, what a delivery! Neesham was so delighted that it seemed initially like he was celebrating a wicket. Back of a length, slanting away before nipping back wickedly off the seam. Stokes doubles over as he jabs down on the ball, which beats his inside edge and soars over off stump
+4192~2~
+4192~2~24.1
+4192~2~1
+4192~2~de Grandhomme to Buttler, 1 run, length ball on off stump, clipped to deep square leg
+4192~2~END OF OVER:24 | 3 Runs 1 Wkt | ENG: 89/4 (153 runs required from 156 balls, RR: 3.70, RRR: 5.88)
+4192~2~Ben Stokes
+4192~2~5 (15b)
+4192~2~Jos Buttler
+4192~2~3 (2b)
+4192~2~James Neesham
+4192~2~1-0-3-1
+4192~2~Colin de Grandhomme
+4192~2~7-1-18-1
+4192~2~
+4192~2~24.2
+4192~2~1
+4192~2~de Grandhomme to Stokes, 1 run, length ball outside off, opens his bat face to guide it to third man
+4192~2~Round the wicket to Stokes, keeper up to the stumps
+4192~2~
+4192~2~
+4192~2~24.3
+4192~2~1
+4192~2~de Grandhomme to Buttler, 1 run, length ball close to off stump, Buttler uses those wrists to work it to deep square leg
+4192~2~
+4192~2~24.4
+4192~2~0
+4192~2~de Grandhomme to Stokes, no run, full, angling into middle stump. Holds up on the pitch a little, and Stokes is aware of the possibility and defends with the full face showing, to mid-on
+4192~2~
+4192~2~24.5
+4192~2~0
+4192~2~de Grandhomme to Stokes, no run, back of a length on off stump, lets it come and defends
+4192~2~
+4192~2~24.6
+4192~2~1
+4192~2~de Grandhomme to Stokes, 1 run, a bit fuller on middle stump, clipped to deep square leg
+4192~2~
+4192~2~25.1
+4192~2~2
+4192~2~Neesham to Stokes, 2 runs, full, angling away into that wide line again. This time he gets a big stride forward and across to drive to the left of deep point. They run a second, and there's a brief recourse to the third umpire to see if Stokes beat the throw home to the keeper. He had, comfortably
+4192~2~Neesham continues from over the wicket to Stokes
+4192~2~
+4192~2~END OF OVER:25 | 4 Runs | ENG: 93/4 (149 runs required from 150 balls, RR: 3.72, RRR: 5.96)
+4192~2~Ben Stokes
+4192~2~7 (19b)
+4192~2~Jos Buttler
+4192~2~5 (4b)
+4192~2~Colin de Grandhomme
+4192~2~8-1-22-1
+4192~2~James Neesham
+4192~2~1-0-3-1
+4192~2~
+4192~2~25.2
+4192~2~0
+4192~2~Neesham to Stokes, no run, full on off, driven to mid-off
+4192~2~
+4192~2~25.3
+4192~2~0
+4192~2~Neesham to Stokes, no run, length ball, straightens a touch towards off stump as Stokes comes forward to defend. Hits the inside half of the bat, high up, and ricochets into front pad
+4192~2~
+4192~2~25.4
+4192~2~0
+4192~2~Neesham to Stokes, no run, length ball slanting across towards off stump, gets half-forward to block down the pitch
+4192~2~The required rate now is exactly a run a ball: 147 off 147.
+4192~2~
+4192~2~
+4192~2~25.5
+4192~2~1
+4192~2~Neesham to Stokes, 1 run, down the track and Neesham bowls a back-of-a-length ball slanting across Stokes, who punches crisply to deep point
+4192~2~
+4192~2~25.6
+4192~2~2
+4192~2~Neesham to Buttler, 2 runs, length ball outside off, nice stride forward for the checked drive to the right of deep point
+4192~2~
+4192~2~26.1
+4192~2~0
+4192~2~de Grandhomme to Stokes, no run, length ball wide of off stump, left alone
+4192~2~END OF OVER:26 | 5 Runs | ENG: 98/4 (144 runs required from 144 balls, RR: 3.76, RRR: 6.00)
+4192~2~Jos Buttler
+4192~2~7 (5b)
+4192~2~Ben Stokes
+4192~2~10 (24b)
+4192~2~James Neesham
+4192~2~2-0-8-1
+4192~2~Colin de Grandhomme
+4192~2~8-1-22-1
+4192~2~
+4192~2~26.2
+4192~2~0
+4192~2~de Grandhomme to Stokes, no run, length ball angling into middle stump. Stokes plays the checked drive to mid-on, and it hangs in the air briefly. The ball's stopping a lot now
+4192~2~
+4192~2~26.3
+4192~2~0
+4192~2~de Grandhomme to Stokes, no run, back of a length, close to off stump, waits on it and dabs to backward point
+4192~2~
+4192~2~26.4
+4192~2~0
+4192~2~de Grandhomme to Stokes, no run, length ball angling into middle and leg, clipped towards midwicket
+4192~2~
+4192~2~26.5
+4192~2~0
+4192~2~de Grandhomme to Stokes, no run, back of a length outside off, punched to extra-cover
+4192~2~
+4192~2~26.6
+4192~2~0
+4192~2~de Grandhomme to Stokes, no run, extra bounce, and was there an edge? No idea, but Latham puts it down, standing up to the stumps. Length ball outside off, and the bounce sneaks it past - or grazes - Stokes' outside edge as he looks to push into the covers with an angled bat. We'll need to see replays
+4192~2~
+4192~2~27.1
+4192~2~1
+4192~2~Neesham to Buttler, 1 run, back of a length, angling into middle stump, worked away through square leg
+4192~2~END OF OVER:27 | (maiden) | ENG: 98/4 (144 runs required from 138 balls, RR: 3.62, RRR: 6.26)
+4192~2~Ben Stokes
+4192~2~10 (30b)
+4192~2~Jos Buttler
+4192~2~7 (5b)
+4192~2~Colin de Grandhomme
+4192~2~9-2-22-1
+4192~2~James Neesham
+4192~2~2-0-8-1
+4192~2~
+4192~2~27.2
+4192~2~0
+4192~2~Neesham to Stokes, no run, back of a length outside off, this ball on this pitch comes on to the bat too slow for Stokes to slap it through point, ends up hitting it to cover instead
+4192~2~
+4192~2~27.3
+4192~2~4
+4192~2~Neesham to Stokes, FOUR runs, down the track and that's serious power. Gets fairly close to the pitch of one angling away from him, and the angle allows him to free his arms. Flat-bats it hard past the bowler's right hand, making umpire Dharmasena take cover
+4192~2~
+4192~2~27.4
+4192~2~1w
+4192~2~Neesham to Stokes, 1 wide, shortish, down the leg side, can't connect with the flick off the hip
+4192~2~
+4192~2~27.4
+4192~2~1
+4192~2~Neesham to Stokes, 1 run, down the track again and Neesham shortens his length, bowls it at Stokes' body. Pulled off the hip to deep square leg
+4192~2~
+4192~2~27.5
+4192~2~0
+4192~2~Neesham to Buttler, no run, slower length ball outside off, Buttler gets a nice stride forward to drive, and short extra-cover dives left to stop it
+4192~2~
+4192~2~27.6
+4192~2~1
+4192~2~Neesham to Buttler, 1 run, back of a length, legcutter in the fifth-stump channel. Punched to deep point
+4192~2~
+4192~2~28.1
+4192~2~1
+4192~2~de Grandhomme to Buttler, 1 run, back of a length close to off stump. Looks for the push into the covers and it holds up on the surface and rolls through square leg off the inside edge
+4192~2~Balashankar: "What a spell it has been today by CdG. His bowling resembles a lot that of Mohinder Amarnath. This spell could well be on the same lines as the one Amarnath bowled in the 1983 final." -- CdG is a lot quicker than Amarnath. Or even the classic New Zealand dibbly-dobblers he gets compared to. CdG is not a Gavin Larsen or Chris Harris. He's more like Dion Nash, a genuine new-ball bowler if there's swing.
+4192~2~
+4192~2~END OF OVER:28 | 8 Runs | ENG: 106/4 (136 runs required from 132 balls, RR: 3.78, RRR: 6.18)
+4192~2~Jos Buttler
+4192~2~9 (8b)
+4192~2~Ben Stokes
+4192~2~15 (33b)
+4192~2~James Neesham
+4192~2~3-0-16-1
+4192~2~Colin de Grandhomme
+4192~2~9-2-22-1
+4192~2~
+4192~2~28.2
+4192~2~0
+4192~2~de Grandhomme to Stokes, no run, fullish, angling into middle and leg. Looks to flick, closes his bat face early, and the ball goes rolling to mid-off off the leading edge
+4192~2~Round the wicket to Stokes, as he has been.
+4192~2~
+4192~2~
+4192~2~28.3
+4192~2~1
+4192~2~de Grandhomme to Stokes, 1 run, back of a length outside off, dabbed down to third man
+4192~2~
+4192~2~28.4
+4192~2~0
+4192~2~de Grandhomme to Buttler, no run, length ball on off stump, punched to short extra-cover
+4192~2~
+4192~2~28.5
+4192~2~2b
+4192~2~de Grandhomme to Buttler, 2 byes, ooh, what a delivery. Length ball, pitching outside off and nipping in like an offbreak. Comes forward to drive through the covers, leaves a gap between bat and pad, and it sneaks through and doesn't miss off stump by much. Ricochets off Latham's glove into the fine leg region
+4192~2~Tasmeem: "Woakes can bat, so do Plunkett and Rashid. But this may be the last grasp of hope for the English with Mark Wood being a walking wicket." -- Archer can bat too.
+4192~2~
+4192~2~
+4192~2~28.6
+4192~2~1
+4192~2~de Grandhomme to Buttler, 1 run, fullish outside off, not full enough for the big drive over the covers, and he slices it off the outside half of the bat, in the air, but safely short of third man
+4192~2~
+4192~2~29.1
+4192~2~1
+4192~2~Boult to Buttler, 1 run, back of a length angling across to off stump, worked away through square leg
+4192~2~Bowling change. Boult returns from left-arm over.
+4192~2~
+4192~2~END OF OVER:29 | 5 Runs | ENG: 111/4 (131 runs required from 126 balls, RR: 3.82, RRR: 6.23)
+4192~2~Jos Buttler
+4192~2~11 (12b)
+4192~2~Ben Stokes
+4192~2~16 (35b)
+4192~2~Colin de Grandhomme
+4192~2~10-2-25-1
+4192~2~James Neesham
+4192~2~3-0-16-1
+4192~2~That ends a brilliant spell from de Grandhomme. 10-2-25-1.
+4192~2~
+4192~2~
+4192~2~29.2
+4192~2~1
+4192~2~Boult to Stokes, 1 run, back of a length on off stump, worked with the angle to the left of midwicket, who makes a diving stop but lets the ball get away from him briefly, allowing the single
+4192~2~Mitchell Santner seems to be warming up too.
+4192~2~
+4192~2~
+4192~2~29.3
+4192~2~0
+4192~2~Boult to Buttler, no run, fullish outside off, shuffles across and blocks to short extra-cover
+4192~2~
+4192~2~29.4
+4192~2~1
+4192~2~Boult to Buttler, 1 run, length ball slanting away from off stump, punched on the up to the off-side sweeper. Buttler's timed the ball better than pretty much anyone else today, so far.
+4192~2~
+4192~2~29.5
+4192~2~0
+4192~2~Boult to Stokes, no run, back of a length, close to off stump, dabbed to backward point
+4192~2~
+4192~2~29.6
+4192~2~1
+4192~2~Boult to Stokes, 1 run, back of a length outside off, a bit of width to free his arms and drive to the right of mid-off
+4192~2~
+4192~2~30.1
+4192~2~0
+4192~2~Santner to Stokes, no run, flat, angling away from off stump, and it goes on with the arm after pitching. Looks to cut, can't connect, may have been playing for turn
+4192~2~Kamran Yousaf : "This Buttler-Stokes partnership will be similar to Lamb-Fairbrother in 1992. Back then Imran Khan brought back Wasim Akram to break the partnership and in this match Boult will be the man!!!"
+4192~2~
+4192~2~Adwaita Govind : "Excellent tactics from Williamson. He has held santner back. Eng would have thought of targeting him with short square boundary. Now they have lost too many waiting for him. They have to attack santner and perish. Unless they play like Jadeja"
+4192~2~
+4192~2~Here he is! Round the wicket to Stokes.
+4192~2~
+4192~2~END OF OVER:30 | 4 Runs | ENG: 115/4 (127 runs required from 120 balls, RR: 3.83, RRR: 6.35)
+4192~2~Ben Stokes
+4192~2~18 (38b)
+4192~2~Jos Buttler
+4192~2~13 (15b)
+4192~2~Trent Boult
+4192~2~6-0-30-0
+4192~2~Colin de Grandhomme
+4192~2~10-2-25-1
+4192~2~
+4192~2~30.2
+4192~2~0
+4192~2~Santner to Stokes, no run, lovely length, slanting across to off stump, not much turn, blocked back to the bowler
+4192~2~
+4192~2~30.3
+4192~2~1
+4192~2~Santner to Stokes, 1 run, flat length ball speared across towards off stump, stays back, opens up, and punches to long-on past a diving short midwicket
+4192~2~
+4192~2~30.4
+4192~2~1
+4192~2~Santner to Buttler, 1 run, back of a length on off stump, goes back to work it towards deep square leg
+4192~2~
+4192~2~30.5
+4192~2~1
+4192~2~Santner to Stokes, 1 run, floated across to off stump, a little slower than the previous balls. Waits on it and punches to long-on
+4192~2~
+4192~2~30.6
+4192~2~1
+4192~2~Santner to Buttler, 1 run, loopy full ball on middle stump, clipped to long-on
+4192~2~
+4192~2~Mykuhl
+4192~2~ Colin de Grandhomme has just produced the second most economical full spell in a world cup final since they moved to 50 overs a side. Only Derek Pringle's 10-2-22-3 is ahead.  #CWC19
+4192~2~
+4192~2~57
+4192~2~9:49 PM - Jul 14, 2019
+4192~2~Twitter Ads info and privacy
+4192~2~20 people are talking about this
+4192~2~END OF OVER:31 | 4 Runs | ENG: 119/4 (123 runs required from 114 balls, RR: 3.83, RRR: 6.47)
+4192~2~Jos Buttler
+4192~2~15 (17b)
+4192~2~Ben Stokes
+4192~2~20 (42b)
+4192~2~Mitchell Santner
+4192~2~1-0-4-0
+4192~2~Trent Boult
+4192~2~6-0-30-0
+4192~2~
+4192~2~31.1
+4192~2~1
+4192~2~Boult to Buttler, 1 run, back of a length, angling away from off stump, punched to deep point
+4192~2~Boult continues.
+4192~2~
+4192~2~
+4192~2~Michael Wagener
+4192~2~
+4192~2~31.2
+4192~2~1
+4192~2~Boult to Stokes, 1 run, back of a length on off stump, punched to the right of mid-off
+4192~2~
+4192~2~31.3
+4192~2~4
+4192~2~Boult to Buttler, FOUR runs, ooh, in the air, but in the gap too. Short, not a whole lot of width, but Buttler gets off his feet, rides the bounce, and carves it away to the right of backward point. Guptill's the fielder there, though, and his athletic dive and one-handed stretch make it look like a chance when it probably wasn't
+4192~2~
+4192~2~31.4
+4192~2~0
+4192~2~Boult to Buttler, no run, not short enough to pull, inside-edges onto the pad instead
+4192~2~
+4192~2~31.5
+4192~2~0
+4192~2~Boult to Buttler, no run, fullish outside off, reaches out to drive to mid-off
+4192~2~
+4192~2~31.6
+4192~2~1
+4192~2~Boult to Buttler, 1 run, back of a length, fourth-stump line, punched to the right of the cover sweeper
+4192~2~
+4192~2~32.1
+4192~2~0
+4192~2~Santner to Buttler, no run, length ball close to off stump, stays on the back foot for a punch into the covers
+4192~2~END OF OVER:32 | 7 Runs | ENG: 126/4 (116 runs required from 108 balls, RR: 3.93, RRR: 6.44)
+4192~2~Jos Buttler
+4192~2~21 (22b)
+4192~2~Ben Stokes
+4192~2~21 (43b)
+4192~2~Trent Boult
+4192~2~7-0-37-0
+4192~2~Mitchell Santner
+4192~2~1-0-4-0
+4192~2~
+4192~2~32.2
+4192~2~1w
+4192~2~Santner to Buttler, 1 wide, flat, looks to bowl the lbw ball, ends up spearing it down the leg side
+4192~2~
+4192~2~32.2
+4192~2~1
+4192~2~Santner to Buttler, 1 run, shortish outside off, slapped away to sweeper cover
+4192~2~
+4192~2~32.3
+4192~2~0
+4192~2~Santner to Stokes, no run, length ball on middle stump, goes back for the punch to long-on but Guptill intervenes with a dive from short midwicket
+4192~2~Ganesh Shivkuma: "I would not give more overs to Boult.. He is surprisingly struggling today.. I'll hold him for his yorkers at the death..." -- Yeah, pretty sure his spell is done.
+4192~2~
+4192~2~
+4192~2~32.4
+4192~2~1
+4192~2~Santner to Stokes, 1 run, on the pads, worked the other (left) side of Guptill towards deep square leg
+4192~2~
+4192~2~32.5
+4192~2~0
+4192~2~Santner to Buttler, no run, nice length, flat one angling into middle and leg. Defended with bat well in front of pad - he knows the threat of lbw given how few balls he actually turns
+4192~2~
+4192~2~32.6
+4192~2~0
+4192~2~Santner to Buttler, no run, length ball on the stumps, defended into the on side
+4192~2~
+4192~2~33.1
+4192~2~2
+4192~2~Henry to Stokes, 2 runs, down the track, and he ends up reaching for the fullish one slanted across him. Sliced in the air, on the bounce to the left of third man
+4192~2~Nishank: "Get that Moustache bowling, maaannn" -- It isn't Lockie, but it's Matt Henry, over the wicket to Stokes.
+4192~2~
+4192~2~END OF OVER:33 | 3 Runs | ENG: 129/4 (113 runs required from 102 balls, RR: 3.90, RRR: 6.64)
+4192~2~Jos Buttler
+4192~2~22 (26b)
+4192~2~Ben Stokes
+4192~2~22 (45b)
+4192~2~Mitchell Santner
+4192~2~2-0-7-0
+4192~2~Trent Boult
+4192~2~7-0-37-0
+4192~2~
+4192~2~33.2
+4192~2~2
+4192~2~Henry to Stokes, 2 runs, down the track again and Henry shortens his length, pulled to the right of deep square leg
+4192~2~
+4192~2~33.3
+4192~2~2
+4192~2~Henry to Stokes, 2 runs, length ball wide of off, goes deep in his crease to carve to the left of third man
+4192~2~Round the wicket now to Stokes.
+4192~2~
+4192~2~
+4192~2~33.4
+4192~2~1
+4192~2~Henry to Stokes, 1 run, full outside off, gets forward for the drive to deep point to bring up the half-century stand
+4192~2~This hasn't been the noisiest crowd of the World Cup, but they've grown a little louder over the last couple of overs. Louder in a genteel sort of way, still.
+4192~2~
+4192~2~
+4192~2~33.5
+4192~2~1
+4192~2~Henry to Buttler, 1 run, back of a length outside off, lets it come on and guides it down to third man
+4192~2~Ammar Qazi: "Why do you think Kane Williamson would want to complete Henry's overs now?" -- Seeing if he'll still find some seam movement? Not a bad idea. He still has two left after this.
+4192~2~
+4192~2~
+4192~2~33.6
+4192~2~0
+4192~2~Henry to Stokes, no run, ooh. Back of a length, angling into off stump. Looks to work it with the angle into the leg side, closes his bat face early, and pops a leading edge back towards the bowler. Doesn't carry to him, though, despite a dive forward
+4192~2~
+4192~2~34.1
+4192~2~1
+4192~2~Santner to Buttler, 1 run, skidding into the hips, back of a length, tucked away to the left of Neesham at short fine leg
+4192~2~Cheers, KK. England need 105 off 16 overs. Are we in for a blockbuster finish to the 2019 World Cup? Stokes and Buttler have rallied England with a busy, unbroken fifty stand. Can Santner break it?
+4192~2~
+4192~2~
+4192~2~kunal: "Seems... Santner, Neesham and Ferguson will be doing bulk of bowling in majority of death overs"
+4192~2~
+4192~2~
+4192~2~Ammar: "NZ need CdG to bowl 15 overs if they are to win today .. Boult & Henry dont seem to be getting much assistance from the wicket in their 2nd spells .."
+4192~2~
+4192~2~END OF OVER:34 | 8 Runs | ENG: 137/4 (105 runs required from 96 balls, RR: 4.02, RRR: 6.56)
+4192~2~Ben Stokes
+4192~2~29 (50b)
+4192~2~Jos Buttler
+4192~2~23 (27b)
+4192~2~Matt Henry
+4192~2~8-2-30-1
+4192~2~Mitchell Santner
+4192~2~2-0-7-0
+4192~2~And that will be drinks, with the match delicately poised. A great time to hand the commentary back to Deiva.
+4192~2~
+4192~2~
+4192~2~34.2
+4192~2~1
+4192~2~Santner to Stokes, 1 run, shorter and sliding across off from round the wicket, jabbed away to the left of Neesham at point
+4192~2~
+4192~2~34.3
+4192~2~1
+4192~2~Santner to Buttler, 1 run, non-turner on off stump, driven down to long-off off the front foot
+4192~2~
+4192~2~34.4
+4192~2~0
+4192~2~Santner to Stokes, no run, tossed on the pads, knocked to backward square leg
+4192~2~Dhaval : "This is slowly going England's way. If England bats their full overs they get the trophy. Only way for NZ is to bowl England out. "
+4192~2~
+4192~2~
+4192~2~34.5
+4192~2~1
+4192~2~Santner to Stokes, 1 run, pushed through on middle and leg, bunted down to long-on
+4192~2~
+4192~2~34.6
+4192~2~0
+4192~2~Santner to Buttler, no run, slider on off, shortish, Buttler goes deep in the crease and whips it to midwicket
+4192~2~
+4192~2~35.1
+4192~2~0
+4192~2~Henry to Stokes, no run, short and slanting in at off stump, Stokes stands up tall and punches to midwicket
+4192~2~Round the wicket
+4192~2~
+4192~2~END OF OVER:35 | 4 Runs | ENG: 141/4 (101 runs required from 90 balls, RR: 4.02, RRR: 6.73)
+4192~2~Jos Buttler
+4192~2~25 (30b)
+4192~2~Ben Stokes
+4192~2~31 (53b)
+4192~2~Mitchell Santner
+4192~2~3-0-11-0
+4192~2~Matt Henry
+4192~2~8-2-30-1
+4192~2~Ganesh Shivkuma: "Ferguson holds the key to the match.. His next two overs will determine the outcome of the match!!"
+4192~2~
+4192~2~
+4192~2~35.2
+4192~2~1
+4192~2~Henry to Stokes, 1 run, back of a length and holds its line outside off, Stokes rolls out a back-foot punch to the off-side sweeper
+4192~2~
+4192~2~35.3
+4192~2~0
+4192~2~Henry to Buttler, no run, slower variation from Henry. Back of a length, 121ks, cuts in, beats the inside edge as well as the off stump
+4192~2~
+4192~2~35.4
+4192~2~0
+4192~2~Henry to Buttler, no run, Buttler plays around his front pad, trying it work it over the leg side, and falls over. Umpire Dharmasena shakes his head. Not given out lbw. Williamson challenges the on-field not-out decision. This seems to be heading down leg, though. Nicely pitched up, veers back in to ping the front pad below the knee-roll in line with middle and leg. Yup, that's missing leg stump and Dharmasena (finally) gets it right
+4192~2~
+4192~2~35.5
+4192~2~1
+4192~2~Henry to Buttler, 1 run, short and angling into middle, punched past the right of Neesham at short midwicket. Ferguson swoops down on the ball in the outfield. Stokes is wary of it and sends Buttler back
+4192~2~
+4192~2~35.6
+4192~2~0
+4192~2~Henry to Stokes, no run, shorter and outside off, punched through the line to the left of Neesham at short cover
+4192~2~
+4192~2~36.1
+4192~2~4
+4192~2~Ferguson to Buttler, FOUR runs, short, wide, wider than a set of stumps outside off. Buttler brings his fast hands into play and rifles a cut behind point. Bam!
+4192~2~Ferguson has six overs left. He's back on, over the wicket
+4192~2~
+4192~2~END OF OVER:36 | 2 Runs | ENG: 143/4 (99 runs required from 84 balls, RR: 3.97, RRR: 7.07)
+4192~2~Ben Stokes
+4192~2~32 (56b)
+4192~2~Jos Buttler
+4192~2~26 (33b)
+4192~2~Matt Henry
+4192~2~9-2-32-1
+4192~2~Mitchell Santner
+4192~2~3-0-11-0
+4192~2~
+4192~2~36.2
+4192~2~1
+4192~2~Ferguson to Buttler, 1 run, back of a length and outside off, Buttler has to reach out for the ball again, spliced in the air over point as this does not come onto the bat
+4192~2~
+4192~2~36.3
+4192~2~1
+4192~2~Ferguson to Stokes, 1 run, short and angling in at the body from round the wicket, Stokes swivels on the back foot and pulls down to fine leg
+4192~2~Round the stumps to the left-handed Stokes
+4192~2~
+4192~2~
+4192~2~36.4
+4192~2~0
+4192~2~Ferguson to Buttler, no run, pitched up and outside off, driven off the front foot to short cover
+4192~2~
+4192~2~36.5
+4192~2~0
+4192~2~Ferguson to Buttler, no run, Ferguson runs in hard, hits the deck harder, back of a length on off, stabbed back to him
+4192~2~Ramu Bogireddy: "This is 1980s total. Stick to 1980s plan. Hold the wicket as many as overs as possible. Runs will be accumulated automatically. Hope England can cross the hurdle this time."
+4192~2~
+4192~2~
+4192~2~36.6
+4192~2~0
+4192~2~Ferguson to Buttler, no run, short and climbing in at off stump, Buttler hops and fends it off towards short midwicket
+4192~2~Muhammed Riyas: "Have a feeling that NZ are gradually running out of effective resources towards the end of the game and ENG should be looking on that aspect to capitalize at the later stage. Won't be easy for both teams, but thrilling for neutral fans."
+4192~2~
+4192~2~
+4192~2~37.1
+4192~2~0
+4192~2~Neesham to Stokes, no run, shortish and outside off, punched to the right of short cover
+4192~2~Neesham, Ferguson's old buddy, from the other end
+4192~2~
+4192~2~END OF OVER:37 | 6 Runs | ENG: 149/4 (93 runs required from 78 balls, RR: 4.02, RRR: 7.15)
+4192~2~Jos Buttler
+4192~2~31 (38b)
+4192~2~Ben Stokes
+4192~2~33 (57b)
+4192~2~Lockie Ferguson
+4192~2~5-0-23-1
+4192~2~Matt Henry
+4192~2~9-2-32-1
+4192~2~
+4192~2~37.2
+4192~2~2
+4192~2~Neesham to Stokes, 2 runs, Stokes runs at Neesham and is cramped by a short ball just outside off. Stokes aims to bosh it through the covers and instead sends an inside edge past leg stump to fine leg
+4192~2~Pashin: "What a day in London today. A thriller Wimbledon final between Federer and Djokovic, and a thriller cricket world cup final between england and New Zealand "
+4192~2~
+4192~2~
+4192~2~37.3
+4192~2~1
+4192~2~Neesham to Stokes, 1 run, short and outside off, slower ball, Stokes leans back and smears it away to sweeper cover
+4192~2~
+4192~2~37.4
+4192~2~0
+4192~2~Neesham to Buttler, no run, chipped in the air over the non-striker's head as this length ball on middle stops on Buttler and messes with his timing
+4192~2~
+4192~2~37.5
+4192~2~4
+4192~2~Neesham to Buttler, FOUR runs, looks like a legcutter from Neesham, 115ks, Buttler checks his drive and chips it beautifully in the air straight of mid-on for four. Rousing stroke from Buttler
+4192~2~
+4192~2~37.6
+4192~2~0
+4192~2~Neesham to Buttler, no run, back of a length and outside off, Buttler clatters it through the line but finds cover
+4192~2~
+4192~2~38.1
+4192~2~0
+4192~2~Ferguson to Stokes, no run, banged in short and slanting in just a shade outside off, Stokes leaps and rides it out to point
+4192~2~END OF OVER:38 | 7 Runs | ENG: 156/4 (86 runs required from 72 balls, RR: 4.10, RRR: 7.16)
+4192~2~Jos Buttler
+4192~2~35 (41b)
+4192~2~Ben Stokes
+4192~2~36 (60b)
+4192~2~James Neesham
+4192~2~4-0-23-1
+4192~2~Lockie Ferguson
+4192~2~5-0-23-1
+4192~2~
+4192~2~38.2
+4192~2~4
+4192~2~Ferguson to Stokes, FOUR runs, more short stuff from Ferguson, dug in outside off, Stokes rolls out the swivel-pull. Cracked hard onto the ground and the ball skedaddles away to the fence
+4192~2~
+4192~2~38.3
+4192~2~0
+4192~2~Ferguson to Stokes, no run, back of a length and homing in at top of off, Stokes' tight defensive technique intervenes
+4192~2~
+4192~2~38.4
+4192~2~1
+4192~2~Ferguson to Stokes, 1 run, full-toss, slanting in at leg stump, bunted to Henry at long-on
+4192~2~
+4192~2~38.5
+4192~2~1
+4192~2~Ferguson to Buttler, 1 run, overpitched and outside off, shovel-driven with the bottom hand down to long-off
+4192~2~WATCH on Hotstar (India only): Lockie Ferguson took a stunner to send back Eoin Morgan
+4192~2~
+4192~2~
+4192~2~38.6
+4192~2~0
+4192~2~Ferguson to Stokes, no run, back of a length and angling into a front-foot punch to mid-on
+4192~2~kalyan chakri: "This partnership is just raising Hope's like MS Jaddu partnership and I have full confidence kiwis would break it through..game on Black caps"
+4192~2~
+4192~2~
+4192~2~39.1
+4192~2~1
+4192~2~Henry to Buttler, 1 run, just short of a good length and outside off, Buttler gets on top of it and laces it to sweeper cover
+4192~2~Henry to bowl out. Can he snap this threatening stand?
+4192~2~
+4192~2~END OF OVER:39 | 6 Runs | ENG: 162/4 (80 runs required from 66 balls, RR: 4.15, RRR: 7.27)
+4192~2~Ben Stokes
+4192~2~41 (65b)
+4192~2~Jos Buttler
+4192~2~36 (42b)
+4192~2~Lockie Ferguson
+4192~2~6-0-29-1
+4192~2~James Neesham
+4192~2~4-0-23-1
+4192~2~
+4192~2~39.2
+4192~2~0
+4192~2~Henry to Stokes, no run, looks like the offcutter from Henry, grips and bounces outside off, Stokes arches his back and gets out of the way of harm
+4192~2~
+4192~2~39.3
+4192~2~1
+4192~2~Henry to Stokes, 1 run, back of a length and on the hips, tucked away to deep midwicket
+4192~2~
+4192~2~39.4
+4192~2~1
+4192~2~Henry to Buttler, 1 run, short at the hips, nudged through square leg for one more
+4192~2~Deep midwicket, sweeper cover, third man, fine leg - the outfielders against Buttler
+4192~2~
+4192~2~
+4192~2~39.5
+4192~2~1
+4192~2~Henry to Stokes, 1 run, back of a length and angling in on a fourth-stump line, no movement in the air or off the seam, forced down to long-on
+4192~2~
+4192~2~39.6
+4192~2~4
+4192~2~Henry to Buttler, FOUR runs, There goes Jos the Boss. Third man is in the deep, but it does not matter as long as you can scoop the ball fine of him. Fullish and outside off, Buttler, premeditated, jumped a long way across off and Buttler-ed it away to the boundary. Buh-bye, Henry
+4192~2~
+4192~2~40.1
+4192~2~0
+4192~2~Ferguson to Stokes, no run, mighty full and angling across off from over the wicket, stabbed back to the left of Ferguson
+4192~2~England need 72 off the last 10 overs
+4192~2~
+4192~2~END OF OVER:40 | 8 Runs | ENG: 170/4 (72 runs required from 60 balls, RR: 4.25, RRR: 7.20)
+4192~2~Jos Buttler
+4192~2~42 (45b)
+4192~2~Ben Stokes
+4192~2~43 (68b)
+4192~2~Matt Henry
+4192~2~10-2-40-1
+4192~2~Lockie Ferguson
+4192~2~6-0-29-1
+4192~2~
+4192~2~40.2
+4192~2~0
+4192~2~Ferguson to Stokes, no run, dug in shorter and fizzing away outside off, Stokes rises on top of the bounce and punches the ball to short cover
+4192~2~
+4192~2~40.3
+4192~2~0
+4192~2~Ferguson to Stokes, no run, back of a length on middle, 145ks, Stokes jabs it right back to Ferguson
+4192~2~
+4192~2~40.4
+4192~2~1w
+4192~2~Ferguson to Stokes, 1 wide, short and shoved down the leg side. Is the pressure getting to Ferguson and NZ?
+4192~2~WATCH - New Zealand lose review trying to get Buttler lbw (Australia, UK and SEA only)
+4192~2~
+4192~2~Nayeem: "With Woakes, Plunkett, Rashid, and Archer to follow, this is England's game to lose. What a game for a neutral. "
+4192~2~
+4192~2~
+4192~2~40.4
+4192~2~1
+4192~2~Ferguson to Stokes, 1 run, short on the hips, Stokes picks it away to deep midwicket off the back foot
+4192~2~
+4192~2~40.5
+4192~2~0
+4192~2~Ferguson to Buttler, no run, rapid bouncer outside off, 147ks, Buttler thinks about a hook, but bails out belatedly and rocks out of the way. Prancing delivery from Ferguson
+4192~2~
+4192~2~40.6
+4192~2~1
+4192~2~Ferguson to Buttler, 1 run, slower full ball on middle, barely 125ks, tapped down to long-on
+4192~2~
+4192~2~41.1
+4192~2~1
+4192~2~Neesham to Buttler, 1 run, slower legcutter outside off, 112ks, Buttler smears it away to sweeper cover
+4192~2~Refah Mahaboob: "Stokes and Buttler could be the heroes Pant and Pandya weren't. Last phase of the world cup coming up."
+4192~2~
+4192~2~END OF OVER:41 | 3 Runs | ENG: 173/4 (69 runs required from 54 balls, RR: 4.21, RRR: 7.66)
+4192~2~Jos Buttler
+4192~2~43 (47b)
+4192~2~Ben Stokes
+4192~2~44 (72b)
+4192~2~Lockie Ferguson
+4192~2~7-0-32-1
+4192~2~Matt Henry
+4192~2~10-2-40-1
+4192~2~
+4192~2~41.2
+4192~2~0
+4192~2~Neesham to Stokes, no run, full around off from round the wicket, whisked away but Taylor swoops down on the ball at short midwicket
+4192~2~
+4192~2~41.3
+4192~2~2
+4192~2~Neesham to Stokes, 2 runs, full and angling into the pads, picked away between long leg and deep midwicket
+4192~2~Vineet Pandey: "The hopes of Kiwis singing "London bridge is falling down" is diminishing with the continuation of this partnership . "
+4192~2~
+4192~2~
+4192~2~41.4
+4192~2~0
+4192~2~Neesham to Stokes, no run, terrific inswinging yorker, Stokes topples over and falls on the floor. But he manages to stab it out to the leg side
+4192~2~
+4192~2~41.5
+4192~2~0
+4192~2~Neesham to Stokes, no run, Neesham searches for another inswinging yorker, he misses it marginally, Stokes can't flick it away and wears it on the pad
+4192~2~
+4192~2~41.6
+4192~2~1
+4192~2~Neesham to Stokes, 1 run, slower, short ball outside off, Stokes sizes it up and smites it off the back foot to sweeper cover
+4192~2~
+4192~2~42.1
+4192~2~1
+4192~2~Ferguson to Stokes, 1 run, short and angling across off, punched to Williamson hanging back at mid-off. Williamson can't throw the stumps down from the edge of the circle
+4192~2~END OF OVER:42 | 4 Runs | ENG: 177/4 (65 runs required from 48 balls, RR: 4.21, RRR: 8.12)
+4192~2~Ben Stokes
+4192~2~47 (77b)
+4192~2~Jos Buttler
+4192~2~44 (48b)
+4192~2~James Neesham
+4192~2~5-0-27-1
+4192~2~Lockie Ferguson
+4192~2~7-0-32-1
+4192~2~
+4192~2~42.2
+4192~2~1
+4192~2~Ferguson to Buttler, 1 run, a bit too full and outside off, Buttler drills it away straight of Henry at long-on
+4192~2~Supraja: "Seems Eng learned from mistakes did by IND while chasing. It is nice see the way they are taking this chase. I dont think ENG will loose anymore wicket. These two should chase down the remaining score."
+4192~2~
+4192~2~
+4192~2~42.3
+4192~2~0
+4192~2~Ferguson to Stokes, no run, lifter, angling across off, 143ks, Stokes watches it before ducking under it
+4192~2~
+4192~2~42.4
+4192~2~1
+4192~2~Ferguson to Stokes, 1 run, another top yorker on off, this time from Ferguson, jabbed down to mid-off
+4192~2~
+4192~2~42.5
+4192~2~2
+4192~2~Ferguson to Buttler, 2 runs, Buttler is a freak. Really full on middle, slower ball at 112ks. Buttler had jumped across off, but he delays his scoop and gets it away fine of long leg
+4192~2~
+4192~2~42.6
+4192~2~1
+4192~2~Ferguson to Buttler, 1 run, full and wide, Ferguson cranks up to 148ks, Buttler reaches out for the ball and scythes it down to deep third man
+4192~2~Supraja: "Seems Eng learned from mistakes did by IND while chasing. It is nice see the way they are taking this chase. I dont think ENG will loose anymore wicket. These two should chase down the remaining score."
+4192~2~
+4192~2~
+4192~2~43.1
+4192~2~0
+4192~2~Boult to Buttler, no run, fullish on off from over the wicket, struck to short cover off the front foot
+4192~2~NZ's seniors Williamson, Taylor and Latham get together. Boult has been drafted back into the attack. Left-arm over
+4192~2~
+4192~2~END OF OVER:43 | 6 Runs | ENG: 183/4 (59 runs required from 42 balls, RR: 4.25, RRR: 8.42)
+4192~2~Jos Buttler
+4192~2~48 (51b)
+4192~2~Ben Stokes
+4192~2~49 (80b)
+4192~2~Lockie Ferguson
+4192~2~8-0-38-1
+4192~2~James Neesham
+4192~2~5-0-27-1
+4192~2~
+4192~2~43.2
+4192~2~4
+4192~2~Boult to Buttler, FOUR runs, pitched up and on off stump, Buttler clears his front leg and launches it like a bazooka. Up and over midwicket. Buttler raises cool fifty under pressure
+4192~2~Sweepers on either side, deep third man, deep fine leg
+4192~2~
+4192~2~43.3
+4192~2~0
+4192~2~Boult to Buttler, no run, shorter and climbs steeply outside off as Buttler has a crack at it...and misses
+4192~2~
+4192~2~43.4
+4192~2~1
+4192~2~Boult to Buttler, 1 run, very full on middle, Buttler responds with a jabbing drive to mid-off
+4192~2~
+4192~2~43.5
+4192~2~1
+4192~2~Boult to Stokes, 1 run, full-toss on off, stabbed down to long-on and Stokes gets to a half-century of his own. He barely celebrates
+4192~2~
+4192~2~43.6
+4192~2~0
+4192~2~Boult to Buttler, no run, pinpoint leg-stump yorker, Buttler manages to dig it out to cover
+4192~2~
+4192~2~44.1
+4192~2~1
+4192~2~Ferguson to Stokes, 1 run, slower ball on leg stump, shortish, Stokes swivels into a pull and drags the ball to long leg
+4192~2~END OF OVER:44 | 6 Runs | ENG: 189/4 (53 runs required from 36 balls, RR: 4.29, RRR: 8.83)
+4192~2~Jos Buttler
+4192~2~53 (56b)
+4192~2~Ben Stokes
+4192~2~50 (81b)
+4192~2~Trent Boult
+4192~2~8-0-43-0
+4192~2~Lockie Ferguson
+4192~2~8-0-38-1
+4192~2~
+4192~2~44.2
+4192~2~4
+4192~2~Ferguson to Buttler, FOUR runs, full-toss outside off, Buttler gets his hands low once again and hoists it up and over a leaping extra-cover. Low hands, high impact from Buttler
+4192~2~
+4192~2~44.3
+4192~2~2
+4192~2~Ferguson to Buttler, 2 runs, Boult tears across from square-ish third man, slides on his knees and cuts it off. Outstanding work in the deep from Boult. This was the slower variation from Ferguson. Full and outside off, carved away. This was destined to reach the boundary until Boult intervened
+4192~2~
+4192~2~44.4
+4192~2~0
+4192~2~Ferguson to Buttler, no run, lifter outside off, gets big on Buttler, who aims to force it through the off side. No dice. Beaten
+4192~2~
+4192~2~44.5
+4192~2~W
+4192~2~Ferguson to Buttler, OUT, It's that man Lockie Ferguson who breaks the stand and the game open for New Zealand. Buttler holes out to Southee, the sub, at sweeper cover. Slower variation once again from Ferguson, 123ks, full and outside off. He asks Buttler to manufacture the pace for himself. Buttler just skews it in the air. Southee initially misjudged the flight of the ball. He moved to his left, then to his right, then sprinted in to grab a pressure catch sliding on his knees
+4192~2~JC Buttler c sub (TG Southee) b Ferguson 59 (94m 60b 6x4 0x6) SR: 98.33
+4192~2~
+4192~2~
+4192~2~44.6
+4192~2~0
+4192~2~Ferguson to Stokes, no run, short and zipping away outside off, Ferguson ramps the pace and beats the outside edge. Stokes aims to dink it down to third man, but nah you can't touch it
+4192~2~Woakes in at No.7
+4192~2~
+4192~2~
+4192~2~45.1
+4192~2~0
+4192~2~Neesham to Woakes, no run, good length and angling in at off stump, gently dabbed to point
+4192~2~END OF OVER:45 | 7 Runs 1 Wkt | ENG: 196/5 (46 runs required from 30 balls, RR: 4.35, RRR: 9.20)
+4192~2~Ben Stokes
+4192~2~51 (83b)
+4192~2~Chris Woakes
+4192~2~0 (0b)
+4192~2~Lockie Ferguson
+4192~2~9-0-45-2
+4192~2~Trent Boult
+4192~2~8-0-43-0
+4192~2~
+4192~2~45.2
+4192~2~1
+4192~2~Neesham to Woakes, 1 run, slower ball, full on middle, Woakes can't quite get underneath it. Hit straight of long-on
+4192~2~
+4192~2~45.3
+4192~2~0
+4192~2~Neesham to Stokes, no run, back of a length and angling in to catch the pad. Stokes has an almighty leg-side mow, loses his shape and does not make contact. Off the pad and wanders away towards point
+4192~2~
+4192~2~45.4
+4192~2~1
+4192~2~Neesham to Stokes, 1 run, slower and wide outside off - wider than a set of stumps outside off - slashed away to sweeper cover
+4192~2~
+4192~2~45.5
+4192~2~1
+4192~2~Neesham to Woakes, 1 run, slower ball outside off, Woakes stays leg-side of the ball and slices it down to deep third man
+4192~2~Vijay : "Come on Kiwis. You can KANE "
+4192~2~
+4192~2~
+4192~2~45.6
+4192~2~4
+4192~2~Neesham to Stokes, FOUR runs, pretty full and slanting in at off stump, Stokes brings his bottom hand into play and shovels it away to the right of deep midwicket. Almost looked like the left-hander's version of Dhoni's helicopter. Muscled away
+4192~2~
+4192~2~46.1
+4192~2~W
+4192~2~Ferguson to Woakes, OUT, Two in two for Ferguson! Is this the game? Banged in short on off stump, rushes Woakes for pace, and draws a top-edge as the batsman sets up for a hook. The ball drops from the London skies, a nervous Latham makes a fairly simple catch looks difficult. He keeps his eyes on the ball and clings onto it in the end
+4192~2~CR Woakes c Latham(wk) b Ferguson 2 (8m 4b 0x4 0x6) SR: 50.00
+4192~2~
+4192~2~END OF OVER:46 | 7 Runs | ENG: 203/5 (39 runs required from 24 balls, RR: 4.41, RRR: 9.75)
+4192~2~Ben Stokes
+4192~2~56 (86b)
+4192~2~Chris Woakes
+4192~2~2 (3b)
+4192~2~James Neesham
+4192~2~6-0-34-1
+4192~2~Lockie Ferguson
+4192~2~9-0-45-2
+4192~2~
+4192~2~46.2
+4192~2~1
+4192~2~Ferguson to Stokes, 1 run, short and angling across off, spliced to Williamson at the edge of the circle at mid-off
+4192~2~
+4192~2~46.3
+4192~2~0
+4192~2~Ferguson to Plunkett, no run, delightful offcutter from Ferguson, 122ks, grips and sneaks in, beating the inside edge
+4192~2~
+4192~2~46.4
+4192~2~0
+4192~2~Ferguson to Plunkett, no run, another slower ball on middle, picked away straight to midwicket
+4192~2~
+4192~2~46.5
+4192~2~4
+4192~2~Ferguson to Plunkett, FOUR runs, back of a length and angling into middle, Plunkett sizes it up and slugs it over midwicket. He absolutely middled that, Plunkett
+4192~2~
+4192~2~46.6
+4192~2~0
+4192~2~Ferguson to Plunkett, no run, Ferguson finishes his spell with another magical slower ball outside off, Plunkett does not spot it. He swings waaaaay too early, loses his shape, and watches the ball float to Latham
+4192~2~Midwicket whisked to the deep now
+4192~2~
+4192~2~
+4192~2~47.1
+4192~2~4
+4192~2~Boult to Stokes, FOUR runs, muscled away between deep midwicket and deep square leg. Boult searches for a yorker, but misses his length marginally. Stokes gets under it and launches it over the boundary like a boss
+4192~2~WATCH - Substitute Southee takes superb catch to dismiss Buttler (Australia, UK and SEA only). Here is Boult from over the wicket
+4192~2~
+4192~2~END OF OVER:47 | 5 Runs 1 Wkt | ENG: 208/6 (34 runs required from 18 balls, RR: 4.42, RRR: 11.33)
+4192~2~Liam Plunkett
+4192~2~4 (4b)
+4192~2~Ben Stokes
+4192~2~57 (87b)
+4192~2~Lockie Ferguson
+4192~2~10-0-50-3
+4192~2~James Neesham
+4192~2~6-0-34-1
+4192~2~
+4192~2~47.2
+4192~2~1
+4192~2~Boult to Stokes, 1 run, near-yorker on leg stump, squeezed away behind square. Henry hunts down the ball at long leg
+4192~2~
+4192~2~47.3
+4192~2~2
+4192~2~Boult to Plunkett, 2 runs, length ball on middle, clubbed away to the right of long-on. Santner swoops to his right and collects the ball. He made a similar superb stop at the edge of the boundary against India. NZ are switched on under pressure. Stokes stands between them and WC glory
+4192~2~
+4192~2~47.4
+4192~2~0
+4192~2~Boult to Plunkett, no run, short and angling across off stump, Plunkett aims to bosh it over the leg side. He can't touch it and that's a dot
+4192~2~
+4192~2~47.5
+4192~2~2
+4192~2~Boult to Plunkett, 2 runs, full-toss on leg stump, Plunkett pumps it in the air, but it does not carry to Santner at long-on. He tears across to his left and collects the ball
+4192~2~
+4192~2~47.6
+4192~2~1
+4192~2~Boult to Plunkett, 1 run, middle-stump yorker from Boult, squeezed down to long-on. Santner in the thick of the action once again. He hunts down the ball and keeps it to one
+4192~2~
+4192~2~48.1
+4192~2~1
+4192~2~Neesham to Plunkett, 1 run, slower legcutter, finishes on leg stump, hauled away to the left of deep midwicket. Nicholls moves swiftly to his left and gathers the ball in the outfield
+4192~2~England need 24 from 12. Plunkett on strike. Williamson #Unleash(es)theNeesh. Try to breathe if you can...
+4192~2~
+4192~2~END OF OVER:48 | 10 Runs | ENG: 218/6 (24 runs required from 12 balls, RR: 4.54, RRR: 12.00)
+4192~2~Liam Plunkett
+4192~2~9 (8b)
+4192~2~Ben Stokes
+4192~2~62 (89b)
+4192~2~Trent Boult
+4192~2~9-0-53-0
+4192~2~Lockie Ferguson
+4192~2~10-0-50-3
+4192~2~
+4192~2~48.2
+4192~2~1
+4192~2~Neesham to Stokes, 1 run, inch-perfect leg-stump yorker, floors Stokes, clipped to deep square leg. Neesham gets Stokes off the strike
+4192~2~Round the wicket
+4192~2~
+4192~2~
+4192~2~48.3
+4192~2~W
+4192~2~Neesham to Plunkett, OUT, Legcutter from Neesham, 114ks, Plunkett aims to launch it over long-off. Nope, he can't clear Boult at the boundary. This was full and outside off, Plunkett got underneath it and swung it in the air... but was done in by the lack of pace
+4192~2~LE Plunkett c Boult b Neesham 10 (13m 10b 1x4 0x6) SR: 100.00
+4192~2~
+4192~2~
+4192~2~48.4
+4192~2~6
+4192~2~Neesham to Stokes, SIX runs, Is that six? Yes it is! Crazy scenes at Lord's. Boult nearly pulls off a hokey-pokey catch at the edge of the midwicket boundary. He catches the ball near the boundary, but well the momentum takes his over the ad boards. His foot is on the ad board as he relays the ball to Guptill. Fine margins. It could have been a match-winning catch. Instead, it's a six. Stokes manufactures some swinging room, full on the stumps, Stokes belts it in the air...
+4192~2~England need 22 off nine balls. Here comes Jofra Archer
+4192~2~
+4192~2~
+4192~2~48.5
+4192~2~1
+4192~2~Neesham to Stokes, 1 run, back of a length on middle stump, punched down to long-on. Just a single for Stokes
+4192~2~
+4192~2~48.6
+4192~2~W
+4192~2~Neesham to Archer, OUT, Archer bags a first-ball duck in the final. Pressure can make you do strange things. Another legcutter variation, full on middle, Archer does not spot it. He swings for the hills, deflects this slower ball off the pad onto the stumps
+4192~2~JC Archer b Neesham 0 (5m 1b 0x4 0x6) SR: 0.00
+4192~2~
+4192~2~
+4192~2~49.1
+4192~2~0
+4192~2~Boult to Stokes, no run, yorker just outside off, jabbed to the left of extra-cover. Stokes keeps the strike as Williamson swoops down on the ball
+4192~2~Right, it's down to England needing 15 off the last over
+4192~2~
+4192~2~END OF OVER:49 | 9 Runs 2 Wkts | ENG: 227/8 (15 runs required from 6 balls, RR: 4.63, RRR: 15.00)
+4192~2~Ben Stokes
+4192~2~70 (92b)
+4192~2~James Neesham
+4192~2~7-0-43-3
+4192~2~Trent Boult
+4192~2~9-0-53-0
+4192~2~
+4192~2~49.2
+4192~2~0
+4192~2~Boult to Stokes, no run, mighty full and outside off, not quite a perfect yorker, jabbed more or less straight to Williamson at extra-cover
+4192~2~
+4192~2~49.3
+4192~2~6
+4192~2~Boult to Stokes, SIX runs, Whacked over midwicket. Lord's raises itself to a massive roar. Boult ditches the yorker. Slower ball, full and outside off, in the slot. Stokes drops down to one knee and smokes a slog-sweep over midwicket
+4192~2~
+4192~2~49.4
+4192~2~6
+4192~2~Boult to Stokes, 6 runs, It's all happening at Lord's. Full-toss on middle, smeared away to deep midwicket. Guptill attacks the ball and sets himself up for a direct hit. It might have well been a direct hit had Stokes not inadvertently deflected it away with his outstretched bat, diving forward to save himself from being run-out. The deflection ensures the ball tickles away to the boundary. It's six runs in the end. Wouldya believe it? It's ridiculous
+4192~2~
+4192~2~49.5
+4192~2~W
+4192~2~Boult to Stokes, 1 run, OUT, middle-stump yorker, Stokes backs away outside leg and stabs it down to long-off. Santner hunts down the ball at long-off and throws it to Boult, who takes the bails off in ice-cool fashion. Stokes had to go for the second, he had to be on strike, but Rashid is caught short by a long way. Gone for a duck without facing a ball
+4192~2~AU Rashid run out (Santner/Boult) 0 (7m 0b 0x4 0x6)
+4192~2~
+4192~2~England need 3 off 2 balls. Williamson chats with Boult, he is slowing things down
+4192~2~
+4192~2~
+4192~2~49.6
+4192~2~W
+4192~2~Boult to Stokes, 1 run, OUT, Holy Moly! It's a freaking tie. We're not done yet. We will have a Super Over to decide the winner of the 2019 World Cup. This is a full-toss on middle, Boult searches for the yorker, but can't get it right, hacked down to long-on. The fielder hares in, gathers the ball. Stokes tears back for the second, Wood dishes out a desperate full-length dive, but the throw is to the bowler's end and Wood is caught metres short
+4192~2~MA Wood run out (Neesham/Boult) 0 (3m 0b 0x4 0x6)
+4192~2~
+4192~2~Okay, it's down to 2 off 1 ball. Breathe
+4192~2~
+4192~2~
+4192~2~

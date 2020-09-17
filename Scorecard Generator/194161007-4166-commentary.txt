@@ -1,0 +1,3614 @@
+4166~1~Team 1: Aaron Finch (c)!AJ Finch(c), David Warner!DA Warner, Usman Khawaja!UT Khawaja, Steven Smith!SPD Smith, Glenn Maxwell!GJ Maxwell, Marcus Stoinis!MP Stoinis, Alex Carey (wk)!AT Carey(wk), Nathan CoulterNile!NM CoulterNile, Pat Cummins!PJ Cummins, Mitchell Starc!MA Starc, Adam Zampa!A Zampa
+4166~1~Team 2: Tamim Iqbal!Tamim Iqbal, Soumya Sarkar!Soumya Sarkar, Shakib Al Hasan!Shakib Al Hasan, Mushfiqur Rahim (wk)!Mushfiqur Rahim(wk), Liton Das!Liton Das, Mahmudullah!Mahmudullah, Sabbir Rahman!Sabbir Rahman, Mashrafe Mortaza (c)!Mashrafe Mortaza(c), Mehidy Hasan Miraz!Mehidy Hasan, Rubel Hossain!Rubel Hossain, Mustafizur Rahman!Mustafizur Rahman
+4166~1~0.1
+4166~1~0
+4166~1~Mashrafe Mortaza to Warner, no run, short outside off stump, he gets up on his toes and back foot drives to cover-point
+4166~1~
+4166~1~0.2
+4166~1~0
+4166~1~Mashrafe Mortaza to Warner, no run, 129kph, good length, hint of shape back, he defends in a compact position from the crease
+4166~1~
+4166~1~0.3
+4166~1~0
+4166~1~Mashrafe Mortaza to Warner, no run, 125kph, back of a length wide of off, cross seam delivery, he punches firmly off the back foot straight to cover
+4166~1~
+4166~1~Golam Rabbix: "If Mashrafe and Rubel could tight bowling and make some breakthrough then the momentum could come to us and got fizz in the slog. Khelbe tiger,jitbe tiger "
+4166~1~
+4166~1~0.4
+4166~1~1
+4166~1~Mashrafe Mortaza to Warner, 1 run, 123kph, good length fourth stump, he's caught on the crease, with an angled bat, chops an inside edge between his legs into the leg side for a single
+4166~1~
+4166~1~0.5
+4166~1~4
+4166~1~Mashrafe Mortaza to Finch, FOUR runs, 125kph, angled into the pad and he clips this behind square with incredible timing! Just a little flick off the hip wide of fine leg and it raced to the rope. He is in some touch
+4166~1~
+4166~1~0.6
+4166~1~0
+4166~1~Mashrafe Mortaza to Finch, no run, 127kph, fuller outside off, he drives on the rise, timing it well but Shakib makes a very good diving stop at cover-point
+4166~1~
+4166~1~1.1
+4166~1~0
+4166~1~Mustafizur Rahman to Warner, no run, 131kph, full and shaping away from the left hander who leaves
+4166~1~
+4166~1~The Fiz. Mustafizur Rahman begins from the other end. One slip in
+4166~1~END OF OVER:1 | 5 Runs | AUS: 5/0 | RR: 5.00
+4166~1~
+4166~1~    Aaron Finch4 (2b)
+4166~1~    David Warner1 (4b)
+4166~1~
+4166~1~    Mashrafe Mortaza1-0-5-0
+4166~1~
+4166~1~
+4166~1~1.2
+4166~1~4
+4166~1~Mustafizur Rahman to Warner, FOUR runs, just a neat back foot punch through point! He just blocked this. It was short of a length outside off and he bunted it and it flew to the rope through point
+4166~1~
+4166~1~1.3
+4166~1~0
+4166~1~Mustafizur Rahman to Warner, no run, 135kph, back of a length, some bounce outside off, and he leaves late
+4166~1~
+4166~1~1.4
+4166~1~0
+4166~1~Mustafizur Rahman to Warner, no run, 132kph, short of a length, climbing, he's up on his toes defending to cover
+4166~1~
+4166~1~The Fiz has seven wickets for the tournament but hasn't taken a wicket in the first 30 overs of any game yet.
+4166~1~
+4166~1~1.5
+4166~1~0
+4166~1~Mustafizur Rahman to Warner, no run, 137kph, back of a length, nipping in, strikes him on the thigh pad
+4166~1~
+4166~1~1.6
+4166~1~0
+4166~1~Mustafizur Rahman to Warner, no run, 132kph, short and wide, asked to hit and he cuts it straight to point. Missed out there
+4166~1~
+4166~1~2.1
+4166~1~0
+4166~1~Mashrafe Mortaza to Finch, no run, 127kph, short of a length outside off, he stands up and punches back to the bowler
+4166~1~END OF OVER:2 | 4 Runs | AUS: 9/0 | RR: 4.50
+4166~1~
+4166~1~    David Warner5 (10b)
+4166~1~    Aaron Finch4 (2b)
+4166~1~
+4166~1~    Mustafizur Rahman1-0-4-0
+4166~1~    Mashrafe Mortaza1-0-5-0
+4166~1~
+4166~1~Rafiq Fahim : "Rubel could be the key today... Fans from Bangladeshexpected Rubel From the 2nd game. Today he is included. Lets see.. " Extra pace could be useful.
+4166~1~
+4166~1~2.2
+4166~1~0
+4166~1~Mashrafe Mortaza to Finch, no run, 125kph, back of a length, top of off, he defends firmly off the back foot
+4166~1~
+4166~1~Ahmad P: "In mashrafe's bowling their is no pace and no real penetration but their is a lot of heart and a lot of effort and i like that. "
+4166~1~
+4166~1~2.3
+4166~1~1
+4166~1~Mashrafe Mortaza to Finch, 1 run, good length, fourth stump line, he's half forward pushing this wide of mid on for a single
+4166~1~
+4166~1~2.4
+4166~1~0
+4166~1~Mashrafe Mortaza to Warner, no run, 124kph, short of a length angled in, he's cramped trying to pull and can't beat the man in the ring at forward square
+4166~1~
+4166~1~2.5
+4166~1~1
+4166~1~Mashrafe Mortaza to Warner, 1 run, 112kph, slower ball on off, he sits back and works this with his wrists to square leg
+4166~1~
+4166~1~2.6
+4166~1~1lb
+4166~1~Mashrafe Mortaza to Finch, 1 leg bye, 116kph, slower ball cutter, it grips and takes him on the thigh pad, rolling to midwicket for a leg bye
+4166~1~
+4166~1~Supradeep: "Good afternoon Alex. Just in. The injuries seem like a blessing in disguise for the tigers. Sabbir would be a very valuable addition. He is a fearless cricketer and very talented. Looking forward to his batting to make difference. Not before The Fizz and Shakib can make life diffucult for the Kangaroos!"
+4166~1~
+4166~1~3.1
+4166~1~0
+4166~1~Mustafizur Rahman to Finch, no run, 139kph, fuller length, angled across, no shape back, Finch wisely leaves
+4166~1~END OF OVER:3 | 3 Runs | AUS: 12/0 | RR: 4.00
+4166~1~
+4166~1~    Aaron Finch5 (6b)
+4166~1~    David Warner6 (12b)
+4166~1~
+4166~1~    Mashrafe Mortaza2-0-7-0
+4166~1~    Mustafizur Rahman1-0-4-0
+4166~1~
+4166~1~ESPNcricinfo's readers can now watch the game LIVE on Hotstar. Click here if you're in India, or here if you're in the US.
+4166~1~
+4166~1~3.2
+4166~1~1w
+4166~1~Mustafizur Rahman to Finch, 1 wide, 135kph, back of a length down leg, he tries to glance but misses and it's called wide
+4166~1~
+4166~1~Great atmosphere. Huge support for the Tigers.
+4166~1~
+4166~1~3.2
+4166~1~1
+4166~1~Mustafizur Rahman to Finch, 1 run, 137kph, full on the pads, he glances this easily away to fine leg
+4166~1~
+4166~1~3.3
+4166~1~0
+4166~1~Mustafizur Rahman to Warner, no run, 136kph, full outside off, hint of shape away, he pushes on the move off the outside half of the bat to backward point
+4166~1~
+4166~1~3.4
+4166~1~0
+4166~1~Mustafizur Rahman to Warner, no run, 139kph, good length, angling in, he's defending from the crease to midwicket
+4166~1~
+4166~1~3.5
+4166~1~4
+4166~1~Mustafizur Rahman to Warner, FOUR runs, 139kph, but straying down leg and he tickles this fine to silence the crowd! Easy pickings. Too straight
+4166~1~
+4166~1~3.6
+4166~1~0
+4166~1~Mustafizur Rahman to Warner, no run, short and wide, he's back and thumping a cut to cover-point but can't beat Shakib on the circle
+4166~1~
+4166~1~4.1
+4166~1~6
+4166~1~Mashrafe Mortaza to Finch, SIX runs, launched over cover! This was floated up outside off and Finch climbed in, opening up the hips and slicing this up and over cover! That is a superb stroke
+4166~1~END OF OVER:4 | 6 Runs | AUS: 18/0 | RR: 4.50
+4166~1~
+4166~1~    David Warner10 (16b)
+4166~1~    Aaron Finch6 (8b)
+4166~1~
+4166~1~    Mustafizur Rahman2-0-10-0
+4166~1~    Mashrafe Mortaza2-0-7-0
+4166~1~
+4166~1~
+4166~1~4.2
+4166~1~0
+4166~1~Mashrafe Mortaza to Finch, no run, good length, fourth stump line, he defends from the crease to cover
+4166~1~
+4166~1~4.3
+4166~1~1
+4166~1~Mashrafe Mortaza to Finch, 1 run, 126kph, back of a length on middle, he is back and whipping this to the deep square that is in place
+4166~1~
+4166~1~4.4
+4166~1~0
+4166~1~Mashrafe Mortaza to Warner, no run, 127kph, good length outside off, he defends half forward to cover-point
+4166~1~
+4166~1~4.5
+4166~1~0
+4166~1~Mashrafe Mortaza to Warner, no run, back of a length, 114kph slower ball, stays a touch low and Warner punches off the toe of the bat to mid off
+4166~1~
+4166~1~4.6
+4166~1~2
+4166~1~Mashrafe Mortaza to Warner, 2 runs, dropped at backward point! This was short and wide, he went back and cut it the air and the man at backward point didn't pick it up. He got both hands to it low to his right but it burst through. Sabbir the man. He didn't pick it up out of the crowd
+4166~1~
+4166~1~5.1
+4166~1~1
+4166~1~Mustafizur Rahman to Finch, 1 run, 141kph, good length angled across he hangs the bat out and it runs off the thick outside edge to third man
+4166~1~END OF OVER:5 | 9 Runs | AUS: 27/0 | RR: 5.40
+4166~1~
+4166~1~    David Warner12 (19b)
+4166~1~    Aaron Finch13 (11b)
+4166~1~
+4166~1~    Mashrafe Mortaza3-0-16-0
+4166~1~    Mustafizur Rahman2-0-10-0
+4166~1~
+4166~1~
+4166~1~5.2
+4166~1~1lb
+4166~1~Mustafizur Rahman to Warner, 1 leg bye, back of a length, nipping into the thigh pad and it goes behind square for a leg bye
+4166~1~
+4166~1~5.3
+4166~1~1
+4166~1~Mustafizur Rahman to Finch, 1 run, 137kph, half volley, but Finch hangs back and doesn't move his feet, plays a back foot drive wide of mid off for a single
+4166~1~
+4166~1~5.4
+4166~1~0
+4166~1~Mustafizur Rahman to Warner, no run, 135kph, short ball, lifting over off, Warner sways back a touch and lets it fly past his chest
+4166~1~
+4166~1~5.5
+4166~1~1
+4166~1~Mustafizur Rahman to Warner, 1 run, 137kph, full into leg stump, he glances this with the angle to fine leg
+4166~1~
+4166~1~5.6
+4166~1~0
+4166~1~Mustafizur Rahman to Finch, no run, play and miss, a waft outside off at a 136kph length ball angled across. Not a good shot.
+4166~1~
+4166~1~6.1
+4166~1~0
+4166~1~Mashrafe Mortaza to Warner, no run, thick inside edge to short fine. Wasn't far from leg stump. That was 125kph, angled in, the bat was angled a touch defending from the crease but the inside edge was thick enough
+4166~1~
+4166~1~Suraj: "Why Mortaza always started bowling himself, there is no pace variation and anything in his bowling, still got only one wicket in whole world cup. Why not he try others to bowl and take breakthrough" Just had Warner dropped. He will continue.
+4166~1~END OF OVER:6 | 4 Runs | AUS: 31/0 | RR: 5.16
+4166~1~
+4166~1~    Aaron Finch15 (14b)
+4166~1~    David Warner13 (22b)
+4166~1~
+4166~1~    Mustafizur Rahman3-0-13-0
+4166~1~    Mashrafe Mortaza3-0-16-0
+4166~1~
+4166~1~
+4166~1~6.2
+4166~1~0
+4166~1~Mashrafe Mortaza to Warner, no run, fuller, angled into off, he defends half forward to midwicket
+4166~1~
+4166~1~6.3
+4166~1~0
+4166~1~Mashrafe Mortaza to Warner, no run, 126kph, back of a length, he tries to pull but chops it off the bottom edge onto pad
+4166~1~
+4166~1~6.4
+4166~1~4
+4166~1~Mashrafe Mortaza to Warner, FOUR runs, punches off the back foot wide of mid off! Nothing wrong there. A lovely flow of the bat as it sat up from back of a length and he placed it perfectly
+4166~1~
+4166~1~HarishVaranasi : "Problem with Warner is not the slow strike rate now, it's his slow strike rate after the first 10 overs. Hope he amends this aspect of his game today. Run a ball works too !" He's battling for rhythm and form. No doubt.
+4166~1~
+4166~1~6.5
+4166~1~0
+4166~1~Mashrafe Mortaza to Warner, no run, short and wide, again he cracks a cut straight to cover-point. That's the third time he's done that
+4166~1~
+4166~1~6.6
+4166~1~1
+4166~1~Mashrafe Mortaza to Warner, 1 run, short slower ball, 114kph, he waits and plays a controlled pull behind square, he wants two but Shakib is quick to the ball in the deep
+4166~1~
+4166~1~7.1
+4166~1~1
+4166~1~Mustafizur Rahman to Warner, 1 run, full on middle, he plays a very nice drive straight of mid off but Rubel makes a superb diving save on the circle. Saved three runs
+4166~1~END OF OVER:7 | 5 Runs | AUS: 36/0 | RR: 5.14
+4166~1~
+4166~1~    David Warner18 (28b)
+4166~1~    Aaron Finch15 (14b)
+4166~1~
+4166~1~    Mashrafe Mortaza4-0-21-0
+4166~1~    Mustafizur Rahman3-0-13-0
+4166~1~
+4166~1~
+4166~1~7.2
+4166~1~0
+4166~1~Mustafizur Rahman to Finch, no run, 135kph, full outside off, he sits back and plays a back foot drive but picks out cover
+4166~1~
+4166~1~7.3
+4166~1~1
+4166~1~Mustafizur Rahman to Finch, 1 run, 124kph, slower ball outside off, he sits back and mistimes a back foot drive to mid off on the circle who is deep. Easy one
+4166~1~
+4166~1~7.4
+4166~1~6
+4166~1~Mustafizur Rahman to Warner, SIX runs, hooked over square leg! 134kph good bouncer, but he picked the length quicker this time, swivelled and smashed it flat over square into the crowd! That was crunched.
+4166~1~
+4166~1~7.5
+4166~1~0
+4166~1~Mustafizur Rahman to Warner, no run, full slower ball, 126kph, he drives very nicely but straight to mid off
+4166~1~
+4166~1~Ball has been sorted. We're ready to go again.
+4166~1~
+4166~1~The ball landed on concrete and has been damaged. They might need to replace it.
+4166~1~
+4166~1~7.6
+4166~1~0
+4166~1~Mustafizur Rahman to Warner, no run, a cracking bouncer, a different angle, Warner drops to his knee to sway under it
+4166~1~
+4166~1~Parikshit: "Well probably Warner has been given this role of being the anchor of the innings... Otherwise it is hard to imagine that he has lost his skill..That when he played so well in the IPL couple of months back" Mustafizur round the wicket now to Warner
+4166~1~
+4166~1~8.1
+4166~1~2
+4166~1~Mashrafe Mortaza to Finch, 2 runs, 109kph slower ball floated outside off, Finch tries to hit this out of the ground, he drags it along the ground off the toe of the bat through midwicket for two
+4166~1~END OF OVER:8 | 8 Runs | AUS: 44/0 | RR: 5.50
+4166~1~
+4166~1~    David Warner25 (32b)
+4166~1~    Aaron Finch16 (16b)
+4166~1~
+4166~1~    Mustafizur Rahman4-0-21-0
+4166~1~    Mashrafe Mortaza4-0-21-0
+4166~1~
+4166~1~
+4166~1~8.2
+4166~1~0
+4166~1~Mashrafe Mortaza to Finch, no run, 116kph, slower ball on off, he's back and working this to midwicket
+4166~1~
+4166~1~8.3
+4166~1~0
+4166~1~Mashrafe Mortaza to Finch, no run, slower ball, good length, he defends on the front foot
+4166~1~
+4166~1~Mashur: "Mash & Fizz's bowls are not working at all. Shakib & Rubel should start asap & try for breakthrough before they get set. The only that Bangladesh can manage to resist within a chase able score is by taking wickets at regular interval. Otherwise something like England game might happen."
+4166~1~
+4166~1~8.4
+4166~1~0
+4166~1~Mashrafe Mortaza to Finch, no run, 115kph, slower ball, good length, he pushes this on the front foot to cover
+4166~1~
+4166~1~Shahzaib Shoaib: "As per pitch report, this is a belter. BD should use Rubel or a spinner with new ball instead of the skipper himself" Looks slow when pace is taken off the ball.
+4166~1~
+4166~1~8.5
+4166~1~0
+4166~1~Mashrafe Mortaza to Finch, no run, good length, slower ball outside off, he pushes on the rise to cover
+4166~1~
+4166~1~8.6
+4166~1~1
+4166~1~Mashrafe Mortaza to Finch, 1 run, 114kph, slower ball, he drives back past the bowler who gets a hand on it, it rolls slowly to mid off for an easy one
+4166~1~
+4166~1~James: "Another issue with Warner is his dot ball percentage. Take out his boundaries and he's on 7 from 28. I think he was right when he said he was timid and lacking intent" He's picking out a lot of fielders in the ring.
+4166~1~
+4166~1~9.1
+4166~1~0
+4166~1~Shakib Al Hasan to Finch, no run, tossed up outside off, he sits back and cuts straight to cover-point
+4166~1~
+4166~1~Shakib into the attack. With only two men out.
+4166~1~END OF OVER:9 | 3 Runs | AUS: 47/0 | RR: 5.22
+4166~1~
+4166~1~    Aaron Finch19 (22b)
+4166~1~    David Warner25 (32b)
+4166~1~
+4166~1~    Mashrafe Mortaza5-0-24-0
+4166~1~    Mustafizur Rahman4-0-21-0
+4166~1~
+4166~1~
+4166~1~9.2
+4166~1~0
+4166~1~Shakib Al Hasan to Finch, no run, lovely length, not much turn, he defends from the crease
+4166~1~
+4166~1~9.3
+4166~1~4
+4166~1~Shakib Al Hasan to Finch, FOUR runs, thumped down the ground! too full, over-pitched, he drives with power from the crease along the ground straight of mid off
+4166~1~
+4166~1~9.4
+4166~1~1
+4166~1~Shakib Al Hasan to Finch, 1 run, shorter length, he punches off the back foot wide of long off, they push for two but it's not on
+4166~1~
+4166~1~9.5
+4166~1~1
+4166~1~Shakib Al Hasan to Warner, 1 run, looped up, 87kph, he pushes on the front foot wide of mid off for one
+4166~1~
+4166~1~9.6
+4166~1~0
+4166~1~Shakib Al Hasan to Finch, no run, drifting into middle, he drives, mistiming this to mid off
+4166~1~
+4166~1~10.1
+4166~1~1
+4166~1~Mashrafe Mortaza to Warner, 1 run, short and wide, he cuts firmly to deep cover-point
+4166~1~
+4166~1~Powerplay done. 0 for 53. Mortaza to continue.
+4166~1~END OF OVER:10 | 6 Runs | AUS: 53/0 | RR: 5.30
+4166~1~
+4166~1~    Aaron Finch24 (27b)
+4166~1~    David Warner26 (33b)
+4166~1~
+4166~1~    Shakib Al Hasan1-0-6-0
+4166~1~    Mashrafe Mortaza5-0-24-0
+4166~1~
+4166~1~
+4166~1~10.2
+4166~1~1
+4166~1~Mashrafe Mortaza to Finch, 1 run, 114kph, slower ball, on leg, he tucks this behind square
+4166~1~
+4166~1~Mayank: "Nobody seems to complain about run rate and dot balls when India get off to a slow start like their Pak game and Aus game. If I remember correctly, India had got off to a slower start than Australia here. " Excellent point. Australia are trying to copy India's blueprint.
+4166~1~
+4166~1~10.3
+4166~1~0
+4166~1~Mashrafe Mortaza to Warner, no run, back of a length on off, he defends off the back foot
+4166~1~
+4166~1~James B: "He also got a 100 last start. And isn't going at boycott pace here. The partnership is working and overall in the tournament they've laid good platforms. Ease up a touch on the panic lads. " I think people are just surprised James because Warner has set such high standards. I agree with you though. He's going OK.
+4166~1~
+4166~1~10.4
+4166~1~1
+4166~1~Mashrafe Mortaza to Warner, 1 run, 120kph, back of a length on off, he turns this behind square with control
+4166~1~
+4166~1~10.5
+4166~1~0
+4166~1~Mashrafe Mortaza to Finch, no run, 126kph, back of a length angled in, he sits back and punches straight to cover
+4166~1~
+4166~1~10.6
+4166~1~4
+4166~1~Mashrafe Mortaza to Finch, FOUR runs, 114kph, angled down leg and Finch just glances this fine for four! Bad ball and easy pickings for Finch
+4166~1~
+4166~1~11.1
+4166~1~0
+4166~1~Shakib Al Hasan to Warner, no run, flatter on off, he defends from the crease
+4166~1~END OF OVER:11 | 7 Runs | AUS: 60/0 | RR: 5.45
+4166~1~
+4166~1~    Aaron Finch29 (30b)
+4166~1~    David Warner28 (36b)
+4166~1~
+4166~1~    Mashrafe Mortaza6-0-31-0
+4166~1~    Shakib Al Hasan1-0-6-0
+4166~1~
+4166~1~Tabrez: "It has been fairly good bowling by BD. They have kept it tight by bowling lot of dots. I bet in the first 10 overs BD will look to have a RR above 6."
+4166~1~
+4166~1~11.2
+4166~1~1
+4166~1~Shakib Al Hasan to Warner, 1 run, tossed up, he skips down and drives neatly to long on
+4166~1~
+4166~1~11.3
+4166~1~1
+4166~1~Shakib Al Hasan to Finch, 1 run, round arm, drifting in, he mistimes a drive trying to go through the off side, drags it straight of midwicket to long on
+4166~1~
+4166~1~11.4
+4166~1~3
+4166~1~Shakib Al Hasan to Warner, 3 runs, shorter outside off, he punches this and threads it between cover and mid off, Sabbir has a long chase and does well to haul it in
+4166~1~
+4166~1~11.5
+4166~1~1
+4166~1~Shakib Al Hasan to Finch, 1 run, skips down early, it's darted in, he stands up and punches down to long on
+4166~1~
+4166~1~11.6
+4166~1~1
+4166~1~Shakib Al Hasan to Warner, 1 run, tossed up on middle, he drives easily to long on
+4166~1~
+4166~1~12.1
+4166~1~0
+4166~1~Rubel Hossain to Warner, no run, 134kph, back of a length, fourth stump, he cuts off the back foot straight to backward point
+4166~1~
+4166~1~Rubel Hossain into the attack. Some extra pace
+4166~1~END OF OVER:12 | 7 Runs | AUS: 67/0 | RR: 5.58
+4166~1~
+4166~1~    David Warner33 (40b)
+4166~1~    Aaron Finch31 (32b)
+4166~1~
+4166~1~    Shakib Al Hasan2-0-13-0
+4166~1~    Mashrafe Mortaza6-0-31-0
+4166~1~
+4166~1~Brendon: "All this complaining over 'low' opening run rates of between 5-6 an over. I think 20/20 has clouded people's judgement over what a good solid start is in 50 over cricket."
+4166~1~
+4166~1~12.2
+4166~1~1
+4166~1~Rubel Hossain to Warner, 1 run, 135kph, back of a length wide of off, he cuts off the back foot to deep point
+4166~1~
+4166~1~12.3
+4166~1~1
+4166~1~Rubel Hossain to Finch, 1 run, 136kph, back of a length, fourth stump, he stays leg side and drives off the back foot, opening the face to get it to deep cover-point
+4166~1~
+4166~1~Hugh: "The issue with the slow starts for Australia is the balance of the batting to come. Khawaja and Smith can bat fluently but not explosively. If you have that cover to come you want your openers to get ahead of the rate then the next two can consolidate. Essentially Australia haven't been as proficient at accelerating the rate as India and the balance of batting seems confused."
+4166~1~
+4166~1~12.4
+4166~1~2
+4166~1~Rubel Hossain to Warner, 2 runs, 136kph, short ball, and he pulls to midwicket but Soumya misfields, it's a long chase for Shakib but he cuts it off
+4166~1~
+4166~1~12.5
+4166~1~0
+4166~1~Rubel Hossain to Warner, no run, 138kph, good length angled across, he flashes and misses. There's a huge roar from the crowd but no edge. He pinned the ears back there
+4166~1~
+4166~1~12.6
+4166~1~1
+4166~1~Rubel Hossain to Warner, 1 run, full wide half volley, hint of tail away, he plays a strong square drive but straight to the sweeper at deep cover-point
+4166~1~
+4166~1~13.1
+4166~1~4
+4166~1~Shakib Al Hasan to Warner, FOUR runs, full toss and he skips out and drives beautifully inside out past cover! Very good placement. He didn't try and over hit it, just used his feet to get there on the full and placed it well
+4166~1~END OF OVER:13 | 5 Runs | AUS: 72/0 | RR: 5.53
+4166~1~
+4166~1~    David Warner37 (45b)
+4166~1~    Aaron Finch32 (33b)
+4166~1~
+4166~1~    Rubel Hossain1-0-5-0
+4166~1~    Shakib Al Hasan2-0-13-0
+4166~1~
+4166~1~
+4166~1~13.2
+4166~1~6
+4166~1~Shakib Al Hasan to Warner, SIX runs, Bang! Slog sweep way back over midwicket! Now he's going. That was in the slot, he got down on one knee and launched it 94m with the turn. Huge hit
+4166~1~
+4166~1~13.3
+4166~1~0
+4166~1~Shakib Al Hasan to Warner, no run, shorter length, he's back and punching straight to cover
+4166~1~
+4166~1~13.4
+4166~1~0
+4166~1~Shakib Al Hasan to Warner, no run, slight leading edge, closing the face trying to work to leg
+4166~1~
+4166~1~13.5
+4166~1~0
+4166~1~Shakib Al Hasan to Warner, no run, clips this straight to midwicket
+4166~1~
+4166~1~13.6
+4166~1~1
+4166~1~Shakib Al Hasan to Warner, 1 run, slower on leg, he sits back and works this deftly into the gap at square leg
+4166~1~
+4166~1~14.1
+4166~1~0
+4166~1~Rubel Hossain to Warner, no run, 141kph, back of a length, leg stump, takes him on the thigh pad trying to work it behind square
+4166~1~END OF OVER:14 | 11 Runs | AUS: 83/0 | RR: 5.92
+4166~1~
+4166~1~    David Warner48 (51b)
+4166~1~    Aaron Finch32 (33b)
+4166~1~
+4166~1~    Shakib Al Hasan3-0-24-0
+4166~1~    Rubel Hossain1-0-5-0
+4166~1~
+4166~1~Stuart: "This is a great start. England had 72 runs after 15 overs against Afghanistan and look what score they ended up on........"
+4166~1~
+4166~1~14.2
+4166~1~1
+4166~1~Rubel Hossain to Warner, 1 run, back of a length, 128kph, cutter, he punches off the back foot to deep cover-point
+4166~1~
+4166~1~14.3
+4166~1~0
+4166~1~Rubel Hossain to Finch, no run, full angled into off, he drives firmly back to the bowler
+4166~1~
+4166~1~ESPNCricinfo score predictor says Australia will get 320. It's early though.
+4166~1~
+4166~1~14.4
+4166~1~1
+4166~1~Rubel Hossain to Finch, 1 run, 136kph, back of a length, on off, he's back and working this wide of midwicket
+4166~1~
+4166~1~14.5
+4166~1~0
+4166~1~Rubel Hossain to Warner, no run, 135kph, good length on leg, he defends on the front foot to midwicket
+4166~1~
+4166~1~Saquib : "Completely agree with Brendon, people now expect 50 runs in 6 overs. For them this is good start, being a 90s kid, 15 overs 75/0 was considered fantabulous and explosive. Good,solid and fluent start from Australia. This is 50 overs cricket.Those complaining of slow start must change their taste."
+4166~1~
+4166~1~14.6
+4166~1~1
+4166~1~Rubel Hossain to Warner, 1 run, short into the ribs, 136kph, he's back and pulling this neatly to fine leg. Fourth time Warner has reached 50 in the World Cup.
+4166~1~
+4166~1~15.1
+4166~1~1w
+4166~1~Mehidy Hasan Miraz to Warner, 1 wide, drifting way down the leg side and called
+4166~1~
+4166~1~Mehidy Hasan into the attack. Round the wicket
+4166~1~END OF OVER:15 | 3 Runs | AUS: 86/0 | RR: 5.73
+4166~1~
+4166~1~    David Warner50 (55b)
+4166~1~    Aaron Finch33 (35b)
+4166~1~
+4166~1~    Rubel Hossain2-0-8-0
+4166~1~    Shakib Al Hasan3-0-24-0
+4166~1~
+4166~1~Subdued acknowledgement. He wants a big one.
+4166~1~
+4166~1~15.1
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Warner, 1 run, drifting a long way into leg, no turn, he's back and knocking this to square leg
+4166~1~
+4166~1~15.2
+4166~1~0
+4166~1~Mehidy Hasan Miraz to Finch, no run, tossed up on off, he drives straight back to the bowler
+4166~1~
+4166~1~Arun Singh: "England managed to get to 398 only because of an exceptional innings from Eoin Morgan. Not everyone can hit as many runs with that strike rate, at will."
+4166~1~
+4166~1~15.3
+4166~1~0
+4166~1~Mehidy Hasan Miraz to Finch, no run, flatter on off, he's back and punching back to the bowler
+4166~1~
+4166~1~15.4
+4166~1~6
+4166~1~Mehidy Hasan Miraz to Finch, SIX runs, slog sweep over square! Just lobbed into his arc on leg, he was down on one knee and lifting this up over square leg into the crowd!
+4166~1~
+4166~1~15.5
+4166~1~4
+4166~1~Mehidy Hasan Miraz to Finch, FOUR runs, Huge hit that goes too high to clear the rope into the wind at deep midwicket! It half volleyed into the rope. Anywhere else on the ground it was six. Again tossed up in the arc and he just launched it but hit it too high
+4166~1~
+4166~1~15.6
+4166~1~0
+4166~1~Mehidy Hasan Miraz to Finch, no run, flatter outside off, he punches off the back foot to point
+4166~1~
+4166~1~16.1
+4166~1~0
+4166~1~Rubel Hossain to Warner, no run, 138kph, full on off, he pushes on the front foot to cover
+4166~1~END OF OVER:16 | 12 Runs | AUS: 98/0 | RR: 6.12
+4166~1~
+4166~1~    Aaron Finch43 (40b)
+4166~1~    David Warner51 (56b)
+4166~1~
+4166~1~    Mehidy Hasan1-0-12-0
+4166~1~    Rubel Hossain2-0-8-0
+4166~1~
+4166~1~Another fifty for Warner. Sabbir had dropped him early on. Click here to see that replay (UK, AUS, IRE, SEA, HK only)
+4166~1~
+4166~1~16.2
+4166~1~0
+4166~1~Rubel Hossain to Warner, no run, back of a length outside off, he pushes off the back foot to backward point
+4166~1~
+4166~1~16.3
+4166~1~2
+4166~1~Rubel Hossain to Warner, 2 runs, back of a length, 139kph, on the hip, he's back quickly and tucking this behind square, into the big gap and they run two to bring up the century stand
+4166~1~
+4166~1~16.4
+4166~1~0
+4166~1~Rubel Hossain to Warner, no run, 136kph, rears off a length and hits him flush on the glove! Wow that climbed. He has broken that bottom left thumb before like that
+4166~1~
+4166~1~16.5
+4166~1~1
+4166~1~Rubel Hossain to Warner, 1 run, short into the ribs, he pulls through square leg, he didn't time it
+4166~1~
+4166~1~Mohammad Isam: Fifth time out of 12 ODIs this year that the opening stand has batted beyond 15 overs against Bangladesh.
+4166~1~
+4166~1~16.6
+4166~1~0
+4166~1~Rubel Hossain to Finch, no run, length ball on the stumps, pushed back towards the bowler off the back foot
+4166~1~
+4166~1~17.1
+4166~1~0
+4166~1~Mehidy Hasan Miraz to Warner, no run, length ball on the stumps, Warner comes down the track and looks to work it towards mid-on, misses and is rapped on the pads. A big appeal for lbw but given not out. Was probably going down with the drift
+4166~1~
+4166~1~Thanks, Alex. A solid start from Australia. Warner was slow to start but is looking set for a big one now. Here is Mehidy
+4166~1~END OF OVER:17 | 3 Runs | AUS: 101/0 | RR: 5.94
+4166~1~
+4166~1~    Aaron Finch43 (41b)
+4166~1~    David Warner54 (61b)
+4166~1~
+4166~1~    Rubel Hossain3-0-11-0
+4166~1~    Mehidy Hasan1-0-12-0
+4166~1~
+4166~1~Drinks Australia in control in that first hour. One chance to Sabbir at backward point of Mortaza wasn't taken and Warner has punished them. They have been severe on the spinners. Hemant is in to take over the commentary.
+4166~1~
+4166~1~17.2
+4166~1~0
+4166~1~Mehidy Hasan Miraz to Warner, no run, length ball around off, pushes it towards covers
+4166~1~
+4166~1~17.3
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Warner, 1 run, length ball on the stumps, Warner goes back and forces it towards long-on
+4166~1~
+4166~1~17.4
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Finch, 1 run, length again, spinning into Finch who gives himself some room and eases it towards long-on for a walking single
+4166~1~
+4166~1~17.5
+4166~1~0
+4166~1~Mehidy Hasan Miraz to Warner, no run, length around off, flatter at 91kph, Warner defends it from the front foot, bat and pad close
+4166~1~
+4166~1~17.6
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Warner, 1 run, length around off, a bit of room this time, punched through covers off the back foot
+4166~1~
+4166~1~18.1
+4166~1~0
+4166~1~Rubel Hossain to Warner, no run, short of length on middle and leg, goes for the pull and misses, struck on the thigh
+4166~1~END OF OVER:18 | 3 Runs | AUS: 104/0 | RR: 5.77
+4166~1~
+4166~1~    David Warner56 (66b)
+4166~1~    Aaron Finch44 (42b)
+4166~1~
+4166~1~    Mehidy Hasan2-0-15-0
+4166~1~    Rubel Hossain3-0-11-0
+4166~1~
+4166~1~Mahneel : "Rubel bowling beautifully but wonder if Bangladesh missed a trick by not starting with Shakib or Miraz"
+4166~1~
+4166~1~18.2
+4166~1~0
+4166~1~Rubel Hossain to Warner, no run, length ball around middle and off, Warner stays leg side of the ball and taps it towards cover
+4166~1~
+4166~1~18.3
+4166~1~1
+4166~1~Rubel Hossain to Warner, 1 run, short of length on the stumps, a bit of extra bounce, Warner adjusts well to pull it towards fine leg, rolling his wrists over
+4166~1~
+4166~1~Venkat: "Break this partnership else we are going to witness first 400 of this world cup "
+4166~1~
+4166~1~18.4
+4166~1~1
+4166~1~Rubel Hossain to Finch, 1 run, short of length outside off, punched off the back foot towards the left of the mid-off
+4166~1~
+4166~1~18.5
+4166~1~1w
+4166~1~Rubel Hossain to Warner, 1 wide, down the leg side, Warner goes for the pull but too wide to connect
+4166~1~
+4166~1~18.5
+4166~1~1w
+4166~1~Rubel Hossain to Warner, 1 wide, short of length but once again drifting down the leg side, another wide
+4166~1~
+4166~1~Fiaz : "How much maximum runs Bangladesh can chase? A question for experts" -- They showed in the last game they can chase 300-plus but Australia have a stronger attack than West Indies
+4166~1~
+4166~1~18.5
+4166~1~0
+4166~1~Rubel Hossain to Warner, no run, better from Rubel, similar length but this time into the body, Warner is cramped is he looks to swat it away
+4166~1~
+4166~1~18.6
+4166~1~2
+4166~1~Rubel Hossain to Warner, 2 runs, length ball around middle and off, Warner dabs it towards covers, a bit of fumble there allows an extra run
+4166~1~
+4166~1~19.1
+4166~1~0
+4166~1~Mehidy Hasan Miraz to Finch, no run, length ball around off, flatter in trajectory, Finch waits on the back foot and guides towards point
+4166~1~END OF OVER:19 | 6 Runs | AUS: 110/0 | RR: 5.78
+4166~1~
+4166~1~    David Warner59 (71b)
+4166~1~    Aaron Finch45 (43b)
+4166~1~
+4166~1~    Rubel Hossain4-0-17-0
+4166~1~    Mehidy Hasan2-0-15-0
+4166~1~
+4166~1~Taher: "What's the difference between Medium Fast and Fast Medium, have seen many bowlers with these descriptions" -- I think it's about the pace they bowl at. For me, a fast-medium is quicker than a medium-fast
+4166~1~
+4166~1~19.2
+4166~1~2
+4166~1~Mehidy Hasan Miraz to Finch, 2 runs, backs away to the fuller delivery and looks to go aerial, mistimed towards wide long-on for a couple
+4166~1~
+4166~1~19.3
+4166~1~0
+4166~1~Mehidy Hasan Miraz to Finch, no run, flatter on the stumps, pushed back towards the bowler this time
+4166~1~
+4166~1~19.4
+4166~1~4
+4166~1~Mehidy Hasan Miraz to Finch, FOUR runs, down the leg side and Finch manages to get some bat on it, and that's another fifty for Australia captain. his eighth in last 11 innings
+4166~1~
+4166~1~19.5
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Finch, 1 run, fuller on the stumps and pushed towards long-on
+4166~1~
+4166~1~19.6
+4166~1~0
+4166~1~Mehidy Hasan Miraz to Warner, no run, length ball around off, comes forward and defends it back towards the bowler
+4166~1~
+4166~1~20.1
+4166~1~0
+4166~1~Soumya Sarkar to Finch, no run, starts with a gentle one, a touch fuller around off, Finch comes forward and drives it towards extra cover
+4166~1~
+4166~1~Soumya Sarkar is here with his medium-fast
+4166~1~END OF OVER:20 | 7 Runs | AUS: 117/0 | RR: 5.85
+4166~1~
+4166~1~    David Warner59 (72b)
+4166~1~    Aaron Finch52 (48b)
+4166~1~
+4166~1~    Mehidy Hasan3-0-22-0
+4166~1~    Rubel Hossain4-0-17-0
+4166~1~
+4166~1~Mark: "I think the problem with the Australian team is that Warner is paying the Khawaja role. If Warner doesn't get out early, Khawaja becomes redundant somewhat. How about shifting Warner down the order? (Bat at 3 I'd opener goes early or bat at 5/6 if openers do well?)"
+4166~1~
+4166~1~20.2
+4166~1~1
+4166~1~Soumya Sarkar to Finch, 1 run, length ball but on the stumps this time, driven towards long-on for an easy single
+4166~1~
+4166~1~20.3
+4166~1~2
+4166~1~Soumya Sarkar to Warner, 2 runs, a slower one but fuller around off, Warner drives it past extra cover but sweeper comes across to keep it to two
+4166~1~
+4166~1~20.4
+4166~1~1
+4166~1~Soumya Sarkar to Warner, 1 run, fuller and wider, Warner reaches out for it and steers it towards sweeper cover
+4166~1~
+4166~1~Himanshu: "Medium fast - average speed of the bowler -120-129 kmph. Fast medium - average speed - 130-141 kmph. Above that fast like rf, lf." -- Yeah, more or less that's it
+4166~1~
+4166~1~20.5
+4166~1~W
+4166~1~Soumya Sarkar to Finch, OUT, against the run of play, Soumya strikes in his first over. Was a length ball around off, Finch was looking to run it down but is surprised by the extra bounce. He checks his shot but ends up hitting it straight into the hands of short third man. Bangladesh have a breakthrough finally
+4166~1~
+4166~1~AJ Finch c Rubel Hossain b Soumya Sarkar 53 (91m 51b 5x4 2x6) SR: 103.92
+4166~1~
+4166~1~Pratik : "Looks like David Warner is going to do Shai Hope and Bangladesh does same they did the other day." -- Think Australia have a better bowling attack than West Indies
+4166~1~
+4166~1~20.6
+4166~1~0
+4166~1~Soumya Sarkar to Khawaja, no run, fuller around off, Khawaja comes forward and pushes it towards cover-point
+4166~1~
+4166~1~Usman Khawaja is the new man, a gully for him
+4166~1~
+4166~1~21.1
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Warner, 1 run, length ball around off and angling in with the arm, pushes it towards mid-off
+4166~1~END OF OVER:21 | 4 Runs 1 Wkt | AUS: 121/1 | RR: 5.76
+4166~1~
+4166~1~    Usman Khawaja0 (1b)
+4166~1~    David Warner62 (74b)
+4166~1~
+4166~1~    Soumya Sarkar1-0-4-1
+4166~1~    Mehidy Hasan3-0-22-0
+4166~1~
+4166~1~
+4166~1~21.2
+4166~1~0
+4166~1~Mehidy Hasan Miraz to Khawaja, no run, fuller around off, turns it towards short midwicket
+4166~1~
+4166~1~21.3
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Khawaja, 1 run, length ball around off, taps it towards long-on to get off the mark
+4166~1~
+4166~1~21.4
+4166~1~0
+4166~1~Mehidy Hasan Miraz to Warner, no run, fuller around off, comes forward and pushes it back towards the bowler
+4166~1~
+4166~1~21.5
+4166~1~0
+4166~1~Mehidy Hasan Miraz to Warner, no run, fuller again, Warner gives himself some room and drives but once again straight towards Mehidy
+4166~1~
+4166~1~21.6
+4166~1~0
+4166~1~Mehidy Hasan Miraz to Warner, no run, short of length outside off, goes back and cuts it away but cannot beat extra cover
+4166~1~
+4166~1~22.1
+4166~1~0
+4166~1~Soumya Sarkar to Khawaja, no run, length around off and middle, pushes it towards mid-off
+4166~1~END OF OVER:22 | 2 Runs | AUS: 123/1 | RR: 5.59
+4166~1~
+4166~1~    David Warner63 (78b)
+4166~1~    Usman Khawaja1 (3b)
+4166~1~
+4166~1~    Mehidy Hasan4-0-24-0
+4166~1~    Soumya Sarkar1-0-4-1
+4166~1~
+4166~1~rifat sultan: "there should be a captaincy ranking i think " Interested to listen what parameters do you measure them on apart from the wins obviously
+4166~1~
+4166~1~22.2
+4166~1~0
+4166~1~Soumya Sarkar to Khawaja, no run, length around off, comes forward and pushes it towards point, another dot
+4166~1~
+4166~1~22.3
+4166~1~0
+4166~1~Soumya Sarkar to Khawaja, no run, a touch fuller and wider, Khawaja looks to drive it through covers but the ball comes slower off the wicket and takes the inner half of the bat
+4166~1~
+4166~1~22.4
+4166~1~0
+4166~1~Soumya Sarkar to Khawaja, no run, pitched up around off, driven off the front foot but straight towards mid-off
+4166~1~
+4166~1~22.5
+4166~1~1lb
+4166~1~Soumya Sarkar to Khawaja, 1 leg bye, a huge shout for lbw but probably pitched outside leg. Was an offcutter on a length, Khawaja was moving across and looks to glance, misses. Gets a leg bye though
+4166~1~
+4166~1~22.6
+4166~1~1
+4166~1~Soumya Sarkar to Warner, 1 run, length ball around off, punches towards the right of mid-off from the back foot
+4166~1~
+4166~1~23.1
+4166~1~2
+4166~1~Mehidy Hasan Miraz to Warner, 2 runs, length ball around off, punched off the back foot towards deep point, sprints back for the second, no one better than in world cricket probably than Warner in spotting twos
+4166~1~END OF OVER:23 | 2 Runs | AUS: 125/1 | RR: 5.43
+4166~1~
+4166~1~    David Warner64 (79b)
+4166~1~    Usman Khawaja1 (8b)
+4166~1~
+4166~1~    Soumya Sarkar2-0-5-1
+4166~1~    Mehidy Hasan4-0-24-0
+4166~1~
+4166~1~
+4166~1~23.2
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Warner, 1 run, uses his feet this time to drive it towards long-on
+4166~1~
+4166~1~23.3
+4166~1~0
+4166~1~Mehidy Hasan Miraz to Khawaja, no run, length ball around off, stays back and pushes it towards extra cover
+4166~1~
+4166~1~23.4
+4166~1~2
+4166~1~Mehidy Hasan Miraz to Khawaja, 2 runs, fuller this time, around off and Khawaja drives it towards deep extra cover, comes back for the second
+4166~1~
+4166~1~23.5
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Khawaja, 1 run, a bit of hesitation but done safely in the end, length ball on middle and angling in, pushes it past short midwicket
+4166~1~
+4166~1~23.6
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Warner, 1 run, short of length outside off, goes back and cuts it towards deep point
+4166~1~
+4166~1~24.1
+4166~1~0
+4166~1~Soumya Sarkar to Warner, no run, length ball outside off, Warner cuts it hard but a diving stop at backward point diving to his left
+4166~1~
+4166~1~Abubaker: "Australia will score between 330 to 350 ( my prediction) " -- Our Forecaster is saying 324
+4166~1~END OF OVER:24 | 7 Runs | AUS: 132/1 | RR: 5.50
+4166~1~
+4166~1~    David Warner68 (82b)
+4166~1~    Usman Khawaja4 (11b)
+4166~1~
+4166~1~    Mehidy Hasan5-0-31-0
+4166~1~    Soumya Sarkar2-0-5-1
+4166~1~
+4166~1~WATCH - Aaron Finch falls softly against Soumya Sarkar (UK, AUS, IRE, SEA, HK only)
+4166~1~
+4166~1~24.2
+4166~1~0
+4166~1~Soumya Sarkar to Warner, no run, back of length around off, pushes it gently towards mid-off
+4166~1~
+4166~1~24.3
+4166~1~1
+4166~1~Soumya Sarkar to Warner, 1 run, back of length and angling across, Warner once again stays back, punches it towards covers for a quick single
+4166~1~
+4166~1~24.4
+4166~1~2
+4166~1~Soumya Sarkar to Khawaja, 2 runs, length ball around off, drives it through covers for a couple of runs more
+4166~1~
+4166~1~24.5
+4166~1~4
+4166~1~Soumya Sarkar to Khawaja, FOUR runs, short of length on middle and leg, Khawaja pulls it stylishly behind square leg, focusing on the placement than power and gets a four
+4166~1~
+4166~1~Harsh: "Aus should have sent Smith in place of Khawaja to maintain left right combination."
+4166~1~
+4166~1~Hassan : "Would be very subjective but a captain's ranking could be judged on ratings for parameters like number of wins, decisions in playing 11, batting order, bowling changes, field settings, leading from the front.."
+4166~1~
+4166~1~24.6
+4166~1~0
+4166~1~Soumya Sarkar to Khawaja, no run, length ball around off, pushes it towards covers
+4166~1~
+4166~1~25.1
+4166~1~0
+4166~1~Mehidy Hasan Miraz to Warner, no run, length ball at the batsman, 91 kph, Warner goes back and cuts but straight towards the bowler
+4166~1~END OF OVER:25 | 7 Runs | AUS: 139/1 | RR: 5.56
+4166~1~
+4166~1~    Usman Khawaja10 (14b)
+4166~1~    David Warner69 (85b)
+4166~1~
+4166~1~    Soumya Sarkar3-0-12-1
+4166~1~    Mehidy Hasan5-0-31-0
+4166~1~
+4166~1~
+4166~1~25.2
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Warner, 1 run, fuller around off and middle, drives it towards wide long-off for one
+4166~1~
+4166~1~25.3
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Khawaja, 1 run, a mix-up there as Warner was ball-watching for a moment, but realises soon that he has to sprint, a fumble by Sabbir Rahman at mid-on helps as well. Was a fuller delivery that Kahwaja pushed down the track while coming down the track
+4166~1~
+4166~1~25.4
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Warner, 1 run, flatter around off, punched off the back foot towards covers
+4166~1~
+4166~1~25.5
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Khawaja, 1 run, works this fuller delivery towards long-off for one
+4166~1~
+4166~1~25.6
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Warner, 1 run, length ball around off, pushes it towards mid-off for one
+4166~1~
+4166~1~26.1
+4166~1~1
+4166~1~Soumya Sarkar to Warner, 1 run, slower one on middle and leg, Warner opens the face of the bat to work it towards sweeper cover
+4166~1~END OF OVER:26 | 5 Runs | AUS: 144/1 | RR: 5.53
+4166~1~
+4166~1~    David Warner72 (89b)
+4166~1~    Usman Khawaja12 (16b)
+4166~1~
+4166~1~    Mehidy Hasan6-0-36-0
+4166~1~    Soumya Sarkar3-0-12-1
+4166~1~
+4166~1~
+4166~1~26.2
+4166~1~1
+4166~1~Soumya Sarkar to Khawaja, 1 run, length ball on the pads, flicked away towards deep square leg
+4166~1~
+4166~1~26.3
+4166~1~1
+4166~1~Soumya Sarkar to Warner, 1 run, length ball on middle and leg, tucked away towards midwicket
+4166~1~
+4166~1~Sudarshan: "This is the right time for Khawaja to come in. His entry around the 35 over mark would have actually pushed them back ! The next set of batsmen look even more ominous now." -- Agree with you on that
+4166~1~
+4166~1~26.4
+4166~1~0
+4166~1~Soumya Sarkar to Khawaja, no run, length ball around middle, pushes it towards mid-on
+4166~1~
+4166~1~26.5
+4166~1~1
+4166~1~Soumya Sarkar to Khawaja, 1 run, length ball outside off, comes forward and drives it on the up towards long-off
+4166~1~
+4166~1~26.6
+4166~1~1
+4166~1~Soumya Sarkar to Warner, 1 run, another offcutter on the pads, flicked towards midwicket, Warner was looking for the second initially but decides against it as the fielder charges towards the ball
+4166~1~
+4166~1~Hassan, and it should not be based on how many knee surgeries the captain had"
+4166~1~
+4166~1~27.1
+4166~1~0
+4166~1~Mehidy Hasan Miraz to Warner, no run, flatter on middle and leg, turns it towards short midwicket
+4166~1~END OF OVER:27 | 5 Runs | AUS: 149/1 | RR: 5.51
+4166~1~
+4166~1~    David Warner75 (92b)
+4166~1~    Usman Khawaja14 (19b)
+4166~1~
+4166~1~    Soumya Sarkar4-0-17-1
+4166~1~    Mehidy Hasan6-0-36-0
+4166~1~
+4166~1~Mahneel: "
+4166~1~27.2
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Warner, 1 run, fuller around off, digs it out towards the right of long-off
+4166~1~
+4166~1~27.3
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Khawaja, 1 run, fuller around off, drives it towards long-off for another single
+4166~1~
+4166~1~27.4
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Warner, 1 run, fuller on middle and leg, drives it inside out towards long-off and picks up another single
+4166~1~
+4166~1~27.5
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Khawaja, 1 run, length ball on the pads, flicked away towards deep square leg
+4166~1~
+4166~1~27.6
+4166~1~0
+4166~1~Mehidy Hasan Miraz to Warner, no run, length ball angling on the pads, Warner goes for the flick but cannot beat short fine leg
+4166~1~
+4166~1~28.1
+4166~1~1
+4166~1~Soumya Sarkar to Khawaja, 1 run, length ball around off, drives it on the up towards deep extra cover
+4166~1~END OF OVER:28 | 4 Runs | AUS: 153/1 | RR: 5.46
+4166~1~
+4166~1~    David Warner77 (96b)
+4166~1~    Usman Khawaja16 (21b)
+4166~1~
+4166~1~    Mehidy Hasan7-0-40-0
+4166~1~    Soumya Sarkar4-0-17-1
+4166~1~
+4166~1~Anubhav Pande: "Khwaja's form has made it difficult for Aussie to drop him. But with Smith back, there is no right position for him in the team. Should be replaced by, oh wait, that's why he is still there"
+4166~1~
+4166~1~28.2
+4166~1~4
+4166~1~Soumya Sarkar to Warner, FOUR runs, fuller around off, in the slot for Warner who clears his front leg and lofts it over extra cover and moves into 80s
+4166~1~
+4166~1~28.3
+4166~1~1
+4166~1~Soumya Sarkar to Warner, 1 run, length ball on the stumps, pushed towards long-on to keep the scoreboard ticking
+4166~1~
+4166~1~28.4
+4166~1~1
+4166~1~Soumya Sarkar to Khawaja, 1 run, fuller around off, drives it on the move towards long-off
+4166~1~
+4166~1~anubhav pande he should be replaced by Peter handscomb, who should have been in this world cup squad"
+4166~1~
+4166~1~28.5
+4166~1~4
+4166~1~Soumya Sarkar to Warner, FOUR runs, short of length outside off, enough room for Warner to rock back and cut it past the point fielder, beats the sweeper cover as well. Surely, this has to be the last over for Soumya
+4166~1~
+4166~1~Anon: "
+4166~1~28.6
+4166~1~1
+4166~1~Soumya Sarkar to Warner, 1 run, cutter on middle and leg, pulls it towards backward square leg and keeps the strike
+4166~1~
+4166~1~29.1
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Warner, 1 run, fuller on the stumps, comes forward and pushes it towards long-off
+4166~1~END OF OVER:29 | 12 Runs | AUS: 165/1 | RR: 5.68
+4166~1~
+4166~1~    David Warner87 (100b)
+4166~1~    Usman Khawaja18 (23b)
+4166~1~
+4166~1~    Soumya Sarkar5-0-29-1
+4166~1~    Mehidy Hasan7-0-40-0
+4166~1~
+4166~1~Sriram: "I feel Khawaja could've been replaced by Handscomb. But the problem was Khawaja was in unbelievable form this year and Marsh played really well in england last year. So the selectors had to leave out Handscomb considering he was slightly unproven in English conditions. "
+4166~1~
+4166~1~29.2
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Khawaja, 1 run, length ball around off, drives i square off the wicket, deep point cuts it off
+4166~1~
+4166~1~29.3
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Warner, 1 run, length ball on the stumps, backs away and opens the face of the bat to work it towards deep point
+4166~1~
+4166~1~29.4
+4166~1~0
+4166~1~Mehidy Hasan Miraz to Khawaja, no run, fuller around off, pushes it towards extra cover from the crease
+4166~1~
+4166~1~29.5
+4166~1~0
+4166~1~Mehidy Hasan Miraz to Khawaja, no run, fuller around off, looks to smash it away but the ball is not coming on to the bat easily, ends up hitting on to his shoe. Was looking for a single as the ball rolled towards cover-point but Warner wisely sends him back
+4166~1~
+4166~1~29.6
+4166~1~0
+4166~1~Mehidy Hasan Miraz to Khawaja, no run, flatter and quicker around off, Khawaja was on the back foot, does well to get his bat down in time
+4166~1~
+4166~1~30.1
+4166~1~1
+4166~1~Shakib Al Hasan to Warner, 1 run, short of length on the stumps, goes down and pulls it towards deep backward square leg
+4166~1~
+4166~1~Shakib comes back
+4166~1~END OF OVER:30 | 3 Runs | AUS: 168/1 | RR: 5.60
+4166~1~
+4166~1~    Usman Khawaja19 (27b)
+4166~1~    David Warner89 (102b)
+4166~1~
+4166~1~    Mehidy Hasan8-0-43-0
+4166~1~    Soumya Sarkar5-0-29-1
+4166~1~
+4166~1~
+4166~1~30.2
+4166~1~0
+4166~1~Shakib Al Hasan to Khawaja, no run, flatter outside off, goes for the reverse sweep but ends up hitting it low on to the keeper's pad
+4166~1~
+4166~1~30.3
+4166~1~2
+4166~1~Shakib Al Hasan to Khawaja, 2 runs, another reverse sweep, this time gets it behind point for a couple
+4166~1~
+4166~1~30.4
+4166~1~1
+4166~1~Shakib Al Hasan to Khawaja, 1 run, short of length around off, goes back and punches it towards sweeper cover
+4166~1~
+4166~1~30.5
+4166~1~1
+4166~1~Shakib Al Hasan to Warner, 1 run, length ball on the pads, tucked away towards square leg
+4166~1~
+4166~1~30.6
+4166~1~4
+4166~1~Shakib Al Hasan to Khawaja, FOUR runs, fuller down the leg side, goes for the sweep and gets it fine, beating the man at short fine leg
+4166~1~
+4166~1~31.1
+4166~1~4
+4166~1~Mehidy Hasan Miraz to Warner, FOUR runs, short of length outside off, rocks back and cuts it towards short third man, Mustafizur puts in the dive but cannot prevent the boundary
+4166~1~END OF OVER:31 | 9 Runs | AUS: 177/1 | RR: 5.70
+4166~1~
+4166~1~    Usman Khawaja26 (31b)
+4166~1~    David Warner91 (104b)
+4166~1~
+4166~1~    Shakib Al Hasan4-0-33-0
+4166~1~    Mehidy Hasan8-0-43-0
+4166~1~
+4166~1~
+4166~1~31.2
+4166~1~0
+4166~1~Mehidy Hasan Miraz to Warner, no run, fuller around off, uses his feet but pings it straight towards extra cover
+4166~1~
+4166~1~31.3
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Warner, 1 run, flatter, angling in towards the batsman who backs away and cuts it towards sweeper cover
+4166~1~
+4166~1~31.4
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Khawaja, 1 run, length ball on the stumps, drives it towards sweeper cover
+4166~1~
+4166~1~31.5
+4166~1~3
+4166~1~Mehidy Hasan Miraz to Warner, 3 runs, moves to 99 with that three, was fuller and he drives it towards deep extra cover
+4166~1~
+4166~1~31.6
+4166~1~0
+4166~1~Mehidy Hasan Miraz to Khawaja, no run, fuller around off, drives but cannot get it past mid-off
+4166~1~
+4166~1~32.1
+4166~1~0
+4166~1~Shakib Al Hasan to Warner, no run, fuller on the pads, tucked away towards short midwicket
+4166~1~END OF OVER:32 | 9 Runs | AUS: 186/1 | RR: 5.81
+4166~1~
+4166~1~    Usman Khawaja27 (33b)
+4166~1~    David Warner99 (108b)
+4166~1~
+4166~1~    Mehidy Hasan9-0-52-0
+4166~1~    Shakib Al Hasan4-0-33-0
+4166~1~
+4166~1~
+4166~1~32.2
+4166~1~1
+4166~1~Shakib Al Hasan to Warner, 1 run, a touch shorter, Warner gets back and works it behind square and gets to his 16th ODI hundred, the second of this World Cup. Yes, he started slowly but it's not an easy wicket and since he's set, he can accelerate
+4166~1~
+4166~1~32.3
+4166~1~1
+4166~1~Shakib Al Hasan to Khawaja, 1 run, fuller around off, reverse sweeps it towards short third man for a quick single
+4166~1~
+4166~1~32.4
+4166~1~0
+4166~1~Shakib Al Hasan to Warner, no run, length ball on the stumps, taps it towards short midwicket
+4166~1~
+4166~1~32.5
+4166~1~1
+4166~1~Shakib Al Hasan to Warner, 1 run, fuller on the stumps, uses his feet to drive it towards long-on
+4166~1~
+4166~1~32.6
+4166~1~1
+4166~1~Shakib Al Hasan to Khawaja, 1 run, dragged short this time, Khawaja goes back and pulls it towards deep square leg
+4166~1~
+4166~1~33.1
+4166~1~2
+4166~1~Mehidy Hasan Miraz to Khawaja, 2 runs, fuller around off, and driven firmly towards sweeper cover, the deep point fielder cuts it off
+4166~1~
+4166~1~Mehidy to bowl out
+4166~1~END OF OVER:33 | 4 Runs | AUS: 190/1 | RR: 5.75
+4166~1~
+4166~1~    Usman Khawaja29 (35b)
+4166~1~    David Warner101 (112b)
+4166~1~
+4166~1~    Shakib Al Hasan5-0-37-0
+4166~1~    Mehidy Hasan9-0-52-0
+4166~1~
+4166~1~
+4166~1~33.2
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Khawaja, 1 run, length ball on the stumps, works it towards long-on
+4166~1~
+4166~1~33.3
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Warner, 1 run, length around off, punched off the back foot towards extra cover
+4166~1~
+4166~1~33.4
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Khawaja, 1 run, length ball on the pads, tucked away towards deep midwicket
+4166~1~
+4166~1~33.5
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Warner, 1 run, short of length outside off, cuts it towards deep backward point
+4166~1~
+4166~1~33.6
+4166~1~1
+4166~1~Mehidy Hasan Miraz to Khawaja, 1 run, fuller around off, comes forward and drives it towards sweeper cover
+4166~1~
+4166~1~34.1
+4166~1~1
+4166~1~Mashrafe Mortaza to Khawaja, 1 run, length ball on the stumps, was looking to turn it on the leg side, gets a leading edge that beats extra cover
+4166~1~
+4166~1~Mashrafe comes on now
+4166~1~END OF OVER:34 | 7 Runs | AUS: 197/1 | RR: 5.79
+4166~1~
+4166~1~    Usman Khawaja34 (39b)
+4166~1~    David Warner103 (114b)
+4166~1~
+4166~1~    Mehidy Hasan10-0-59-0
+4166~1~    Shakib Al Hasan5-0-37-0
+4166~1~
+4166~1~
+4166~1~34.2
+4166~1~0
+4166~1~Mashrafe Mortaza to Warner, no run, length ball around off and middle, but Warner finds point with the cut
+4166~1~
+4166~1~34.3
+4166~1~4
+4166~1~Mashrafe Mortaza to Warner, FOUR runs, short of length this time and with Mashrafe's pace, Warner had enough time to rock back and pull it over midwicket for four
+4166~1~
+4166~1~AnamBMDF : "It'll be very tough for BD to chase down 350+, to which Aus are on course now. If the opening batsmen are unable to stay first 25 overs and Shakib & Mushfiq are not on full form against top bowlers of Aus, BD team should target a safe score not to deteriorate NRR more. It'll be a good test for lower order too. Wishing best of luck. Tigers, go on...."
+4166~1~
+4166~1~34.4
+4166~1~1
+4166~1~Mashrafe Mortaza to Warner, 1 run, slower one this time, fuller on the stumps, drives it towards midwicket for a quick single
+4166~1~
+4166~1~34.5
+4166~1~4
+4166~1~Mashrafe Mortaza to Khawaja, FOUR runs, another short one from Mashrafe, outside off, Khawaja picks it up and pulls it towards that vacant deep midwicket area
+4166~1~
+4166~1~Around the wicket
+4166~1~
+4166~1~34.6
+4166~1~1
+4166~1~Mashrafe Mortaza to Khawaja, 1 run, length ball around off, Khawaja uses his wrists to turn it towards backward square leg
+4166~1~
+4166~1~35.1
+4166~1~1
+4166~1~Rubel Hossain to Khawaja, 1 run, length ball on the pads, hurries on to the batsman but Khawaja works it towards fine leg for one
+4166~1~
+4166~1~James B : "Are we all ok now with David's form? Time for a daddy now Mr Warner. "
+4166~1~END OF OVER:35 | 11 Runs | AUS: 208/1 | RR: 5.94
+4166~1~
+4166~1~    Usman Khawaja40 (42b)
+4166~1~    David Warner108 (117b)
+4166~1~
+4166~1~    Mashrafe Mortaza7-0-42-0
+4166~1~    Mehidy Hasan10-0-59-0
+4166~1~
+4166~1~
+4166~1~35.2
+4166~1~1
+4166~1~Rubel Hossain to Warner, 1 run, short of length outside off, chops it towards mid-off for one
+4166~1~
+4166~1~35.3
+4166~1~1
+4166~1~Rubel Hossain to Khawaja, 1 run, short of length once again, Khawaja swivels to pull it towards deep square leg
+4166~1~
+4166~1~35.4
+4166~1~0
+4166~1~Rubel Hossain to Warner, no run, length ball on middle and leg, no room for Warner there, tucked away towards short midwicket
+4166~1~
+4166~1~Angelo: "Its almost 6am in Calgary and its time to sleep aftr a night shift.. hope to read tht Warner scored a double hundred whn i wake up."
+4166~1~
+4166~1~35.5
+4166~1~0
+4166~1~Rubel Hossain to Warner, no run, short of length, hitting the Warner in the box off an inside edge as he goes for the pull, he's down but all looks well. Ready to face the next ball
+4166~1~
+4166~1~35.6
+4166~1~1
+4166~1~Rubel Hossain to Warner, 1 run, length ball on the stumps, driven down the ground for a single
+4166~1~
+4166~1~36.1
+4166~1~1
+4166~1~Mustafizur Rahman to Warner, 1 run, 123kph, slower ball wide of off, he cuts, mistiming wide of cover to the sweeper
+4166~1~
+4166~1~A well earned drink for Hemant too. Bangladesh flying through the overs. Mustafizur is back. He's taken all 7 of his World Cup wickets in the last 20 overs of the innings.
+4166~1~END OF OVER:36 | 4 Runs | AUS: 212/1 | RR: 5.88
+4166~1~
+4166~1~    David Warner110 (121b)
+4166~1~    Usman Khawaja42 (44b)
+4166~1~
+4166~1~    Rubel Hossain5-0-21-0
+4166~1~    Mashrafe Mortaza7-0-42-0
+4166~1~
+4166~1~And that's drink. Alex is ready to take over as well. Vishnu : "Australia are going at exact same score as India against them. They sent in Pandya after second wicket. Hope Australia send in maxwell after this wicket falls. Or these 2 can also accelerate. Not sure if anyone can play like dhoni to cross them 350 though... "
+4166~1~
+4166~1~36.2
+4166~1~0
+4166~1~Mustafizur Rahman to Khawaja, no run, 133kph, full outside off, he drives flowingly on the up but cover makes a good stop
+4166~1~
+4166~1~Brendan : "Could Australia "retire out" Khawaja if they wanted to? It feels like Maxwell time..." Similar things were being said about Joe Root against Afghanistan.
+4166~1~
+4166~1~36.3
+4166~1~1
+4166~1~Mustafizur Rahman to Khawaja, 1 run, glorious cover drive races to the sweeper in the deep. He hit too well. Hit it too square
+4166~1~
+4166~1~36.4
+4166~1~1lb
+4166~1~Mustafizur Rahman to Warner, 1 leg bye, 131kph, full angled down leg, it comes off pad and rolls for a leg bye
+4166~1~
+4166~1~36.5
+4166~1~1
+4166~1~Mustafizur Rahman to Khawaja, 1 run, short ball, he stands up and cracks a pull shot, rolling the wrists to get it to deep midwicket
+4166~1~
+4166~1~36.6
+4166~1~2
+4166~1~Mustafizur Rahman to Warner, 2 runs, 122kph, short ball on off, he's cramped, staying leg side he slaps this off the back foot over cover for a couple. Inventive but he couldn't get it straight enough to find the rope
+4166~1~
+4166~1~37.1
+4166~1~1
+4166~1~Rubel Hossain to Khawaja, 1 run, short ball, he hammers a pull shot to the man in the deep, it travels at a warp speed and causes a misfield but it doesn't cost anything
+4166~1~
+4166~1~Warner reaches his second century of the World Cup
+4166~1~END OF OVER:37 | 6 Runs | AUS: 218/1 | RR: 5.89
+4166~1~
+4166~1~    David Warner113 (124b)
+4166~1~    Usman Khawaja44 (47b)
+4166~1~
+4166~1~    Mustafizur Rahman5-0-26-0
+4166~1~    Rubel Hossain5-0-21-0
+4166~1~
+4166~1~WATCH - The 121-run stand between Warner and Finch (AUS, UK, SEA only)
+4166~1~
+4166~1~37.2
+4166~1~4
+4166~1~Rubel Hossain to Warner, FOUR runs, magnificent late cut wide of third man! It was 140kph, short but not that wide, he created some room and late cut it wide of third man and it raced away
+4166~1~
+4166~1~37.3
+4166~1~1
+4166~1~Rubel Hossain to Warner, 1 run, he charges a 141kph length, chops it off the bottom edge to backward point
+4166~1~
+4166~1~Hundred run stand is up
+4166~1~
+4166~1~37.4
+4166~1~4
+4166~1~Rubel Hossain to Khawaja, FOUR runs, lovely pull shot off the hip! Fractionally short on leg, he lifted the front leg, Brian Lara style and pulled it wide of short fine leg
+4166~1~
+4166~1~Jay: "Well Khawaja's strike is better than Warner's! So plz stop talking about retiring him out!"
+4166~1~
+4166~1~37.5
+4166~1~1
+4166~1~Rubel Hossain to Khawaja, 1 run, slower ball back of a length, he works this off the hip behind square. 50 for Khawaja at a run-a-ball. He's played well
+4166~1~
+4166~1~37.6
+4166~1~1
+4166~1~Rubel Hossain to Warner, 1 run, 138kph, skidding through, he grunts as it stays low and he pulls awkwardly behind square
+4166~1~
+4166~1~38.1
+4166~1~0
+4166~1~Mustafizur Rahman to Warner, no run, big swing and miss and it just goes past leg stump! He tried to line this up and launch a length ball straight down the ground but missed
+4166~1~END OF OVER:38 | 12 Runs | AUS: 230/1 | RR: 6.05
+4166~1~
+4166~1~    David Warner119 (127b)
+4166~1~    Usman Khawaja50 (50b)
+4166~1~
+4166~1~    Rubel Hossain6-0-33-0
+4166~1~    Mustafizur Rahman5-0-26-0
+4166~1~
+4166~1~Ashish Rawat : "AUS still have 14 overs... They can do 100-110% strike rate for 4-6 overs followed by 180-200% strike rate. That should give 120-140 less 20-30 runs due to good death bowling + few lost wickets. So score should be 330 (slightly less for my liking to where Aus is just now....) Game on for BD knowing what they did last match "
+4166~1~
+4166~1~38.2
+4166~1~4
+4166~1~Mustafizur Rahman to Warner, FOUR runs, thumped over mid off! Banged in back of a length, he backed away and slapped it flat and just over mid off inside the circle. Hit with amazing power
+4166~1~
+4166~1~38.3
+4166~1~1b
+4166~1~Mustafizur Rahman to Warner, 1 bye, slower ball bouncer, he tries to cut over point but is cramped and misses, Mushfiqur fumbles behind the stumps on the bounce and they pinch a bye
+4166~1~
+4166~1~38.4
+4166~1~0
+4166~1~Mustafizur Rahman to Khawaja, no run, 135kph, full on leg, he stays leg side and drives very nicely but straight to cover
+4166~1~
+4166~1~38.5
+4166~1~0
+4166~1~Mustafizur Rahman to Khawaja, no run, another slower ball bouncer, brilliantly bowled, it followed Khawaja as he tried to pull and he just got out of the way
+4166~1~
+4166~1~38.6
+4166~1~2
+4166~1~Mustafizur Rahman to Khawaja, 2 runs, slower short ball, it sits up, he hammers a pull shot forward of square into the gap for a couple
+4166~1~
+4166~1~39.1
+4166~1~1w
+4166~1~Rubel Hossain to Warner, 1 wide, 141kph, slung short down the leg side and called
+4166~1~END OF OVER:39 | 7 Runs | AUS: 237/1 | RR: 6.07
+4166~1~
+4166~1~    Usman Khawaja52 (53b)
+4166~1~    David Warner123 (130b)
+4166~1~
+4166~1~    Mustafizur Rahman6-0-32-0
+4166~1~    Rubel Hossain6-0-33-0
+4166~1~
+4166~1~If you're in India, you can relive Aaron Finch's fifty by watching on Hotstar
+4166~1~
+4166~1~39.1
+4166~1~6
+4166~1~Rubel Hossain to Warner, SIX runs, check drive down the ground the sightscreen! 126kph in the slot and he just checked through the line, picking the slower ball and it went like low golf shot under the wind straight down the ground
+4166~1~
+4166~1~Kartik: "Was Warner booed after he scored 100?" There were some boos
+4166~1~
+4166~1~39.2
+4166~1~2
+4166~1~Rubel Hossain to Warner, 2 runs, on the hip, he works this behind square and sprints two. Great running
+4166~1~
+4166~1~39.3
+4166~1~1
+4166~1~Rubel Hossain to Warner, 1 run, short on the hip again, he mistimes a pull behind square to wide fine leg
+4166~1~
+4166~1~39.4
+4166~1~1
+4166~1~Rubel Hossain to Khawaja, 1 run, good length on middle, he works it through midwicket, they look for two but it's not on
+4166~1~
+4166~1~39.5
+4166~1~1
+4166~1~Rubel Hossain to Warner, 1 run, slower ball on leg, he bunts this into midwicket
+4166~1~
+4166~1~39.6
+4166~1~1
+4166~1~Rubel Hossain to Khawaja, 1 run, shorter slower ball, he's back and working this through square leg
+4166~1~
+4166~1~40.1
+4166~1~0
+4166~1~Shakib Al Hasan to Khawaja, no run, this was fired down leg, would have been a wide, but Khawaja swept it straight to short fine! A mistake there
+4166~1~
+4166~1~Five men out for the last 10. Shakib is back to the two left handers. Bold move this.
+4166~1~END OF OVER:40 | 13 Runs | AUS: 250/1 | RR: 6.25
+4166~1~
+4166~1~    Usman Khawaja54 (55b)
+4166~1~    David Warner133 (134b)
+4166~1~
+4166~1~    Rubel Hossain7-0-46-0
+4166~1~    Mustafizur Rahman6-0-32-0
+4166~1~
+4166~1~Bharath Seervi: First time Australia have had century stands for first 2 wickets in a WC game and only the 4th for any team
+4166~1~
+4166~1~40.2
+4166~1~2
+4166~1~Shakib Al Hasan to Khawaja, 2 runs, low full toss, he clips this wide of long on for a couple
+4166~1~
+4166~1~40.3
+4166~1~1
+4166~1~Shakib Al Hasan to Khawaja, 1 run, another short ball down leg, again it would have been a wide, he pulls it straight to short fine leg again! Gets one this time
+4166~1~
+4166~1~40.4
+4166~1~4
+4166~1~Shakib Al Hasan to Warner, FOUR runs, a switch hit up and over short third man! He set up early and it was in the slot outside off, he deliberately lifted it up and over and one bounce four
+4166~1~
+4166~1~40.5
+4166~1~0
+4166~1~Shakib Al Hasan to Warner, no run, short ball down leg, he pulls again to short fine leg. This would have been a wide as well
+4166~1~
+4166~1~40.6
+4166~1~6
+4166~1~Shakib Al Hasan to Warner, SIX runs, smacked 20 rows back over deep midwicket! This begged to be hit. A drag down short ball on leg, he set his base and clubbed it miles over deep midwicket
+4166~1~
+4166~1~41.1
+4166~1~4
+4166~1~Mustafizur Rahman to Khawaja, FOUR runs, low full toss outside off, a bottom edge just gets past the keeper! Attempted wide yorker, he got a thin edge that rolled low and wide of Mushfiqur and third man is up.
+4166~1~
+4166~1~10 an over from here is 353. They will want more.
+4166~1~END OF OVER:41 | 13 Runs | AUS: 263/1 | RR: 6.41
+4166~1~
+4166~1~    David Warner143 (137b)
+4166~1~    Usman Khawaja57 (58b)
+4166~1~
+4166~1~    Shakib Al Hasan6-0-50-0
+4166~1~    Rubel Hossain7-0-46-0
+4166~1~
+4166~1~
+4166~1~41.2
+4166~1~4
+4166~1~Mustafizur Rahman to Khawaja, FOUR runs, clever upper cut! Short slower ball wide of off, Khawaja adjusted well and just lifted it over a vacant slips with no third man back
+4166~1~
+4166~1~41.3
+4166~1~2
+4166~1~Mustafizur Rahman to Khawaja, 2 runs, 132kph, thigh high full toss, he whips this behind square and they run well to get two
+4166~1~
+4166~1~Partnership of 150 now off 124.
+4166~1~
+4166~1~41.4
+4166~1~4
+4166~1~Mustafizur Rahman to Khawaja, FOUR runs, low full toss whipped forward of square! Another bad ball, Khawaja hit this a touch harder than the last one, timed it well to find the rope
+4166~1~
+4166~1~Rohit: "Warner in the unlucky 140s. 3 batsmen have fallen to this curse so far, 2 on 143. Can Warner break the curse and perhaps go on to make 2.... I will stop right there"
+4166~1~
+4166~1~41.5
+4166~1~4
+4166~1~Mustafizur Rahman to Khawaja, FOUR runs, pulled behind square! Fine leg went finer for some reason, this was chest high, he rolled the wrists on a pull and placed it to the rope!
+4166~1~
+4166~1~41.6
+4166~1~1
+4166~1~Mustafizur Rahman to Khawaja, 1 run, low full toss, he glances this straight to the man at fine leg
+4166~1~
+4166~1~42.1
+4166~1~1
+4166~1~Mashrafe Mortaza to Khawaja, 1 run, 123kph, low full toss, he drives down to long on
+4166~1~
+4166~1~Mortaza round the wicket
+4166~1~END OF OVER:42 | 19 Runs | AUS: 282/1 | RR: 6.71
+4166~1~
+4166~1~    Usman Khawaja76 (64b)
+4166~1~    David Warner143 (137b)
+4166~1~
+4166~1~    Mustafizur Rahman7-0-51-0
+4166~1~    Shakib Al Hasan6-0-50-0
+4166~1~
+4166~1~Viv: "Will Warner be booed when he hits 200? Am waiting to see and wish he hits one today. Warner and Smith are demonstrating how one should react when life puts them under the pump. Not easy at all. Immense respect to these champions. " I'll let you know if it happens. He's got to get there. Big ask with 48 balls left.
+4166~1~
+4166~1~42.2
+4166~1~6
+4166~1~Mashrafe Mortaza to Warner, SIX runs, full toss swiped over deep midwicket! Right in the strike zone and he clubbed it flat over midwicket and got all of it
+4166~1~
+4166~1~Nefartiti: "With the form Shakib is in...400 even is not safe"
+4166~1~
+4166~1~42.3
+4166~1~1
+4166~1~Mashrafe Mortaza to Warner, 1 run, 126kph, yorker on leg, he digs this out to long on. 150 for Warner! His 6th score 150 plus in ODIs
+4166~1~
+4166~1~42.4
+4166~1~4
+4166~1~Mashrafe Mortaza to Khawaja, FOUR runs, stunning square drive on the up through point! Wasn't a bad ball, slower ball wide of off, he steered it with amazing timing behind point. Class batting
+4166~1~
+4166~1~42.5
+4166~1~1
+4166~1~Mashrafe Mortaza to Khawaja, 1 run, good length on off, he drives inside out to deep cover point
+4166~1~
+4166~1~Sriram: "Where are the guys who are speaking negative about Khwaja.."
+4166~1~
+4166~1~42.6
+4166~1~1
+4166~1~Mashrafe Mortaza to Warner, 1 run, 126kph, knee high full toss, he tries to launch over midwicket but miscues, getting it to the man in the deep on the bounce
+4166~1~
+4166~1~43.1
+4166~1~1lb
+4166~1~Rubel Hossain to Warner, 1 leg bye, attempted switch hit to a 139kph, full ball outside leg! It comes off pad for a leg bye
+4166~1~
+4166~1~Rubel Hossain is back
+4166~1~END OF OVER:43 | 14 Runs | AUS: 296/1 | RR: 6.88
+4166~1~
+4166~1~    David Warner151 (140b)
+4166~1~    Usman Khawaja82 (67b)
+4166~1~
+4166~1~    Mashrafe Mortaza8-0-56-0
+4166~1~    Mustafizur Rahman7-0-51-0
+4166~1~
+4166~1~Phil Evans: "Concerned England fan here. Is David Warner (and Usman Khawaja) seeing a beachball or is this a bad Bangladesh bowling attack?" They haven't bowled horribly Phil. One dropped chance and some sloppiness in the field has been costly. Not much penetration though.
+4166~1~
+4166~1~43.2
+4166~1~1
+4166~1~Rubel Hossain to Khawaja, 1 run, 140kph low full toss on leg, he glances this to wide fine leg
+4166~1~
+4166~1~Third man was up. Khawaja just said to Warner "It was there"
+4166~1~
+4166~1~43.3
+4166~1~4
+4166~1~Rubel Hossain to Warner, FOUR runs, lofted flat and wide of long on! An attempted yorker was a half volley on leg stump, it was in the arc and he shovelled it wide of long on
+4166~1~
+4166~1~43.4
+4166~1~4
+4166~1~Rubel Hossain to Warner, FOUR runs, backs away and upper cuts over short third man! Predicted the short ball, gave room and ramped it over short third man
+4166~1~
+4166~1~43.5
+4166~1~2
+4166~1~Rubel Hossain to Warner, 2 runs, good yorker outside leg, he tried to give room but digs it out through midwicket and sprints two
+4166~1~
+4166~1~43.6
+4166~1~1
+4166~1~Rubel Hossain to Warner, 1 run, 137kph, full on leg stump, he clips this firmly along the ground to deep midwicket
+4166~1~
+4166~1~44.1
+4166~1~4
+4166~1~Soumya Sarkar to Warner, FOUR runs, wide full toss, he reaches out and slaps it through point! He had backed away, it was well wide of off, he reached out at full stretched and cracked it
+4166~1~
+4166~1~The Fiz was going to bowl. But Soumya is coming on instead. Over the wicket.
+4166~1~END OF OVER:44 | 13 Runs | AUS: 309/1 | RR: 7.02
+4166~1~
+4166~1~    David Warner162 (145b)
+4166~1~    Usman Khawaja83 (68b)
+4166~1~
+4166~1~    Rubel Hossain8-0-58-0
+4166~1~    Mashrafe Mortaza8-0-56-0
+4166~1~
+4166~1~Bharath Seervi: Warner first to make 2 150+ scores in World Cup.
+4166~1~
+4166~1~44.2
+4166~1~W
+4166~1~Soumya Sarkar to Warner, OUT, lobs a catch to short third man! Soumya does it again! 115kph short slower ball, Warner tries to upper cut but there's no pace, he just lobs a catch to the man on the circle and Rubel takes an easy catch.
+4166~1~
+4166~1~DA Warner c Rubel Hossain b Soumya Sarkar 166 (184m 147b 14x4 5x6) SR: 112.92
+4166~1~
+4166~1~44.3
+4166~1~2
+4166~1~Soumya Sarkar to Maxwell, 2 runs, 116kph, length ball on off, he sits back and works this neatly to the gap at midwicket and they call two straight away. Good running
+4166~1~
+4166~1~Soumya has two wickets in the innings. He had one in his career prior to this game. Maxwell is in.
+4166~1~
+4166~1~Warner gets a standing ovation. But there are some boos. Superb knock.
+4166~1~
+4166~1~44.4
+4166~1~1
+4166~1~Soumya Sarkar to Maxwell, 1 run, 123kph, full and straight, he drives easily down to long on
+4166~1~
+4166~1~Warne: "Yesssssss maxwelllll time"
+4166~1~
+4166~1~44.5
+4166~1~1
+4166~1~Soumya Sarkar to Khawaja, 1 run, 126kph, low full toss on middle, he steps across his stumps and works it through square leg
+4166~1~
+4166~1~44.6
+4166~1~4
+4166~1~Soumya Sarkar to Maxwell, FOUR runs, wide yorker and he steers it behind point! Good delivery but Maxwell's talent and sublime hands steered it past the fielder at pace and it raced to the rope
+4166~1~
+4166~1~45.1
+4166~1~2nb
+4166~1~Rubel Hossain to Khawaja, (no ball) 1 run, over-steps! 138kph low full toss, whipped to midwicket but what a mistake with the front foot
+4166~1~END OF OVER:45 | 12 Runs 1 Wkt | AUS: 321/2 | RR: 7.13
+4166~1~
+4166~1~    Glenn Maxwell7 (3b)
+4166~1~    Usman Khawaja84 (69b)
+4166~1~
+4166~1~    Soumya Sarkar6-0-41-2
+4166~1~    Rubel Hossain8-0-58-0
+4166~1~
+4166~1~
+4166~1~45.1
+4166~1~6
+4166~1~Rubel Hossain to Maxwell, SIX runs, What a shot over mid off! Full and wide of off, he had gone outside off, had to adjust and shovel it off the back foot over mid off and into the rope on the full! That is staggering skill
+4166~1~
+4166~1~Free hit for Maxwell
+4166~1~
+4166~1~45.2
+4166~1~4
+4166~1~Rubel Hossain to Maxwell, FOUR runs, carved through cover! Wowee! In the slot wide of off, he cleared the front leg and rifled it through cover!
+4166~1~
+4166~1~45.3
+4166~1~6
+4166~1~Rubel Hossain to Maxwell, SIX runs, clubbed over square leg! You van't bowl a length slower ball to Maxi. He sat and waited and clubbed it over square leg into the crowd
+4166~1~
+4166~1~45.4
+4166~1~0
+4166~1~Rubel Hossain to Maxwell, no run, yorker length, he gives room and steers it to the fielder at cover
+4166~1~
+4166~1~45.5
+4166~1~3
+4166~1~Rubel Hossain to Maxwell, 3 runs, launched into the biggest corner of the ground at wide long on, it's a huge hit down there, Tamim makes the diving save on the rope but they run well enough to get three
+4166~1~
+4166~1~45.6
+4166~1~4
+4166~1~Rubel Hossain to Khawaja, FOUR runs, backs away and slices this through backward point! Elegance, timing, pure class to get a ball from leg stump through backward point. He opened his chest up and the flow of the bat was superb
+4166~1~
+4166~1~Sriram: "Maxwell' Massacre"
+4166~1~
+4166~1~46.1
+4166~1~6
+4166~1~Soumya Sarkar to Maxwell, SIX runs, chest high short ball slapped over deep midwicket! Bad ball at that pace. Maxwell had all the time in the world to set up and hit the pull shot over deep midwicket
+4166~1~END OF OVER:46 | 25 Runs | AUS: 346/2 | RR: 7.52
+4166~1~
+4166~1~    Usman Khawaja89 (71b)
+4166~1~    Glenn Maxwell26 (8b)
+4166~1~
+4166~1~    Rubel Hossain9-0-83-0
+4166~1~    Soumya Sarkar6-0-41-2
+4166~1~
+4166~1~AK: "Right. So where are all the T20 addicts who were saying Aus were going too slow? That Aus couldn't get 350. Every TV commentator saying that Warner was going too slow. Every cricket fan in the world criticising sending Khawaja out at 3. "
+4166~1~
+4166~1~46.2
+4166~1~W
+4166~1~Soumya Sarkar to Maxwell, OUT, a mix up and Maxwell is run out! Full yorker on leg, he got it between his legs to short fine leg and ran, Khawaja started to run and called no! They were both standing mid pitch. Rubel, took his time, fired and hit! Maxwell could not believe Khawaja stopped running!
+4166~1~
+4166~1~GJ Maxwell run out (Rubel Hossain) 32 (14m 10b 2x4 3x6) SR: 320.00
+4166~1~
+4166~1~46.3
+4166~1~0
+4166~1~Soumya Sarkar to Stoinis, no run, 126kph, short and wide, he late cuts straight to short third man
+4166~1~
+4166~1~Marcus Stoinis in
+4166~1~
+4166~1~46.4
+4166~1~1
+4166~1~Soumya Sarkar to Stoinis, 1 run, 122kph, full on off, he drives neatly to and conventionally to long off
+4166~1~
+4166~1~46.5
+4166~1~W
+4166~1~Soumya Sarkar to Khawaja, OUT, caught behind! Soumya has been unbelievable! A surprise short ball, it comes off the pitch slowly, he tries to pull but is through the shot, gets a bottom edge off the toe of the bat, and Mushfiqur dives forward to take the catch!
+4166~1~
+4166~1~UT Khawaja c Mushfiqur Rahim(wk) b Soumya Sarkar 89 (110m 72b 10x4 0x6) SR: 123.61
+4166~1~
+4166~1~WATCH - How Warner's epic innings came to an end (Australia, UK, SEA only)
+4166~1~
+4166~1~46.6
+4166~1~1
+4166~1~Soumya Sarkar to Smith, 1 run, 124kph, perfect yorker, tailing in late into leg stump, he just jams it out and gets one
+4166~1~
+4166~1~Steve Smith in to some boos
+4166~1~
+4166~1~47.1
+4166~1~W
+4166~1~Mustafizur Rahman to Smith, OUT, plumb LBW! Smith reviews for the sake of it but it was a full toss that hit him on the shin in front of middle. This is out. No bat. Ball tracking has it hitting the base of middle and off. The review is wasted. He went back and across and tried to whip it behind square and missed it.
+4166~1~
+4166~1~SPD Smith lbw b Mustafizur Rahman 1 (4m 2b 0x4 0x6) SR: 50.00
+4166~1~
+4166~1~The Fiz to bowl overs 48 and 50.
+4166~1~END OF OVER:47 | 8 Runs 2 Wkts | AUS: 354/4 | RR: 7.53
+4166~1~
+4166~1~    Steven Smith1 (1b)
+4166~1~    Marcus Stoinis1 (2b)
+4166~1~
+4166~1~    Soumya Sarkar7-0-49-3
+4166~1~    Rubel Hossain9-0-83-0
+4166~1~
+4166~1~WATCH - How Warner's epic innings came to an end (Australia, UK, SEA only)
+4166~1~
+4166~1~47.2
+4166~1~1
+4166~1~Mustafizur Rahman to Carey, 1 run, 135kph, full on off, he drives firmly but straight to cover. He picked out the fielder
+4166~1~
+4166~1~Carey in
+4166~1~
+4166~1~Shahed: "Khawaja did a great favor for Bangladesh."
+4166~1~
+4166~1~47.3
+4166~1~1
+4166~1~Mustafizur Rahman to Stoinis, 1 run, length on leg stump, he clips this off the hip to fine leg
+4166~1~
+4166~1~47.4
+4166~1~1
+4166~1~Mustafizur Rahman to Carey, 1 run, thigh high full toss, 136kph, he sits back and just bunts this down to long on
+4166~1~
+4166~1~Benno: "I'm not sure I'd say Soumya has been unbelievable, he's going at 7 per over :)" The team has gone at 7.5 and he's knocked over the top three who have dominated. When he only had one wicket in his career to this point.
+4166~1~
+4166~1~47.5
+4166~1~1
+4166~1~Mustafizur Rahman to Stoinis, 1 run, 133kph, low full toss outside off, he drives firmly to long on
+4166~1~
+4166~1~47.6
+4166~1~1
+4166~1~Mustafizur Rahman to Carey, 1 run, 137kph, yorker on leg, he digs this out to long on
+4166~1~
+4166~1~Ibrahim : "Khawaja has a better strike rate than finch and Warner. How come he favoured Bangladesh. " He played beautifully. But he burned Maxwell.
+4166~1~
+4166~1~48.1
+4166~1~1
+4166~1~Soumya Sarkar to Carey, 1 run, slower ball bouncer, he pulls this along the ground to deep forward square
+4166~1~END OF OVER:48 | 5 Runs 1 Wkt | AUS: 359/5 | RR: 7.47
+4166~1~
+4166~1~    Alex Carey3 (3b)
+4166~1~    Marcus Stoinis3 (4b)
+4166~1~
+4166~1~    Mustafizur Rahman8-0-56-1
+4166~1~    Soumya Sarkar7-0-49-3
+4166~1~
+4166~1~
+4166~1~48.2
+4166~1~2
+4166~1~Soumya Sarkar to Stoinis, 2 runs, 125kph. low full toss outside off, he drives inside out wide of long off and calls two immediately. Carey is rapid. No issue getting back
+4166~1~
+4166~1~48.3
+4166~1~0
+4166~1~Soumya Sarkar to Stoinis, no run, wide yorker, 124kph, he miscues this back to the bowler
+4166~1~
+4166~1~48.4
+4166~1~1
+4166~1~Soumya Sarkar to Stoinis, 1 run, 125kph, wide yorker, he shaped to try and paddle to fine leg, had to adjust and run it to short third man
+4166~1~
+4166~1~48.5
+4166~1~4
+4166~1~Soumya Sarkar to Carey, FOUR runs, drives this powerfully through cover! low full toss and he backed away and just placed this wide of the man at cover
+4166~1~
+4166~1~48.6
+4166~1~1
+4166~1~Soumya Sarkar to Carey, 1 run, short slower ball, he backs away and slaps this to cover
+4166~1~
+4166~1~It's raining but they stay out there
+4166~1~
+4166~1~49.1
+4166~1~1
+4166~1~Mustafizur Rahman to Carey, 1 run, 131kph, wide full toss, he clears the left leg and slices it in the air but short of deep cover-point
+4166~1~
+4166~1~The Fiz to bowl the last.
+4166~1~
+4166~1~2.33pm The players are coming back out to finish the innings. There's blue sky. Only a 24 minute delay. No overs lost.
+4166~1~
+4166~1~Earthman : "Bangladesh chased down 322 in 42.5 overs the other day. Around 375-380 in 50 overs, in a batting paradise like this, is not impossible. Even if the opposition is the Aussies. "
+4166~1~
+4166~1~The cover are coming off. Play will resume in 10 minutes.
+4166~1~
+4166~1~WATCH - Khawaja falls 11 short of century (Australia, UK, SEA only)
+4166~1~
+4166~1~WATCH - Did Steven Smith waste a review? See his lbw and have your say (Australia, UK, SEA only)
+4166~1~
+4166~1~Bangladesh will have to chase 377 from 49 overs in case but the delay would need to be 75 minutes long for us to lose overs. The full square covers are on. But there's some blue sky in the distance so hopefully it's a short delay.
+4166~1~
+4166~1~Hasnain: "My Bangladeshi roommate is praying for rain not to stop until the match gets abandoned:)"
+4166~1~
+4166~1~Ashish: "Never thought that Australia would reach 400. Then Maxi came and I was like easily 400 would be breached. Then Maxi goes and now it looks like 400 is Mt Visuvius now!"
+4166~1~
+4166~1~If you think Australia have been dominant today, check out what happened elsewhere in the cricket world: Uganda women beat Mali women by a whopping 304 runs - in a T20I.
+4166~1~
+4166~1~2.09pm Match delay The rain has gotten heavier and the umpire's have sent the players off. The covers are coming on. This rain is heavy. Fans are putting umbrellas up or heading for shelter. It's pretty dark too. Hopefully it's only a short burst.
+4166~1~END OF OVER:49 | 9 Runs | AUS: 368/5 | RR: 7.51
+4166~1~
+4166~1~    Alex Carey9 (6b)
+4166~1~    Marcus Stoinis6 (7b)
+4166~1~
+4166~1~    Soumya Sarkar8-0-58-3
+4166~1~    Mustafizur Rahman8-0-56-1
+4166~1~
+4166~1~WATCH - Bad mix-up sends Maxwell back for 32 (Australia, UK, SEA only)
+4166~1~
+4166~1~49.2
+4166~1~1
+4166~1~Mustafizur Rahman to Stoinis, 1 run, 137kph, full on middle, he swings hard but only gets it down the ground to long on
+4166~1~
+4166~1~49.3
+4166~1~1
+4166~1~Mustafizur Rahman to Carey, 1 run, 133kph, yorker length, he just bunts this out to mid off
+4166~1~
+4166~1~49.4
+4166~1~4
+4166~1~Mustafizur Rahman to Stoinis, FOUR runs, crunched down the ground! Attempted yorker becomes a half volley and he pounds a drive back past the stumps to the sight screen
+4166~1~
+4166~1~Some interesting footage shown in Australia during the break of Aaron finch being surprised and somewhat unhappy to see Khawaja walk out at No.3 after his dismissal.
+4166~1~
+4166~1~49.5
+4166~1~4
+4166~1~Mustafizur Rahman to Stoinis, FOUR runs, top edge over short third man!t Tried to launch a length ball over wide long on, got a top edge and it flies over short third man and safely for four
+4166~1~
+4166~1~49.6
+4166~1~2
+4166~1~Mustafizur Rahman to Stoinis, 2 runs, drilled down to straight long off, Rubel is tested on the rope but he saves two
+4166~1~
+4166~2~##########
+4166~2~
+4166~2~0.1
+4166~2~0
+4166~2~Starc to Tamim Iqbal, no run, short of length on middle and rising, Tamim gets on his toes and dabs it towards short midwicket
+4166~2~
+4166~2~0.2
+4166~2~0
+4166~2~Starc to Tamim Iqbal, no run, length ball around off and middle, defended from the crease with a straight bat
+4166~2~
+4166~2~0.3
+4166~2~3
+4166~2~Starc to Tamim Iqbal, 3 runs, length ball outside off and steered through extra cover off the back foot, Stoinis from covers puts in the chase as Warner slips at mid-off. A slide saves one run
+4166~2~
+4166~2~0.4
+4166~2~0
+4166~2~Starc to Soumya Sarkar, no run, length ball around off, dabs it towards point from the crease
+4166~2~
+4166~2~0.5
+4166~2~1
+4166~2~Starc to Soumya Sarkar, 1 run, length again, just outside off, Soumya hangs his bat out, gets a thick outside edge towards third man
+4166~2~
+4166~2~0.6
+4166~2~0
+4166~2~Starc to Tamim Iqbal, no run, short of length around off, jumps in the air and taps it down towards extra cover
+4166~2~
+4166~2~Roopak Sharma: "BDESH needs to be careful till first 15 overs"
+4166~2~
+4166~2~1.1
+4166~2~0
+4166~2~Cummins to Soumya Sarkar, no run, length ball around off, taps it towards mid-off from the back foot
+4166~2~
+4166~2~Pat Cummins from the other end, two slips again
+4166~2~END OF OVER:1 | 4 Runs | BDESH: 4/0 (378 runs required from 49 overs, RR: 4.00, RRR: 7.71)
+4166~2~
+4166~2~    Tamim Iqbal3 (4b)
+4166~2~    Soumya Sarkar1 (2b)
+4166~2~
+4166~2~    Mitchell Starc1-0-4-0
+4166~2~
+4166~2~
+4166~2~1.2
+4166~2~1
+4166~2~Cummins to Soumya Sarkar, 1 run, short of length outside off, Soumya pushes at it but the ball comes slower off the wicket. Luckily for the batsman it was well away from Warner at mid-off who puts in an ugly but effective dive to keep it to one
+4166~2~
+4166~2~1.3
+4166~2~0
+4166~2~Cummins to Tamim Iqbal, no run, a touch fuller outside off this time, Tamim comes forward and drives it towards mid-off, was looking to go extra cover but doesn't middle it
+4166~2~
+4166~2~1.4
+4166~2~4
+4166~2~Cummins to Tamim Iqbal, FOUR runs, pitched up further this time and pays the price as Tamim nails the drive, comes forward and sends it between the non-striker and the mid-off
+4166~2~
+4166~2~1.5
+4166~2~0
+4166~2~Cummins to Tamim Iqbal, no run, short of length outside off, punched off the back foot towards covers
+4166~2~
+4166~2~1.6
+4166~2~0
+4166~2~Cummins to Tamim Iqbal, no run, back of length once again, punched towards mid-off this time, no run again
+4166~2~
+4166~2~2.1
+4166~2~1lb
+4166~2~Starc to Soumya Sarkar, 1 leg bye, a touch fuller and on the pads, Tamim fails to make full use as he misses the flick, a leg bye to short fine leg
+4166~2~
+4166~2~Subbu: "If Shakib scores a ton today, will it be a world cup record of 3 in a row centuries? " -- Sangakkara hit four in a row in World Cup 2015
+4166~2~END OF OVER:2 | 5 Runs | BDESH: 9/0 (373 runs required from 48 overs, RR: 4.50, RRR: 7.77)
+4166~2~
+4166~2~    Tamim Iqbal7 (8b)
+4166~2~    Soumya Sarkar2 (4b)
+4166~2~
+4166~2~    Pat Cummins1-0-5-0
+4166~2~    Mitchell Starc1-0-4-0
+4166~2~
+4166~2~If you're joining us from India, then catch highlights of Warner's 16th ODI hundred on Hotstar
+4166~2~
+4166~2~2.2
+4166~2~0
+4166~2~Starc to Tamim Iqbal, no run, fuller around off, stands tall and drives it firmly but finds mid-off
+4166~2~
+4166~2~2.3
+4166~2~1
+4166~2~Starc to Tamim Iqbal, 1 run, short of length on middle and leg, Tamim gets on the top of it and dabs it towards deep backward square leg
+4166~2~
+4166~2~2.4
+4166~2~4
+4166~2~Starc to Soumya Sarkar, FOUR runs, fuller and angling in on to the pads, no swing there as Soumya flicks it over midwicket for four
+4166~2~
+4166~2~2.5
+4166~2~4
+4166~2~Starc to Soumya Sarkar, FOUR runs, goes for the yorker again but ends up bowling a full toss on the pads, Soumya flicks it towards fine leg where Cummins slips and makes a mess of it
+4166~2~
+4166~2~Sendil: "My heart beats 100 % For Tamim Iqbal To Score a century Today "
+4166~2~
+4166~2~2.6
+4166~2~0
+4166~2~Starc to Soumya Sarkar, no run, short of length outside off, Soumya looks to reach out for it, playing away from the body without much feet movement, gets beaten
+4166~2~
+4166~2~3.1
+4166~2~0
+4166~2~Cummins to Tamim Iqbal, no run, length ball around off, driven towards the right of mid-off from the back foot
+4166~2~END OF OVER:3 | 10 Runs | BDESH: 19/0 (363 runs required from 47 overs, RR: 6.33, RRR: 7.72)
+4166~2~
+4166~2~    Soumya Sarkar10 (8b)
+4166~2~    Tamim Iqbal8 (10b)
+4166~2~
+4166~2~    Mitchell Starc2-0-13-0
+4166~2~    Pat Cummins1-0-5-0
+4166~2~
+4166~2~
+4166~2~3.2
+4166~2~4b
+4166~2~Cummins to Tamim Iqbal, 4 byes, freebies! Length ball outside off, Tamim pushes at it and gets beaten but the ball swings and dips towards the right of Carey who fails to collect and concedes four byes
+4166~2~
+4166~2~Looks like Maxwell is using those hand warmers
+4166~2~
+4166~2~3.3
+4166~2~0
+4166~2~Cummins to Tamim Iqbal, no run, short of length outside off, Tamim punches it towards extra cover with a back-foot punch
+4166~2~
+4166~2~3.4
+4166~2~0
+4166~2~Cummins to Tamim Iqbal, no run, a bouncer this time, well over the batsman who didn't have any problem ducking under
+4166~2~
+4166~2~3.5
+4166~2~W
+4166~2~Cummins to Tamim Iqbal, OUT, a Finch direct hit finds Soumya short at the bowler's end! A length ball around off, Tamim taps it towards the left of Finch at mid-on, calls for a single, is halfway down, Soumya responds a bit late but Tamim then turns back. Finch meanwhile slides to his left, his stronger hand, balances himself, sees which end to throw at and nails the direct hit to find Soumya short
+4166~2~
+4166~2~Soumya Sarkar run out (Finch) 10 (18m 8b 2x4 0x6) SR: 125.00
+4166~2~
+4166~2~3.6
+4166~2~0
+4166~2~Cummins to Tamim Iqbal, no run, another short one from Cummins, Tamim ducks under
+4166~2~
+4166~2~4.1
+4166~2~0
+4166~2~Starc to Shakib Al Hasan, no run, length ball around off, looks to drive on the up, inner half of the bat and towards short midwicket
+4166~2~END OF OVER:4 | 4 Runs 1 Wkt | BDESH: 23/1 (359 runs required from 46 overs, RR: 5.75, RRR: 7.80)
+4166~2~
+4166~2~    Tamim Iqbal8 (16b)
+4166~2~    Shakib Al Hasan0 (0b)
+4166~2~
+4166~2~    Pat Cummins2-1-5-0
+4166~2~    Mitchell Starc2-0-13-0
+4166~2~
+4166~2~
+4166~2~4.2
+4166~2~0
+4166~2~Starc to Shakib Al Hasan, no run, length ball around off and Shakib plays all over it, the ball goes over the stumps
+4166~2~
+4166~2~4.3
+4166~2~1
+4166~2~Starc to Shakib Al Hasan, 1 run, taps the length ball towards extra cover and sets off for a quick single to get off the mark
+4166~2~
+4166~2~4.4
+4166~2~0
+4166~2~Starc to Tamim Iqbal, no run, a sharp bouncer aimed at the batsman, Tamim ducks under once again
+4166~2~
+4166~2~4.5
+4166~2~1
+4166~2~Starc to Tamim Iqbal, 1 run, length ball on middle and leg, taps it towards short midwicket for one
+4166~2~
+4166~2~4.6
+4166~2~0
+4166~2~Starc to Shakib Al Hasan, no run, another short one, a bit down the leg side though, Shakib stays in his position and let it go
+4166~2~
+4166~2~Nipun: "You deserve to get out if you don't dive from this close"
+4166~2~
+4166~2~5.1
+4166~2~4
+4166~2~Maxwell to Tamim Iqbal, FOUR runs, fuller around off, and driven firmly through covers for four
+4166~2~
+4166~2~Glenn Maxwell against two left-hander, around the wicket
+4166~2~END OF OVER:5 | 2 Runs | BDESH: 25/1 (357 runs required from 45 overs, RR: 5.00, RRR: 7.93)
+4166~2~
+4166~2~    Shakib Al Hasan1 (4b)
+4166~2~    Tamim Iqbal9 (18b)
+4166~2~
+4166~2~    Mitchell Starc3-0-15-0
+4166~2~    Pat Cummins2-1-5-0
+4166~2~
+4166~2~
+4166~2~5.2
+4166~2~0
+4166~2~Maxwell to Tamim Iqbal, no run, length ball around off, punches it towards covers from the front foot
+4166~2~
+4166~2~5.3
+4166~2~1
+4166~2~Maxwell to Tamim Iqbal, 1 run, flatter and quicker, angling in, taps it towards covers and hares for a quick single
+4166~2~
+4166~2~5.4
+4166~2~1
+4166~2~Maxwell to Shakib Al Hasan, 1 run, fuller around off, drives it towards sweeper cover
+4166~2~
+4166~2~5.5
+4166~2~0
+4166~2~Maxwell to Tamim Iqbal, no run, fuller around off, comes forward and pushes it towards cover-point for another quick single. Khawaja throws at the keeper's end, Tamim was in and wasn't even looking at the fielder. The throw pings him on the back of his leg
+4166~2~
+4166~2~5.6
+4166~2~1
+4166~2~Maxwell to Tamim Iqbal, 1 run, length outside off, stays back and guides it towards short third man
+4166~2~
+4166~2~6.1
+4166~2~4
+4166~2~Cummins to Tamim Iqbal, FOUR runs, a touch fuller on the stumps and flicked away in front of square leg for four
+4166~2~END OF OVER:6 | 7 Runs | BDESH: 32/1 (350 runs required from 44 overs, RR: 5.33, RRR: 7.95)
+4166~2~
+4166~2~    Tamim Iqbal15 (23b)
+4166~2~    Shakib Al Hasan2 (5b)
+4166~2~
+4166~2~    Glenn Maxwell1-0-7-0
+4166~2~    Mitchell Starc3-0-15-0
+4166~2~
+4166~2~
+4166~2~6.2
+4166~2~0
+4166~2~Cummins to Tamim Iqbal, no run, length ball around off, comes forward and defends it back towards the bowler
+4166~2~
+4166~2~6.3
+4166~2~0
+4166~2~Cummins to Tamim Iqbal, no run, length ball around off, looks to drive on the up, mistimes it towards short midwicket, was in the air for a while as well
+4166~2~
+4166~2~6.4
+4166~2~0
+4166~2~Cummins to Tamim Iqbal, no run, length ball around off, stays back and punches it towards covers, cannot find the gap though
+4166~2~
+4166~2~Jigar Panchal: "That runout is a very good example of demonstration of sharp presence of mind in sports. Finch did it absolutely perfectly and Soumya faltered."
+4166~2~
+4166~2~Avik: "What do you make out of a bowling line comprised of Cummins, Bumrah and Rabada?" -- Think Bumrah is the best white-ball bowler currently
+4166~2~
+4166~2~6.5
+4166~2~0
+4166~2~Cummins to Tamim Iqbal, no run, they know Tamim has been out thrice to short balls this tournament and here's another one. The batsman is happy to duck under for the moment
+4166~2~
+4166~2~6.6
+4166~2~2
+4166~2~Cummins to Tamim Iqbal, 2 runs, length ball outside off, stays beside the line and opens the face to steer it past the point fielder for a couple, Zampa cuts it off near the deep backward point boundary
+4166~2~
+4166~2~7.1
+4166~2~1w
+4166~2~CoulterNile to Tamim Iqbal, 1 wide, starts with a length ball down the leg, needs to be bowled again
+4166~2~
+4166~2~Here's Nathan CoulterNile
+4166~2~END OF OVER:7 | 6 Runs | BDESH: 38/1 (344 runs required from 43 overs, RR: 5.42, RRR: 8.00)
+4166~2~
+4166~2~    Tamim Iqbal21 (29b)
+4166~2~    Shakib Al Hasan2 (5b)
+4166~2~
+4166~2~    Pat Cummins3-1-11-0
+4166~2~    Glenn Maxwell1-0-7-0
+4166~2~
+4166~2~WATCH - Aaron Finch's superb throw to run out Soumya Sarkar (UK, AUS, IRE, SEA, HK only)
+4166~2~
+4166~2~7.1
+4166~2~1
+4166~2~CoulterNile to Shakib Al Hasan, 1 run, short of length outside off, dabs it towards deep backward point for one
+4166~2~
+4166~2~7.2
+4166~2~0
+4166~2~CoulterNile to Tamim Iqbal, no run, length ball outside off, stays beside the line and defends it towards cover-point
+4166~2~
+4166~2~Did you know? Glenn Maxwell's 10-ball 32 was the fastest score by any Australia batsman (minimum 25 runs) in ODIs. Watch all his sixes and fours here on Hotstar
+4166~2~
+4166~2~7.3
+4166~2~0
+4166~2~CoulterNile to Tamim Iqbal, no run, length ball on the leg stump, misses the flick. A polite enquiry for lbw but it pitched outside leg
+4166~2~
+4166~2~7.4
+4166~2~1
+4166~2~CoulterNile to Tamim Iqbal, 1 run, length ball outside off, moves towards the ball and dabs it towards point where Maxwell charges towards the ball, fails to pick it up and slips
+4166~2~
+4166~2~7.5
+4166~2~0
+4166~2~CoulterNile to Shakib Al Hasan, no run, length ball around middle and leg, kept a bit low as well, Shakib fails to get his bat down in time and is hit near the knee roll. CoulterNile is not interested but Carey is and they go for the review. And as suspected, it pitched slightly outside leg and Australia lose their review
+4166~2~
+4166~2~7.6
+4166~2~0
+4166~2~CoulterNile to Shakib Al Hasan, no run, short of length on the stumps, goes for the pull but is cramped, the ball dribbles towards mid-on
+4166~2~
+4166~2~8.1
+4166~2~0
+4166~2~Cummins to Tamim Iqbal, no run, a touch fuller around off, goes for the drive but cannot beat the extra cover fielder
+4166~2~END OF OVER:8 | 3 Runs | BDESH: 41/1 (341 runs required from 42 overs, RR: 5.12, RRR: 8.11)
+4166~2~
+4166~2~    Shakib Al Hasan3 (8b)
+4166~2~    Tamim Iqbal22 (32b)
+4166~2~
+4166~2~    Nathan CoulterNile1-0-3-0
+4166~2~    Pat Cummins3-1-11-0
+4166~2~
+4166~2~Waheed Safi : "Hello guys this my 17th time today please Published would any of cricket expert can tell me is that possible that South Africa has still chance or not" -- They do have a chance mathematically
+4166~2~
+4166~2~8.2
+4166~2~0
+4166~2~Cummins to Tamim Iqbal, no run, length ball around off, looks to drop and run but the cover-point fielder was quick to the ball
+4166~2~
+4166~2~8.3
+4166~2~1
+4166~2~Cummins to Tamim Iqbal, 1 run, length ball outside off, throws his bat at it, gets more of a toe end towards third man
+4166~2~
+4166~2~8.4
+4166~2~2
+4166~2~Cummins to Shakib Al Hasan, 2 runs, length ball around off, and Shakib drives it on the up, between the stumps and the non-striker, Cummins dives across but cannot stop, two to the total
+4166~2~
+4166~2~8.5
+4166~2~4
+4166~2~Cummins to Shakib Al Hasan, FOUR runs, short of length outside off, some width this time to free his arms, Shakib goes up and over backward point
+4166~2~
+4166~2~8.6
+4166~2~1lb
+4166~2~Cummins to Shakib Al Hasan, 1 leg bye, fuller on the leg stump, Shakib was moving towards the off side and misses the flick, gets a leg bye to fine leg. Think it pitched just outside the leg stump. Yes, way outside leg replays confirm
+4166~2~
+4166~2~9.1
+4166~2~0
+4166~2~CoulterNile to Shakib Al Hasan, no run, fuller around off, drives it gently towards covers
+4166~2~END OF OVER:9 | 8 Runs | BDESH: 49/1 (333 runs required from 40.4 overs, RR: 5.44, RRR: 8.12)
+4166~2~
+4166~2~    Shakib Al Hasan9 (11b)
+4166~2~    Tamim Iqbal23 (35b)
+4166~2~
+4166~2~    Pat Cummins4-1-18-0
+4166~2~    Nathan CoulterNile1-0-3-0
+4166~2~
+4166~2~20 over par for DLS - 132/1, 150/2, 172/3, 200/4
+4166~2~
+4166~2~9.2
+4166~2~0
+4166~2~CoulterNile to Shakib Al Hasan, no run, length ball on the stumps, punched back towards the bowler
+4166~2~
+4166~2~ Waheed : SA can maximum attain 9 points by the end of their league stage. All the 4 top teams currently need just one win from their remaining matches to cross that 9 points tally. So let's face the fact that SA is out of playoffs for this WC..! "
+4166~2~
+4166~2~9.3
+4166~2~0
+4166~2~CoulterNile to Shakib Al Hasan, no run, a slower one, full around the off stump, Shakib was a touch early into the shot but does well to keep it out
+4166~2~
+4166~2~Lakshman Kumar: "
+4166~2~9.4
+4166~2~0
+4166~2~CoulterNile to Shakib Al Hasan, no run, a bouncer this time, hurries at the batsman, Shakib mistimes the pull towards short midwicket
+4166~2~
+4166~2~9.5
+4166~2~4
+4166~2~CoulterNile to Shakib Al Hasan, FOUR runs, fuller around off, Shakib comes forward and drives handsomely past mid-off for four, was a slower one from CoulterNile
+4166~2~
+4166~2~9.6
+4166~2~0
+4166~2~CoulterNile to Shakib Al Hasan, no run, short of length around off, Shakib once again cannot nail the pull as the ball dribbles towards short midwicket
+4166~2~
+4166~2~10.1
+4166~2~1
+4166~2~Maxwell to Tamim Iqbal, 1 run, length ball on the stumps, nudges it on the leg side and sets off, Carey collects and fires in the throw to Maxwell but Tamim was home
+4166~2~
+4166~2~Maxwell is back
+4166~2~END OF OVER:10 | 4 Runs | BDESH: 53/1 (329 runs required from 40 overs, RR: 5.30, RRR: 8.22)
+4166~2~
+4166~2~    Shakib Al Hasan13 (17b)
+4166~2~    Tamim Iqbal23 (35b)
+4166~2~
+4166~2~    Nathan CoulterNile2-0-7-0
+4166~2~    Pat Cummins4-1-18-0
+4166~2~
+4166~2~So far in this chase, Bangladesh's win probability has not touched 20% yet. The highest was 18.9, when the openers were together. Right now it's at 16.1
+4166~2~
+4166~2~10.2
+4166~2~2
+4166~2~Maxwell to Shakib Al Hasan, 2 runs, fuller and driven towards sweeper cover where Cummins slips and concedes two
+4166~2~
+4166~2~10.3
+4166~2~2
+4166~2~Maxwell to Shakib Al Hasan, 2 runs, fuller outside off, looks to go over extra cover, gets a thick outside edge over backward point for two more
+4166~2~
+4166~2~10.4
+4166~2~1
+4166~2~Maxwell to Shakib Al Hasan, 1 run, length ball on the pads, tucks it towards midwicket for one
+4166~2~
+4166~2~10.5
+4166~2~0
+4166~2~Maxwell to Tamim Iqbal, no run, flatter and quicker around off, Tamim looks to push it towards covers, ends up hitting it down the wicket
+4166~2~
+4166~2~10.6
+4166~2~0
+4166~2~Maxwell to Tamim Iqbal, no run, length ball outside off, pushed towards cover-point
+4166~2~
+4166~2~11.1
+4166~2~0
+4166~2~CoulterNile to Shakib Al Hasan, no run, another bouncer to Shakib but this time he ducks under
+4166~2~END OF OVER:11 | 6 Runs | BDESH: 59/1 (323 runs required from 39 overs, RR: 5.36, RRR: 8.28)
+4166~2~
+4166~2~    Tamim Iqbal24 (38b)
+4166~2~    Shakib Al Hasan18 (20b)
+4166~2~
+4166~2~    Glenn Maxwell2-0-13-0
+4166~2~    Nathan CoulterNile2-0-7-0
+4166~2~
+4166~2~
+4166~2~11.2
+4166~2~1
+4166~2~CoulterNile to Shakib Al Hasan, 1 run, short of length at the batsman who pulls it down towards deep square leg
+4166~2~
+4166~2~Laskhman Kumar, What if out of 4 india matches 2 loss and 2 NR. They will end up on 9 points. As he said mathematically possible :D"
+4166~2~
+4166~2~11.3
+4166~2~0
+4166~2~CoulterNile to Tamim Iqbal, no run, length ball around off, looks to dab and run but almost ends up chopping on to his stumps
+4166~2~
+4166~2~Fahad: "
+4166~2~11.4
+4166~2~1
+4166~2~CoulterNile to Tamim Iqbal, 1 run, short of length and rising, Tamim looks to dab it towards midwicket, ends up mistiming it towards square leg
+4166~2~
+4166~2~11.5
+4166~2~1
+4166~2~CoulterNile to Shakib Al Hasan, 1 run, short of length around off, punches it towards extra cover who is at the edge of the 30-yard circle
+4166~2~
+4166~2~11.6
+4166~2~1
+4166~2~CoulterNile to Tamim Iqbal, 1 run, length ball around off, drops it on the off side with soft hands and steals a quick single
+4166~2~
+4166~2~12.1
+4166~2~1
+4166~2~Maxwell to Tamim Iqbal, 1 run, fuller around off, goes for the drive but doesn't middle it, a single as the short third man dives to his left to make the stop
+4166~2~END OF OVER:12 | 4 Runs | BDESH: 63/1 (319 runs required from 38 overs, RR: 5.25, RRR: 8.39)
+4166~2~
+4166~2~    Tamim Iqbal26 (41b)
+4166~2~    Shakib Al Hasan20 (23b)
+4166~2~
+4166~2~    Nathan CoulterNile3-0-11-0
+4166~2~    Glenn Maxwell2-0-13-0
+4166~2~
+4166~2~
+4166~2~12.2
+4166~2~4
+4166~2~Maxwell to Shakib Al Hasan, FOUR runs, fuller on the stumps and Shakib just chips it over the bowler's head, dead-straight and long-on cannot cut it off
+4166~2~
+4166~2~12.3
+4166~2~4
+4166~2~Maxwell to Shakib Al Hasan, FOUR runs, and again, even better, flatter and more power behind it, four more to Shakib
+4166~2~
+4166~2~Fahad: India has 5 matches left so they will win that 5th match and qualify even if that happens. "
+4166~2~
+4166~2~12.4
+4166~2~0
+4166~2~Maxwell to Shakib Al Hasan, no run, fuller on the pads, flicks it towards short midwicket
+4166~2~
+4166~2~Tushar Garg: "
+4166~2~12.5
+4166~2~2
+4166~2~Maxwell to Shakib Al Hasan, 2 runs, length ball on the stumps, moves across and works it towards deep square, scampers back for the second to bring up the 50-run stand
+4166~2~
+4166~2~12.6
+4166~2~1
+4166~2~Maxwell to Shakib Al Hasan, 1 run, length ball on the pads, flicks it behind square leg for a quick single
+4166~2~
+4166~2~13.1
+4166~2~0
+4166~2~CoulterNile to Shakib Al Hasan, no run, length ball around off, defends it from the back foot
+4166~2~END OF OVER:13 | 12 Runs | BDESH: 75/1 (307 runs required from 37 overs, RR: 5.76, RRR: 8.29)
+4166~2~
+4166~2~    Shakib Al Hasan31 (28b)
+4166~2~    Tamim Iqbal27 (42b)
+4166~2~
+4166~2~    Glenn Maxwell3-0-25-0
+4166~2~    Nathan CoulterNile3-0-11-0
+4166~2~
+4166~2~
+4166~2~13.2
+4166~2~1
+4166~2~CoulterNile to Shakib Al Hasan, 1 run, length outside off, waits for it before guiding it towards third man
+4166~2~
+4166~2~13.3
+4166~2~0
+4166~2~CoulterNile to Tamim Iqbal, no run, another bouncer but Tamim is avoiding the pull shot, ducks under once again
+4166~2~
+4166~2~Ayush badole: "It's Tamim now have to play a sheet anchor role and need to up the tempo so as to reduce the load on Shakib if they need to be near to the Aussies total"
+4166~2~
+4166~2~13.4
+4166~2~1
+4166~2~CoulterNile to Tamim Iqbal, 1 run, this time he plays the pull but doesn't time it, another short one from CoulterNile, but good thing is Tamim was looking to play at down, a single to square leg
+4166~2~
+4166~2~13.5
+4166~2~0
+4166~2~CoulterNile to Shakib Al Hasan, no run, short of length around middle and off, defends it towards square leg
+4166~2~
+4166~2~13.6
+4166~2~1
+4166~2~CoulterNile to Shakib Al Hasan, 1 run, a slower one but full toss on the pads, flicked away towards deep square leg
+4166~2~
+4166~2~14.1
+4166~2~1
+4166~2~Stoinis to Shakib Al Hasan, 1 run, length ball around off, dabs it behind point and sets off for one
+4166~2~
+4166~2~Stoinis now
+4166~2~END OF OVER:14 | 3 Runs | BDESH: 78/1 (304 runs required from 36 overs, RR: 5.57, RRR: 8.44)
+4166~2~
+4166~2~    Shakib Al Hasan33 (32b)
+4166~2~    Tamim Iqbal28 (44b)
+4166~2~
+4166~2~    Nathan CoulterNile4-0-14-0
+4166~2~    Glenn Maxwell3-0-25-0
+4166~2~
+4166~2~
+4166~2~14.2
+4166~2~1
+4166~2~Stoinis to Tamim Iqbal, 1 run, short of length on the stumps, goes for the pull but mistimes it towards mid-on
+4166~2~
+4166~2~14.3
+4166~2~1
+4166~2~Stoinis to Shakib Al Hasan, 1 run, short of length around off, a half-pull to work it in front of square
+4166~2~
+4166~2~Harish: "Mathematically all teams are still in race of semis spots except Afganistan but practically more or less Ind, Eng, Aus and NZ have sealed the semis spots. At best, Ban is having some chance based on performance of top 4 teams, all others are oit based on their points and performance till date in this world cup."
+4166~2~
+4166~2~14.4
+4166~2~1
+4166~2~Stoinis to Tamim Iqbal, 1 run, length ball on the pads, tucked away towards square for one more
+4166~2~
+4166~2~14.5
+4166~2~1
+4166~2~Stoinis to Shakib Al Hasan, 1 run, fuller on the stumps, and driven firmly but Warner at mid-off dives to his left to keep it to one
+4166~2~
+4166~2~Pashin: "Look this is how Bangladesh should pace themselves if they want to win. Reach 120 after 20 overs, reach 200 after 30 overs, reach 290 after 40 overs, and reach 380 at 50 overs."
+4166~2~
+4166~2~14.6
+4166~2~1
+4166~2~Stoinis to Tamim Iqbal, 1 run, length ball on the pads, tucked away behind square leg to end the over with another single
+4166~2~
+4166~2~15.1
+4166~2~2
+4166~2~CoulterNile to Tamim Iqbal, 2 runs, short of length outside off, Tamim pulls it down towards deep midwicket for a couple
+4166~2~
+4166~2~CoulterNile into his fifth over, has conceded only 14 so far
+4166~2~END OF OVER:15 | 6 Runs | BDESH: 84/1 (298 runs required from 35 overs, RR: 5.60, RRR: 8.51)
+4166~2~
+4166~2~    Tamim Iqbal31 (47b)
+4166~2~    Shakib Al Hasan36 (35b)
+4166~2~
+4166~2~    Marcus Stoinis1-0-6-0
+4166~2~    Nathan CoulterNile4-0-14-0
+4166~2~
+4166~2~ESPNcricinfo's readers can now watch the game LIVE on Hotstar. Click here if you're in India, or here if you're in the US.
+4166~2~
+4166~2~15.2
+4166~2~1
+4166~2~CoulterNile to Tamim Iqbal, 1 run, short of length on middle, turned away towards backward square leg this time
+4166~2~
+4166~2~15.3
+4166~2~1
+4166~2~CoulterNile to Shakib Al Hasan, 1 run, short of length outside off, steers it past the diving backward point but cannot beat third man
+4166~2~
+4166~2~15.4
+4166~2~1
+4166~2~CoulterNile to Tamim Iqbal, 1 run, length ball on the pads, tucked away towards deep square leg
+4166~2~
+4166~2~15.5
+4166~2~1
+4166~2~CoulterNile to Shakib Al Hasan, 1 run, another bouncer around off, Shakib swivels and pulls it towards deep backward square leg
+4166~2~
+4166~2~15.6
+4166~2~1
+4166~2~CoulterNile to Tamim Iqbal, 1 run, short of length near the rib cage, dabs it towards square leg for one more
+4166~2~
+4166~2~16.1
+4166~2~4
+4166~2~Stoinis to Tamim Iqbal, FOUR runs, short of length and enough width for Tamim to rock back and cut it past point on his left, beats the sweeper cover as well
+4166~2~
+4166~2~Kaushik Deb : "Mathematically a lot is possible, but everyone seems to forget about probability. Hated that subject in school though" -- Who didn't!
+4166~2~END OF OVER:16 | 7 Runs | BDESH: 91/1 (291 runs required from 34 overs, RR: 5.68, RRR: 8.55)
+4166~2~
+4166~2~    Tamim Iqbal36 (51b)
+4166~2~    Shakib Al Hasan38 (37b)
+4166~2~
+4166~2~    Nathan CoulterNile5-0-21-0
+4166~2~    Marcus Stoinis1-0-6-0
+4166~2~
+4166~2~
+4166~2~16.2
+4166~2~0
+4166~2~Stoinis to Tamim Iqbal, no run, length ball around off, looks to drop and run but the fielder was quick to the ball, sends back Shakib just in time
+4166~2~
+4166~2~16.3
+4166~2~0
+4166~2~Stoinis to Tamim Iqbal, no run, length ball around off, drops it towards point and looks to sneak in a single, an early call of no from Tamim this time around
+4166~2~
+4166~2~16.4
+4166~2~1
+4166~2~Stoinis to Tamim Iqbal, 1 run, short of length on the stumps, pulled towards backward square leg
+4166~2~
+4166~2~16.5
+4166~2~1
+4166~2~Stoinis to Shakib Al Hasan, 1 run, fuller around off, mistimes it drive towards mid-off
+4166~2~
+4166~2~16.6
+4166~2~1
+4166~2~Stoinis to Tamim Iqbal, 1 run, short again, and pulled away nicely but Starc is patrolling the deep square leg boundary
+4166~2~
+4166~2~17.1
+4166~2~0
+4166~2~Zampa to Tamim Iqbal, no run, flatter and quicker, drifting and sliding past the edge as he defended from the crease
+4166~2~
+4166~2~Thanks Hemant. Interesting chase building here. Tamim and Shakib have played very nicely. Here is Adam Zampa for his first bowl of the day.
+4166~2~END OF OVER:17 | 7 Runs | BDESH: 98/1 (284 runs required from 33 overs, RR: 5.76, RRR: 8.60)
+4166~2~
+4166~2~    Tamim Iqbal42 (56b)
+4166~2~    Shakib Al Hasan39 (38b)
+4166~2~
+4166~2~    Marcus Stoinis2-0-13-0
+4166~2~    Nathan CoulterNile5-0-21-0
+4166~2~
+4166~2~It's time for drinks. On the other side, it will be Alex to bring you all the action
+4166~2~
+4166~2~17.2
+4166~2~0
+4166~2~Zampa to Tamim Iqbal, no run, full on off, he's back, no spin, he covers up and defends
+4166~2~
+4166~2~17.3
+4166~2~1
+4166~2~Zampa to Tamim Iqbal, 1 run, flatter, and shorter on leg, a touch of spin, he works this off the pads through square leg
+4166~2~
+4166~2~17.4
+4166~2~1
+4166~2~Zampa to Shakib Al Hasan, 1 run, shorter on leg, some spin, he's back and whipping this to deep square. 100 is up to applause
+4166~2~
+4166~2~17.5
+4166~2~1
+4166~2~Zampa to Tamim Iqbal, 1 run, full on leg, he tucks this with the turn through forward square
+4166~2~
+4166~2~17.6
+4166~2~1
+4166~2~Zampa to Shakib Al Hasan, 1 run, very full on leg, whipped through square leg to the sweeper
+4166~2~
+4166~2~18.1
+4166~2~W
+4166~2~Stoinis to Shakib Al Hasan, OUT, leading edge caught at mid off! Slower ball from Stoinis does the trick. He rolled the fingers over an off cutter, it was full on leg stump, he closed the face too soon trying to whip through the leg side, got a thick leading edge that ballooned to mid off and Warner took a simple catch
+4166~2~
+4166~2~Shakib Al Hasan c Warner b Stoinis 41 (61m 41b 4x4 0x6) SR: 100.00
+4166~2~END OF OVER:18 | 4 Runs | BDESH: 102/1 (280 runs required from 32 overs, RR: 5.66, RRR: 8.75)
+4166~2~
+4166~2~    Shakib Al Hasan41 (40b)
+4166~2~    Tamim Iqbal44 (60b)
+4166~2~
+4166~2~    Adam Zampa1-0-4-0
+4166~2~    Marcus Stoinis2-0-13-0
+4166~2~
+4166~2~Abdul: "Zampa's spell is make or break for both teams in this match...pacers haven't had much luck on this pitch."
+4166~2~
+4166~2~18.2
+4166~2~0
+4166~2~Stoinis to Mushfiqur Rahim, no run, 128kph, good length tailing in to middle and off, he defends from the crease
+4166~2~
+4166~2~Mushfiqur Rahim in at No.4
+4166~2~
+4166~2~Aaron Finch has walked off behind Shakib. Not sure why. Alex Carey will direct traffic momentarily by the looks.
+4166~2~
+4166~2~18.3
+4166~2~1
+4166~2~Stoinis to Mushfiqur Rahim, 1 run, 125kph, of a length, outside off, he opens the face and runs this to third man to get off the mark
+4166~2~
+4166~2~18.4
+4166~2~0
+4166~2~Stoinis to Tamim Iqbal, no run, off cutter slower ball, on off, he defends from the crease
+4166~2~
+4166~2~AnamBMDF : "No drinks break for BD, please. It costs most every time. Now it's Shakib's wicket. Alas!"
+4166~2~
+4166~2~18.5
+4166~2~1
+4166~2~Stoinis to Tamim Iqbal, 1 run, nearly a run out! Smith misses the direct hit and Mushfiqur had given up! Tamim poked this to Smith's left at midwicket and ran, Mushfiqur was slow to go but there wasn't one there. Smith pounced and threw at the striker's but just missed and Mushfiqur survives
+4166~2~
+4166~2~18.6
+4166~2~1
+4166~2~Stoinis to Mushfiqur Rahim, 1 run, good length, leg stump though, he turns this easily behind square
+4166~2~
+4166~2~19.1
+4166~2~2
+4166~2~Zampa to Mushfiqur Rahim, 2 runs, drifting down leg, he sets up early to paddle sweep and flicks it fine for a couple
+4166~2~
+4166~2~Finch is still off the field. Lyon remains on. Slip in for the right hander
+4166~2~END OF OVER:19 | 3 Runs 1 Wkt | BDESH: 105/2 (277 runs required from 31 overs, RR: 5.52, RRR: 8.93)
+4166~2~
+4166~2~    Mushfiqur Rahim2 (3b)
+4166~2~    Tamim Iqbal45 (62b)
+4166~2~
+4166~2~    Marcus Stoinis3-0-16-1
+4166~2~    Adam Zampa1-0-4-0
+4166~2~
+4166~2~
+4166~2~19.2
+4166~2~4
+4166~2~Zampa to Mushfiqur Rahim, FOUR runs, brilliant reverse sweep! A switch hit really from off the stumps! It was on middle, he set up early and switch hit behind point for four!
+4166~2~
+4166~2~19.3
+4166~2~0
+4166~2~Zampa to Mushfiqur Rahim, no run, tossed up on off, he drives to mid off
+4166~2~
+4166~2~Slip removed
+4166~2~
+4166~2~19.4
+4166~2~0
+4166~2~Zampa to Mushfiqur Rahim, no run, lovely shape, 94kph, no turn, he pokes at it from the crease, chops a bottom edge to Carey
+4166~2~
+4166~2~19.5
+4166~2~0
+4166~2~Zampa to Mushfiqur Rahim, no run, flat and fast, he skips out and defends with bat and pad together
+4166~2~
+4166~2~19.6
+4166~2~1
+4166~2~Zampa to Mushfiqur Rahim, 1 run, sweeps from off stump, mistimes it, roping it behind square
+4166~2~
+4166~2~20.1
+4166~2~1
+4166~2~Stoinis to Mushfiqur Rahim, 1 run, full on middle, he whips this from middle through the leg side for a single
+4166~2~END OF OVER:20 | 7 Runs | BDESH: 112/2 (270 runs required from 30 overs, RR: 5.60, RRR: 9.00)
+4166~2~
+4166~2~    Mushfiqur Rahim9 (9b)
+4166~2~    Tamim Iqbal45 (62b)
+4166~2~
+4166~2~    Adam Zampa2-0-11-0
+4166~2~    Marcus Stoinis3-0-16-1
+4166~2~
+4166~2~Rangara : "Have you got the replay of Finch not happy with Khawaja at 3?" I did see it and it was mentioned in Australia's innings. Clearly some tactical confusion. Maybe conflicting messages were sent out to Finch while he was batting.
+4166~2~
+4166~2~20.2
+4166~2~0
+4166~2~Stoinis to Tamim Iqbal, no run, 110kph, slower ball, very full, he drives back to the bowler, and wanders out of his crease briefly, Stoinis shies at the striker's and hits Tamim on the leg but the throw had no power
+4166~2~
+4166~2~20.3
+4166~2~4
+4166~2~Stoinis to Tamim Iqbal, FOUR runs, superb pull shot behind square! Slower bouncer, he picked the length, swivelled and smacked it into the gap between deep square and fine leg
+4166~2~
+4166~2~20.4
+4166~2~1
+4166~2~Stoinis to Tamim Iqbal, 1 run, slower ball outside off, he runs this to third man to bring up 50. Warm applause. A long way to go for Tamim
+4166~2~
+4166~2~20.5
+4166~2~1
+4166~2~Stoinis to Mushfiqur Rahim, 1 run, slower ball on middle, whipped behind square off the front foot
+4166~2~
+4166~2~20.6
+4166~2~1
+4166~2~Stoinis to Tamim Iqbal, 1 run, 125kph, full on leg, he clips this neatly away behind square to the sweeper
+4166~2~
+4166~2~Bimal: "It might not be the right time to ask this: why Saifuddin didn't play today? He was a genuine wicket taker and BD certainly missed him today." He has a back issue.
+4166~2~
+4166~2~21.1
+4166~2~1
+4166~2~Zampa to Tamim Iqbal, 1 run, flatter on off, he's back and punching this to long on
+4166~2~END OF OVER:21 | 8 Runs | BDESH: 120/2 (262 runs required from 29 overs, RR: 5.71, RRR: 9.03)
+4166~2~
+4166~2~    Tamim Iqbal51 (66b)
+4166~2~    Mushfiqur Rahim11 (11b)
+4166~2~
+4166~2~    Marcus Stoinis4-0-24-1
+4166~2~    Adam Zampa2-0-11-0
+4166~2~
+4166~2~
+4166~2~21.2
+4166~2~0
+4166~2~Zampa to Mushfiqur Rahim, no run, 90kph leg break on off, he drives straight to cover
+4166~2~
+4166~2~Kev: "The league phase is fizzling out. Aussies win here then if England beat SL and NZ beat WI it's all over before the big guns have played each other."
+4166~2~
+4166~2~21.3
+4166~2~1
+4166~2~Zampa to Mushfiqur Rahim, 1 run, leg break tossed up higher, he drives back to the bowler, who completely misses it and allows one
+4166~2~
+4166~2~21.4
+4166~2~1
+4166~2~Zampa to Tamim Iqbal, 1 run, looped very full on leg, he drives firmly to long on
+4166~2~
+4166~2~21.5
+4166~2~6
+4166~2~Zampa to Mushfiqur Rahim, SIX runs, skips down to it on the full and launches straight of long on! 91kph but too full, he was done very quickly and just eased his hands through the line
+4166~2~
+4166~2~Ashish Rawat : "At Tamim's four, even my son said 'seedha wicket to wicket daal na, kyon masti kar raha hai' - he's 10yrs old. Meaning 'bowl simple wicket to wicket, do lnt so any thing funny' "
+4166~2~
+4166~2~21.6
+4166~2~0
+4166~2~Zampa to Mushfiqur Rahim, no run, charges early and goes leg side, Zampa saw it, fired wide of off and he had to adjust and defend into the off side
+4166~2~
+4166~2~22.1
+4166~2~1
+4166~2~Starc to Tamim Iqbal, 1 run, full outside off, he drives to mid off who is on the circle and takes a tight but comfortable enough single
+4166~2~
+4166~2~Mitchell Starc is back
+4166~2~END OF OVER:22 | 9 Runs | BDESH: 129/2 (253 runs required from 28 overs, RR: 5.86, RRR: 9.03)
+4166~2~
+4166~2~    Mushfiqur Rahim18 (15b)
+4166~2~    Tamim Iqbal53 (68b)
+4166~2~
+4166~2~    Adam Zampa3-0-20-0
+4166~2~    Marcus Stoinis4-0-24-1
+4166~2~
+4166~2~
+4166~2~22.2
+4166~2~0
+4166~2~Starc to Mushfiqur Rahim, no run, 139kph, good length, middle and off, he stays back and defends from deep in the crease
+4166~2~
+4166~2~22.3
+4166~2~0
+4166~2~Starc to Mushfiqur Rahim, no run, another mix up. How close was this to a run out? Short ball into body, it rolls towards third man, Carey cuts it off, Mushfiqur runs and then is sent back, Carey shies and misses but it would have been out!
+4166~2~
+4166~2~22.4
+4166~2~1
+4166~2~Starc to Mushfiqur Rahim, 1 run, slices a thick edge away to third man
+4166~2~
+4166~2~22.5
+4166~2~3
+4166~2~Starc to Tamim Iqbal, 3 runs, full outside off, driven to cover and it goes straight through Khawaja at cover, clean bowled him, Lyon has a long chance and reels it in on the rope
+4166~2~
+4166~2~22.6
+4166~2~1
+4166~2~Starc to Mushfiqur Rahim, 1 run, brutal short ball, 139kph, Mushfiqur parries it off the splice of the bat but it flies safely fine of gully to third man. He was lucky that didn't go to hand
+4166~2~
+4166~2~23.1
+4166~2~1
+4166~2~Zampa to Mushfiqur Rahim, 1 run, short and wide, he hammers a cut straight to deep point
+4166~2~END OF OVER:23 | 6 Runs | BDESH: 135/2 (247 runs required from 27 overs, RR: 5.86, RRR: 9.14)
+4166~2~
+4166~2~    Mushfiqur Rahim20 (19b)
+4166~2~    Tamim Iqbal57 (70b)
+4166~2~
+4166~2~    Mitchell Starc4-0-21-0
+4166~2~    Adam Zampa3-0-20-0
+4166~2~
+4166~2~Nitin Kumar Chi: "Is finch back on field????" Don't think so.
+4166~2~
+4166~2~23.2
+4166~2~4
+4166~2~Zampa to Tamim Iqbal, FOUR runs, sweeps hard over square leg! He set up early stepping across his stumps, sweeping a length ball behind square, one bounce four
+4166~2~
+4166~2~23.3
+4166~2~0
+4166~2~Zampa to Tamim Iqbal, no run, top spinner, full outside off, he drives to cover but Maxwell makes a nice save
+4166~2~
+4166~2~23.4
+4166~2~1
+4166~2~Zampa to Tamim Iqbal, 1 run, flatter on middle, he's back and working this through square leg
+4166~2~
+4166~2~23.5
+4166~2~0
+4166~2~Zampa to Mushfiqur Rahim, no run, pushed through, 93kph, on middle and off, he defends on the front foot
+4166~2~
+4166~2~23.6
+4166~2~1w
+4166~2~Zampa to Mushfiqur Rahim, 1 wide, leg break tossed wide of off, it spins sharply wide of the guideline and is called
+4166~2~
+4166~2~23.6
+4166~2~2
+4166~2~Zampa to Mushfiqur Rahim, 2 runs, flatter on leg, he's back and working this behind square for a couple, good placement and running
+4166~2~
+4166~2~24.1
+4166~2~W
+4166~2~Starc to Tamim Iqbal, OUT, chopped on! 146kph, good length, fourth stump line, too close to run to third man, he got it off the inside edge and it ricocheted onto the stumps! That's a massive blow.
+4166~2~
+4166~2~Tamim Iqbal b Starc 62 (103m 74b 6x4 0x6) SR: 83.78
+4166~2~END OF OVER:24 | 9 Runs | BDESH: 144/2 (238 runs required from 26 overs, RR: 6.00, RRR: 9.15)
+4166~2~
+4166~2~    Mushfiqur Rahim23 (22b)
+4166~2~    Tamim Iqbal62 (73b)
+4166~2~
+4166~2~    Adam Zampa4-0-29-0
+4166~2~    Mitchell Starc4-0-21-0
+4166~2~
+4166~2~Rangara: "If players go off field, are they allowed tactical discussions, meeting analyst for batsmen on crease, etc?" They can. Not sure why Finch is off. He does deal with ongoing back issues. Maybe just needed some treatment. Will update you when we know. Carey is acting captain
+4166~2~
+4166~2~24.2
+4166~2~0
+4166~2~Starc to Liton Das, no run, hit on the helmet first up! He ducked straight into a rapid bumper! He seems OK. He didn't knock him down but he turned his head and was hit flush on the side of the helmet.
+4166~2~
+4166~2~Liton Das joins Mushfiqur
+4166~2~
+4166~2~24.3
+4166~2~1
+4166~2~Starc to Liton Das, 1 run, 145kph, speared into leg stump, he sits back and clips this neatly through square leg
+4166~2~
+4166~2~Liton Das is still getting checked. He's waiting on a new helmet. Finch is out there as well and looks fine. Liton is OK. He's ready to face up. Slip and gully in place
+4166~2~
+4166~2~Starc checked on him. The doctor is out there now. The doctor will do some concussion testing. He will need a new helmet.
+4166~2~
+4166~2~24.4
+4166~2~1
+4166~2~Starc to Mushfiqur Rahim, 1 run, 145kph, full outside off, he leans into a drive caressing it through cover to the sweeper
+4166~2~
+4166~2~24.5
+4166~2~0
+4166~2~Starc to Liton Das, no run, back of a length on off, he's back and defending back to Starc
+4166~2~
+4166~2~24.6
+4166~2~0
+4166~2~Starc to Liton Das, no run, 145kph, shorter length, he's back and defending with an angled back, keeping it down to backward point
+4166~2~
+4166~2~25.1
+4166~2~0
+4166~2~Cummins to Mushfiqur Rahim, no run, 137kph, fuller on off, he pushes on the up, checking the shot, it lands short of cover
+4166~2~
+4166~2~Pat Cummins is back. Aggression from Finch.
+4166~2~END OF OVER:25 | 2 Runs 1 Wkt | BDESH: 146/3 (236 runs required from 25 overs, RR: 5.84, RRR: 9.44)
+4166~2~
+4166~2~    Liton Das1 (4b)
+4166~2~    Mushfiqur Rahim24 (23b)
+4166~2~
+4166~2~    Mitchell Starc5-0-23-1
+4166~2~    Adam Zampa4-0-29-0
+4166~2~
+4166~2~Shahzeb: "will there be more rain today?" Sun is shining and the sky looks clear
+4166~2~
+4166~2~25.2
+4166~2~1
+4166~2~Cummins to Mushfiqur Rahim, 1 run, 138kph, he drives and gets a thick edge that flies in the air but short of third man
+4166~2~
+4166~2~25.3
+4166~2~0
+4166~2~Cummins to Liton Das, no run, 140kph, good length outside off, he pushes away from his body, feet anchored, running it to backward point
+4166~2~
+4166~2~Akshay: "If ICC does not allow runners how come they allow substitute fielders. Seeing a lot of catches taken by subs. Maybe a grt catch is pulled off by a sub and the batsman despite being legitimately injured not get a runner." It's a fair point Akshay
+4166~2~
+4166~2~25.4
+4166~2~1
+4166~2~Cummins to Liton Das, 1 run, he square drives on the rise, pushing it through point to the sweeper in the deep
+4166~2~
+4166~2~25.5
+4166~2~0
+4166~2~Cummins to Mushfiqur Rahim, no run, 135kph, back of a length, he stays leg side and defends with an open face to gully
+4166~2~
+4166~2~25.6
+4166~2~1
+4166~2~Cummins to Mushfiqur Rahim, 1 run, 138kph, angled down leg, he glances this neatly to fine leg
+4166~2~
+4166~2~26.1
+4166~2~1
+4166~2~Starc to Mushfiqur Rahim, 1 run, 139kph, short ball, outside off, he rides the bounce and runs this to third man
+4166~2~END OF OVER:26 | 3 Runs | BDESH: 149/3 (233 runs required from 24 overs, RR: 5.73, RRR: 9.70)
+4166~2~
+4166~2~    Mushfiqur Rahim26 (27b)
+4166~2~    Liton Das2 (6b)
+4166~2~
+4166~2~    Pat Cummins5-1-21-0
+4166~2~    Mitchell Starc5-0-23-1
+4166~2~
+4166~2~
+4166~2~26.2
+4166~2~1
+4166~2~Starc to Liton Das, 1 run, 143kph, short ball, he pulls around the corner to fine leg
+4166~2~
+4166~2~26.3
+4166~2~0
+4166~2~Starc to Mushfiqur Rahim, no run, back of a length, outside off, he squared up, trying to run to third man but Maxwell makes a good diving save
+4166~2~
+4166~2~26.4
+4166~2~1
+4166~2~Starc to Mushfiqur Rahim, 1 run, 139kph, full speared into leg, he lets it come and works it behind square with control
+4166~2~
+4166~2~26.5
+4166~2~1
+4166~2~Starc to Liton Das, 1 run, short ball on off, he pulls this well but straight to the man in the deep at square leg
+4166~2~
+4166~2~26.6
+4166~2~4
+4166~2~Starc to Mushfiqur Rahim, FOUR runs, 145kph, half volley and Mushfiqur executes a sublime cover drive! Just leaned forward with a lovely stride and timed it superbly
+4166~2~
+4166~2~Round the wicket
+4166~2~
+4166~2~27.1
+4166~2~1
+4166~2~Cummins to Liton Das, 1 run, shorter length, on leg, he glances this off the hip
+4166~2~END OF OVER:27 | 8 Runs | BDESH: 157/3 (225 runs required from 23 overs, RR: 5.81, RRR: 9.78)
+4166~2~
+4166~2~    Mushfiqur Rahim32 (31b)
+4166~2~    Liton Das4 (8b)
+4166~2~
+4166~2~    Mitchell Starc6-0-31-1
+4166~2~    Pat Cummins5-1-21-0
+4166~2~
+4166~2~
+4166~2~Akshay - Substitute fielder is there to allow the injured player to receive treatment. Similarly batsmen can retire and come back after receiving treatment. Granted the process is not equally flexible"
+4166~2~
+4166~2~27.2
+4166~2~0
+4166~2~Cummins to Mushfiqur Rahim, no run, 140kph, good length, angled into off, he defends on the front foot
+4166~2~
+4166~2~Yash: "
+4166~2~27.3
+4166~2~1
+4166~2~Cummins to Mushfiqur Rahim, 1 run, 142kph, good length, off stump, he gets a thick edge defending on the back foot but it runs to third man
+4166~2~
+4166~2~SumitWatal: "A counter question to Akshay's question.What if someone from fielding side is hurt and substitute fielder rule is not there.does that mean bowling side plays with 10 players only" That would be intriguing.
+4166~2~
+4166~2~27.4
+4166~2~4
+4166~2~Cummins to Liton Das, FOUR runs, glorious straight drive past mid on! Cross seam half volley, but he presented the full face punching it straight of mid on. Just needed to beat the man and it was four
+4166~2~
+4166~2~27.5
+4166~2~0
+4166~2~Cummins to Liton Das, no run, back of a length on leg, he tucks this off the hip but straight to midwicket
+4166~2~
+4166~2~27.6
+4166~2~4
+4166~2~Cummins to Liton Das, FOUR runs, a horrible error from Stoinis on the cover rope!141kph, over-pitched, he plays a lovely cover-drive, Stoinis comes around from deep point, slides and fumbles it into the rope!
+4166~2~
+4166~2~28.1
+4166~2~1
+4166~2~CoulterNile to Mushfiqur Rahim, 1 run, full and wide of off, he caresses a drive on the up to deep cover-point
+4166~2~
+4166~2~Nathan CoulterNile returns
+4166~2~END OF OVER:28 | 10 Runs | BDESH: 167/3 (215 runs required from 22 overs, RR: 5.96, RRR: 9.77)
+4166~2~
+4166~2~    Liton Das13 (12b)
+4166~2~    Mushfiqur Rahim33 (33b)
+4166~2~
+4166~2~    Pat Cummins6-1-31-0
+4166~2~    Mitchell Starc6-0-31-1
+4166~2~
+4166~2~WATCH - Starc makes breakthrough, dismissing Tamim for 62 (UK, AUS, IRE, SEA, HK only)
+4166~2~
+4166~2~28.2
+4166~2~4
+4166~2~CoulterNile to Liton Das, FOUR runs, short and he cracks a pull shot over midwicket! He seized the length so quickly, was back and clattering this over midwicket
+4166~2~
+4166~2~28.3
+4166~2~2
+4166~2~CoulterNile to Liton Das, 2 runs, 135kph, angled into the pads, he clips this neatly forward of square and they get two more
+4166~2~
+4166~2~28.4
+4166~2~1
+4166~2~CoulterNile to Liton Das, 1 run, shorter 127kph, cutter outside off, but it sits up and he pulls to wide fine leg
+4166~2~
+4166~2~28.5
+4166~2~0
+4166~2~CoulterNile to Mushfiqur Rahim, no run, good length, wide of off, he square cuts but straight to Maxwell who makes a save
+4166~2~
+4166~2~28.6
+4166~2~0
+4166~2~CoulterNile to Mushfiqur Rahim, no run, 138kph, good length on off, he's forced to defend this to cover
+4166~2~
+4166~2~Louisiana Paul : "Two fours in over 28 and the RRR comes down 0.01. A mighty task ahead of these boys."
+4166~2~
+4166~2~29.1
+4166~2~0
+4166~2~Zampa to Liton Das, no run, 90kph full toss, he skips out and checks a drive back to the bowler
+4166~2~
+4166~2~Adam Zampa back into the attack after the burst from the quicks. Rahman: "Am I weird in thinking that this match is far from over?" Not at all. 207 needed from 21. Seven wickets in hand. Good players getting set. T20 scenario.
+4166~2~END OF OVER:29 | 8 Runs | BDESH: 175/3 (207 runs required from 21 overs, RR: 6.03, RRR: 9.85)
+4166~2~
+4166~2~    Mushfiqur Rahim34 (36b)
+4166~2~    Liton Das20 (15b)
+4166~2~
+4166~2~    Nathan CoulterNile6-0-29-0
+4166~2~    Pat Cummins6-1-31-0
+4166~2~
+4166~2~
+4166~2~29.2
+4166~2~W
+4166~2~Zampa to Liton Das, OUT, Given LBW!. Liton reviews after a chat with Mushfiqur. He was caught on the crease and trapped by one that slid on quickly. He went back to a good length ball but it zipped off the surface and hit him on the knee roll. No bat involved and it's not going over. Only question is whether it's sliding down leg. No it's hitting! It was 'Umpire's call' hitting enough of leg stump! Decision stands. Bangladesh keep their review.
+4166~2~
+4166~2~Liton Das lbw b Zampa 20 (29m 17b 3x4 0x6) SR: 117.64
+4166~2~
+4166~2~29.3
+4166~2~1
+4166~2~Zampa to Mahmudullah, 1 run, full and wide of off, he square drives through point to the sweeper
+4166~2~
+4166~2~Mahmudullah in at No.6
+4166~2~
+4166~2~29.4
+4166~2~0
+4166~2~Zampa to Mushfiqur Rahim, no run, 91kph, leg break that bounces and beats him between bat and pad as he tried to whip to leg
+4166~2~
+4166~2~Rahman: "NOW I'm weird :("
+4166~2~
+4166~2~29.5
+4166~2~1
+4166~2~Zampa to Mushfiqur Rahim, 1 run, shorter length, he's back and pulling to deep square
+4166~2~
+4166~2~29.6
+4166~2~0
+4166~2~Zampa to Mahmudullah, no run, full outside off, drifting in, he skips out and yorks himself
+4166~2~
+4166~2~30.1
+4166~2~0
+4166~2~CoulterNile to Mushfiqur Rahim, no run, 132kph, good length, on off, he defends from the crease to backward point
+4166~2~END OF OVER:30 | 2 Runs 1 Wkt | BDESH: 177/4 (205 runs required from 20 overs, RR: 5.90, RRR: 10.25)
+4166~2~
+4166~2~    Mahmudullah1 (2b)
+4166~2~    Mushfiqur Rahim35 (38b)
+4166~2~
+4166~2~    Adam Zampa5-0-31-1
+4166~2~    Nathan CoulterNile6-0-29-0
+4166~2~
+4166~2~
+4166~2~30.2
+4166~2~1
+4166~2~CoulterNile to Mushfiqur Rahim, 1 run, 131kph, full and wide of off, he drives on the rise through point to the man in the deep
+4166~2~
+4166~2~30.3
+4166~2~1
+4166~2~CoulterNile to Mahmudullah, 1 run, short and angled down leg, he pulls in the air but just short of Cummins at wide fine leg
+4166~2~
+4166~2~30.4
+4166~2~1
+4166~2~CoulterNile to Mushfiqur Rahim, 1 run, 134kph, full and wide, he square drives powerfully but straight to deep point
+4166~2~
+4166~2~30.5
+4166~2~0
+4166~2~CoulterNile to Mahmudullah, no run, 136kph, back of a length, angled into off, he punches off the back foot straight to backward point
+4166~2~
+4166~2~30.6
+4166~2~0
+4166~2~CoulterNile to Mahmudullah, no run, 137kph, good length, tailing into middle and off, he's right back on his stumps, defending
+4166~2~
+4166~2~31.1
+4166~2~0
+4166~2~Zampa to Mushfiqur Rahim, no run, ripping leg break fizzes past the outside edge as he pressed forward to defend
+4166~2~END OF OVER:31 | 3 Runs | BDESH: 180/4 (202 runs required from 19 overs, RR: 5.80, RRR: 10.63)
+4166~2~
+4166~2~    Mahmudullah2 (5b)
+4166~2~    Mushfiqur Rahim37 (41b)
+4166~2~
+4166~2~    Nathan CoulterNile7-0-32-0
+4166~2~    Adam Zampa5-0-31-1
+4166~2~
+4166~2~
+4166~2~31.2
+4166~2~1
+4166~2~Zampa to Mushfiqur Rahim, 1 run, shorter length, he's back and working this through midwicket
+4166~2~
+4166~2~31.3
+4166~2~0
+4166~2~Zampa to Mahmudullah, no run, tossed up leg break outside off, he plays and misses trying to drive
+4166~2~
+4166~2~Abdullah: "If BAN does go on to lose their match is their world Cup fate dependant on someone in the top 4 crashing out?" They will need help from other teams, yes.
+4166~2~
+4166~2~31.4
+4166~2~1
+4166~2~Zampa to Mahmudullah, 1 run, pushed through on middle, he's back and punching this to long on
+4166~2~
+4166~2~31.5
+4166~2~1
+4166~2~Zampa to Mushfiqur Rahim, 1 run, shorter and quicker, he's back and pulling to deep square
+4166~2~
+4166~2~31.6
+4166~2~1
+4166~2~Zampa to Mahmudullah, 1 run, lofted down the ground from the crease, he doesn't time it, Cummins comes around to make the save on the bounce
+4166~2~
+4166~2~32.1
+4166~2~0
+4166~2~CoulterNile to Mahmudullah, no run, 134kph, good length angled into off, he defends from the crease
+4166~2~END OF OVER:32 | 4 Runs | BDESH: 184/4 (198 runs required from 18 overs, RR: 5.75, RRR: 11.00)
+4166~2~
+4166~2~    Mahmudullah4 (8b)
+4166~2~    Mushfiqur Rahim39 (44b)
+4166~2~
+4166~2~    Adam Zampa6-0-35-1
+4166~2~    Nathan CoulterNile7-0-32-0
+4166~2~
+4166~2~Drinks The players will take a break. Big ask for these two and the tail from here. Can Bangladesh accelerate like Australia? In case you missed it, Australia struck 96 runs in their last 36 balls to reach 381. You can see all the big shots from that spell of play on Hotstar (in India).
+4166~2~
+4166~2~32.2
+4166~2~1
+4166~2~CoulterNile to Mahmudullah, 1 run, 132kph, back of a length outside off, he sits back, opens the face and runs it to third man
+4166~2~
+4166~2~Stuart: "If Bangladesh could just find one 50+ run partnership this game would at least still be alive. Thanks the neutral cricketing world "
+4166~2~
+4166~2~32.3
+4166~2~4
+4166~2~CoulterNile to Mushfiqur Rahim, FOUR runs, he charges and launches a length ball high over midwicket! Brilliant strike. He charged early, got the length he wanted and it made a sweet sound off the bat but landed just inside the rope
+4166~2~
+4166~2~32.4
+4166~2~1
+4166~2~CoulterNile to Mushfiqur Rahim, 1 run, short ball, he pulls along the ground to the man in the deep
+4166~2~
+4166~2~32.5
+4166~2~4
+4166~2~CoulterNile to Mahmudullah, FOUR runs, charges and flat bats forward of square! He got a length slower ball, he ran down and swung hard and slapped it forward of square with power
+4166~2~
+4166~2~32.6
+4166~2~0
+4166~2~CoulterNile to Mahmudullah, no run, play and miss trying to cut wide of off
+4166~2~
+4166~2~33.1
+4166~2~0
+4166~2~Zampa to Mushfiqur Rahim, no run, fuller around leg stump, Mushfiqur plays inside out towards the bowler's left
+4166~2~
+4166~2~Thanks, Alex.
+4166~2~END OF OVER:33 | 10 Runs | BDESH: 194/4 (188 runs required from 17 overs, RR: 5.87, RRR: 11.05)
+4166~2~
+4166~2~    Mahmudullah9 (12b)
+4166~2~    Mushfiqur Rahim44 (46b)
+4166~2~
+4166~2~    Nathan CoulterNile8-0-42-0
+4166~2~    Adam Zampa6-0-35-1
+4166~2~
+4166~2~Hemant will step in to see you through to the finish
+4166~2~
+4166~2~33.2
+4166~2~1
+4166~2~Zampa to Mushfiqur Rahim, 1 run, short of length outside off, cuts it towards backward point
+4166~2~
+4166~2~33.3
+4166~2~1
+4166~2~Zampa to Mahmudullah, 1 run, a loopy full toss outside off, hits it straight towards the sweeper cover
+4166~2~
+4166~2~33.4
+4166~2~0
+4166~2~Zampa to Mushfiqur Rahim, no run, short of length on the leg side, but flatter and quicker, mistimes the pull towards short fine leg
+4166~2~
+4166~2~Jay: "Bangladesh wanna make sure not to lose by a big margin. If there's slightest chance of 4th spot being open, Bangladesh will be the first contender to have the chance."
+4166~2~
+4166~2~33.5
+4166~2~1
+4166~2~Zampa to Mushfiqur Rahim, 1 run, short of length outside off, cuts it towards sweeper cover
+4166~2~
+4166~2~33.6
+4166~2~4
+4166~2~Zampa to Mahmudullah, FOUR runs, fuller outside off, gives himself some room and looks to go over covers, doesn't middle it but gets enough on the bat to get it over short third man, rolls towards the boundary
+4166~2~
+4166~2~34.1
+4166~2~1
+4166~2~Cummins to Mushfiqur Rahim, 1 run, length ball on the pads, flicks it away towards deep square leg
+4166~2~END OF OVER:34 | 7 Runs | BDESH: 201/4 (181 runs required from 16 overs, RR: 5.91, RRR: 11.31)
+4166~2~
+4166~2~    Mahmudullah14 (14b)
+4166~2~    Mushfiqur Rahim46 (50b)
+4166~2~
+4166~2~    Adam Zampa7-0-42-1
+4166~2~    Nathan CoulterNile8-0-42-0
+4166~2~
+4166~2~
+4166~2~34.2
+4166~2~1
+4166~2~Cummins to Mahmudullah, 1 run, short of length outside off, rises with the bounce and dabs it towards third man
+4166~2~
+4166~2~Firoz: "Bangladesh is 4 runs ahead of where Australia were after 33 overs. Although they've lost 2 more wickets. If Sabbir Rahman plays a Russellesque innings here Bangladesh might just shock the world"
+4166~2~
+4166~2~34.3
+4166~2~0
+4166~2~Cummins to Mushfiqur Rahim, no run, short of length and angling in, Mushfiqur gets back and defends it towards cover
+4166~2~
+4166~2~34.4
+4166~2~0
+4166~2~Cummins to Mushfiqur Rahim, no run, short of length outside off, gets on the top of the bounce and dabs it towards backward point
+4166~2~
+4166~2~34.5
+4166~2~4
+4166~2~Cummins to Mushfiqur Rahim, FOUR runs, short but down the leg side, takes Mushfiqur's gloves on the way and beats Carey as well as Lyon at fine leg, fifty for him
+4166~2~
+4166~2~WATCH - Highlights of Tamim's 62 (UK, AUS, IRE, SEA, HK only)
+4166~2~
+4166~2~34.6
+4166~2~1
+4166~2~Cummins to Mushfiqur Rahim, 1 run, short again and on the leg stumps, pulled down towards fine leg for one
+4166~2~
+4166~2~35.1
+4166~2~4
+4166~2~Starc to Mushfiqur Rahim, FOUR runs, short of length outside off, and Mushfiqur pounces on it, cuts it down past the point fielder for four
+4166~2~
+4166~2~Mitchell Starc is back as Australia search for a wicket. Around the wicket
+4166~2~END OF OVER:35 | 7 Runs | BDESH: 208/4 (174 runs required from 15 overs, RR: 5.94, RRR: 11.60)
+4166~2~
+4166~2~    Mushfiqur Rahim52 (55b)
+4166~2~    Mahmudullah15 (15b)
+4166~2~
+4166~2~    Pat Cummins7-1-38-0
+4166~2~    Adam Zampa7-0-42-1
+4166~2~
+4166~2~
+4166~2~35.2
+4166~2~1
+4166~2~Starc to Mushfiqur Rahim, 1 run, length around off and driven towards the left of Finch at mid-off who puts in the slide to save three for his side
+4166~2~
+4166~2~Ankur: "I think technically (if not theoritically), the semifinalists are more or less decided... just look at the way the top 4 teams are going about their business!! Dont see any surprises there!! However i would be the happiest if one of the team gives these giants a run for the money!!"
+4166~2~
+4166~2~35.3
+4166~2~0
+4166~2~Starc to Mahmudullah, no run, fuller on the stumps, angling in, clipped towards short midwicket
+4166~2~
+4166~2~Firoz. But I doubt aussie bowlers will give 100 of 40 balls. "
+4166~2~
+4166~2~35.4
+4166~2~1
+4166~2~Starc to Mahmudullah, 1 run, length ball on the pads, tucked away towards deep square leg, only a single though
+4166~2~
+4166~2~Adeel: "
+4166~2~35.5
+4166~2~1
+4166~2~Starc to Mushfiqur Rahim, 1 run, length ball outside off, looks to drive on the up, gets a thick outside edge towards third man
+4166~2~
+4166~2~35.6
+4166~2~1
+4166~2~Starc to Mahmudullah, 1 run, fuller outside off, pushes it towards sweeper cover, eight from that over
+4166~2~
+4166~2~36.1
+4166~2~1
+4166~2~Cummins to Mahmudullah, 1 run, length ball around off, drops it towards covers and sets off
+4166~2~END OF OVER:36 | 8 Runs | BDESH: 216/4 (166 runs required from 14 overs, RR: 6.00, RRR: 11.85)
+4166~2~
+4166~2~    Mahmudullah17 (18b)
+4166~2~    Mushfiqur Rahim58 (58b)
+4166~2~
+4166~2~    Mitchell Starc7-0-39-1
+4166~2~    Pat Cummins7-1-38-0
+4166~2~
+4166~2~Sanyat11: "Both the batsmen on the crease have the contentment to carry Bangladesh forward to a place from where Sabbir can hit some balls. If, there is any chance for Bangladesh to shock the world, it's Sabbir Rahman. In our country, he's the most aggressive and powerful batsman. Yet to prove on an international stage. "
+4166~2~
+4166~2~36.2
+4166~2~0
+4166~2~Cummins to Mushfiqur Rahim, no run, length ball around off, no room there. Mushfiqur taps it towards point
+4166~2~
+4166~2~36.3
+4166~2~2
+4166~2~Cummins to Mushfiqur Rahim, 2 runs, short of length outside off, backs away and pulls it in front of square, Stoinis puts in the slide - reverse cups - running in from deep square leg
+4166~2~
+4166~2~Mashur: "Hello, Sabbir! Are you ready for your do or die task today?? A heroic knock & get rid of all those controversies and criticisms!! You won't get a better day to have such god deal I tell u!!!"
+4166~2~
+4166~2~36.4
+4166~2~0
+4166~2~Cummins to Mushfiqur Rahim, no run, once again backs away but shows his cards too early, Cummins fires in this one full and wide outside off, Mushfiqur cannot reach there
+4166~2~
+4166~2~36.5
+4166~2~0
+4166~2~Cummins to Mushfiqur Rahim, no run, short of length at the body this time, Mushfiqur is forced to defend this time
+4166~2~
+4166~2~36.6
+4166~2~0
+4166~2~Cummins to Mushfiqur Rahim, no run, short of length outside off, backs away and cuts it hard but straight towards the point fielder
+4166~2~
+4166~2~37.1
+4166~2~1
+4166~2~Starc to Mahmudullah, 1 run, short of length at the batsman, gets big on Mahmudullah but he does well in the end to work it towards fine leg
+4166~2~END OF OVER:37 | 3 Runs | BDESH: 219/4 (163 runs required from 13 overs, RR: 5.91, RRR: 12.53)
+4166~2~
+4166~2~    Mushfiqur Rahim60 (63b)
+4166~2~    Mahmudullah18 (19b)
+4166~2~
+4166~2~    Pat Cummins8-1-41-0
+4166~2~    Mitchell Starc7-0-39-1
+4166~2~
+4166~2~
+4166~2~37.2
+4166~2~1
+4166~2~Starc to Mushfiqur Rahim, 1 run, length ball, angling on the pads, worked away towards deep backward square leg, Cummins cuts it off
+4166~2~
+4166~2~37.3
+4166~2~1lb
+4166~2~Starc to Mahmudullah, 1 leg bye, length ball on the pads, Mahmudullah looks to glance it fine but fails to get any bat on it, a leg-bye as the ball rolls off the pads towards short fine leg
+4166~2~
+4166~2~37.4
+4166~2~4
+4166~2~Starc to Mushfiqur Rahim, FOUR runs, ramped over using Starc's pace to beat the third man, was a short one outside off but Mushfiqur was up to it
+4166~2~
+4166~2~37.5
+4166~2~0
+4166~2~Starc to Mushfiqur Rahim, no run, goes for the yorker, but it's outside off, opens the face to steer it towards point
+4166~2~
+4166~2~37.6
+4166~2~0
+4166~2~Starc to Mushfiqur Rahim, no run, fuller outside off, gives himself some room and looks to hit it through extra covers, misses
+4166~2~
+4166~2~38.1
+4166~2~1
+4166~2~Stoinis to Mahmudullah, 1 run, a full toss around off, tucked away in front of deep square leg
+4166~2~
+4166~2~Stoinis
+4166~2~END OF OVER:38 | 7 Runs | BDESH: 226/4 (156 runs required from 12 overs, RR: 5.94, RRR: 13.00)
+4166~2~
+4166~2~    Mushfiqur Rahim65 (67b)
+4166~2~    Mahmudullah19 (21b)
+4166~2~
+4166~2~    Mitchell Starc8-0-45-1
+4166~2~    Pat Cummins8-1-41-0
+4166~2~
+4166~2~
+4166~2~38.2
+4166~2~2
+4166~2~Stoinis to Mushfiqur Rahim, 2 runs, fuller on the stumps, drills it past the bowler but Khawaja from long-on makes the stop to keep it to two
+4166~2~
+4166~2~38.3
+4166~2~1
+4166~2~Stoinis to Mushfiqur Rahim, 1 run, length down the leg side, slog sweeps it towards fine leg but only a single
+4166~2~
+4166~2~38.4
+4166~2~0
+4166~2~Stoinis to Mahmudullah, no run, fuller this time, Mahmudullah makes some room but Stoinis follows him, the ball goes through between the batsman and the stumps as Mahmudullah fails to connect
+4166~2~
+4166~2~38.5
+4166~2~2
+4166~2~Stoinis to Mahmudullah, 2 runs, fuller on the stumps, clipped away towards deep midwicket for a couple
+4166~2~
+4166~2~38.6
+4166~2~2
+4166~2~Stoinis to Mahmudullah, 2 runs, fuller on the stumps, clipped away behind square this time, two more to the total
+4166~2~
+4166~2~39.1
+4166~2~2
+4166~2~Zampa to Mushfiqur Rahim, 2 runs, tossed up outside off, Mushfiqur skips down and drills it towards sweeper cover, Maxwell sprints from deep points, dives to his right to make a one-handed stop
+4166~2~END OF OVER:39 | 8 Runs | BDESH: 234/4 (148 runs required from 11 overs, RR: 6.00, RRR: 13.45)
+4166~2~
+4166~2~    Mahmudullah24 (25b)
+4166~2~    Mushfiqur Rahim68 (69b)
+4166~2~
+4166~2~    Marcus Stoinis5-0-32-1
+4166~2~    Mitchell Starc8-0-45-1
+4166~2~
+4166~2~
+4166~2~39.2
+4166~2~4
+4166~2~Zampa to Mushfiqur Rahim, FOUR runs, reverse sweep this time, up and over backward point for four
+4166~2~
+4166~2~39.3
+4166~2~0
+4166~2~Zampa to Mushfiqur Rahim, no run, flighted again, Mushfiqur comes forward and pushes it back towards the bowler
+4166~2~
+4166~2~39.4
+4166~2~1
+4166~2~Zampa to Mushfiqur Rahim, 1 run, down the track and looks to go over the top, a couple of bounces towards long-on
+4166~2~
+4166~2~39.5
+4166~2~4
+4166~2~Zampa to Mahmudullah, FOUR runs, moves across, goes down on one knee and sweeps it fine, an appeal for lbw but there was some bat involved, four more to the total
+4166~2~
+4166~2~PRAHLAD SINGH S: "After 39 over aus at 237/1 ban 3 run behind "
+4166~2~
+4166~2~39.6
+4166~2~0
+4166~2~Zampa to Mahmudullah, no run, almost chops on, was a length ball around off, looks to cut it away but it's too close, into the ground
+4166~2~
+4166~2~40.1
+4166~2~1lb
+4166~2~Stoinis to Mushfiqur Rahim, 1 leg bye, length ball down the leg side, goes for the sweep but misses, a leg bye to short fine leg
+4166~2~END OF OVER:40 | 11 Runs | BDESH: 245/4 (137 runs required from 60 balls, RR: 6.12, RRR: 13.70)
+4166~2~
+4166~2~    Mahmudullah28 (27b)
+4166~2~    Mushfiqur Rahim75 (73b)
+4166~2~
+4166~2~    Adam Zampa8-0-53-1
+4166~2~    Marcus Stoinis5-0-32-1
+4166~2~
+4166~2~
+4166~2~40.2
+4166~2~1
+4166~2~Stoinis to Mahmudullah, 1 run, a full toss on the leg stump but this time the fine leg is back and keeps it to one
+4166~2~
+4166~2~40.3
+4166~2~1
+4166~2~Stoinis to Mushfiqur Rahim, 1 run, fuller outside off, backs away and slices it over cover, but only a single as the sweeper cuts it off
+4166~2~
+4166~2~40.4
+4166~2~0
+4166~2~Stoinis to Mahmudullah, no run, in the blockhole this time from Stoinis, Mahmudullah does well to get his bat down
+4166~2~
+4166~2~40.5
+4166~2~1
+4166~2~Stoinis to Mahmudullah, 1 run, fuller on the stumps, Mahmudullah goes deep and chips it towards deep midwicket
+4166~2~
+4166~2~40.6
+4166~2~0
+4166~2~Stoinis to Mushfiqur Rahim, no run, length ball on the stumps, Mushfiqur jumps towards the off side and looks to scoop it over, misses though
+4166~2~
+4166~2~41.1
+4166~2~0
+4166~2~Zampa to Mahmudullah, no run, length ball around off, tossed up, Mahmudullah goes for the cut but ends up chopping it into the ground
+4166~2~END OF OVER:41 | 4 Runs | BDESH: 249/4 (133 runs required from 54 balls, RR: 6.07, RRR: 14.77)
+4166~2~
+4166~2~    Mushfiqur Rahim76 (76b)
+4166~2~    Mahmudullah30 (30b)
+4166~2~
+4166~2~    Marcus Stoinis6-0-35-1
+4166~2~    Adam Zampa8-0-53-1
+4166~2~
+4166~2~
+4166~2~41.2
+4166~2~2
+4166~2~Zampa to Mahmudullah, 2 runs, length ball on the stumps, worked towards deep midwicket for a couple
+4166~2~
+4166~2~41.3
+4166~2~6
+4166~2~Zampa to Mahmudullah, SIX runs, length again, just around the off stumps, Mahmudullah skips down and lofts it over long-on, 95 metres
+4166~2~
+4166~2~41.4
+4166~2~0
+4166~2~Zampa to Mahmudullah, no run, length ball around off and middle, flatter and quicker at 95kph, defended by Mahmudullah
+4166~2~
+4166~2~41.5
+4166~2~6
+4166~2~Zampa to Mahmudullah, SIX runs, slog swept over wide long-on this time, fuller around off and smoked for another six
+4166~2~
+4166~2~41.6
+4166~2~1
+4166~2~Zampa to Mahmudullah, 1 run, fuller on the stumps, pushes it towards extra cover for a quick single
+4166~2~
+4166~2~42.1
+4166~2~1
+4166~2~Cummins to Mahmudullah, 1 run, length ball on the stumps, flicked towards square leg for one
+4166~2~END OF OVER:42 | 15 Runs | BDESH: 264/4 (118 runs required from 48 balls, RR: 6.28, RRR: 14.75)
+4166~2~
+4166~2~    Mahmudullah45 (36b)
+4166~2~    Mushfiqur Rahim76 (76b)
+4166~2~
+4166~2~    Adam Zampa9-0-68-1
+4166~2~    Marcus Stoinis6-0-35-1
+4166~2~
+4166~2~
+4166~2~42.2
+4166~2~5w
+4166~2~Cummins to Mushfiqur Rahim, 5 wides, slower bouncer, Mushfiqur looks to help it over the slip region, misses. Bounces in front of keeper and spins further down for four, given wide as well
+4166~2~
+4166~2~42.2
+4166~2~1w
+4166~2~Cummins to Mushfiqur Rahim, 1 wide, length ball, Cummins sees Mushfiqur backing away and bowls wide outside off, too wide deems the umpire
+4166~2~
+4166~2~42.2
+4166~2~1
+4166~2~Cummins to Mushfiqur Rahim, 1 run, an offcutter on a length outside off, steered towards cover-point
+4166~2~
+4166~2~42.3
+4166~2~1
+4166~2~Cummins to Mahmudullah, 1 run, fuller on the stumps, clipped away towards deep midwicket by Mahmudullah
+4166~2~
+4166~2~42.4
+4166~2~1
+4166~2~Cummins to Mushfiqur Rahim, 1 run, fuller again, Mushfiqur gives himself some room and clips it away towards backward square leg
+4166~2~
+4166~2~42.5
+4166~2~1w
+4166~2~Cummins to Mahmudullah, 1 wide, fuller and wider outside off, once again too wide. 100 of the stand comes up off just 83 balls
+4166~2~
+4166~2~42.5
+4166~2~1
+4166~2~Cummins to Mahmudullah, 1 run, length ball outside off, runs it down towards third man
+4166~2~
+4166~2~42.6
+4166~2~1
+4166~2~Cummins to Mushfiqur Rahim, 1 run, short of length outside off, opens the face to guide it towards third man
+4166~2~
+4166~2~43.1
+4166~2~1
+4166~2~CoulterNile to Mushfiqur Rahim, 1 run, slower ball full toss outside off, driven through cover
+4166~2~END OF OVER:43 | 13 Runs | BDESH: 277/4 (105 runs required from 42 balls, RR: 6.44, RRR: 15.00)
+4166~2~
+4166~2~    Mushfiqur Rahim79 (79b)
+4166~2~    Mahmudullah48 (39b)
+4166~2~
+4166~2~    Pat Cummins9-1-54-0
+4166~2~    Adam Zampa9-0-68-1
+4166~2~
+4166~2~
+4166~2~43.2
+4166~2~1
+4166~2~CoulterNile to Mahmudullah, 1 run, back of a length, straight ball, another slower one. He shuffles across to clip to square leg
+4166~2~
+4166~2~43.3
+4166~2~1
+4166~2~CoulterNile to Mushfiqur Rahim, 1 run, short of length and pulled towards deep backward square leg, only a single though
+4166~2~
+4166~2~43.4
+4166~2~4
+4166~2~CoulterNile to Mahmudullah, FOUR runs, fuller outside off and steered past backward point for four, brings up his fifty as well, off 41 balls
+4166~2~
+4166~2~43.5
+4166~2~4
+4166~2~CoulterNile to Mahmudullah, FOUR runs, a full toss and the leg stump and Mahmudullah helps it towards deep square leg boundary
+4166~2~
+4166~2~Nikshit Bari: "The turning point of the match was the overs between 36 & 43 of Aus innings where they managed over 100 runs. Otherwise Bangladesh would have been looking at target of 330-340 which they might have chased.. you never know given their impressive performance this World Cup."
+4166~2~
+4166~2~43.6
+4166~2~1
+4166~2~CoulterNile to Mahmudullah, 1 run, length ball around off and middle, moves across and works it towards deep midwicket
+4166~2~
+4166~2~44.1
+4166~2~1
+4166~2~Cummins to Mahmudullah, 1 run, length ball on the stumps, skips down the track and slaps it towards deep midwicket
+4166~2~END OF OVER:44 | 12 Runs | BDESH: 289/4 (93 runs required from 36 balls, RR: 6.56, RRR: 15.50)
+4166~2~
+4166~2~    Mahmudullah58 (43b)
+4166~2~    Mushfiqur Rahim81 (81b)
+4166~2~
+4166~2~    Nathan CoulterNile9-0-54-0
+4166~2~    Pat Cummins9-1-54-0
+4166~2~
+4166~2~
+4166~2~44.2
+4166~2~1
+4166~2~Cummins to Mushfiqur Rahim, 1 run, a bouncer from Cummins, Mushfiqur goes for the pull but is not in control, falls well short of the deep square leg fielder
+4166~2~
+4166~2~44.3
+4166~2~1
+4166~2~Cummins to Mahmudullah, 1 run, fuller outside off, stands deep and lofts it over cover-point, only a single as there is protection in the deep
+4166~2~
+4166~2~A change of bat for Mushfiqur
+4166~2~
+4166~2~44.4
+4166~2~1
+4166~2~Cummins to Mushfiqur Rahim, 1 run, short of length outside off, opens the face of the bat to run it down towards third man
+4166~2~
+4166~2~44.5
+4166~2~6
+4166~2~Cummins to Mahmudullah, SIX runs, fuller around off and Mahmudullah has smoked it over deep midwicket, clears his front leg and frees his arms
+4166~2~
+4166~2~44.6
+4166~2~1
+4166~2~Cummins to Mahmudullah, 1 run, short of length outside off, gets on his toes and works it towards midwicket for one
+4166~2~
+4166~2~45.1
+4166~2~0
+4166~2~CoulterNile to Mahmudullah, no run, a slower length ball outside off, Mahmudullah skips down and swings across, misses
+4166~2~
+4166~2~AnamBMDF : "Shakib didn't get enough support from other end against Eng. But so far Mushfiq is on against Aus with others. Will Mahmudullah stun Aus like he did against Eng in last CWC? Tigers: We'll rock you..."
+4166~2~END OF OVER:45 | 11 Runs | BDESH: 300/4 (82 runs required from 30 balls, RR: 6.66, RRR: 16.40)
+4166~2~
+4166~2~    Mahmudullah67 (47b)
+4166~2~    Mushfiqur Rahim83 (83b)
+4166~2~
+4166~2~    Pat Cummins10-1-65-0
+4166~2~    Nathan CoulterNile9-0-54-0
+4166~2~
+4166~2~
+4166~2~45.2
+4166~2~2
+4166~2~CoulterNile to Mahmudullah, 2 runs, length ball outside off, looks to go over long-on but doesn't get the timing right, Starc was late to pick it up, dives in the end but lands well short of him and goes over, luckily not enough power behind it to reach the boundary, was a slower one from CoulterNile
+4166~2~
+4166~2~45.3
+4166~2~W
+4166~2~CoulterNile to Mahmudullah, OUT, an attempted bouncer this time, goes for the pull but ends up hitting it straight down the throat of Cummins at deep square leg
+4166~2~
+4166~2~M Mahmudullah c Cummins b CoulterNile 69 (70m 50b 5x4 3x6) SR: 138.00
+4166~2~
+4166~2~45.4
+4166~2~W
+4166~2~CoulterNile to Sabbir Rahman, OUT, Choped on! A length ball outside off, looks to dab it towards third man but ends up playing onto his stumps, two in two for CoulterNile
+4166~2~
+4166~2~Sabbir Rahman b CoulterNile 0 (2m 1b 0x4 0x6) SR: 0.00
+4166~2~
+4166~2~Sabbir Rahman is the new batsman
+4166~2~
+4166~2~45.5
+4166~2~1
+4166~2~CoulterNile to Mehidy Hasan Miraz, 1 run, length ball around off, moves across and gets his bat down just in time to work it towards mid-on
+4166~2~
+4166~2~Hat-trick ball coming up. Mehidy Hasan to face
+4166~2~
+4166~2~Supradeep: "Folks! Buckle up! Sabbir Rahman is coming! He has the arroance and talent to pull this off. And dont forget the two overs from zampa or stoinis! Oops sorry!"
+4166~2~
+4166~2~45.6
+4166~2~1
+4166~2~CoulterNile to Mushfiqur Rahim, 1 run, length ball around off, goes back and pulls it towards deep midwicket
+4166~2~
+4166~2~46.1
+4166~2~1
+4166~2~Starc to Mushfiqur Rahim, 1 run, fuller on the stumps, Mushfiqur backs away and pushes it towards extra cover
+4166~2~
+4166~2~Starc around the wicket
+4166~2~END OF OVER:46 | 4 Runs 2 Wkts | BDESH: 304/6 (78 runs required from 24 balls, RR: 6.60, RRR: 19.50)
+4166~2~
+4166~2~    Mushfiqur Rahim84 (84b)
+4166~2~    Mehidy Hasan1 (1b)
+4166~2~
+4166~2~    Nathan CoulterNile10-0-58-2
+4166~2~    Pat Cummins10-1-65-0
+4166~2~
+4166~2~
+4166~2~46.2
+4166~2~1
+4166~2~Starc to Mehidy Hasan Miraz, 1 run, goes for the yorker but a touch too full, takes the leading edge of the bat and dribbles towards extra cover
+4166~2~
+4166~2~Soumya: "Starc smelling the tail Enders now !!"
+4166~2~
+4166~2~46.3
+4166~2~1
+4166~2~Starc to Mushfiqur Rahim, 1 run, fuller outside off, backs away and steers it towards point
+4166~2~
+4166~2~46.4
+4166~2~2
+4166~2~Starc to Mehidy Hasan Miraz, 2 runs, short of length outside off, backs away and carves it over backward point, comes back for the second
+4166~2~
+4166~2~46.5
+4166~2~0
+4166~2~Starc to Mehidy Hasan Miraz, no run, goes for the yorker but ends up bowling a full toss at the batsman, worked away towards mid-on
+4166~2~
+4166~2~46.6
+4166~2~1
+4166~2~Starc to Mehidy Hasan Miraz, 1 run, fuller around off, backs away and hits straight, just over the bowler who stretches his hand but cannot reach
+4166~2~
+4166~2~47.1
+4166~2~1
+4166~2~Stoinis to Mehidy Hasan Miraz, 1 run, short of length outside off, rocks back and cuts but straight towards sweeper cover
+4166~2~END OF OVER:47 | 6 Runs | BDESH: 310/6 (72 runs required from 18 balls, RR: 6.59, RRR: 24.00)
+4166~2~
+4166~2~    Mehidy Hasan5 (5b)
+4166~2~    Mushfiqur Rahim86 (86b)
+4166~2~
+4166~2~    Mitchell Starc9-0-51-1
+4166~2~    Nathan CoulterNile10-0-58-2
+4166~2~
+4166~2~Syed Ali: "I have to say, whatever the final result, Bangladesh have shown quite the resolve. I personally was a bit too hopeful, being a Pakistani, that Bang win this, as impossible as it seemed. Kudos to Mushfiqur, Mahmudullah and Das for giving Bangladesh a chance. Pakistan sadly crumbled under the pressure instead."
+4166~2~
+4166~2~47.2
+4166~2~4
+4166~2~Stoinis to Mushfiqur Rahim, FOUR runs, slower one but too full at the stumps, Mushfiqur goes aerial and just clears Finch at mid-off for four
+4166~2~
+4166~2~47.3
+4166~2~2
+4166~2~Stoinis to Mushfiqur Rahim, 2 runs, length ball down the leg side, swiped away towards deep backward square leg for a couple
+4166~2~
+4166~2~47.4
+4166~2~4
+4166~2~Stoinis to Mushfiqur Rahim, FOUR runs, fuller outside off, looks to hit it through covers but the ball hits the toe end of the bat and goes between the keeper and short third man
+4166~2~
+4166~2~47.5
+4166~2~0
+4166~2~Stoinis to Mushfiqur Rahim, no run, a slower bouncer outside off, looks to ramp it away but misses
+4166~2~
+4166~2~Shivangi: "South Africa losing to Bangladesh was not upset. Bangladesh is a much better team than South Africa. They are fighting so hard. SA is not even showing intent to win any game in this world cup. Love & respect for tigers from India!"
+4166~2~
+4166~2~47.6
+4166~2~1
+4166~2~Stoinis to Mushfiqur Rahim, 1 run, fuller on the stumps, backs away and steers it towards point
+4166~2~
+4166~2~48.1
+4166~2~1
+4166~2~Starc to Mushfiqur Rahim, 1 run, fuller around off, opens the face of the bat to steer it towards backward point
+4166~2~END OF OVER:48 | 12 Runs | BDESH: 322/6 (60 runs required from 12 balls, RR: 6.70, RRR: 30.00)
+4166~2~
+4166~2~    Mushfiqur Rahim97 (91b)
+4166~2~    Mehidy Hasan6 (6b)
+4166~2~
+4166~2~    Marcus Stoinis7-0-47-1
+4166~2~    Mitchell Starc9-0-51-1
+4166~2~
+4166~2~
+4166~2~48.2
+4166~2~W
+4166~2~Starc to Mehidy Hasan Miraz, OUT, fuller and angling in on to the pads, 145kph, Mehidy can only lob it towards mid-on where Warner takes one of the easier catches
+4166~2~
+4166~2~Mehidy Hasan c Warner b Starc 6 (14m 7b 0x4 0x6) SR: 85.71
+4166~2~
+4166~2~48.3
+4166~2~1
+4166~2~Starc to Mushfiqur Rahim, 1 run, fuller on the pads and clipped away towards square leg, moves to 99
+4166~2~
+4166~2~Mashrafe Mortaza is the new batsman but right on Mushfiqur is on strike, two away from his hundred
+4166~2~
+4166~2~48.4
+4166~2~1
+4166~2~Starc to Mashrafe Mortaza, 1 run, goes for the yorker, right on the stumps, Mortaza was looking to work it on the leg side, gets an outside edge that rolls towards third man
+4166~2~
+4166~2~48.5
+4166~2~0
+4166~2~Starc to Mushfiqur Rahim, no run, short of length on the stumps, Mushfiqur gets behind the line and defends
+4166~2~
+4166~2~48.6
+4166~2~1
+4166~2~Starc to Mushfiqur Rahim, 1 run, and that's his hundred there, fuller on the stumps, Mushfiqur pushes it towards covers and sets off, and brings up his seventh ODI hundred
+4166~2~
+4166~2~49.1
+4166~2~1
+4166~2~Stoinis to Mushfiqur Rahim, 1 run, slower length ball around off, turns it away towards midwicket
+4166~2~END OF OVER:49 | 4 Runs 1 Wkt | BDESH: 326/7 (56 runs required from 6 balls, RR: 6.65, RRR: 56.00)
+4166~2~
+4166~2~    Mushfiqur Rahim100 (95b)
+4166~2~    Mashrafe Mortaza1 (1b)
+4166~2~
+4166~2~    Mitchell Starc10-0-55-2
+4166~2~    Marcus Stoinis7-0-47-1
+4166~2~
+4166~2~
+4166~2~49.2
+4166~2~0
+4166~2~Stoinis to Mashrafe Mortaza, no run, slower length ball on the stumps, a wild swing but misses, the ball goes over the stumps
+4166~2~
+4166~2~49.3
+4166~2~4
+4166~2~Stoinis to Mashrafe Mortaza, FOUR runs, another slower one around off, Mashrafe goes over the bowler's head, a couple of bounces and four
+4166~2~
+4166~2~49.4
+4166~2~1
+4166~2~Stoinis to Mashrafe Mortaza, 1 run, fuller on the off stump, backs away and steers it towards point
+4166~2~
+4166~2~49.5
+4166~2~1
+4166~2~Stoinis to Mushfiqur Rahim, 1 run, a low full toss around off, pushes it towards wide long-on
+4166~2~
+4166~2~PrasVenkat: "Mortaza captaining BDESH reminds of Darren Sammy captaining WI. No matter how the captain performs, team somehow does well! "
+4166~2~
+4166~2~49.6
+4166~2~W
+4166~2~Stoinis to Mashrafe Mortaza, OUT, length ball around off, Mashrafe looks to club it over deep midwicket but cannot clear Maxwell
+4166~2~
+4166~2~Mashrafe Mortaza c Maxwell b Stoinis 6 (7m 5b 1x4 0x6) SR: 120.00
+4166~2~
+4166~2~

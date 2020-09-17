@@ -1,0 +1,3264 @@
+4161~1~Team 1: KL Rahul!KL Rahul, RG Sharma!RG Sharma, V Kohli (c)!V Kohli(c), V Shankar!V Shankar, MS Dhoni (wk)!MS Dhoni(wk), HH Pandya!HH Pandya, KM Jadhav!KM Jadhav, Kuldeep Yadav!Kuldeep Yadav, Bhuvneshwr Kumar!B Kumar, YS Chahal!YS Chahal, JJ Bumrah!JJ Bumrah
+4161~1~Team 2: Imam ul Haq!Imam ul Haq, Fakhar Zaman!Fakhar Zaman, Babar Azam!Babar Azam, Sarfaraz Ahmed (c)(wk)!Sarfaraz Ahmed(c)(wk), Mohammad Hafeez!Mohammad Hafeez, Shoaib Malik!Shoaib Malik, Imad Wasim!Imad Wasim, Shadab Khan!Shadab Khan, Wahab Riaz!Wahab Riaz, Hasan Ali!Hasan Ali, Mohammad Amir!Mohammad Amir
+4161~1~0.1
+4161~1~0
+4161~1~Mohammad Amir to Rahul, no run, pitched on a length, defended
+4161~1~
+4161~1~0.2
+4161~1~0
+4161~1~Mohammad Amir to Rahul, no run, once more, no hint of swing just yet
+4161~1~
+4161~1~0.3
+4161~1~0
+4161~1~Mohammad Amir to Rahul, no run, this was fuller, and was there a hint of swing. Came back into the batsman, driven confidently to mid-on
+4161~1~
+4161~1~0.4
+4161~1~0
+4161~1~Mohammad Amir to Rahul, no run, a little wider on this occasion, and Rahul doesn't bother with it
+4161~1~
+4161~1~0.5
+4161~1~0
+4161~1~Mohammad Amir to Rahul, no run, slightly wide once more, and Rahul just looks like he wants to settle in for now. Lets it be.
+4161~1~
+4161~1~0.6
+4161~1~0
+4161~1~Mohammad Amir to Rahul, no run, three in a row, and that's a maiden. Left alone. Good start for Pakistan.
+4161~1~
+4161~1~1.1
+4161~1~0
+4161~1~Hasan Ali to Sharma, no run, fuller length straightaway to Rohit, to drives to mid-off
+4161~1~
+4161~1~Fawad Salari: "This is a big test for KL Rahul and Shankar they should prove it today. Shankar is probably playing instead of Pant who is an explosive batsman but Shankar should stick to basics "
+4161~1~
+4161~1~Hasan Ali to operate from the other end
+4161~1~END OF OVER:1 | (maiden) | INDIA: 0/0
+4161~1~
+4161~1~    KL Rahul0 (6b)
+4161~1~    Rohit Sharma0 (0b)
+4161~1~
+4161~1~    Mohammad Amir1-1-0-0
+4161~1~
+4161~1~
+4161~1~1.2
+4161~1~0
+4161~1~Hasan Ali to Sharma, no run, slightly wider, and seamed back in. Driven back to the bowler
+4161~1~
+4161~1~1.3
+4161~1~4
+4161~1~Hasan Ali to Sharma, FOUR runs, oooh, that was a moral victory for Hasan, but India are off the mark! Came back in and tucked Rohit up. The batsmen gets an inside edge on one that nipped back in, and there was no preventing it running through to the boundary.
+4161~1~
+4161~1~1.4
+4161~1~0
+4161~1~Hasan Ali to Sharma, no run, blocked
+4161~1~
+4161~1~1.5
+4161~1~2
+4161~1~Hasan Ali to Sharma, 2 runs, straighter, and flicked away through the onside. In the air slightly, but well clear of any fielder and the two come back
+4161~1~
+4161~1~1.6
+4161~1~3
+4161~1~Hasan Ali to Sharma, 3 runs, a bit too straight, and quick as a flash, Rohit works it away to square leg. The infielder has a chase, and just about prevents it going to the rope. Hasan's first over brings nine.
+4161~1~
+4161~1~2.1
+4161~1~0
+4161~1~Mohammad Amir to Sharma, no run, Rohit looked to leave, but didn't get his bat out of the way quickly enough. Hits the bat andgoes through to Sarfaraz on the bounce
+4161~1~END OF OVER:2 | 9 Runs | INDIA: 9/0 | RR: 4.50
+4161~1~
+4161~1~    Rohit Sharma9 (6b)
+4161~1~    KL Rahul0 (6b)
+4161~1~
+4161~1~    Hasan Ali1-0-9-0
+4161~1~    Mohammad Amir1-1-0-0
+4161~1~
+4161~1~
+4161~1~2.2
+4161~1~0
+4161~1~Mohammad Amir to Sharma, no run, brilliant bowling. Rohit looked like he was coming forward and Amir knocked him back with a sharp bouncer. The footwork wasn't there, and the lazy pull barely missed the top edge
+4161~1~
+4161~1~2.3
+4161~1~0
+4161~1~Mohammad Amir to Sharma, no run, the angle takes this one away. Swing doesn't seem to exist for now, and Rohit leaves it alone. Amir has been warned, officially, for stepping onto the pitch.
+4161~1~
+4161~1~2.4
+4161~1~1
+4161~1~Mohammad Amir to Sharma, 1 run,
+4161~1~
+4161~1~2.5
+4161~1~0
+4161~1~Mohammad Amir to Rahul, no run, wider, and Rahul decided letting it go is for the best once more
+4161~1~
+4161~1~2.6
+4161~1~1
+4161~1~Mohammad Amir to Rahul, 1 run, Rahul gets off the mark off his eighth ball
+4161~1~
+4161~1~3.1
+4161~1~1
+4161~1~Hasan Ali to Rahul, 1 run, dragged down legside, and Rohit tucks it away to fine leg
+4161~1~END OF OVER:3 | 2 Runs | INDIA: 11/0 | RR: 3.66
+4161~1~
+4161~1~    KL Rahul1 (8b)
+4161~1~    Rohit Sharma10 (10b)
+4161~1~
+4161~1~    Mohammad Amir2-1-2-0
+4161~1~    Hasan Ali1-0-9-0
+4161~1~
+4161~1~
+4161~1~3.2
+4161~1~0
+4161~1~Hasan Ali to Sharma, no run, wicket-to-wicket, and Rohit blocks
+4161~1~
+4161~1~Syed Zahir: "how many warnings are allowed?" Two official warnings. The third will take you out of the attack
+4161~1~
+4161~1~3.3
+4161~1~4
+4161~1~Hasan Ali to Sharma, FOUR runs, lovely straight drive. Rohit is getting himself in very nicely. Perhaps a touch too full from Hasan, and this time Rohit's drive to mid-off just about evades a diving Wahab Riaz
+4161~1~
+4161~1~3.4
+4161~1~0
+4161~1~Hasan Ali to Sharma, no run, wider and shorter, was there to be cut away. Exactly what Rohit tried, but misses out
+4161~1~
+4161~1~3.5
+4161~1~0
+4161~1~Hasan Ali to Sharma, no run, better ball, on an off-stump line. Defended deftly
+4161~1~
+4161~1~3.6
+4161~1~0
+4161~1~Hasan Ali to Sharma, no run, hint of tail back in. Gets a thick inside edge onto his pad. Better over from Hasan, but still cost five runs.
+4161~1~
+4161~1~4.1
+4161~1~0
+4161~1~Mohammad Amir to Rahul, no run, angled away from the right-hander. Inswing not there, but it does play on the batsman's mind, so remains a goo option
+4161~1~
+4161~1~ARed: "India 40-45 for 0 in 10 overs, I'll say India's 10 for sure. " That's their modus operandi.
+4161~1~END OF OVER:4 | 5 Runs | INDIA: 16/0 | RR: 4.00
+4161~1~
+4161~1~    Rohit Sharma14 (15b)
+4161~1~    KL Rahul2 (9b)
+4161~1~
+4161~1~    Hasan Ali2-0-14-0
+4161~1~    Mohammad Amir2-1-2-0
+4161~1~
+4161~1~
+4161~1~4.2
+4161~1~4
+4161~1~Mohammad Amir to Rahul, FOUR runs, bouncer, and Rahul pulls aggressively at it. Doesn't nearly get it off the middle, but with the fielding restrictions, there was no one at midwicket, where it trickled away for four
+4161~1~
+4161~1~4.3
+4161~1~0
+4161~1~Mohammad Amir to Rahul, no run, good comeback. Back to the stock length delivery that threatens to move in. Rahul cuts, but gets the inside edge and bounces over the stumps
+4161~1~
+4161~1~4.4
+4161~1~0
+4161~1~Mohammad Amir to Rahul, no run, fuller, slower delivery, and Rahul lets it go through to Sarfaraz
+4161~1~
+4161~1~4.5
+4161~1~0
+4161~1~Mohammad Amir to Rahul, no run, shorter, and defended to the offside
+4161~1~
+4161~1~Amir has been warned a second time. One more warning, and he's done, out of the attack.
+4161~1~
+4161~1~4.6
+4161~1~0
+4161~1~Mohammad Amir to Rahul, no run, slower ball, a bit of an offcutter, and it beats the batsman's defensive block. Good over from the bowler, but the warnings will play on his mind
+4161~1~
+4161~1~The problem with Amir seems to be laziness. He jogs into the danger area on his fourth step. No reason why he can't avoid that.
+4161~1~
+4161~1~5.1
+4161~1~0
+4161~1~Hasan Ali to Sharma, no run, off-stump line, Rohit defends
+4161~1~END OF OVER:5 | 4 Runs | INDIA: 20/0 | RR: 4.00
+4161~1~
+4161~1~    KL Rahul6 (15b)
+4161~1~    Rohit Sharma14 (15b)
+4161~1~
+4161~1~    Mohammad Amir3-1-6-0
+4161~1~    Hasan Ali2-0-14-0
+4161~1~
+4161~1~
+4161~1~5.2
+4161~1~1
+4161~1~Hasan Ali to Sharma, 1 run, short of a length, and turned around to the onside for one. Pakistan's quest for early wickets hasn't materialised yet
+4161~1~
+4161~1~If you're in India or the US, you can watch this game live on Hotstar. To watch the match live on Hotstar, readers in India click here and readers in the US click here.
+4161~1~
+4161~1~5.3
+4161~1~1
+4161~1~Hasan Ali to Rahul, 1 run, short again, and Rahul doesn't shy away from the pull. Wasn't completely in control,but kept it along the ground
+4161~1~
+4161~1~5.4
+4161~1~4
+4161~1~Hasan Ali to Sharma, FOUR runs, short and wide, crunched away by Rohit, Poor delivery, but it was in the air at point so long Imam fancied he was in with a shot. He puts in a valiant drive, but it's just wide of him.
+4161~1~
+4161~1~5.5
+4161~1~0
+4161~1~Hasan Ali to Sharma, no run, on target, and quicker (87mph). Rohit lets it go
+4161~1~
+4161~1~5.6
+4161~1~6
+4161~1~Hasan Ali to Sharma, SIX runs, oh, what a shot! Rohit is on the march now! Short of a length and the batsman takes a step back and lofts it over cow corner. It's higher than it is wider, but it was timed so sweetly it just about carries over the fence. Another expensive over from Hasan
+4161~1~
+4161~1~6.1
+4161~1~0
+4161~1~Mohammad Amir to Rahul, no run, wider, left alone
+4161~1~END OF OVER:6 | 12 Runs | INDIA: 32/0 | RR: 5.33
+4161~1~
+4161~1~    Rohit Sharma25 (20b)
+4161~1~    KL Rahul7 (16b)
+4161~1~
+4161~1~    Hasan Ali3-0-26-0
+4161~1~    Mohammad Amir3-1-6-0
+4161~1~
+4161~1~
+4161~1~6.2
+4161~1~0
+4161~1~Mohammad Amir to Rahul, no run, better ball, beats the bat and through to the keeper
+4161~1~
+4161~1~Bk: "When ever rohit start cracking inning i am afraid. Because his all big innings started slow and all quick inning ended quickly. I wish it changes today."
+4161~1~
+4161~1~6.3
+4161~1~1
+4161~1~Mohammad Amir to Rahul, 1 run, slower ball that Rahul tucks away to third man. Right, Amir against Rohit now. Will Rohit continue to attack?
+4161~1~
+4161~1~6.4
+4161~1~1
+4161~1~Mohammad Amir to Sharma, 1 run, short and straight. Rohit blocks and runs
+4161~1~
+4161~1~6.5
+4161~1~0
+4161~1~Mohammad Amir to Rahul, no run, close, that. It took Rahul's inside edge and went through to fine leg, which is standing up now
+4161~1~
+4161~1~Meanwhile, this is what the law says on running on the pitch: *Bowler running on protected area* It is unfair for a bowler to enter the protected area in his/her follow-through without reasonable cause, whether or not the ball is delivered. If, in that innings, the same bowler contravenes this Law a third time, the umpire shall direct the captain of the fielding side to suspend the bowler immediately from bowling.
+4161~1~
+4161~1~6.6
+4161~1~1b
+4161~1~Mohammad Amir to Rahul, 1 bye, gets some movement after it bounces. Moves away from the keeper, allowing a bye that means Rahul will keep the strike against Hasan. Which might relieve the bowler
+4161~1~
+4161~1~7.1
+4161~1~1
+4161~1~Wahab Riaz to Rahul, 1 run, tucks it away to square leg
+4161~1~
+4161~1~Noman: "Pakistan already made a failed attempt on bowling first on a moist wicket against Australia, they have repeated it again knowing that they dont have the bowlers who can make use of such situation. On the other hand, Aamir will now be under immense pressure to avoid another warning and may not be able to deliver as planned..." But early for all this, I think. There's rain to come, and DLS very likely to play a part.
+4161~1~
+4161~1~Wahab into the attack
+4161~1~END OF OVER:7 | 3 Runs | INDIA: 35/0 | RR: 5.00
+4161~1~
+4161~1~    KL Rahul8 (21b)
+4161~1~    Rohit Sharma26 (21b)
+4161~1~
+4161~1~    Mohammad Amir4-1-8-0
+4161~1~    Hasan Ali3-0-26-0
+4161~1~
+4161~1~
+4161~1~7.2
+4161~1~1
+4161~1~Wahab Riaz to Sharma, 1 run, on a length and quick. Rohit pulls on one leg to the onside
+4161~1~
+4161~1~7.3
+4161~1~0
+4161~1~Wahab Riaz to Rahul, no run, good delivery, rising from a length. Defended back to the bowler
+4161~1~
+4161~1~7.4
+4161~1~1
+4161~1~Wahab Riaz to Rahul, 1 run, played right under his nose, guided to third man
+4161~1~
+4161~1~7.5
+4161~1~0
+4161~1~Wahab Riaz to Sharma, no run, full and straight, blocked resolutely. Goos over from Wahab to begin. One ball to go
+4161~1~
+4161~1~7.6
+4161~1~4
+4161~1~Wahab Riaz to Sharma, FOUR runs, ahhh, and that was a poor delivery! Almost a chance for fine leg, though. Short and on the body. Helped away by the batsman, and only just evades the leap from the man and fine leg before it speeds away to the boundary. India are beginning to motor now
+4161~1~
+4161~1~8.1
+4161~1~1w
+4161~1~Imad Wasim to Rahul, 1 wide, round the wicket and starts off with a wide down legside
+4161~1~
+4161~1~Madhusudan B R: "Amir should be off the attack for a while. He isn't looking dangerous with the ball either. But he's in danger of getting out of attack. He'll be required at the death definitely." Good call. Imad into the attack
+4161~1~END OF OVER:8 | 7 Runs | INDIA: 42/0 | RR: 5.25
+4161~1~
+4161~1~    Rohit Sharma31 (24b)
+4161~1~    KL Rahul10 (24b)
+4161~1~
+4161~1~    Wahab Riaz1-0-7-0
+4161~1~    Mohammad Amir4-1-8-0
+4161~1~
+4161~1~
+4161~1~8.1
+4161~1~0
+4161~1~Imad Wasim to Rahul, no run, skids on, defended
+4161~1~
+4161~1~8.2
+4161~1~1
+4161~1~Imad Wasim to Rahul, 1 run, tucked away to the leg side
+4161~1~
+4161~1~8.3
+4161~1~1
+4161~1~Imad Wasim to Sharma, 1 run, a bit straight from Imad again, and Rohit helps it to square leg
+4161~1~
+4161~1~8.4
+4161~1~0
+4161~1~Imad Wasim to Rahul, no run, better, held its line, and Rahul drives back to the bowler
+4161~1~
+4161~1~8.5
+4161~1~0
+4161~1~Imad Wasim to Rahul, no run, again, a little shorter. Rahul blocks once more
+4161~1~
+4161~1~8.6
+4161~1~1
+4161~1~Imad Wasim to Rahul, 1 run, dragged own once more. Four singles from Imad's first
+4161~1~
+4161~1~9.1
+4161~1~1
+4161~1~Wahab Riaz to Rahul, 1 run, what has Pakistan done?!! That was a clear as day run out opportunity. Rohit came through for two when it never was on, and the outfielder throws to the wrong end. Sarfaraz is fuming. Pakistan have missed a massive chance here
+4161~1~
+4161~1~"Have to credit Sharma for this. He's usually a slow starter but considering the possibility of rain and DLS later in the game, he has already upped his tempo. Great attitude from a great player. A fan from Pakistan " He is a special talent, isn't he? Pakistan must already be wary of what's to follow
+4161~1~
+4161~1~Apart from being the rare day of an India-Pakistan World Cup clash, today is also Father's Day. Test your knowledge of some famous father-son/daughter combinations in cricket with this special quiz.
+4161~1~END OF OVER:9 | 4 Runs | INDIA: 46/0 | RR: 5.11
+4161~1~
+4161~1~    KL Rahul12 (29b)
+4161~1~    Rohit Sharma32 (25b)
+4161~1~
+4161~1~    Imad Wasim1-0-4-0
+4161~1~    Wahab Riaz1-0-7-0
+4161~1~
+4161~1~
+4161~1~9.2
+4161~1~0
+4161~1~Wahab Riaz to Sharma, no run, blocked
+4161~1~
+4161~1~9.3
+4161~1~1
+4161~1~Wahab Riaz to Sharma, 1 run, turned away to the onside as Rohit gets off strike
+4161~1~
+4161~1~Fakhar Zaman was the fielder on the boundary
+4161~1~
+4161~1~9.4
+4161~1~1
+4161~1~Wahab Riaz to Rahul, 1 run, came back in. First hint of swing for Wahab. Gets the outside edge and trickles through to third man
+4161~1~
+4161~1~9.5
+4161~1~0
+4161~1~Wahab Riaz to Sharma, no run, a little bit of running uncertainty again. Rahul took off for the second, but Rohit had no intentions of getting out of his crease on that occasion
+4161~1~
+4161~1~9.6
+4161~1~4
+4161~1~Wahab Riaz to Sharma, FOUR runs, bit of width and sliced away to the third man boundary. That missed opportunity this over is already looking costly. And for the next ten overs, here's Shashank.
+4161~1~
+4161~1~10.1
+4161~1~4
+4161~1~Imad Wasim to Rahul, FOUR runs, cheeky from KL! This one drifts down leg and Rahul brings out a fine paddle to beat short fine. Got on top of the bounce nicely, risk-free
+4161~1~
+4161~1~Thanks, Danyal
+4161~1~END OF OVER:10 | 7 Runs | INDIA: 53/0 | RR: 5.30
+4161~1~
+4161~1~    Rohit Sharma37 (29b)
+4161~1~    KL Rahul14 (31b)
+4161~1~
+4161~1~    Wahab Riaz2-0-14-0
+4161~1~    Imad Wasim1-0-4-0
+4161~1~
+4161~1~
+4161~1~10.2
+4161~1~3
+4161~1~Imad Wasim to Rahul, 3 runs, steps out and chips this over the infield. Imam had to run in a long way from deep square. Enough time to get back for the third
+4161~1~
+4161~1~10.3
+4161~1~1
+4161~1~Imad Wasim to Sharma, 1 run, tucks this to short fine as they scamper a quick single. Went straight to Wahab. 'In Lala land' says Wasim Akram on air.
+4161~1~
+4161~1~10.4
+4161~1~0
+4161~1~Imad Wasim to Rahul, no run, dips on Rahul, square turn as well to hit him on the right pad
+4161~1~
+4161~1~10.5
+4161~1~1
+4161~1~Imad Wasim to Rahul, 1 run, direct hit from point at striker's and and he was gone! Hesitation again between these two. Gentle dab into the off side, he wanted a single, Rohit responded late and wasn't even in the frame. Shadab did superbly well to pick up the ball one-hand but got the direction of the throw wrong. He was completely off balance.
+4161~1~
+4161~1~10.6
+4161~1~0
+4161~1~Imad Wasim to Sharma, no run, right behind the line as he blocks.
+4161~1~
+4161~1~11.1
+4161~1~4
+4161~1~Shadab Khan to Rahul, FOUR runs, welcomed with a crashing cut shot! This is a long hop, spinning away and Rahul cashes in on the freebie.
+4161~1~
+4161~1~Sun makes an appearance, as does Shadab
+4161~1~END OF OVER:11 | 9 Runs | INDIA: 62/0 | RR: 5.63
+4161~1~
+4161~1~    Rohit Sharma38 (31b)
+4161~1~    KL Rahul22 (35b)
+4161~1~
+4161~1~    Imad Wasim2-0-13-0
+4161~1~    Wahab Riaz2-0-14-0
+4161~1~
+4161~1~
+4161~1~11.2
+4161~1~1
+4161~1~Shadab Khan to Rahul, 1 run, too short again, slapped to sweeper cover
+4161~1~
+4161~1~11.3
+4161~1~2
+4161~1~Shadab Khan to Sharma, 2 runs, pulled away! Down to wide long-on where Hasan Ali stops it as he runs around. Rohit picked the short ball, went with the pull but didn't time it off the middle. He's very unhappy with himself but no damage done
+4161~1~
+4161~1~11.4
+4161~1~6
+4161~1~Shadab Khan to Sharma, SIX runs, full toss and he's sent this into Manchester's CBD! This is very poor from Shadab, waist-high outside off, giving Rohit the free swing and he puts it away effortlessly for a 91-metre hit
+4161~1~
+4161~1~11.5
+4161~1~4
+4161~1~Shadab Khan to Sharma, FOUR runs, crashed to the square boundary on the off side as Rohit raises a 34-ball fifty! Waited for the turn, got well forward and opened the bat face slightly to drive this to the vacant point region. Magnificent
+4161~1~
+4161~1~11.6
+4161~1~0
+4161~1~Shadab Khan to Sharma, no run, gets well forward and keeps out this full delivery
+4161~1~
+4161~1~12.1
+4161~1~0
+4161~1~Imad Wasim to Rahul, no run, gets well forward, covers the line and dabs with soft hands
+4161~1~
+4161~1~Muhammad Usman: "Winning toss and bowling first in this WC so far... SA conceded 300+ vs Eng; Eng conceded 300+ vs Pak; SA conceded 300+ vs BD; BD conceded 300+ vs Eng Pak conceded 300+ vs Aus; SL conceded 300+ vs Aus."
+4161~1~END OF OVER:12 | 17 Runs | INDIA: 79/0 | RR: 6.58
+4161~1~
+4161~1~    Rohit Sharma50 (35b)
+4161~1~    KL Rahul27 (37b)
+4161~1~
+4161~1~    Shadab Khan1-0-17-0
+4161~1~    Imad Wasim2-0-13-0
+4161~1~
+4161~1~
+4161~1~12.2
+4161~1~0
+4161~1~Imad Wasim to Rahul, no run, sharp turn again, pokes at this and is beaten. Excellent from Imad, Pakistan will need more of this
+4161~1~
+4161~1~12.3
+4161~1~1
+4161~1~Imad Wasim to Rahul, 1 run, punches this into the gap, wide of point as they jog the single
+4161~1~
+4161~1~12.4
+4161~1~0
+4161~1~Imad Wasim to Sharma, no run, eases this with the spin to extra cover
+4161~1~
+4161~1~12.5
+4161~1~0
+4161~1~Imad Wasim to Sharma, no run, nicely tossed up, not much turn as he lands this on middle, driven back to the bowler
+4161~1~
+4161~1~12.6
+4161~1~0
+4161~1~Imad Wasim to Sharma, no run, squeezes the drive to backward point, hint of turn for Imad that time.
+4161~1~
+4161~1~13.1
+4161~1~1
+4161~1~Shadab Khan to Rahul, 1 run, turns this back past the bowler to long-on
+4161~1~
+4161~1~Shadab to continue. Big call from Sarfaraz, sends out a message to his young spinner that reads 'I'm backing you.'
+4161~1~END OF OVER:13 | 1 Run | INDIA: 80/0 | RR: 6.15
+4161~1~
+4161~1~    Rohit Sharma50 (38b)
+4161~1~    KL Rahul28 (40b)
+4161~1~
+4161~1~    Imad Wasim3-0-14-0
+4161~1~    Shadab Khan1-0-17-0
+4161~1~
+4161~1~There's bright sunshine now.
+4161~1~
+4161~1~13.2
+4161~1~0
+4161~1~Shadab Khan to Sharma, no run, nice length, draws Rohit forward as he pats it into the off side, again some confusion with the running but no damage done.
+4161~1~
+4161~1~13.3
+4161~1~1
+4161~1~Shadab Khan to Sharma, 1 run, driven into the gap, down to sweeper cover
+4161~1~
+4161~1~13.4
+4161~1~0
+4161~1~Shadab Khan to Rahul, no run, shortens his length, pushed through quicker, Rahul takes a step across and defends back
+4161~1~
+4161~1~13.5
+4161~1~1
+4161~1~Shadab Khan to Rahul, 1 run, full toss that he drives to long-off, didn't hit it off the middle though
+4161~1~
+4161~1~13.6
+4161~1~0
+4161~1~Shadab Khan to Sharma, no run, gets well forward and smothers this tossed up delivery. Tight over that, good comeback.
+4161~1~
+4161~1~14.1
+4161~1~1
+4161~1~Imad Wasim to Rahul, 1 run, eased down to long-on
+4161~1~
+4161~1~Udayan : "Trying to teach my 1.5 year daughter cricket. All she is interested in is watching cartoons." Ah, the crossroads of fatherhood. Ind v Pak or daughter's happiness? Tough choice
+4161~1~END OF OVER:14 | 3 Runs | INDIA: 83/0 | RR: 5.92
+4161~1~
+4161~1~    Rohit Sharma51 (41b)
+4161~1~    KL Rahul30 (43b)
+4161~1~
+4161~1~    Shadab Khan2-0-20-0
+4161~1~    Imad Wasim3-0-14-0
+4161~1~
+4161~1~
+4161~1~14.2
+4161~1~1
+4161~1~Imad Wasim to Sharma, 1 run, driven with the spin to sweeper cover
+4161~1~
+4161~1~14.3
+4161~1~1
+4161~1~Imad Wasim to Rahul, 1 run, deflects it gently to short third man, they scamper a quick single
+4161~1~
+4161~1~14.4
+4161~1~0
+4161~1~Imad Wasim to Sharma, no run, gets to the pitch of the ball and laces this to the fielder running in from point
+4161~1~
+4161~1~14.5
+4161~1~1
+4161~1~Imad Wasim to Sharma, 1 run, eased down to long-off, sensible from Rohit
+4161~1~
+4161~1~14.6
+4161~1~0
+4161~1~Imad Wasim to Rahul, no run, pushed through quicker on a length outside off, punched to cover
+4161~1~
+4161~1~15.1
+4161~1~4
+4161~1~Shadab Khan to Sharma, FOUR runs, short, wide an crashed wide of the diving point fielder. Rohit is in cruise control. Played that very, very late.
+4161~1~END OF OVER:15 | 4 Runs | INDIA: 87/0 | RR: 5.80
+4161~1~
+4161~1~    KL Rahul32 (46b)
+4161~1~    Rohit Sharma53 (44b)
+4161~1~
+4161~1~    Imad Wasim4-0-18-0
+4161~1~    Shadab Khan2-0-20-0
+4161~1~
+4161~1~
+4161~1~15.2
+4161~1~0
+4161~1~Shadab Khan to Sharma, no run, gets well forward and stabs this away
+4161~1~
+4161~1~15.3
+4161~1~0
+4161~1~Shadab Khan to Sharma, no run, first real bad shot from Rohit, attempts a slog sweep from outside off but plays too early and is beaten
+4161~1~
+4161~1~Stat alert: This is now India's highest opening partnership against Pakistan in a World Cup fixture
+4161~1~
+4161~1~15.4
+4161~1~0
+4161~1~Shadab Khan to Sharma, no run, dabs this with the turn to short third man
+4161~1~
+4161~1~15.5
+4161~1~1
+4161~1~Shadab Khan to Sharma, 1 run, wrists this tossed up delivery from outside off to wide long-on
+4161~1~
+4161~1~15.6
+4161~1~1
+4161~1~Shadab Khan to Rahul, 1 run, makes room and punches this to sweeper cover, too short to have any impact.
+4161~1~
+4161~1~16.1
+4161~1~1
+4161~1~Imad Wasim to Rahul, 1 run, eases this with the spin to long-off
+4161~1~END OF OVER:16 | 6 Runs | INDIA: 93/0 | RR: 5.81
+4161~1~
+4161~1~    KL Rahul33 (47b)
+4161~1~    Rohit Sharma58 (49b)
+4161~1~
+4161~1~    Shadab Khan3-0-26-0
+4161~1~    Imad Wasim4-0-18-0
+4161~1~
+4161~1~
+4161~1~16.2
+4161~1~1
+4161~1~Imad Wasim to Sharma, 1 run, once again, leans forward and plays this back past the bowler as they jog the single
+4161~1~
+4161~1~16.3
+4161~1~1
+4161~1~Imad Wasim to Rahul, 1 run, taps it with soft hands into the gap at cover
+4161~1~
+4161~1~16.4
+4161~1~1
+4161~1~Imad Wasim to Sharma, 1 run, works this incoming delivery down to long-on, good wrist work
+4161~1~
+4161~1~Praveen: "Doing invigilation duty n checking score on cricinfo" -- Whose decision was it to have an exam today?
+4161~1~
+4161~1~16.5
+4161~1~1w
+4161~1~Imad Wasim to Rahul, 1 wide, attempts to sweep, but is beaten as it was drifting down leg
+4161~1~
+4161~1~16.5
+4161~1~0
+4161~1~Imad Wasim to Rahul, no run, makes room and punches this shortish delivery to cover
+4161~1~
+4161~1~16.6
+4161~1~1
+4161~1~Imad Wasim to Rahul, 1 run, punches this past the bowler to long-on
+4161~1~
+4161~1~17.1
+4161~1~0
+4161~1~Shadab Khan to Rahul, no run, sharp turn off a length outside off, left alone
+4161~1~END OF OVER:17 | 6 Runs | INDIA: 99/0 | RR: 5.82
+4161~1~
+4161~1~    KL Rahul36 (51b)
+4161~1~    Rohit Sharma60 (51b)
+4161~1~
+4161~1~    Imad Wasim5-0-24-0
+4161~1~    Shadab Khan3-0-26-0
+4161~1~
+4161~1~
+4161~1~17.2
+4161~1~0
+4161~1~Shadab Khan to Rahul, no run, gets well forward and plays it late as it spins away
+4161~1~
+4161~1~17.3
+4161~1~1
+4161~1~Shadab Khan to Rahul, 1 run, eased into the gap between cover and point to raise India's 100
+4161~1~
+4161~1~17.4
+4161~1~1
+4161~1~Shadab Khan to Sharma, 1 run, eased with the spin to long-off, Sarfaraz is disappointed with the short cover fielder, wanted him to hare across to his right. Heard a lot of 'yaaaaars'
+4161~1~
+4161~1~17.5
+4161~1~0
+4161~1~Shadab Khan to Rahul, no run, stretches forward and defends
+4161~1~
+4161~1~17.6
+4161~1~0
+4161~1~Shadab Khan to Rahul, no run, gets well forward and defends again, this one dipped a hint on Rahul, had the line well covered.
+4161~1~
+4161~1~18.1
+4161~1~1
+4161~1~Imad Wasim to Sharma, 1 run, shortish on middle, punched to deep cover
+4161~1~END OF OVER:18 | 2 Runs | INDIA: 101/0 | RR: 5.61
+4161~1~
+4161~1~    KL Rahul37 (56b)
+4161~1~    Rohit Sharma61 (52b)
+4161~1~
+4161~1~    Shadab Khan4-0-28-0
+4161~1~    Imad Wasim5-0-24-0
+4161~1~
+4161~1~It's time for drinks and the signs are already ominous for Pakistan. They need wickets. And very quickly
+4161~1~
+4161~1~Rakesh: "I think Mr. Praveen is invigilating the IIBF exams today. I just came out from the centre after attending the exam and found India scores almost double my marks."
+4161~1~
+4161~1~Andy J: "Meanwhile Kohli sitting in the changing room must be thinking what a good toss it was to lose." -- You bet.
+4161~1~
+4161~1~18.2
+4161~1~0
+4161~1~Imad Wasim to Rahul, no run, skids through and straightens, Rahul is squared up but manages to tap it into the off side
+4161~1~
+4161~1~18.3
+4161~1~0
+4161~1~Imad Wasim to Rahul, no run, lunges forward and drives to backward point
+4161~1~
+4161~1~18.4
+4161~1~0
+4161~1~Imad Wasim to Rahul, no run, defended back to the bowler, four straight dots. As Ravi would say, something's got to give?
+4161~1~
+4161~1~18.5
+4161~1~0
+4161~1~Imad Wasim to Rahul, no run, happy to play out the bowler, gets well forward and smothers this full delivery
+4161~1~
+4161~1~18.6
+4161~1~1
+4161~1~Imad Wasim to Rahul, 1 run, driven into the gap, down to sweeper cover. Excellent over from Imad
+4161~1~
+4161~1~19.1
+4161~1~1
+4161~1~Shadab Khan to Rahul, 1 run, dabs it gently with the spin into the off side for an easy single
+4161~1~END OF OVER:19 | 2 Runs | INDIA: 103/0 | RR: 5.42
+4161~1~
+4161~1~    KL Rahul38 (61b)
+4161~1~    Rohit Sharma62 (53b)
+4161~1~
+4161~1~    Imad Wasim6-0-26-0
+4161~1~    Shadab Khan4-0-28-0
+4161~1~
+4161~1~
+4161~1~19.2
+4161~1~0
+4161~1~Shadab Khan to Sharma, no run, drifts into middle, Rohit gets well forward and defends back
+4161~1~
+4161~1~19.3
+4161~1~0
+4161~1~Shadab Khan to Sharma, no run, looked to sweep, saw this drifting away, yorker length and he just about managed to squeeze it away to the off side
+4161~1~
+4161~1~19.4
+4161~1~1
+4161~1~Shadab Khan to Sharma, 1 run, eases this towards he man coming in from point for a quick single, should've never been a run there
+4161~1~
+4161~1~Awais Amin: "Same old same old Pak Vs India. Pakistan flat, under pressure and lack any kind of creativity to create anything difference." -- Hang on, we all live on hope.
+4161~1~
+4161~1~19.5
+4161~1~0
+4161~1~Shadab Khan to Rahul, no run, dabs to point again, looks for a single but Rohit sends him back. The understanding with the running hasn't been the best. Pakistan - look out for a run out
+4161~1~
+4161~1~19.6
+4161~1~0
+4161~1~Shadab Khan to Rahul, no run, plays the predetermined reverse sweep, hits this full toss straight to point. Rahul would believe he's missed out on a freebie.
+4161~1~
+4161~1~20.1
+4161~1~1
+4161~1~Imad Wasim to Sharma, 1 run, driven to long-on
+4161~1~END OF OVER:20 | 2 Runs | INDIA: 105/0 | RR: 5.25
+4161~1~
+4161~1~    KL Rahul39 (64b)
+4161~1~    Rohit Sharma63 (56b)
+4161~1~
+4161~1~    Shadab Khan5-0-30-0
+4161~1~    Imad Wasim6-0-26-0
+4161~1~
+4161~1~Right, India in control, much in line with their policy of steady accumulation before the end overs bang-bang. Time for change in commentary. Danyal's back into the hot seat
+4161~1~
+4161~1~20.2
+4161~1~1
+4161~1~Imad Wasim to Rahul, 1 run, short, cut away to sweeper cover. Just the one, though
+4161~1~
+4161~1~20.3
+4161~1~1
+4161~1~Imad Wasim to Sharma, 1 run, thick outside edge to short third man. The pair scamper one. Good running
+4161~1~
+4161~1~Right, Pakistan have pulled things back slightly. Just 26 runs in the last eight overs after that monster first over by Shadab. Can they follow it up with a wicket?
+4161~1~
+4161~1~20.4
+4161~1~1
+4161~1~Imad Wasim to Rahul, 1 run, flatter and fuller. Rahul needed to sort his feet out but still managed to get it away to the deep cover boundary
+4161~1~
+4161~1~20.5
+4161~1~1
+4161~1~Imad Wasim to Sharma, 1 run, beats the infielder and goes to long-on for one
+4161~1~
+4161~1~20.6
+4161~1~2
+4161~1~Imad Wasim to Rahul, 2 runs, fuller and glanced away to deep midwicket. Two more. Seven from the over
+4161~1~
+4161~1~21.1
+4161~1~1
+4161~1~Shoaib Malik to Sharma, 1 run, block and run from Rahul. Shoaib bowling around the wicket
+4161~1~
+4161~1~hadi: "Sarfraz is panicking! He cannot already bowl out Imad Wasim! Cmon bring in Professor. Danyal, you don't have a great record for Pakistan!" I think you might be panicking a bit there, Hadi.
+4161~1~
+4161~1~Shoaib Malik into the attack now
+4161~1~END OF OVER:21 | 7 Runs | INDIA: 112/0 | RR: 5.33
+4161~1~
+4161~1~    KL Rahul43 (67b)
+4161~1~    Rohit Sharma66 (59b)
+4161~1~
+4161~1~    Imad Wasim7-0-33-0
+4161~1~    Shadab Khan5-0-30-0
+4161~1~
+4161~1~
+4161~1~21.2
+4161~1~1
+4161~1~Shoaib Malik to Rahul, 1 run, short delivery, whipped away the onside. India content to rotate the strike for now
+4161~1~
+4161~1~21.3
+4161~1~1
+4161~1~Shoaib Malik to Sharma, 1 run, bit of turn. Tucked away for another run
+4161~1~
+4161~1~21.4
+4161~1~6
+4161~1~Shoaib Malik to Rahul, SIX runs, awful delivery that, and gets the treatment it deserves. Fifty for KL Rahul with a six! Long hop, and while the batsman didn't quite middle it, it had enough to go clear the midwicket boundary rope
+4161~1~
+4161~1~21.5
+4161~1~1
+4161~1~Shoaib Malik to Rahul, 1 run, swept, well cut off by fine leg
+4161~1~
+4161~1~21.6
+4161~1~1
+4161~1~Shoaib Malik to Sharma, 1 run, another easy single. Shoaib worrying India about as much as I would worry Anthony Joshua
+4161~1~
+4161~1~22.1
+4161~1~4
+4161~1~Mohammad Hafeez to Sharma, FOUR runs, Hafeez is greeted with a blast back over his head. Rohit dances to the pitch of the ball and deposits it to the straight boundary
+4161~1~
+4161~1~Madhu M Chawla: "What does the weather say presently? " Rain in a few hours. Should be clear for a little bit, though
+4161~1~END OF OVER:22 | 11 Runs | INDIA: 123/0 | RR: 5.59
+4161~1~
+4161~1~    Rohit Sharma69 (62b)
+4161~1~    KL Rahul51 (70b)
+4161~1~
+4161~1~    Shoaib Malik1-0-11-0
+4161~1~    Imad Wasim7-0-33-0
+4161~1~
+4161~1~
+4161~1~22.2
+4161~1~1
+4161~1~Mohammad Hafeez to Sharma, 1 run, helped to the offside, and another sharp single
+4161~1~
+4161~1~22.3
+4161~1~0
+4161~1~Mohammad Hafeez to Rahul, no run, Rahul comes down the wicket, but straight to the cover boundary
+4161~1~
+4161~1~22.4
+4161~1~0
+4161~1~Mohammad Hafeez to Rahul, no run, defended to short midwicket
+4161~1~
+4161~1~22.5
+4161~1~6
+4161~1~Mohammad Hafeez to Rahul, SIX runs, Wow, this is just magnificent! Rahul steps away to the onside, and caresses it over extra cover. Sails over the boundary. Gorgeous shotmaking
+4161~1~
+4161~1~22.6
+4161~1~0
+4161~1~Mohammad Hafeez to Rahul, no run, swept, but Shoaib at fine leg is alert to the danger
+4161~1~
+4161~1~23.1
+4161~1~1
+4161~1~Wahab Riaz to Sharma, 1 run, guided to third man, rotates the strike
+4161~1~
+4161~1~The Malik experiment lasted one over. Wahab back
+4161~1~END OF OVER:23 | 11 Runs | INDIA: 134/0 | RR: 5.82
+4161~1~
+4161~1~    KL Rahul57 (74b)
+4161~1~    Rohit Sharma74 (64b)
+4161~1~
+4161~1~    Mohammad Hafeez1-0-11-0
+4161~1~    Shoaib Malik1-0-11-0
+4161~1~
+4161~1~
+4161~1~23.2
+4161~1~1w
+4161~1~Wahab Riaz to Rahul, 1 wide, misdirected. Short ball but well down legside
+4161~1~
+4161~1~23.2
+4161~1~0
+4161~1~Wahab Riaz to Rahul, no run, looked to run it off the face of the bat, but instead the ball dropped dead
+4161~1~
+4161~1~DB: "Opener or No 4, Rahul has cemented his place in this Team for the rest of the WC. "
+4161~1~
+4161~1~23.3
+4161~1~0
+4161~1~Wahab Riaz to Rahul, no run, short, makes Rahul jump. Defended. And the umpire having words with Wahab. Is that an official warning for Wahab?
+4161~1~
+4161~1~23.4
+4161~1~0
+4161~1~Wahab Riaz to Rahul, no run, defended into the covers
+4161~1~
+4161~1~Second warning that was, and Wahab comes around the wicket
+4161~1~
+4161~1~23.5
+4161~1~W
+4161~1~Wahab Riaz to Rahul, OUT, gone, Pakistan finally break through. Pitched up to Rahul, and the batsman looked to play on the front foot, and guide it through the covers. Instead, it spooned up to Babar Azam for the most comfortable catch he'll ever take
+4161~1~
+4161~1~KL Rahul c Babar Azam b Wahab Riaz 57 (94m 78b 3x4 2x6) SR: 73.07
+4161~1~
+4161~1~23.6
+4161~1~0
+4161~1~Wahab Riaz to Kohli, no run, Poked at it outside the offstump
+4161~1~
+4161~1~Virat Kohli to come in, and you can already hear the deafening cheers from the Old Trafford crowd. Can Pakistan silence them?
+4161~1~
+4161~1~Ali Ayyaz: "So.. the bowlers have been bowling ok all world cup and today by some divine intervention they're getting warnings?" Pakistan, innit
+4161~1~
+4161~1~24.1
+4161~1~1w
+4161~1~Hasan Ali to Sharma, 1 wide, short and wide, Rohit attempts to cut but misses. And the umpire calls it a wide
+4161~1~
+4161~1~Hasan comes back
+4161~1~END OF OVER:24 | 2 Runs 1 Wkt | INDIA: 136/1 | RR: 5.66
+4161~1~
+4161~1~    Virat Kohli0 (1b)
+4161~1~    Rohit Sharma75 (65b)
+4161~1~
+4161~1~    Wahab Riaz3-0-16-1
+4161~1~    Mohammad Hafeez1-0-11-0
+4161~1~
+4161~1~
+4161~1~24.1
+4161~1~1
+4161~1~Hasan Ali to Sharma, 1 run, straighter, and guided down to third man
+4161~1~
+4161~1~24.2
+4161~1~1
+4161~1~Hasan Ali to Kohli, 1 run, Kohli's off the mark. Wasn't quite sure of whether to go front foot or back, but makes a crunching sound off the bat as it flies to the deep cover fielder
+4161~1~
+4161~1~24.3
+4161~1~4
+4161~1~Hasan Ali to Sharma, FOUR runs, seam movement for Hasan, and he's unlucky again. Rohit gets an inside edge even as he tried to work it to third man. It races to the fine leg boundary instead. Almost a carbon copy of what happened in the first Powerplay
+4161~1~
+4161~1~24.4
+4161~1~1
+4161~1~Hasan Ali to Sharma, 1 run, caressed to third man this time
+4161~1~
+4161~1~24.5
+4161~1~2
+4161~1~Hasan Ali to Kohli, 2 runs, short and Kohli pulls it. Doesn't get the timing right, but it's good enough for the pair to come back
+4161~1~
+4161~1~24.6
+4161~1~0
+4161~1~Hasan Ali to Kohli, no run, well bowled, at the stumps. Kohli defends
+4161~1~
+4161~1~25.1
+4161~1~0
+4161~1~Wahab Riaz to Sharma, no run, full and straight from Wahab, blocked by Rohit. Reckon this could be a crucial passage of play
+4161~1~END OF OVER:25 | 10 Runs | INDIA: 146/1 | RR: 5.84
+4161~1~
+4161~1~    Virat Kohli3 (4b)
+4161~1~    Rohit Sharma81 (68b)
+4161~1~
+4161~1~    Hasan Ali4-0-36-0
+4161~1~    Wahab Riaz3-0-16-1
+4161~1~
+4161~1~
+4161~1~25.2
+4161~1~2
+4161~1~Wahab Riaz to Sharma, 2 runs, full again, and Wahab isn't quite bowling to his field. Driven through the covers and the man in the deep cuts it off
+4161~1~
+4161~1~25.3
+4161~1~1
+4161~1~Wahab Riaz to Sharma, 1 run, shorter, worked away to third man
+4161~1~
+4161~1~25.4
+4161~1~1
+4161~1~Wahab Riaz to Kohli, 1 run, blocked, and Kohli darts away, urging Rohit to come through for a single
+4161~1~
+4161~1~25.5
+4161~1~1
+4161~1~Wahab Riaz to Sharma, 1 run, driven to deep extra cover
+4161~1~
+4161~1~25.6
+4161~1~0
+4161~1~Wahab Riaz to Kohli, no run, tails in and hits Kohli's pads. Too high for any real excitement, though
+4161~1~
+4161~1~26.1
+4161~1~0
+4161~1~Hasan Ali to Sharma, no run, just outside off, left alone
+4161~1~END OF OVER:26 | 5 Runs | INDIA: 151/1 | RR: 5.80
+4161~1~
+4161~1~    Virat Kohli4 (6b)
+4161~1~    Rohit Sharma85 (72b)
+4161~1~
+4161~1~    Wahab Riaz4-0-21-1
+4161~1~    Hasan Ali4-0-36-0
+4161~1~
+4161~1~
+4161~1~26.2
+4161~1~6
+4161~1~Hasan Ali to Sharma, SIX runs, ahhh, and that's Rohit at his sigh-inducing best! There was no risk taken there, and no real effort. Short and wide from Hasan, and Rohit just leans into the cut shot, with the ball flying into the stands
+4161~1~
+4161~1~26.3
+4161~1~0
+4161~1~Hasan Ali to Sharma, no run, good comeback, straighter, and blocked
+4161~1~
+4161~1~26.4
+4161~1~0
+4161~1~Hasan Ali to Sharma, no run, driven on the up to point
+4161~1~
+4161~1~Furqan : "The biggest disappointed in this WC for Pakistan has been Hassan ali, not anywhere near the bowler who was Man of the Tournament award at the CT19..!!!" I think very few Pakistan fans will disagree with that
+4161~1~
+4161~1~26.5
+4161~1~1
+4161~1~Hasan Ali to Sharma, 1 run, down leg side, and Rohit glances it to fine leg. Hasan struggling for any rhythm or consistency, and that's hurting the chap bowling at the other end
+4161~1~
+4161~1~26.6
+4161~1~2
+4161~1~Hasan Ali to Kohli, 2 runs, inside edge, and Kohli hares through for two. The deep fielder wasn't quite alert to Kohli's intentions, and they come back comfortably
+4161~1~
+4161~1~27.1
+4161~1~0
+4161~1~Wahab Riaz to Sharma, no run, full, defended to the onside
+4161~1~END OF OVER:27 | 9 Runs | INDIA: 160/1 | RR: 5.92
+4161~1~
+4161~1~    Virat Kohli6 (7b)
+4161~1~    Rohit Sharma92 (77b)
+4161~1~
+4161~1~    Hasan Ali5-0-45-0
+4161~1~    Wahab Riaz4-0-21-1
+4161~1~
+4161~1~
+4161~1~27.2
+4161~1~1
+4161~1~Wahab Riaz to Sharma, 1 run, short but down legside, and Rohit pulls it off one leg to the fine leg boundary. Will be disappointed to have found the fielder
+4161~1~
+4161~1~27.3
+4161~1~0
+4161~1~Wahab Riaz to Kohli, no run, defended
+4161~1~
+4161~1~27.4
+4161~1~0
+4161~1~Wahab Riaz to Kohli, no run, sharply rising bouncer. The extra yard of pace took Kohli by surprise. Hits him on the gloves
+4161~1~
+4161~1~Surath: "RS seems like he will do it again! An ODI double ton!! " In a Pak-India game? That might become the most famous innings of all time
+4161~1~
+4161~1~27.5
+4161~1~1
+4161~1~Wahab Riaz to Kohli, 1 run, angled away to third man
+4161~1~
+4161~1~27.6
+4161~1~1w
+4161~1~Wahab Riaz to Sharma, 1 wide, wided down the offside. Slower ball from Wahab that's horribly misdirected
+4161~1~
+4161~1~27.6
+4161~1~1
+4161~1~Wahab Riaz to Sharma, 1 run, guided to backward point
+4161~1~
+4161~1~28.1
+4161~1~1
+4161~1~Mohammad Amir to Sharma, 1 run, Amir starts off a tad too straight, and Rohit turns the strike over. Amir to Kohli now
+4161~1~
+4161~1~Once more, if you want to watch the game on Hotstar and are in India or the US, you're sorted.
+4161~1~
+4161~1~To watch the match live on Hotstar, readers in India click here and readers in the US click here.
+4161~1~END OF OVER:28 | 4 Runs | INDIA: 164/1 | RR: 5.85
+4161~1~
+4161~1~    Rohit Sharma94 (80b)
+4161~1~    Virat Kohli7 (10b)
+4161~1~
+4161~1~    Wahab Riaz5-0-25-1
+4161~1~    Hasan Ali5-0-45-0
+4161~1~
+4161~1~
+4161~1~28.2
+4161~1~0
+4161~1~Mohammad Amir to Kohli, no run, shorter, and Kohli defends to the offside
+4161~1~
+4161~1~28.3
+4161~1~0
+4161~1~Mohammad Amir to Kohli, no run, Kohli tried to jab at that one. Angled away from the right-hander and very nearly caught the outside dge
+4161~1~
+4161~1~28.4
+4161~1~0
+4161~1~Mohammad Amir to Kohli, no run, driven to short cover
+4161~1~
+4161~1~28.5
+4161~1~0
+4161~1~Mohammad Amir to Kohli, no run, Amir keeping a tight line. He's the only one keeping India reined in at the moment
+4161~1~
+4161~1~28.6
+4161~1~0
+4161~1~Mohammad Amir to Kohli, no run, wider this time, and left alone. Just one of the over
+4161~1~
+4161~1~29.1
+4161~1~1
+4161~1~Shadab Khan to Sharma, 1 run, driven to deep cover, and Rohit moves to 96
+4161~1~
+4161~1~Nayer: "Pak is doing the same mistake with selection, which is depending on the far past performances. Hassan Ali is not taking wickets for long now and he is giving away runs as well. Afridi should've been in the team instead of him. Wickets matters" to be fair, Afridi struggled in the previous game. And even Amir was brought in on past performances. Just so hard to say much about Pakistan
+4161~1~END OF OVER:29 | 1 Run | INDIA: 165/1 | RR: 5.68
+4161~1~
+4161~1~    Virat Kohli7 (15b)
+4161~1~    Rohit Sharma95 (81b)
+4161~1~
+4161~1~    Mohammad Amir5-1-9-0
+4161~1~    Wahab Riaz5-0-25-1
+4161~1~
+4161~1~
+4161~1~29.2
+4161~1~1
+4161~1~Shadab Khan to Kohli, 1 run, hangs back and drives to long-on
+4161~1~
+4161~1~29.3
+4161~1~1
+4161~1~Shadab Khan to Sharma, 1 run, straighter and quicker, but Rohit gets it away to the offside. Three away now
+4161~1~
+4161~1~29.4
+4161~1~1
+4161~1~Shadab Khan to Kohli, 1 run, driven on the full to long-off
+4161~1~
+4161~1~29.5
+4161~1~2
+4161~1~Shadab Khan to Sharma, 2 runs, guided to deep extra cover. Imam cuts it off, but Rohit reaches 99
+4161~1~
+4161~1~29.6
+4161~1~1
+4161~1~Shadab Khan to Sharma, 1 run, and that's his hundred! Comes in 85 balls. Magnificent innings, and could be a match-winning one for India. The crowd erupt for his 24th ODI hundred.
+4161~1~
+4161~1~30.1
+4161~1~1
+4161~1~Mohammad Amir to Sharma, 1 run, dabs this down to third man
+4161~1~
+4161~1~Thanks, Danyal. Rohit marches on
+4161~1~END OF OVER:30 | 7 Runs | INDIA: 172/1 | RR: 5.73
+4161~1~
+4161~1~    Rohit Sharma100 (85b)
+4161~1~    Virat Kohli9 (17b)
+4161~1~
+4161~1~    Shadab Khan6-0-37-0
+4161~1~    Mohammad Amir5-1-9-0
+4161~1~
+4161~1~
+4161~1~30.2
+4161~1~4
+4161~1~Mohammad Amir to Kohli, FOUR runs, magical! Length ball angling away, Kohli plants forward and punches this on the up between cover and mid-off. Gorgeous!
+4161~1~
+4161~1~30.3
+4161~1~0
+4161~1~Mohammad Amir to Kohli, no run, once again uses the angle to dab this down to the point region
+4161~1~
+4161~1~30.4
+4161~1~1
+4161~1~Mohammad Amir to Kohli, 1 run, runs this down to third man
+4161~1~
+4161~1~30.5
+4161~1~1
+4161~1~Mohammad Amir to Sharma, 1 run, once again steers this down to square third man
+4161~1~
+4161~1~Jibran T. Siddi: "Pakistan short of options right now. They left behind their highest ODI wicket-taker of last one year Usman Shinwari and picked young Hasnain. Now they aren't playing Hasnain because of little experience and the slot is totally wasted."
+4161~1~
+4161~1~30.6
+4161~1~2
+4161~1~Mohammad Amir to Kohli, 2 runs, looks like it'd get big on him but he still managed to pull him in front of square towards deep midwicket
+4161~1~
+4161~1~31.1
+4161~1~1
+4161~1~Shadab Khan to Sharma, 1 run, works this down to long-on as they jog the single
+4161~1~END OF OVER:31 | 9 Runs | INDIA: 181/1 | RR: 5.83
+4161~1~
+4161~1~    Virat Kohli16 (21b)
+4161~1~    Rohit Sharma102 (87b)
+4161~1~
+4161~1~    Mohammad Amir6-1-18-0
+4161~1~    Shadab Khan6-0-37-0
+4161~1~
+4161~1~
+4161~1~31.2
+4161~1~1
+4161~1~Shadab Khan to Kohli, 1 run, driven firmly to long-off
+4161~1~
+4161~1~31.3
+4161~1~1
+4161~1~Shadab Khan to Sharma, 1 run, cuts, a misfield at backward point allows a single. This was wide, Rohit had to reach out to play this
+4161~1~
+4161~1~31.4
+4161~1~0
+4161~1~Shadab Khan to Kohli, no run, gets well forward, just outside the line of off as he defends back
+4161~1~
+4161~1~31.5
+4161~1~2
+4161~1~Shadab Khan to Kohli, 2 runs, drills this with the spin to wide long-off, the 50-stand is up at a run-a-ball
+4161~1~
+4161~1~31.6
+4161~1~1
+4161~1~Shadab Khan to Kohli, 1 run, eased with the spin to deep cover, risk-free stuff.
+4161~1~
+4161~1~32.1
+4161~1~0
+4161~1~Imad Wasim to Kohli, no run, looks to play a late little cut past the keeper, chops it onto the keeper's pad as it rolls to the off side instead
+4161~1~END OF OVER:32 | 6 Runs | INDIA: 187/1 | RR: 5.84
+4161~1~
+4161~1~    Virat Kohli20 (25b)
+4161~1~    Rohit Sharma104 (89b)
+4161~1~
+4161~1~    Shadab Khan7-0-43-0
+4161~1~    Mohammad Amir6-1-18-0
+4161~1~
+4161~1~
+4161~1~32.2
+4161~1~1
+4161~1~Imad Wasim to Kohli, 1 run, punched down to long-on
+4161~1~
+4161~1~32.3
+4161~1~0
+4161~1~Imad Wasim to Sharma, no run, chipped but this lands short of cover, this one gripped on the surface a hint
+4161~1~
+4161~1~32.4
+4161~1~1
+4161~1~Imad Wasim to Sharma, 1 run, punched into the gap at cover for an easy single
+4161~1~
+4161~1~32.5
+4161~1~1
+4161~1~Imad Wasim to Kohli, 1 run, whips this against the turn to long-on
+4161~1~
+4161~1~32.6
+4161~1~1
+4161~1~Imad Wasim to Sharma, 1 run, skids one through on a length, milks this down to long-on again
+4161~1~
+4161~1~33.1
+4161~1~0
+4161~1~Shadab Khan to Sharma, no run, skips out, the bowler shortens his length, and Rohit smears this to point
+4161~1~END OF OVER:33 | 4 Runs | INDIA: 191/1 | RR: 5.78
+4161~1~
+4161~1~    Rohit Sharma106 (92b)
+4161~1~    Virat Kohli22 (28b)
+4161~1~
+4161~1~    Imad Wasim8-0-37-0
+4161~1~    Shadab Khan7-0-43-0
+4161~1~
+4161~1~
+4161~1~33.2
+4161~1~1
+4161~1~Shadab Khan to Sharma, 1 run, chops this cut to short third man, not where he intended
+4161~1~
+4161~1~33.3
+4161~1~1
+4161~1~Shadab Khan to Kohli, 1 run, pushed into the gap at extra cover
+4161~1~
+4161~1~33.4
+4161~1~0
+4161~1~Shadab Khan to Sharma, no run, sharp turn from outside off, Rohit lets it go. Extra bounce too
+4161~1~
+4161~1~Wonder at what point will these two feel the need to shift gears. Steady consolidation for the moment
+4161~1~
+4161~1~33.5
+4161~1~4
+4161~1~Shadab Khan to Sharma, FOUR runs, tracer bullet stuff! Fetches this sweep from outside off, gets on top of the bounce and hits it in front of square. Terrific
+4161~1~
+4161~1~33.6
+4161~1~2
+4161~1~Shadab Khan to Sharma, 2 runs, works this into the gap between wide long-on and deep midwicket, they stroll for the second.
+4161~1~
+4161~1~34.1
+4161~1~0
+4161~1~Imad Wasim to Kohli, no run, gets well forward and defends
+4161~1~END OF OVER:34 | 8 Runs | INDIA: 199/1 | RR: 5.85
+4161~1~
+4161~1~    Rohit Sharma113 (97b)
+4161~1~    Virat Kohli23 (29b)
+4161~1~
+4161~1~    Shadab Khan8-0-51-0
+4161~1~    Imad Wasim8-0-37-0
+4161~1~
+4161~1~Highlights of Rahul's innings for readers in India. Courtesy Hotstar.
+4161~1~
+4161~1~34.2
+4161~1~1
+4161~1~Imad Wasim to Kohli, 1 run, drilled inside-out, cover fielder got a finger on it, parries it to long-off. The 200 is up for India
+4161~1~
+4161~1~34.3
+4161~1~2
+4161~1~Imad Wasim to Sharma, 2 runs, drifting into middle and leg, punched into the gap at deep midwicket
+4161~1~
+4161~1~34.4
+4161~1~0
+4161~1~Imad Wasim to Sharma, no run, lunges forward and eases this back to the bowler
+4161~1~
+4161~1~Adeel: "I can sense Pandya at No. 4 again. Platform set for his fireworks "
+4161~1~
+4161~1~34.5
+4161~1~4
+4161~1~Imad Wasim to Sharma, FOUR runs, edged, past the keeper, between him and short third man. Races away. A slip would've gobbled that up. But you really can't be that brave to have a man there when the scorecard reads 200 for 1, can you?
+4161~1~
+4161~1~34.6
+4161~1~0
+4161~1~Imad Wasim to Sharma, no run, eases this back to the bowler
+4161~1~
+4161~1~35.1
+4161~1~1
+4161~1~Wahab Riaz to Kohli, 1 run, hurries Kohli with a short ball, he's rapped on the glove trying to play a short-arm jab
+4161~1~
+4161~1~Wahab from around the stumps
+4161~1~END OF OVER:35 | 7 Runs | INDIA: 206/1 | RR: 5.88
+4161~1~
+4161~1~    Rohit Sharma119 (101b)
+4161~1~    Virat Kohli24 (31b)
+4161~1~
+4161~1~    Imad Wasim9-0-44-0
+4161~1~    Shadab Khan8-0-51-0
+4161~1~
+4161~1~
+4161~1~35.2
+4161~1~0
+4161~1~Wahab Riaz to Sharma, no run, punched to point, good stop by Shadab. Diving away to his right
+4161~1~
+4161~1~Shadman asks: "Who can sense a kohli century from here?"
+4161~1~
+4161~1~35.3
+4161~1~4
+4161~1~Wahab Riaz to Sharma, FOUR runs, slashed up and over point. Too much width, easy pickings. Rohit is seeing them big.
+4161~1~
+4161~1~35.4
+4161~1~2
+4161~1~Wahab Riaz to Sharma, 2 runs, angling into middle and leg on a length, whips this into the gap between deep midwicket and wide long-on
+4161~1~
+4161~1~35.5
+4161~1~1
+4161~1~Wahab Riaz to Sharma, 1 run, steered down to third man
+4161~1~
+4161~1~35.6
+4161~1~1
+4161~1~Wahab Riaz to Kohli, 1 run, slips this down leg, tickled down to fine leg
+4161~1~
+4161~1~Shadman, I am sensing a Rohit double hundred."
+4161~1~
+4161~1~36.1
+4161~1~0
+4161~1~Imad Wasim to Kohli, no run, hint of turn off a length, Kohli steers to short third man, was looking to play it wide of point
+4161~1~
+4161~1~NV says: "Pakistan pulled back things very well against Australia, but unlike Aus, India don't look to accelerate too early and don't just depend on Hardik (like they do on Maxwell) for power-hitting."
+4161~1~END OF OVER:36 | 9 Runs | INDIA: 215/1 | RR: 5.97
+4161~1~
+4161~1~    Virat Kohli26 (33b)
+4161~1~    Rohit Sharma126 (105b)
+4161~1~
+4161~1~    Wahab Riaz6-0-34-1
+4161~1~    Imad Wasim9-0-44-0
+4161~1~
+4161~1~Sudhir : "
+4161~1~36.2
+4161~1~1
+4161~1~Imad Wasim to Kohli, 1 run, whips this down to long-on
+4161~1~
+4161~1~36.3
+4161~1~1
+4161~1~Imad Wasim to Sharma, 1 run, eased wide of point
+4161~1~
+4161~1~Alex Franklin : "The difference in Indian batting is that, the acceleration is organic and urgent. But not necessarily slogging. That's why they are consistent"
+4161~1~
+4161~1~36.4
+4161~1~1
+4161~1~Imad Wasim to Kohli, 1 run, driven past the diving cover fielder, down to wide long-off
+4161~1~
+4161~1~36.5
+4161~1~1
+4161~1~Imad Wasim to Sharma, 1 run, steps out and drives inside-out to long-off. Didn't quite get to the pitch
+4161~1~
+4161~1~36.6
+4161~1~1
+4161~1~Imad Wasim to Kohli, 1 run, wrists this down to long-on
+4161~1~
+4161~1~37.1
+4161~1~1
+4161~1~Wahab Riaz to Kohli, 1 run, dabs it down to third man
+4161~1~END OF OVER:37 | 5 Runs | INDIA: 220/1 | RR: 5.94
+4161~1~
+4161~1~    Virat Kohli29 (37b)
+4161~1~    Rohit Sharma128 (107b)
+4161~1~
+4161~1~    Imad Wasim10-0-49-0
+4161~1~    Wahab Riaz6-0-34-1
+4161~1~
+4161~1~
+4161~1~37.2
+4161~1~4
+4161~1~Wahab Riaz to Sharma, FOUR runs, helped along to the deep backward square leg. Short, angling in and it appeared as if Rohit was hustled for pace but he plays the Kapil Dev-like Natraja shot as he swivels and plays it with the angle. Sensational
+4161~1~
+4161~1~Ed: "If I was an Indian fan I'd be wanting them to get on with it a bit.. 15 overs left and only 1 down" -- Let's now make that 13. Yup, need to step on.
+4161~1~
+4161~1~37.3
+4161~1~1
+4161~1~Wahab Riaz to Sharma, 1 run, another short ball angling in, helped along to fine leg. One bounce to the fielder
+4161~1~
+4161~1~ESPNcricinfo Forecaster predicts India to get 333. At the start of over 37
+4161~1~
+4161~1~37.4
+4161~1~1lb
+4161~1~Wahab Riaz to Kohli, 1 leg bye, tucks this off his hip to deep square leg
+4161~1~
+4161~1~37.5
+4161~1~2
+4161~1~Wahab Riaz to Sharma, 2 runs, width and he's crashed this behind point, down to Hasan Ali who comes up with a sliding stop at square third man
+4161~1~
+4161~1~37.6
+4161~1~1
+4161~1~Wahab Riaz to Sharma, 1 run, full and straight ball angling in, punched down to mid-on
+4161~1~
+4161~1~38.1
+4161~1~4
+4161~1~Hasan Ali to Sharma, FOUR runs, that's a Rohti special! A pull in front of square. Not quite timed off the middle but this trickles away
+4161~1~END OF OVER:38 | 10 Runs | INDIA: 230/1 | RR: 6.05
+4161~1~
+4161~1~    Rohit Sharma136 (111b)
+4161~1~    Virat Kohli30 (39b)
+4161~1~
+4161~1~    Wahab Riaz7-0-43-1
+4161~1~    Imad Wasim10-0-49-0
+4161~1~
+4161~1~
+4161~1~38.2
+4161~1~W
+4161~1~Hasan Ali to Sharma, OUT, scooped straight to short fine leg. Didn't have the pace to work with. Hasan shortened his length, rolled his fingers over the seam. Good execution. I think Rohit almost forgot there's a fielder there, he's absolutely livid with himself. End of a top knock, got to say a double century was there on a platter and he's missed out.
+4161~1~
+4161~1~RG Sharma c Wahab Riaz b Hasan Ali 140 (153m 113b 14x4 3x6) SR: 123.89
+4161~1~
+4161~1~38.3
+4161~1~0
+4161~1~Hasan Ali to Pandya, no run, skiddy length ball on middle, defended back
+4161~1~
+4161~1~That fielder was brought in at short fine just before this delivery.
+4161~1~
+4161~1~Hardik at No. 4
+4161~1~
+4161~1~38.4
+4161~1~2
+4161~1~Hasan Ali to Pandya, 2 runs, cut sway, excellent work in the deep to keep it down to a couple. Fakhar with the sprint and the dive at deep point
+4161~1~
+4161~1~38.5
+4161~1~2
+4161~1~Hasan Ali to Pandya, 2 runs, whips this into the gap at midwicket, excellent running. Called two the moment he hit this
+4161~1~
+4161~1~Some football news if you're bored of the cricket. Things don't seem to be going so well down at the 'other' Old Trafford, with Manchester United midfielder Paul Pogba suggesting he wants a new challenge and is open to a move away from Premier League.
+4161~1~
+4161~1~38.6
+4161~1~0
+4161~1~Hasan Ali to Pandya, no run, skiddy short of length delivery, Hardik looking to slash this over point but misses. Lucky not to get an edge.
+4161~1~
+4161~1~39.1
+4161~1~4
+4161~1~Shadab Khan to Kohli, FOUR runs, too short and hammered! Picked the length early, opened up the leg side and muscled this away over the infield
+4161~1~END OF OVER:39 | 8 Runs 1 Wkt | INDIA: 238/2 | RR: 6.10
+4161~1~
+4161~1~    Hardik Pandya4 (4b)
+4161~1~    Virat Kohli30 (39b)
+4161~1~
+4161~1~    Hasan Ali6-0-53-1
+4161~1~    Wahab Riaz7-0-43-1
+4161~1~
+4161~1~
+4161~1~39.2
+4161~1~2
+4161~1~Shadab Khan to Kohli, 2 runs, cut away to deep point, a fumble there and they take the second. Imam the man there.
+4161~1~
+4161~1~39.3
+4161~1~1
+4161~1~Shadab Khan to Kohli, 1 run, delicate little dab to short third man
+4161~1~
+4161~1~39.4
+4161~1~0
+4161~1~Shadab Khan to Pandya, no run, beauty! Sharp turn that beats Hardik's push
+4161~1~
+4161~1~39.5
+4161~1~1
+4161~1~Shadab Khan to Pandya, 1 run, eased with the spin to long-off
+4161~1~
+4161~1~39.6
+4161~1~2
+4161~1~Shadab Khan to Kohli, 2 runs, a misfield allows India to come back for two
+4161~1~
+4161~1~40.1
+4161~1~1
+4161~1~Hasan Ali to Pandya, 1 run, full delivery, tailing in. Kohli digs it out and drives to long-on
+4161~1~
+4161~1~Speaking of coming back, here's Danyal
+4161~1~END OF OVER:40 | 10 Runs | INDIA: 248/2 | RR: 6.20
+4161~1~
+4161~1~    Virat Kohli39 (43b)
+4161~1~    Hardik Pandya5 (6b)
+4161~1~
+4161~1~    Shadab Khan9-0-61-0
+4161~1~    Hasan Ali6-0-53-1
+4161~1~
+4161~1~
+4161~1~40.2
+4161~1~1
+4161~1~Hasan Ali to Kohli, 1 run, yorker length, flicked to fine leg. Interesting to see if Hasan sticks with this line throughout the over
+4161~1~
+4161~1~40.3
+4161~1~0
+4161~1~Hasan Ali to Pandya, no run, slower delivery, gets the edge, but the lack of pace means it doesn't carry to Sarfaraz. Pandya got lucky there
+4161~1~
+4161~1~40.4
+4161~1~1
+4161~1~Hasan Ali to Pandya, 1 run, full. Pandya helicopters it to fine leg. If that shot begins to fire, watch out Pakistan
+4161~1~
+4161~1~40.5
+4161~1~1
+4161~1~Hasan Ali to Kohli, 1 run, full once more, and the pair swap ends
+4161~1~
+4161~1~40.6
+4161~1~2
+4161~1~Hasan Ali to Pandya, 2 runs, slower ball, jabbed into the onside. The lack of pace on the ball allows the pair to scuttle through for two, and let's face it, Pakistan's fielders aren't gonna stop them
+4161~1~
+4161~1~41.1
+4161~1~4
+4161~1~Wahab Riaz to Kohli, FOUR runs, lovely pick-up, is that the shot of the day? Hung back, and the fuller ball was there to drive on the up. Leans into it on the front foot, and lofts over mid-on. Don't bother running
+4161~1~
+4161~1~Hus Silverado: "India are playing here with the same pattern as against Australia in the last match and are looking good for a 350+ score..Just hoping that Kohli accelerates better this time and gets his Hundred No.42 !!!" India seem to have a formula they follow very well
+4161~1~END OF OVER:41 | 6 Runs | INDIA: 254/2 | RR: 6.19
+4161~1~
+4161~1~    Hardik Pandya9 (10b)
+4161~1~    Virat Kohli41 (45b)
+4161~1~
+4161~1~    Hasan Ali7-0-59-1
+4161~1~    Shadab Khan9-0-61-0
+4161~1~
+4161~1~
+4161~1~41.2
+4161~1~1
+4161~1~Wahab Riaz to Kohli, 1 run, eased to third man
+4161~1~
+4161~1~41.3
+4161~1~0
+4161~1~Wahab Riaz to Pandya, no run, flatbatted that short delivery down the ground. Mid-off cuts it off. That was fast from Wahab
+4161~1~
+4161~1~41.4
+4161~1~1
+4161~1~Wahab Riaz to Pandya, 1 run, yorker length, dug out by Pandya and the strike is turned over
+4161~1~
+4161~1~RajeshAro: "Friend staying 8 mins drive from old trafford says its raining in this place. hope its not moving."
+4161~1~
+4161~1~41.5
+4161~1~0
+4161~1~Wahab Riaz to Kohli, no run, straighter and Kohli can only guide it back to Wahab. Excellent over from Wahab so far
+4161~1~
+4161~1~41.6
+4161~1~1
+4161~1~Wahab Riaz to Kohli, 1 run, excellent over in the circumstances. Short ball that Kohli works to the onside for one
+4161~1~
+4161~1~42.1
+4161~1~1
+4161~1~Hasan Ali to Kohli, 1 run, slower ball, Kohli turns the strike over to Pandya. Can he pick up the pace now?
+4161~1~
+4161~1~Hasan Ali is back into the attack. Rohit Sharma wicket aside, it's been a difficult day for him.
+4161~1~
+4161~1~Maddy: "Pandya is a little confused here. He is trying to set his innings while he has been sent ahead of others to be a ruthless hitter. "
+4161~1~END OF OVER:42 | 7 Runs | INDIA: 261/2 | RR: 6.21
+4161~1~
+4161~1~    Virat Kohli47 (49b)
+4161~1~    Hardik Pandya10 (12b)
+4161~1~
+4161~1~    Wahab Riaz8-0-50-1
+4161~1~    Hasan Ali7-0-59-1
+4161~1~
+4161~1~
+4161~1~42.2
+4161~1~6
+4161~1~Hasan Ali to Pandya, SIX runs, what was that? A slower ball from Hasan that beat Pandya all ends up. It takes his top edge and flies through over the keeper, all the way!
+4161~1~
+4161~1~42.3
+4161~1~0
+4161~1~Hasan Ali to Pandya, no run, deceived again by the slower ball, beaten completely. Excellent stuff from Hasan. He has been a little unlucky today on a number of occasions
+4161~1~
+4161~1~42.4
+4161~1~4
+4161~1~Hasan Ali to Pandya, FOUR runs, and just as I say that, he sends down absolute filth. Rubbish line, way down legside, and a full toss. You don't need to be Pandya to whip that to fine leg for four, but that;s what he did
+4161~1~
+4161~1~42.5
+4161~1~0
+4161~1~Hasan Ali to Pandya, no run, and he's back to the good stuff from Hasan. Tight line, and it's too close for the cut that Pandya's attempting. 11 off the over but it hasn't been too bad from the poor bowler
+4161~1~
+4161~1~42.6
+4161~1~2
+4161~1~Hasan Ali to Pandya, 2 runs, slower ball, guided down to cow corner from Pandya. The pair run two once more. 13 from that over, which rather neatly encapsulates how unlucky Hasan has been there
+4161~1~
+4161~1~43.1
+4161~1~2
+4161~1~Mohammad Amir to Kohli, 2 runs, slower ball to start off, Kohli flicks it and absolutely dashes back for two. The throw is a little too inaccurate, and that gives the Indian captain his second consecutive half century
+4161~1~
+4161~1~Mohammad Amir is back into the attack, with four overs to go. He should bowl through now
+4161~1~END OF OVER:43 | 13 Runs | INDIA: 274/2 | RR: 6.37
+4161~1~
+4161~1~    Hardik Pandya22 (17b)
+4161~1~    Virat Kohli48 (50b)
+4161~1~
+4161~1~    Hasan Ali8-0-72-1
+4161~1~    Wahab Riaz8-0-50-1
+4161~1~
+4161~1~
+4161~1~43.2
+4161~1~4
+4161~1~Mohammad Amir to Kohli, FOUR runs, slapped own the ground, and beats the man at mid-off. The time to be cautious against Amir is over, it would appear
+4161~1~
+4161~1~43.3
+4161~1~1
+4161~1~Mohammad Amir to Kohli, 1 run, slow and wide, Kohli went reaching for it and they take one
+4161~1~
+4161~1~43.4
+4161~1~4
+4161~1~Mohammad Amir to Pandya, FOUR runs, pulverised by Pandya! Slower ball, and the batsman steps into position and absolutely bludgeons this through cover. No chance for any of the fielders, and this is dangerous for Pakistan now
+4161~1~
+4161~1~43.5
+4161~1~W
+4161~1~Mohammad Amir to Pandya, OUT, and gone! Stunned silence from three fourths of the crowd. Helicopter shot from Pandya again, and it found the middle of his bat, but just didn't quite have the power to clear Babar Azam at long-on. Massive breakthrough for Pakistan
+4161~1~
+4161~1~HH Pandya c Babar Azam b Mohammad Amir 26 (24m 19b 2x4 1x6) SR: 136.84
+4161~1~
+4161~1~43.6
+4161~1~1
+4161~1~Mohammad Amir to Kohli, 1 run, slower ball and Kohli keeps the strike. He moves to 10,999 runs in ODI cricket
+4161~1~
+4161~1~44.1
+4161~1~0
+4161~1~Hasan Ali to Kohli, no run, driven to extra cover, rare dot ball for Pakistan
+4161~1~
+4161~1~MS Dhoni came in to accompany Kohli, by the way
+4161~1~END OF OVER:44 | 12 Runs 1 Wkt | INDIA: 286/3 | RR: 6.50
+4161~1~
+4161~1~    Virat Kohli56 (54b)
+4161~1~    MS Dhoni0 (0b)
+4161~1~
+4161~1~    Mohammad Amir7-1-30-1
+4161~1~    Hasan Ali8-0-72-1
+4161~1~
+4161~1~
+4161~1~44.2
+4161~1~4
+4161~1~Hasan Ali to Kohli, FOUR runs, and Hasan misses his line again. Down legside, and all the batsman has to do is tickle it to fine leg. Gets to 11,000 runs, and the quickest to do so by far. By 54 innings, to be precise
+4161~1~
+4161~1~44.3
+4161~1~4
+4161~1~Hasan Ali to Kohli, FOUR runs, another ball that's tossed down legside. There was swing there, but down the wrong line, it's useless. Another easy flick to the fine leg boundary
+4161~1~
+4161~1~44.4
+4161~1~2
+4161~1~Hasan Ali to Kohli, 2 runs, slow waist height delivery, Kohli smacks it to midwicket, where a diving Imam prevents another four
+4161~1~
+4161~1~44.5
+4161~1~1
+4161~1~Hasan Ali to Kohli, 1 run, tap and run. Risk-free 11 runs off the over already, with a ball to go
+4161~1~
+4161~1~44.6
+4161~1~1
+4161~1~Hasan Ali to Dhoni, 1 run, extra bounce, a thick outside edge to third man
+4161~1~
+4161~1~45.1
+4161~1~W
+4161~1~Mohammad Amir to Dhoni, OUT, Dhoni is gone, Amir strikes! The former Indian captain looked to heave at one that was full and wide, and another thick edge goes through to Sarfaraz
+4161~1~
+4161~1~MS Dhoni c Sarfaraz Ahmed(wk) b Mohammad Amir 1 (8m 2b 0x4 0x6) SR: 50.00
+4161~1~
+4161~1~Vishal Narine: "Congrats to a batting genius on reaching 11000 runs milestone and the fastest. Big fan of you King Kohli - fan from Guyana " Runs all over the world, fans all over the world
+4161~1~END OF OVER:45 | 12 Runs | INDIA: 298/3 | RR: 6.62
+4161~1~
+4161~1~    MS Dhoni1 (1b)
+4161~1~    Virat Kohli67 (59b)
+4161~1~
+4161~1~    Hasan Ali9-0-84-1
+4161~1~    Mohammad Amir7-1-30-1
+4161~1~
+4161~1~
+4161~1~45.2
+4161~1~0
+4161~1~Mohammad Amir to Shankar, no run, good delivery to Shankar first up. Pace and wide from Amir. Pakistan will try and keep him on strike
+4161~1~
+4161~1~Ravish: "Dhoni may once again denies Kohli a ton" Not anymore he won't
+4161~1~
+4161~1~45.3
+4161~1~1
+4161~1~Mohammad Amir to Shankar, 1 run, slower ball, and Shankar dabs it to third man. Good result for India
+4161~1~
+4161~1~45.4
+4161~1~2
+4161~1~Mohammad Amir to Kohli, 2 runs, doesn't quite time this, but gives him the opportunity to power through for another two. He has not once been denied by the Pakistan fielders once he's made his mind up.
+4161~1~
+4161~1~Haider: "The difference between CT and WC performance for Pakistan is Hassan Ali. Lack of middle overs strikes."
+4161~1~
+4161~1~45.5
+4161~1~1
+4161~1~Mohammad Amir to Kohli, 1 run, easy single to the onside. Four off the over and a wicket so far
+4161~1~
+4161~1~45.6
+4161~1~0
+4161~1~Mohammad Amir to Shankar, no run, good fielding at point. It has begun to drizzle.
+4161~1~
+4161~1~46.1
+4161~1~1
+4161~1~Wahab Riaz to Kohli, 1 run, spooned over point, there was a bit of excitement from the fielder, but no chance in truth
+4161~1~
+4161~1~Right, so will the rain curtail India's innings. Pakistan have just got a bit of momentum going. Wahab into the attack
+4161~1~END OF OVER:46 | 4 Runs 1 Wkt | INDIA: 302/4 | RR: 6.56
+4161~1~
+4161~1~    Vijay Shankar1 (3b)
+4161~1~    Virat Kohli70 (61b)
+4161~1~
+4161~1~    Mohammad Amir8-1-34-2
+4161~1~    Hasan Ali9-0-84-1
+4161~1~
+4161~1~
+4161~1~46.2
+4161~1~0
+4161~1~Wahab Riaz to Shankar, no run, straight and quick, and driven to the fielder
+4161~1~
+4161~1~46.3
+4161~1~2
+4161~1~Wahab Riaz to Shankar, 2 runs, worked away to the onside, and they come back for two
+4161~1~
+4161~1~46.4
+4161~1~0
+4161~1~Wahab Riaz to Shankar, no run, and he's gone, is he? Full and wide, and Shankar edges it to Sarfaraz. A big appeal, and the umpire rules it out. Reviewed immediately. The review shows a clear gap between bat and ball. Decision overturned
+4161~1~
+4161~1~Saad: "High pressure game for Shankar. You may argue India should have used DK for that extra experience."
+4161~1~
+4161~1~46.5
+4161~1~1
+4161~1~Wahab Riaz to Shankar, 1 run, scooped up into the covers, and Shankar gets Kohli on strike for the final ball of the 47th
+4161~1~
+4161~1~Right, we're moments away from a resumption. Welcome back, folks
+4161~1~
+4161~1~Saurav, a Manchester local, with a dire message: "Rain started in Cheadle again (we get weather first, then it moves to Old Trafford which is just a few miles away)" -- Anyway, the players are walking out and Danyal is back to see off this innings.
+4161~1~
+4161~1~Shankar (not Vijay) says: "Would be interesting to see how this break in play will pan out -- refreshed legs going in full blast or taking away the momentum from the intensity that was built up for the last 5 overs."
+4161~1~
+4161~1~2.30pm The hover cover is coming off. We aren't far from a resumption. The umpires are checking a few patches inside the 30-yard circle. The stumps have been put in too. Full game. On. Start at 2.40pm. Mid-innings break of 15 minutes. No overs lost.
+4161~1~
+4161~1~More reading, fun reading. We asked a selection of former cricketers, writers and senior journalists to pick their favourites from the opposition camp. You may or may not come out surprised.
+4161~1~
+4161~1~A lot of you asking about revised targets, this is an excellent primer on how the DLS method works. Answers most of your questions.
+4161~1~
+4161~1~Here's a clip of Kohli's innings for readers in India, from Hotstar. Reckon he can make a dash towards a century when play resumes?
+4161~1~
+4161~1~2.10pm The square covers are being peeled off. Only the covers on the 22-yards and the run-ups on either side remain. The floodlights are starting to take effect.
+4161~1~
+4161~1~Sampad : "I'm not in Manchester, But I'm keeping an eye by Manchester Airport Webcam. And its looking sunny near the Airport. "
+4161~1~
+4161~1~Ram Kamboz: "This is just a shout out to Cricinfo....I have followed Cricinfo for at least 12+ years and you have kept me entertained whilst in the office and at home throughout many tournaments, no matter if it's a test match, t20 or an ODI. Humorous and Entertaining. Keep up the good work." -- Thank you. Readers like you make us what we are.
+4161~1~
+4161~1~2.06pm Thanks, Danyal. Rain dance? What's that. I live in the era of the Naagin dance. The rain is easing off. We shouldn't be far from a resumption. The sun has decided to make another guest appearance.
+4161~1~
+4161~1~One way for Rohit fans - or just cricket fans - (in India) to pass the rain break: watch highlights of his innings, on Hotstar
+4161~1~
+4161~1~Right, to do the rain dance, now, here's Shashank.
+4161~1~
+4161~1~For all of you wondering, if Pakistan have a 20-over chase, the target will be 184
+4161~1~
+4161~1~Omkar: "If India don't get to bat again how much has Dhoni's wicket cost India?" Not much, it would appear. With Dhoni, the target would have been 328 in 46 for Pakistan.
+4161~1~
+4161~1~So if India don't bat again, Pakistan will have to chase 327 in 46 overs. That's all for later, however.
+4161~1~
+4161~1~Behram Ishfaq: "How heavy is the rain? Is it pouring or is it just some light drizzle?" It's a drizzle, but it's expected to get heavier at some point. We're supposed to have dry spells, to, though. So let's wait and see
+4161~1~
+4161~1~and the players are walking off. The rain has arrived!
+4161~1~
+4161~1~So while India bossed this innings, perhaps the rain came at just the wrong time for Pakistan, who would have had ideas about curtailing India below 330.
+4161~1~
+4161~1~Anshit: "Can they take innings break's time gap right now just like in tests, tea or lunch is taken early because of rain?" They could, but we don't start losing overs for another 75 minutes
+4161~1~
+4161~1~46.6
+4161~1~1w
+4161~1~Wahab Riaz to Kohli, 1 wide, given a wide. Slower bouncer, and the umpire thinks it's above Kohli's head
+4161~1~
+4161~1~46.6
+4161~1~4
+4161~1~Wahab Riaz to Kohli, FOUR runs, so delicately done! Kohli uses the pace of the ball and guides it between the keeper and third man. Slower ball, but it still trickles all the way for four
+4161~1~
+4161~1~47.1
+4161~1~0
+4161~1~Mohammad Amir to Shankar, no run, slower ball, Shankar swings and hits fresh air. Pakistan need to keep him at this end
+4161~1~
+4161~1~You must have heard a lot about Pakistan bowling too short at Rohit Sharma. Well, S Rajesh has dug out some statistical proof. Check it out.
+4161~1~END OF OVER:47 | 9 Runs | INDIA: 311/4 | RR: 6.61
+4161~1~
+4161~1~    Virat Kohli75 (63b)
+4161~1~    Vijay Shankar4 (7b)
+4161~1~
+4161~1~    Wahab Riaz9-0-59-1
+4161~1~    Mohammad Amir8-1-34-2
+4161~1~
+4161~1~
+4161~1~47.2
+4161~1~1
+4161~1~Mohammad Amir to Shankar, 1 run, worked away to long-on. No thoughts of two, as Kohli wants to remain on strike
+4161~1~
+4161~1~47.3
+4161~1~2
+4161~1~Mohammad Amir to Kohli, 2 runs, square cuts the slower ball, and it requires sharp work at deep extra to cut it off
+4161~1~
+4161~1~47.4
+4161~1~W
+4161~1~Mohammad Amir to Kohli, OUT, gone, is he? Pakistan have Kohli! Quick bouncer, too quick for Kohli, who tried to swivel and pull it to fine leg. Gets the faintest of edges, and a prolonged appeal moves the umpire's finger
+4161~1~
+4161~1~V Kohli c Sarfaraz Ahmed(wk) b Mohammad Amir 77 (105m 65b 7x4 0x6) SR: 118.46
+4161~1~
+4161~1~47.5
+4161~1~0
+4161~1~Mohammad Amir to Jadhav, no run, rolls his fingers over it, and Jadhav can only find point
+4161~1~
+4161~1~Arun Kamboj: "Sarfaraz Khan was just seen yawning. Given his behavior on and off the field, he definitely is the cutest cricketer around."
+4161~1~
+4161~1~Kedar Jadhav in
+4161~1~
+4161~1~47.6
+4161~1~1
+4161~1~Mohammad Amir to Jadhav, 1 run, Sensational over from Amir. Four off the over and the wicket of Virat Kohli. Pakistan finishing with a bit of momentum
+4161~1~
+4161~1~48.1
+4161~1~1w
+4161~1~Wahab Riaz to Jadhav, 1 wide, that's Wahab at his worst. Wide and wild, Sarfaraz does well to keep it from going for five wides. Needs to keep it tight
+4161~1~
+4161~1~Ribhav Bansal: "This innings of Vijay Shankar is painfully reminding me of his struggle against Mustafizur's left arm cutters in the Nidahas final. He was supposed to give strike to Kohli. Instead, him missing balls unnecessarily put pressure on Kohli."
+4161~1~END OF OVER:48 | 4 Runs 1 Wkt | INDIA: 315/5 | RR: 6.56
+4161~1~
+4161~1~    Kedar Jadhav1 (2b)
+4161~1~    Vijay Shankar5 (9b)
+4161~1~
+4161~1~    Mohammad Amir9-1-38-3
+4161~1~    Wahab Riaz9-0-59-1
+4161~1~
+4161~1~
+4161~1~48.1
+4161~1~1
+4161~1~Wahab Riaz to Jadhav, 1 run, helped to third man
+4161~1~
+4161~1~48.2
+4161~1~1
+4161~1~Wahab Riaz to Shankar, 1 run, no control from Shankar, scooped into the covers
+4161~1~
+4161~1~48.3
+4161~1~1w
+4161~1~Wahab Riaz to Jadhav, 1 wide, another wide, Wahab is losing his discipline slightly. Nowhere near the stumps
+4161~1~
+4161~1~48.3
+4161~1~4
+4161~1~Wahab Riaz to Jadhav, FOUR runs, Jadhav gets away the boundary, much needed for India! It was in the slot and he hit it through the line and just about clears mid-off
+4161~1~
+4161~1~48.4
+4161~1~1
+4161~1~Wahab Riaz to Jadhav, 1 run, too quick for Jadhav, 89mph. Raps him on the gloves
+4161~1~
+4161~1~48.5
+4161~1~2
+4161~1~Wahab Riaz to Shankar, 2 runs, short ball, in the air, kept deep square interested. The fielder plays it safe though and opts to field it on the bounce rather than go for the catch
+4161~1~
+4161~1~48.6
+4161~1~1
+4161~1~Wahab Riaz to Shankar, 1 run, low full toss, driven into the covers. Wahab's final over costs 12
+4161~1~
+4161~1~49.1
+4161~1~1
+4161~1~Mohammad Amir to Shankar, 1 run, dropped! Too difficult, in truth, and Amir got two hands to it, but didn't quite stick
+4161~1~
+4161~1~Ultraedge seemed to show no edge, and Kohli in the dressing room perhaps believes the sound came from a creak in his bat. How costly might that be?
+4161~1~END OF OVER:49 | 12 Runs | INDIA: 327/5 | RR: 6.67
+4161~1~
+4161~1~    Vijay Shankar9 (12b)
+4161~1~    Kedar Jadhav7 (5b)
+4161~1~
+4161~1~    Wahab Riaz10-0-71-1
+4161~1~    Mohammad Amir9-1-38-3
+4161~1~
+4161~1~
+4161~1~49.2
+4161~1~0
+4161~1~Mohammad Amir to Jadhav, no run, slower ball. Amir gets the outside edge from Jadhav, but doesn't quite carry to Sarfaraz. Amir is running rings around India at the moment
+4161~1~
+4161~1~49.3
+4161~1~1
+4161~1~Mohammad Amir to Jadhav, 1 run, in the block hole, excellent death bowling. Full, and driven to mid-off, and India scamper one
+4161~1~
+4161~1~49.4
+4161~1~4
+4161~1~Mohammad Amir to Shankar, FOUR runs, and here's one for you Shankar haters! Lovely drive over extra cover. He read what Amir would do and leaned into that shot. Flew over extra cover and nearly carried all the way for six
+4161~1~
+4161~1~49.5
+4161~1~1w
+4161~1~Mohammad Amir to Shankar, 1 wide, he's gone too wide there
+4161~1~
+4161~1~49.5
+4161~1~1
+4161~1~Mohammad Amir to Shankar, 1 run, driven to long-on
+4161~1~
+4161~1~49.6
+4161~1~1
+4161~1~Mohammad Amir to Jadhav, 1 run, no timing but slogged to cover, and sharp work on the boundary prevents two
+4161~1~
+4161~2~##########
+4161~2~
+4161~2~
+4161~2~0.1
+4161~2~1
+4161~2~Kumar to Imamul Haq, 1 run, short of length on middle and leg, tucked away to fine leg and Pakistan are away
+4161~2~
+4161~2~0.2
+4161~2~0
+4161~2~Kumar to Fakhar Zaman, no run, short of length delivery angling away, Fakhar lets this go. There's some zip off the surface for Bhuvi this time.
+4161~2~
+4161~2~0.3
+4161~2~0
+4161~2~Kumar to Fakhar Zaman, no run, nice and full, gets this to swerve away a little from off stump, defended from the crease
+4161~2~
+4161~2~0.4
+4161~2~1
+4161~2~Kumar to Fakhar Zaman, 1 run, tucks this down to fine leg
+4161~2~
+4161~2~0.5
+4161~2~0
+4161~2~Kumar to Imamul Haq, no run, pushes back to a full delivery, defended into the covers
+4161~2~
+4161~2~0.6
+4161~2~0
+4161~2~Kumar to Imamul Haq, no run, beauty! Nips away ever-so-slightly to beat his waft outside off. Superb from Bhuvi
+4161~2~
+4161~2~1.1
+4161~2~0
+4161~2~Bumrah to Fakhar Zaman, no run, length, on middle and leg, defended to the leg side
+4161~2~
+4161~2~Jasprit Bumrah from the other end. Here he comes
+4161~2~END OF OVER:1 | 2 Runs | PAK: 2/0 (335 runs required from 49 overs, RR: 2.00, RRR: 6.83)
+4161~2~
+4161~2~    Imamul Haq1 (3b)
+4161~2~    Fakhar Zaman1 (3b)
+4161~2~
+4161~2~    Bhuvneshwar Kumar1-0-2-0
+4161~2~
+4161~2~
+4161~2~1.2
+4161~2~0
+4161~2~Bumrah to Fakhar Zaman, no run, full on the pads, the backlift is so high that by the time it comes down for the flick, the ball already thuds into the pads. This was a half-volley that should've been put away.
+4161~2~
+4161~2~1.3
+4161~2~4
+4161~2~Bumrah to Fakhar Zaman, FOUR runs, full toss and spanked through the covers! No one moved.
+4161~2~
+4161~2~1.4
+4161~2~0
+4161~2~Bumrah to Fakhar Zaman, no run, beaten as he tries to flay this square of the wicket. Zipped off the deck at 140kph
+4161~2~
+4161~2~1.5
+4161~2~0
+4161~2~Bumrah to Fakhar Zaman, no run, excellent leave. Nibbles away just a touch as Bumrah slants this across
+4161~2~
+4161~2~1.6
+4161~2~0
+4161~2~Bumrah to Fakhar Zaman, no run, defends this full delivery on middle and leg to square leg.
+4161~2~
+4161~2~2.1
+4161~2~0
+4161~2~Kumar to Imamul Haq, no run, defended off the backfoot to the cover fielder
+4161~2~END OF OVER:2 | 4 Runs | PAK: 6/0 (331 runs required from 48 overs, RR: 3.00, RRR: 6.89)
+4161~2~
+4161~2~    Fakhar Zaman5 (9b)
+4161~2~    Imamul Haq1 (3b)
+4161~2~
+4161~2~    Jasprit Bumrah1-0-4-0
+4161~2~    Bhuvneshwar Kumar1-0-2-0
+4161~2~
+4161~2~
+4161~2~2.2
+4161~2~1w
+4161~2~Kumar to Imamul Haq, 1 wide, slips this down leg, zips through to Dhoni. Wide called and rightly so
+4161~2~
+4161~2~2.2
+4161~2~0
+4161~2~Kumar to Imamul Haq, no run, slash and a miss! Bowled at 144kph, would you believe it? This is much fuller, not there for the cut that Imam attempts.
+4161~2~
+4161~2~2.3
+4161~2~0
+4161~2~Kumar to Imamul Haq, no run, pacy again, looks to tuck it to the leg side but is hit high on the thigh pad
+4161~2~
+4161~2~2.4
+4161~2~0
+4161~2~Kumar to Imamul Haq, no run, gets half-forward as he pushes this towards mid-off
+4161~2~
+4161~2~2.5
+4161~2~4
+4161~2~Kumar to Imamul Haq, FOUR runs, balance and timing is impeccable as he flicks this from length on middle. Bisects the gap between midwicket and mid-on. Stunning from Imam
+4161~2~
+4161~2~2.6
+4161~2~1
+4161~2~Kumar to Imamul Haq, 1 run, whips this down to fine leg
+4161~2~
+4161~2~3.1
+4161~2~0
+4161~2~Bumrah to Imamul Haq, no run, hustled for pace as he hops back to defend, gets an inside edge onto the pad
+4161~2~END OF OVER:3 | 6 Runs | PAK: 12/0 (325 runs required from 47 overs, RR: 4.00, RRR: 6.91)
+4161~2~
+4161~2~    Imamul Haq6 (9b)
+4161~2~    Fakhar Zaman5 (9b)
+4161~2~
+4161~2~    Bhuvneshwar Kumar2-0-8-0
+4161~2~    Jasprit Bumrah1-0-4-0
+4161~2~
+4161~2~
+4161~2~3.2
+4161~2~0
+4161~2~Bumrah to Imamul Haq, no run, right behind the line as he defends this length ball
+4161~2~
+4161~2~3.3
+4161~2~0
+4161~2~Bumrah to Imamul Haq, no run, punched confidently to mid-off
+4161~2~
+4161~2~Fine leg and third man are the two fielders out for India
+4161~2~
+4161~2~3.4
+4161~2~1
+4161~2~Bumrah to Imamul Haq, 1 run, pushed deep into his crease as he gets on top of the bounce and taps it, they also scamper a quick single
+4161~2~
+4161~2~3.5
+4161~2~0
+4161~2~Bumrah to Fakhar Zaman, no run, this is a corker of a delivery! Nipped away off the seam to beat Fakhar's leading edge. He was looking to clip this square, closed the bat face. Not sure how that missed the edge. Kohli has a wry smile
+4161~2~
+4161~2~3.6
+4161~2~0
+4161~2~Bumrah to Fakhar Zaman, no run, slants a full delivery across, left alone
+4161~2~
+4161~2~4.1
+4161~2~0
+4161~2~Kumar to Imamul Haq, no run, beaten by late movement. Looks to punch on the up away from the body
+4161~2~END OF OVER:4 | 1 Run | PAK: 13/0 (324 runs required from 46 overs, RR: 3.25, RRR: 7.04)
+4161~2~
+4161~2~    Fakhar Zaman5 (11b)
+4161~2~    Imamul Haq7 (13b)
+4161~2~
+4161~2~    Jasprit Bumrah2-0-5-0
+4161~2~    Bhuvneshwar Kumar2-0-8-0
+4161~2~
+4161~2~
+4161~2~4.2
+4161~2~0
+4161~2~Kumar to Imamul Haq, no run, this is magical from Bhuvneshwar! Absolute skill. Imam is squared up as he hops back to defend. Opened up by the pace and bounce
+4161~2~
+4161~2~4.3
+4161~2~0
+4161~2~Kumar to Imamul Haq, no run, pushes this to mid-on
+4161~2~
+4161~2~4.4
+4161~2~0
+4161~2~Kumar to Imamul Haq, no run, plays inside the line from the crease, whizzes past the outside edge. Tentative from Imam, not too sure he knows which way the ball's going to move.
+4161~2~
+4161~2~4.5
+4161~2~W
+4161~2~Shankar to Imam ul Haq, OUT, huge appeal and he's struck first ball with a nip-backer! Vijay is delighted as are the rest of his mates. Imam is walking off. Massive break for India from an unlikely source. This is bowled full, swung back in a hint, but the doubt remains. Did it pitch outside leg? Could Pakistan have reviewed? Will need a replay to confirm everything, but what is confirmed is Pakistan have lost their first wicket.
+4161~2~
+4161~2~Imamul Haq lbw b Shankar 7 (23m 18b 1x4 0x6) SR: 38.88
+4161~2~
+4161~2~Bhuvneshwar seems to have twinged his hamstring. May have landed awkwardly, slipped on his frontfoot as he completed the previous delivery. Bhuvneshwar is going off the field/ Vijay Shankar to complete the over.
+4161~2~
+4161~2~4.6
+4161~2~1
+4161~2~Shankar to Babar Azam, 1 run, oooohs and aaaahs, pushes outside the line to get an inside edge onto the pad, they scamper through for a single.
+4161~2~
+4161~2~Babar Azam walks in at No. 3
+4161~2~
+4161~2~5.1
+4161~2~0
+4161~2~Bumrah to Babar Azam, no run, slants in a length ball on middle, defended from the crease
+4161~2~
+4161~2~Sreshth Shah: Vijay Shankar becomes only the 3rd man to take a wicket off his very first World Cup delivery. Emulates Malachi Jones of Bermuda (remember Uthappa's edge to Dwayne Leverock?) and Ian Harvey.
+4161~2~END OF OVER:5 | 1 Run 1 Wkt | PAK: 14/1 (323 runs required from 45 overs, RR: 2.80, RRR: 7.17)
+4161~2~
+4161~2~    Babar Azam1 (1b)
+4161~2~    Fakhar Zaman5 (11b)
+4161~2~
+4161~2~    Vijay Shankar0.2-0-1-1
+4161~2~    Jasprit Bumrah2-0-5-0
+4161~2~
+4161~2~
+4161~2~5.2
+4161~2~1
+4161~2~Bumrah to Babar Azam, 1 run, dabs this down to third man
+4161~2~
+4161~2~Coming back to the lbw decision, ball tracking confirms it pitched inside the line. So it's a good decision. Back to the action
+4161~2~
+4161~2~5.3
+4161~2~0
+4161~2~Bumrah to Fakhar Zaman, no run, looks to belt this through point but is cramped for room, chopped to the off side
+4161~2~
+4161~2~5.4
+4161~2~1
+4161~2~Bumrah to Fakhar Zaman, 1 run, late on the defensive shot, gets an inside edge onto the pad, rolls to the off side and they complete a single
+4161~2~
+4161~2~5.5
+4161~2~0
+4161~2~Bumrah to Babar Azam, no run, is right back inside the crease as he keeps out this length ball on the stumps
+4161~2~
+4161~2~5.6
+4161~2~4
+4161~2~Bumrah to Babar Azam, FOUR runs, width and he's crashed this in front of square. Delightfully punched.
+4161~2~
+4161~2~SK: "Bhuvi took a wicket off the very first ball he bowled against Pakistan ( which was also his ODI debut ) and Shankar who replaced him now repeats the same."
+4161~2~
+4161~2~6.1
+4161~2~4
+4161~2~Shankar to Fakhar Zaman, FOUR runs, slips this down leg and this has been helped on it way. Easy pickings.
+4161~2~END OF OVER:6 | 6 Runs | PAK: 20/1 (317 runs required from 44 overs, RR: 3.33, RRR: 7.20)
+4161~2~
+4161~2~    Babar Azam6 (5b)
+4161~2~    Fakhar Zaman6 (13b)
+4161~2~
+4161~2~    Jasprit Bumrah3-0-11-0
+4161~2~    Vijay Shankar0.2-0-1-1
+4161~2~
+4161~2~
+4161~2~6.2
+4161~2~1
+4161~2~Shankar to Fakhar Zaman, 1 run, slapped away but a misfield at covers keeps it down to a single. Lucky to get away with that filth of a delivery
+4161~2~
+4161~2~6.3
+4161~2~0
+4161~2~Shankar to Babar Azam, no run, gets this to lift off the deck from a length, defended gently into the off side
+4161~2~
+4161~2~Who is Sambit Bal's favourite Pakistan cricketer? Our live report will bring you the big reveal, very soon.
+4161~2~
+4161~2~6.4
+4161~2~0
+4161~2~Shankar to Babar Azam, no run, superb stop by Kohli at extra cover. This was a half-volley which he absolutely belted, but the skipper threw himself to his left, full-length to stop it even as he was airborne
+4161~2~
+4161~2~6.5
+4161~2~0
+4161~2~Shankar to Babar Azam, no run, goes full outside off, Babar drives but gets a thick inside edge that rolls to mid-on
+4161~2~
+4161~2~6.6
+4161~2~0
+4161~2~Shankar to Babar Azam, no run, driven firmly but straight to mid-off
+4161~2~
+4161~2~7.1
+4161~2~0
+4161~2~Bumrah to Fakhar Zaman, no run, short of length delivery angled across, defended back
+4161~2~END OF OVER:7 | 5 Runs | PAK: 25/1 (312 runs required from 43 overs, RR: 3.57, RRR: 7.25)
+4161~2~
+4161~2~    Babar Azam6 (9b)
+4161~2~    Fakhar Zaman11 (15b)
+4161~2~
+4161~2~    Vijay Shankar1.2-0-6-1
+4161~2~    Jasprit Bumrah3-0-11-0
+4161~2~
+4161~2~
+4161~2~7.2
+4161~2~0
+4161~2~Bumrah to Fakhar Zaman, no run, this is a beauty! Fakhar had no clue as he hung his bat out to defend. No feet movement, indecisive. Played from the crease
+4161~2~
+4161~2~7.3
+4161~2~0
+4161~2~Bumrah to Fakhar Zaman, no run, defended from the crease
+4161~2~
+4161~2~Is it any surprise that Jadeja is in as the substitute for Bhuvi? And well, there are some worried faces in the Indian balcony. Coach, physio, assistant coach - all of them having a chat
+4161~2~
+4161~2~7.4
+4161~2~0
+4161~2~Bumrah to Fakhar Zaman, no run, looks to pull but he's beaten for pace. Excellent from Bumrah, attacked him on middle and leg
+4161~2~
+4161~2~7.5
+4161~2~0
+4161~2~Bumrah to Fakhar Zaman, no run, gloves this pull, rolls to square leg.
+4161~2~
+4161~2~7.6
+4161~2~4
+4161~2~Bumrah to Fakhar Zaman, FOUR runs, short, down leg and he's helped this along to the fine leg boundary.
+4161~2~
+4161~2~A message will be relayed soon. Bangar conveys something to Shami, who is besides the boundary
+4161~2~
+4161~2~8.1
+4161~2~0
+4161~2~Pandya to Babar Azam, no run, angles in a length ball on off stump, defended back
+4161~2~
+4161~2~Hardik Pandya with the ball
+4161~2~END OF OVER:8 | 4 Runs | PAK: 29/1 (308 runs required from 42 overs, RR: 3.62, RRR: 7.33)
+4161~2~
+4161~2~    Fakhar Zaman15 (21b)
+4161~2~    Babar Azam6 (9b)
+4161~2~
+4161~2~    Jasprit Bumrah4-0-15-0
+4161~2~    Vijay Shankar1.2-0-6-1
+4161~2~
+4161~2~
+4161~2~8.2
+4161~2~0
+4161~2~Pandya to Babar Azam, no run, mistimes this attempted cut to cover
+4161~2~
+4161~2~8.3
+4161~2~4
+4161~2~Pandya to Babar Azam, FOUR runs, scorching drive from Babar, can pay to watch strokes like that! Overpitched and he put it away without much fuss. Through extra cover
+4161~2~
+4161~2~8.4
+4161~2~0
+4161~2~Pandya to Babar Azam, no run, defended with soft hands, rolls behind the stumps
+4161~2~
+4161~2~8.5
+4161~2~1
+4161~2~Pandya to Babar Azam, 1 run, mistimes a drive to mid-on, got it off the inside edge. Quick single
+4161~2~
+4161~2~8.6
+4161~2~0
+4161~2~Pandya to Fakhar Zaman, no run, hit on the pad, but this pitched outside leg. Looked to mow it across the line
+4161~2~
+4161~2~9.1
+4161~2~1
+4161~2~Shankar to Babar Azam, 1 run, draws the edge, down to third man. Bowled this nice and full outside off
+4161~2~END OF OVER:9 | 5 Runs | PAK: 34/1 (303 runs required from 41 overs, RR: 3.77, RRR: 7.39)
+4161~2~
+4161~2~    Fakhar Zaman15 (22b)
+4161~2~    Babar Azam11 (14b)
+4161~2~
+4161~2~    Hardik Pandya1-0-5-0
+4161~2~    Jasprit Bumrah4-0-15-0
+4161~2~
+4161~2~
+4161~2~9.2
+4161~2~0
+4161~2~Shankar to Fakhar Zaman, no run, squeezes the drive to cover point
+4161~2~
+4161~2~9.3
+4161~2~1
+4161~2~Shankar to Fakhar Zaman, 1 run, mistimes this slog to mid-on, just about manages to complete the single
+4161~2~
+4161~2~9.4
+4161~2~0
+4161~2~Shankar to Babar Azam, no run, attacks the stumps with a full delivery from wide of the crease, defended
+4161~2~
+4161~2~9.5
+4161~2~0
+4161~2~Shankar to Babar Azam, no run, nips away off the deck from length on middle, hits him on the right pad. Rather high.
+4161~2~
+4161~2~9.6
+4161~2~1w
+4161~2~Shankar to Babar Azam, 1 wide, slips this way down leg
+4161~2~
+4161~2~9.6
+4161~2~1
+4161~2~Shankar to Babar Azam, 1 run, driven on the up to mid-off for an easy single
+4161~2~
+4161~2~10.1
+4161~2~1
+4161~2~Pandya to Babar Azam, 1 run, full, and Babar drives to deep cover, where India have unsurprisingly put a man now
+4161~2~
+4161~2~Thanks Shashank. Near perfect ten overs for India, except of course for the loss of Kumar. Can Pakistan take control in the next ten?
+4161~2~END OF OVER:10 | 4 Runs | PAK: 38/1 (299 runs required from 40 overs, RR: 3.80, RRR: 7.47)
+4161~2~
+4161~2~    Babar Azam13 (18b)
+4161~2~    Fakhar Zaman16 (24b)
+4161~2~
+4161~2~    Vijay Shankar2.2-0-10-1
+4161~2~    Hardik Pandya1-0-5-0
+4161~2~
+4161~2~Slow progress for Pakistan even as the sun shines bright. Danyal's back with the controls for the next 10 overs.
+4161~2~
+4161~2~10.2
+4161~2~0
+4161~2~Pandya to Fakhar Zaman, no run, no timing, thick inside edge to the onside
+4161~2~
+4161~2~10.3
+4161~2~1
+4161~2~Pandya to Fakhar Zaman, 1 run, extra yard of pace, and Fakhar but about manages to get the middle of the bat on the pull shot
+4161~2~
+4161~2~10.4
+4161~2~0
+4161~2~Pandya to Babar Azam, no run, tight line, defended by Babar
+4161~2~
+4161~2~10.5
+4161~2~1
+4161~2~Pandya to Babar Azam, 1 run, short and wide. Babar cuts, but only to the deep fielder
+4161~2~
+4161~2~10.6
+4161~2~0
+4161~2~Pandya to Fakhar Zaman, no run, exceptionally tight, Pakistan are being suffocated here. Asking rate continues to rocket
+4161~2~
+4161~2~11.1
+4161~2~0
+4161~2~Shankar to Babar Azam, no run, full, Babar tries to guide to third man but point cuts it off
+4161~2~
+4161~2~Doss: "Any word on Bhuvi?" For everyone asking, we're not sure yet, but the pictures seem to suggest there's a good chance they may not risk him today
+4161~2~END OF OVER:11 | 3 Runs | PAK: 41/1 (296 runs required from 39 overs, RR: 3.72, RRR: 7.58)
+4161~2~
+4161~2~    Fakhar Zaman17 (27b)
+4161~2~    Babar Azam15 (21b)
+4161~2~
+4161~2~    Hardik Pandya2-0-8-0
+4161~2~    Vijay Shankar2.2-0-10-1
+4161~2~
+4161~2~
+4161~2~11.2
+4161~2~1
+4161~2~Shankar to Babar Azam, 1 run, wider half-volley, Babar strokes it elegantly, but only for one down to cover
+4161~2~
+4161~2~11.3
+4161~2~0
+4161~2~Shankar to Fakhar Zaman, no run, in the slot. Fakhar looks to tee off but sharp fielding at extra cover cuts off any avenue for runscoring
+4161~2~
+4161~2~11.4
+4161~2~1
+4161~2~Shankar to Fakhar Zaman, 1 run, sliced to deep extra cover
+4161~2~
+4161~2~sagar roy: "How much run does Pakistan need, if match only happen till 20 over?" If they only lose one wicket, 109
+4161~2~
+4161~2~11.5
+4161~2~2
+4161~2~Shankar to Babar Azam, 2 runs, in the slot once more, but Babar doesn't quite get it wide enough of the deep cover man to get four. They come back for two
+4161~2~
+4161~2~11.6
+4161~2~4
+4161~2~Shankar to Babar Azam, FOUR runs, finds the boundary the other side of that fielder! Shorter and tighter to the body, but Babar caresses it past point, and no chance for the man in the deep. Much, much, much needed boundary for his team
+4161~2~
+4161~2~12.1
+4161~2~0
+4161~2~Kuldeep Yadav to Fakhar Zaman, no run, starts off a little short, dive at short third saves any runs
+4161~2~
+4161~2~hemant: "What kind of an idiotic equation requires an avg of 5.5 for 20 overs, when it is 6.7 for all 50 overs. Just defies common sense and logic. " Takes pacing of an innings into account
+4161~2~END OF OVER:12 | 8 Runs | PAK: 49/1 (288 runs required from 38 overs, RR: 4.08, RRR: 7.57)
+4161~2~
+4161~2~    Babar Azam22 (25b)
+4161~2~    Fakhar Zaman18 (29b)
+4161~2~
+4161~2~    Vijay Shankar3.2-0-18-1
+4161~2~    Hardik Pandya2-0-8-0
+4161~2~
+4161~2~
+4161~2~12.2
+4161~2~0
+4161~2~Kuldeep Yadav to Fakhar Zaman, no run, no timing, trickles to the off side
+4161~2~
+4161~2~12.3
+4161~2~0
+4161~2~Kuldeep Yadav to Fakhar Zaman, no run, better ball, Kuldeep can bowl a deviously probing line. Almost through Fakhar's defences
+4161~2~
+4161~2~12.4
+4161~2~0
+4161~2~Kuldeep Yadav to Fakhar Zaman, no run, takes a thick outside edge, rolls through to the man at 45
+4161~2~
+4161~2~12.5
+4161~2~1
+4161~2~Kuldeep Yadav to Fakhar Zaman, 1 run, cut away to the offside, first run of the over with a ball to go
+4161~2~
+4161~2~12.6
+4161~2~1
+4161~2~Kuldeep Yadav to Babar Azam, 1 run, helped around to fine leg. Just two of Kuldeep's first over. Brings up Pakistan's 50
+4161~2~
+4161~2~13.1
+4161~2~0
+4161~2~Pandya to Babar Azam, no run, straight, blocked
+4161~2~
+4161~2~Bhuvi has stiffness in his hamstring. He will play no further part today
+4161~2~END OF OVER:13 | 2 Runs | PAK: 51/1 (286 runs required from 37 overs, RR: 3.92, RRR: 7.72)
+4161~2~
+4161~2~    Babar Azam23 (26b)
+4161~2~    Fakhar Zaman19 (34b)
+4161~2~
+4161~2~    Kuldeep Yadav1-0-2-0
+4161~2~    Vijay Shankar3.2-0-18-1
+4161~2~
+4161~2~
+4161~2~13.2
+4161~2~1
+4161~2~Pandya to Babar Azam, 1 run, full, worked away to the onside
+4161~2~
+4161~2~13.3
+4161~2~4
+4161~2~Pandya to Fakhar Zaman, FOUR runs, slower bouncer, and Fakhar had to adjust a bit there. Initially looked like he wanted to dispatch it to cow corner, but managed to guide it past fine leg, where it trickles through for four
+4161~2~
+4161~2~13.4
+4161~2~1
+4161~2~Pandya to Fakhar Zaman, 1 run, struck to mid-off, and Babar has the strike now
+4161~2~
+4161~2~13.5
+4161~2~1
+4161~2~Pandya to Babar Azam, 1 run, gets a thick outside edge and the ball runs down to third man. Some seam movement for Pandya in this over
+4161~2~
+4161~2~13.6
+4161~2~0
+4161~2~Pandya to Fakhar Zaman, no run, short and wide. Close to actually being a wide, but not quite
+4161~2~
+4161~2~14.1
+4161~2~1
+4161~2~Kuldeep Yadav to Babar Azam, 1 run, driven down the ground
+4161~2~END OF OVER:14 | 7 Runs | PAK: 58/1 (279 runs required from 36 overs, RR: 4.14, RRR: 7.75)
+4161~2~
+4161~2~    Fakhar Zaman24 (37b)
+4161~2~    Babar Azam25 (29b)
+4161~2~
+4161~2~    Hardik Pandya3-0-15-0
+4161~2~    Kuldeep Yadav1-0-2-0
+4161~2~
+4161~2~
+4161~2~14.2
+4161~2~0
+4161~2~Kuldeep Yadav to Fakhar Zaman, no run, stump-to-stump line, struck back to the bowler
+4161~2~
+4161~2~14.3
+4161~2~1
+4161~2~Kuldeep Yadav to Fakhar Zaman, 1 run, full and slightly wide, and the batsman turns the strike over to deep cover
+4161~2~
+4161~2~14.4
+4161~2~1
+4161~2~Kuldeep Yadav to Babar Azam, 1 run, tap and run. Good single from Babar. They'll need to be sharp with their running today
+4161~2~
+4161~2~14.5
+4161~2~0
+4161~2~Kuldeep Yadav to Fakhar Zaman, no run, an attempted heave from Fakhar, nearly dragged it on instead.
+4161~2~
+4161~2~14.6
+4161~2~3
+4161~2~Kuldeep Yadav to Fakhar Zaman, 3 runs, this is more cultured from Fakhar. Steps away, makes some room and cuts past short third man, who has a chase on his hands. Prevents the boundary, but the over ends up going for six
+4161~2~
+4161~2~15.1
+4161~2~1
+4161~2~Pandya to Fakhar Zaman, 1 run, turned around to square leg
+4161~2~
+4161~2~Drinks coming on now.
+4161~2~
+4161~2~Jack Frost: "Babar Azam is palying sensibly. He can take the match away from India. How's he against wristspinners?" He won't have played too many, but seems to be in control for now. Remains to be seen how he and Fakhar cope with the asking rate.
+4161~2~
+4161~2~"It seems Pakistan misread the target as 237," cackles Hus Silverado. Very droll
+4161~2~END OF OVER:15 | 6 Runs | PAK: 64/1 (273 runs required from 35 overs, RR: 4.26, RRR: 7.80)
+4161~2~
+4161~2~    Fakhar Zaman28 (41b)
+4161~2~    Babar Azam27 (31b)
+4161~2~
+4161~2~    Kuldeep Yadav2-0-8-0
+4161~2~    Hardik Pandya3-0-15-0
+4161~2~
+4161~2~
+4161~2~15.2
+4161~2~1
+4161~2~Pandya to Babar Azam, 1 run, that might have been trouble. Babar took on mid-on, who might have had the batsman struggling had he not misfielded
+4161~2~
+4161~2~15.3
+4161~2~4
+4161~2~Pandya to Fakhar Zaman, FOUR runs, disdainfully dispatched by Fakhar! That's more like the player Pakistan need him to be. Premeditated, length picked up and a baseball swing to cow corner.
+4161~2~
+4161~2~15.4
+4161~2~0
+4161~2~Pandya to Fakhar Zaman, no run, comes around the wicket and targets the stumps. Ties him up nicely, and Fakhar can only block
+4161~2~
+4161~2~15.5
+4161~2~4
+4161~2~Pandya to Fakhar Zaman, FOUR runs, runs it to third man and races down to the boundary for four. Is this the over that Pakistan get a move on?
+4161~2~
+4161~2~15.6
+4161~2~1
+4161~2~Pandya to Fakhar Zaman, 1 run, hammered away by Fakhar again, but this time to the boundary fielder
+4161~2~
+4161~2~16.1
+4161~2~1
+4161~2~Chahal to Fakhar Zaman, 1 run, Scooped to the onside. Got the edge but lands in vacant ground
+4161~2~
+4161~2~Abhi: "Any chance of rain again? " In about an hour's time
+4161~2~END OF OVER:16 | 11 Runs | PAK: 75/1 (262 runs required from 34 overs, RR: 4.68, RRR: 7.70)
+4161~2~
+4161~2~    Fakhar Zaman38 (46b)
+4161~2~    Babar Azam28 (32b)
+4161~2~
+4161~2~    Hardik Pandya4-0-26-0
+4161~2~    Kuldeep Yadav2-0-8-0
+4161~2~
+4161~2~
+4161~2~16.2
+4161~2~1
+4161~2~Chahal to Babar Azam, 1 run, cut away but brilliant fielding at backward point saves three runs
+4161~2~
+4161~2~16.3
+4161~2~0
+4161~2~Chahal to Fakhar Zaman, no run, defended on the onside
+4161~2~
+4161~2~16.4
+4161~2~1
+4161~2~Chahal to Fakhar Zaman, 1 run, looked to run it down to fine leg again, but slaps it instead to square leg
+4161~2~
+4161~2~16.5
+4161~2~1
+4161~2~Chahal to Babar Azam, 1 run, Babar gets onto the back foot to smack the short ball, but goes to the boundary fielder instead
+4161~2~
+4161~2~16.6
+4161~2~0
+4161~2~Chahal to Fakhar Zaman, no run, tickled to fine leg
+4161~2~
+4161~2~17.1
+4161~2~0
+4161~2~Kuldeep Yadav to Babar Azam, no run, flighted nicely, defended
+4161~2~
+4161~2~Ashutosh Vikram: "With India, one bowler short, Pakistan has to just play sensibly, keep wickets in hand. India is short of a genuine death bowler, in case match goes close its advantage Pakistan"
+4161~2~END OF OVER:17 | 4 Runs | PAK: 79/1 (258 runs required from 33 overs, RR: 4.64, RRR: 7.81)
+4161~2~
+4161~2~    Fakhar Zaman40 (50b)
+4161~2~    Babar Azam30 (34b)
+4161~2~
+4161~2~    Yuzvendra Chahal1-0-4-0
+4161~2~    Hardik Pandya4-0-26-0
+4161~2~
+4161~2~
+4161~2~17.2
+4161~2~1
+4161~2~Kuldeep Yadav to Babar Azam, 1 run, helped into the onside
+4161~2~
+4161~2~17.3
+4161~2~1
+4161~2~Kuldeep Yadav to Fakhar Zaman, 1 run, driven to long-off
+4161~2~
+4161~2~17.4
+4161~2~1
+4161~2~Kuldeep Yadav to Babar Azam, 1 run, run down to long-on and the strike turns over
+4161~2~
+4161~2~17.5
+4161~2~1
+4161~2~Kuldeep Yadav to Fakhar Zaman, 1 run, guided to deep cover
+4161~2~
+4161~2~17.6
+4161~2~1
+4161~2~Kuldeep Yadav to Babar Azam, 1 run, spots the googly early, turns it around to fine leg for one
+4161~2~
+4161~2~18.1
+4161~2~1
+4161~2~Chahal to Babar Azam, 1 run, sliced away to deep extra cover
+4161~2~
+4161~2~Dhairya : "What is DLS par score after 30 overs? " For the loss of one wicket, 163
+4161~2~END OF OVER:18 | 5 Runs | PAK: 84/1 (253 runs required from 32 overs, RR: 4.66, RRR: 7.90)
+4161~2~
+4161~2~    Babar Azam33 (38b)
+4161~2~    Fakhar Zaman42 (52b)
+4161~2~
+4161~2~    Kuldeep Yadav3-0-13-0
+4161~2~    Yuzvendra Chahal1-0-4-0
+4161~2~
+4161~2~
+4161~2~18.2
+4161~2~0
+4161~2~Chahal to Fakhar Zaman, no run, the footwork wasn't quite up to it, and safely tapped to third man
+4161~2~
+4161~2~18.3
+4161~2~0
+4161~2~Chahal to Fakhar Zaman, no run, wider down the legside into Fakhar's pads
+4161~2~
+4161~2~18.4
+4161~2~1
+4161~2~Chahal to Fakhar Zaman, 1 run, stroked to long-off. India are beginning to turn the screws again
+4161~2~
+4161~2~18.5
+4161~2~0
+4161~2~Chahal to Babar Azam, no run, lovely bowling, was that pad first? Kohli really wanted to review, but Dhoni gives him short shrift. Was sure there was nothing in it, Dhoni
+4161~2~
+4161~2~18.6
+4161~2~0
+4161~2~Chahal to Babar Azam, no run, short ball, no timing on the pull. Just two off that over
+4161~2~
+4161~2~19.1
+4161~2~0
+4161~2~Kuldeep Yadav to Fakhar Zaman, no run, flight and turn, Fakhar blocks
+4161~2~
+4161~2~The replays suggest that might have been pad first. That would have been plumb? Have India turned up their nose at a worthy review for the second time this match?
+4161~2~END OF OVER:19 | 2 Runs | PAK: 86/1 (251 runs required from 31 overs, RR: 4.52, RRR: 8.09)
+4161~2~
+4161~2~    Babar Azam34 (41b)
+4161~2~    Fakhar Zaman43 (55b)
+4161~2~
+4161~2~    Yuzvendra Chahal2-0-6-0
+4161~2~    Kuldeep Yadav3-0-13-0
+4161~2~
+4161~2~
+4161~2~19.2
+4161~2~0
+4161~2~Kuldeep Yadav to Fakhar Zaman, no run, sharp turn, and has Fakhar's foot dragged out of his crease? Umpire goes upstairs. It's exceptionally tight, but looks like the batsman just about dragged his foot back in the nick of time. The third umpire goes with not out
+4161~2~
+4161~2~19.3
+4161~2~1
+4161~2~Kuldeep Yadav to Fakhar Zaman, 1 run, Fakhar drives to long-off, and happily gets down the other end
+4161~2~
+4161~2~19.4
+4161~2~0
+4161~2~Kuldeep Yadav to Babar Azam, no run, blocked. Pakistan are beginning to lose momentum now
+4161~2~
+4161~2~19.5
+4161~2~0
+4161~2~Kuldeep Yadav to Babar Azam, no run, googly, Babar tries to turn it to fine leg
+4161~2~
+4161~2~19.6
+4161~2~0
+4161~2~Kuldeep Yadav to Babar Azam, no run, tucked away to the onside, just one from the over. For the next ten, enjoy Shashank's company
+4161~2~
+4161~2~20.1
+4161~2~6
+4161~2~Chahal to Fakhar Zaman, SIX runs, what a welcome! Into my comms stint, I mean. Sees this tossed up and he gets down on one knee and slog-sweeps with the spin to clear deep midwicket. Vijay and KL Rahul were in with a shout for a brief while.
+4161~2~
+4161~2~Thanks, Danyal. Pakistan need a move on
+4161~2~END OF OVER:20 | 1 Run | PAK: 87/1 (250 runs required from 30 overs, RR: 4.35, RRR: 8.33)
+4161~2~
+4161~2~    Babar Azam34 (44b)
+4161~2~    Fakhar Zaman44 (58b)
+4161~2~
+4161~2~    Kuldeep Yadav4-0-14-0
+4161~2~    Yuzvendra Chahal2-0-6-0
+4161~2~
+4161~2~
+4161~2~20.2
+4161~2~0
+4161~2~Chahal to Fakhar Zaman, no run, uppish but just short of Kohli. Chipped, didn't go through with it. The ball dipped on Fakhar as he played the stroke
+4161~2~
+4161~2~20.3
+4161~2~1
+4161~2~Chahal to Fakhar Zaman, 1 run, flatter one on middle and leg, swept fiercely to deep square leg
+4161~2~
+4161~2~20.4
+4161~2~0
+4161~2~Chahal to Babar Azam, no run, looks to ease it with the spin, not much room to work with, rolls back towards the bowler.
+4161~2~
+4161~2~20.5
+4161~2~0
+4161~2~Chahal to Babar Azam, no run, doesn't quite get to the pitch, defended back
+4161~2~
+4161~2~Pakistan needed to be 109 for 1 at the end of 20 overs to be ahead on DLS. Which means if the game ends now, India are the winners. But of course the rain has stayed away and we'll carry on.
+4161~2~
+4161~2~20.6
+4161~2~1
+4161~2~Chahal to Babar Azam, 1 run, misfield by Jadhav at midwicket and Pakistan have a single that shouldn't have been
+4161~2~
+4161~2~21.1
+4161~2~0
+4161~2~Kuldeep Yadav to Babar Azam, no run, rocks back and cuts to point
+4161~2~END OF OVER:21 | 8 Runs | PAK: 95/1 (242 runs required from 29 overs, RR: 4.52, RRR: 8.34)
+4161~2~
+4161~2~    Babar Azam35 (47b)
+4161~2~    Fakhar Zaman51 (61b)
+4161~2~
+4161~2~    Yuzvendra Chahal3-0-14-0
+4161~2~    Kuldeep Yadav4-0-14-0
+4161~2~
+4161~2~
+4161~2~21.2
+4161~2~2
+4161~2~Kuldeep Yadav to Babar Azam, 2 runs, works this against the turn towards fine leg, the man had to come around a long way, by which time they hared back for the second
+4161~2~
+4161~2~The lbw off Chahal which India didn't review, as it turns out, would've been out.
+4161~2~
+4161~2~21.3
+4161~2~1
+4161~2~Kuldeep Yadav to Babar Azam, 1 run, swept with the spin to deep backward square leg
+4161~2~
+4161~2~21.4
+4161~2~4
+4161~2~Kuldeep Yadav to Fakhar Zaman, FOUR runs, biffed into the gap at deep midwicket. Picked this slog sweep towards the long boundary. Two bounces to the rope. This was full and flat, he picked it superbly. Pakistan are revving up slowly but surely. Will need Fakhar to convert this half-century into a century
+4161~2~
+4161~2~21.5
+4161~2~0
+4161~2~Kuldeep Yadav to Fakhar Zaman, no run, defended back to the bowler again
+4161~2~
+4161~2~21.6
+4161~2~1
+4161~2~Kuldeep Yadav to Fakhar Zaman, 1 run, squeezes the drive past the diving Kohli at cover for a single
+4161~2~
+4161~2~22.1
+4161~2~1
+4161~2~Chahal to Fakhar Zaman, 1 run, eased against the turn to long-off
+4161~2~END OF OVER:22 | 8 Runs | PAK: 103/1 (234 runs required from 28 overs, RR: 4.68, RRR: 8.35)
+4161~2~
+4161~2~    Fakhar Zaman56 (64b)
+4161~2~    Babar Azam38 (50b)
+4161~2~
+4161~2~    Kuldeep Yadav5-0-22-0
+4161~2~    Yuzvendra Chahal3-0-14-0
+4161~2~
+4161~2~
+4161~2~22.2
+4161~2~6
+4161~2~Chahal to Babar Azam, SIX runs, swept against the turn, picked it off a length. What clean connection. Magnificent from Babar. Decided to go through with the stroke and he's picked the bones out of that.
+4161~2~
+4161~2~22.3
+4161~2~1
+4161~2~Chahal to Babar Azam, 1 run, works this against the turn to long-on
+4161~2~
+4161~2~At the end of 25 overs, Pakistan should be 136 for 1 to be ahead on DLS. Or 145 for 2. At slip, Rohit Sharma has taken out the DLS paper to have a look
+4161~2~
+4161~2~22.4
+4161~2~1
+4161~2~Chahal to Fakhar Zaman, 1 run, swept, but didn't get control, rolls off the inside edge to Rahul at deep square
+4161~2~
+4161~2~22.5
+4161~2~1
+4161~2~Chahal to Babar Azam, 1 run, gentle tap into the off side, they scamper through
+4161~2~
+4161~2~22.6
+4161~2~0
+4161~2~Chahal to Fakhar Zaman, no run, makes room to cut, Chahal sees that and cramps him for room, defended
+4161~2~
+4161~2~23.1
+4161~2~1
+4161~2~Kuldeep Yadav to Babar Azam, 1 run, swept all along the ground to fine leg
+4161~2~
+4161~2~Kohli is going off the field. Rohit to control the traffic. Dinesh Karthik is in to substitute
+4161~2~END OF OVER:23 | 10 Runs | PAK: 113/1 (224 runs required from 27 overs, RR: 4.91, RRR: 8.29)
+4161~2~
+4161~2~    Fakhar Zaman58 (67b)
+4161~2~    Babar Azam46 (53b)
+4161~2~
+4161~2~    Yuzvendra Chahal4-0-24-0
+4161~2~    Kuldeep Yadav5-0-22-0
+4161~2~
+4161~2~
+4161~2~23.2
+4161~2~1
+4161~2~Kuldeep Yadav to Fakhar Zaman, 1 run, drifts in and spins away off a length on middle, bunts it with soft hands to the off side
+4161~2~
+4161~2~23.3
+4161~2~0
+4161~2~Kuldeep Yadav to Babar Azam, no run, turns this googly to midwicket, got as close as possible to the pitch to negate the turn
+4161~2~
+4161~2~23.4
+4161~2~1
+4161~2~Kuldeep Yadav to Babar Azam, 1 run, nudges this to short fine, risky single taken as DK fires a throw from short fine.
+4161~2~
+4161~2~23.5
+4161~2~1
+4161~2~Kuldeep Yadav to Fakhar Zaman, 1 run, cut away with the spin to sweeper cover
+4161~2~
+4161~2~23.6
+4161~2~W
+4161~2~Kuldeep Yadav to Babar Azam, OUT, through the gate! Incredible delivery from a supremely talented bowler. Everything about this delivery is the kind of stuff dreams are made of for a left-arm wristspinner. Nicely tossed up, the ball drifts away gently across Babar, pitches and then wickedly spins back in. Babar is looking to get outside the line to block, but is completely deceived by the dip, and then because he's played down the wrong line with a bit of gap between bat and pad, there's no second line of defence. Babar was worried about the wrong'un. Sneaks through the gap, clean bowled. Wow, what a ball. Magnificent.
+4161~2~
+4161~2~Babar Azam b Kuldeep Yadav 48 (83m 57b 3x4 1x6) SR: 84.21
+4161~2~
+4161~2~24.1
+4161~2~0
+4161~2~Chahal to Fakhar Zaman, no run, defended into the off side with soft hands
+4161~2~END OF OVER:24 | 4 Runs 1 Wkt | PAK: 117/2 (185 runs required from 96 balls, RR: 4.87, RRR: 11.56)
+4161~2~
+4161~2~    Fakhar Zaman60 (69b)
+4161~2~
+4161~2~    Kuldeep Yadav6-0-26-1
+4161~2~    Yuzvendra Chahal4-0-24-0
+4161~2~
+4161~2~You can soon catch that replay on Hotstar. Whatever you do, don't miss that. Simply sensational. India desperately needed that wicket and Kuldeep has delivered. And just as he delivered that wicket, Kohli too is back with the controls.
+4161~2~
+4161~2~24.2
+4161~2~1
+4161~2~Chahal to Fakhar Zaman, 1 run, taps to point, wants a single but is sent back. The throw is wide at the striker's end and they get an over-throw. Vijay is livid with himself. Needed a better throw.
+4161~2~
+4161~2~24.3
+4161~2~1
+4161~2~Chahal to Mohammad Hafeez, 1 run, sharp turn back in, gets a thickish inside edge to square leg
+4161~2~
+4161~2~24.4
+4161~2~0
+4161~2~Chahal to Fakhar Zaman, no run, works this with the spin to midwicket
+4161~2~
+4161~2~24.5
+4161~2~1
+4161~2~Chahal to Fakhar Zaman, 1 run, wrong'un wich he picks and taps to the off side for a single
+4161~2~
+4161~2~24.6
+4161~2~6
+4161~2~Chahal to Mohammad Hafeez, SIX runs, he's clobbered this sweep 15 rows back at deep midwicket. Not quite the length for the stroke but he took him on bravely and let his timing do the rest.
+4161~2~
+4161~2~25.1
+4161~2~0
+4161~2~Kuldeep Yadav to Fakhar Zaman, no run, sharp turn off a length, beaten on a forward push
+4161~2~END OF OVER:25 | 9 Runs | PAK: 126/2 (211 runs required from 25 overs, RR: 5.04, RRR: 8.44)
+4161~2~
+4161~2~    Mohammad Hafeez7 (2b)
+4161~2~    Fakhar Zaman62 (73b)
+4161~2~
+4161~2~    Yuzvendra Chahal5-0-33-0
+4161~2~    Kuldeep Yadav6-0-26-1
+4161~2~
+4161~2~
+4161~2~25.2
+4161~2~W
+4161~2~Kuldeep Yadav to Fakhar Zaman, OUT, he's top-edged this sweep to short fine. What a tame end to a promising innings. This was tossed up, he was sweeping against the turn, didn't get on top of the bounce and ended up giving a dolly to Chahal. Back-to-back wickets for Kuldeep. This is quickly slipping away from Pakistan.
+4161~2~
+4161~2~Fakhar Zaman c Chahal b Kuldeep Yadav 62 (112m 75b 7x4 1x6) SR: 82.66
+4161~2~
+4161~2~25.3
+4161~2~0
+4161~2~Kuldeep Yadav to Sarfaraz Ahmed, no run, looking to sweep, then tries to squeeze a drive, in the end gets into a tangle, squirts this back into his pad
+4161~2~
+4161~2~25.4
+4161~2~0
+4161~2~Kuldeep Yadav to Sarfaraz Ahmed, no run, toe-ends a sweep to Kohli at short midwicket
+4161~2~
+4161~2~25.5
+4161~2~0
+4161~2~Kuldeep Yadav to Sarfaraz Ahmed, no run, wrong'un on a length, defended back
+4161~2~
+4161~2~25.6
+4161~2~0
+4161~2~Kuldeep Yadav to Sarfaraz Ahmed, no run, lunges forward and defends back, excellent stop off his own bowling.
+4161~2~
+4161~2~26.1
+4161~2~2
+4161~2~Pandya to Mohammad Hafeez, 2 runs, driven through the line to sweeper cover
+4161~2~END OF OVER:26 | (wicket maiden) | PAK: 126/3 (211 runs required from 24 overs, RR: 4.84, RRR: 8.79)
+4161~2~
+4161~2~    Sarfaraz Ahmed0 (4b)
+4161~2~    Mohammad Hafeez7 (2b)
+4161~2~
+4161~2~    Kuldeep Yadav7-1-26-2
+4161~2~    Yuzvendra Chahal5-0-33-0
+4161~2~
+4161~2~
+4161~2~26.2
+4161~2~0
+4161~2~Pandya to Mohammad Hafeez, no run, shows the full face of the bat to drive to mid-off
+4161~2~
+4161~2~26.3
+4161~2~0
+4161~2~Pandya to Mohammad Hafeez, no run, hops back and defends to the man coming in from point
+4161~2~
+4161~2~26.4
+4161~2~1w
+4161~2~Pandya to Mohammad Hafeez, 1 wide, slips this slower bouncer down leg, Hafeez wanted to pull but let it go in the end
+4161~2~
+4161~2~26.4
+4161~2~0
+4161~2~Pandya to Mohammad Hafeez, no run, hops back and punches to point
+4161~2~
+4161~2~26.5
+4161~2~W
+4161~2~Pandya to Mohammad Hafeez, OUT, he's picked out the lone man at deep square. Oh, dear. What have you done, Hafeez? Elegantly flicked but timed it a bit too well. Pandya's turn to make a splash. How this game has turned.
+4161~2~
+4161~2~Mohammad Hafeez c Shankar b Pandya 9 (13m 7b 0x4 1x6) SR: 128.57
+4161~2~
+4161~2~26.6
+4161~2~W
+4161~2~Pandya to Shoaib Malik, OUT, oh, it's a golden duck! The extra bounce from Hardik does the trick. Effort ball, got this to bounce off a length, just around off, Malik with a feeble push from the crease and ends up chopping on. Didn't ride the bounce, was perhaps surprised by it too. If that's the last we've seen of Malik in this World Cup, it'll be a bit sad. But he's now got two ducks in a row.
+4161~2~
+4161~2~Shoaib Malik b Pandya 0 (3m 1b 0x4 0x6) SR: 0.00
+4161~2~
+4161~2~Malik, who received public backing from captain and coach, walks out. Probably his last outing against India. Pressure. This is the game, right here. Has no option but to get on with it right from the start.
+4161~2~
+4161~2~27.1
+4161~2~0
+4161~2~Kuldeep Yadav to Sarfaraz Ahmed, no run, lunges forward and defends
+4161~2~END OF OVER:27 | 3 Runs 2 Wkts | PAK: 129/5 (173 runs required from 78 balls, RR: 4.77, RRR: 13.30)
+4161~2~
+4161~2~    Sarfaraz Ahmed0 (4b)
+4161~2~
+4161~2~    Hardik Pandya5-0-29-2
+4161~2~    Kuldeep Yadav7-1-26-2
+4161~2~
+4161~2~
+4161~2~27.2
+4161~2~0
+4161~2~Kuldeep Yadav to Sarfaraz Ahmed, no run, eases this wrong'un back to the bowler
+4161~2~
+4161~2~27.3
+4161~2~1
+4161~2~Kuldeep Yadav to Sarfaraz Ahmed, 1 run, works this into the gap at square leg to get off the mark
+4161~2~
+4161~2~27.4
+4161~2~0
+4161~2~Kuldeep Yadav to Imad Wasim, no run, gets outside the line of the stumps and blocks
+4161~2~
+4161~2~27.5
+4161~2~1
+4161~2~Kuldeep Yadav to Imad Wasim, 1 run, slaps this to sweeper cover
+4161~2~
+4161~2~27.6
+4161~2~1
+4161~2~Kuldeep Yadav to Sarfaraz Ahmed, 1 run, whips this to deep midwicket
+4161~2~
+4161~2~DrAmit: "Quick shout.. What's the DL par score and what's the win predictor?" -- Oh, don't worry about it. Pakistan have lost 4 for not much and are too far behind.
+4161~2~
+4161~2~28.1
+4161~2~0
+4161~2~Pandya to Sarfaraz Ahmed, no run, angles in a full ball from wide of the crease, squirted back
+4161~2~
+4161~2~Pandya on a hat-trick
+4161~2~END OF OVER:28 | 3 Runs | PAK: 132/5 (205 runs required from 22 overs, RR: 4.71, RRR: 9.31)
+4161~2~
+4161~2~    Sarfaraz Ahmed2 (8b)
+4161~2~    Imad Wasim1 (2b)
+4161~2~
+4161~2~    Kuldeep Yadav8-1-29-2
+4161~2~    Hardik Pandya5-0-29-2
+4161~2~
+4161~2~
+4161~2~28.2
+4161~2~0
+4161~2~Pandya to Sarfaraz Ahmed, no run, ripper of a short ball, Sarfraz takes a couple of steps out and then fends. Hit him on the shoulder and lobbed up.
+4161~2~
+4161~2~28.3
+4161~2~0
+4161~2~Pandya to Sarfaraz Ahmed, no run, pushes this incoming length ball to midwicket
+4161~2~
+4161~2~28.4
+4161~2~1
+4161~2~Pandya to Sarfaraz Ahmed, 1 run, tucks this into the gap at square leg
+4161~2~
+4161~2~28.5
+4161~2~0
+4161~2~Pandya to Imad Wasim, no run, right behind the line as he defends back this length delivery
+4161~2~
+4161~2~28.6
+4161~2~4
+4161~2~Pandya to Imad Wasim, FOUR runs, pulled behind square, neatly played even though this was in the air. Races away. Welcome boundary
+4161~2~
+4161~2~29.1
+4161~2~0
+4161~2~Kuldeep Yadav to Sarfaraz Ahmed, no run, breaks back in from a length outside off, defended back
+4161~2~END OF OVER:29 | 5 Runs | PAK: 137/5 (200 runs required from 21 overs, RR: 4.72, RRR: 9.52)
+4161~2~
+4161~2~    Imad Wasim5 (4b)
+4161~2~    Sarfaraz Ahmed3 (12b)
+4161~2~
+4161~2~    Hardik Pandya6-0-34-2
+4161~2~    Kuldeep Yadav8-1-29-2
+4161~2~
+4161~2~
+4161~2~29.2
+4161~2~1
+4161~2~Kuldeep Yadav to Sarfaraz Ahmed, 1 run, eases this googly to long-off
+4161~2~
+4161~2~29.3
+4161~2~1
+4161~2~Kuldeep Yadav to Imad Wasim, 1 run, rocks back and cuts to deep cover. Jadeja with the mopping up
+4161~2~
+4161~2~29.4
+4161~2~0
+4161~2~Kuldeep Yadav to Sarfaraz Ahmed, no run, skids one through on a length, squirted back
+4161~2~
+4161~2~29.5
+4161~2~0
+4161~2~Kuldeep Yadav to Sarfaraz Ahmed, no run, gets well forward and smothers this
+4161~2~
+4161~2~29.6
+4161~2~1
+4161~2~Kuldeep Yadav to Sarfaraz Ahmed, 1 run, worked with the spin to deep midwicket
+4161~2~
+4161~2~30.1
+4161~2~1
+4161~2~Pandya to Sarfaraz Ahmed, 1 run, guided down to square leg for a run
+4161~2~
+4161~2~Hi, Danyal back now.
+4161~2~END OF OVER:30 | 3 Runs | PAK: 140/5 (197 runs required from 20 overs, RR: 4.66, RRR: 9.85)
+4161~2~
+4161~2~    Sarfaraz Ahmed5 (17b)
+4161~2~    Imad Wasim6 (5b)
+4161~2~
+4161~2~    Kuldeep Yadav9-1-32-2
+4161~2~    Hardik Pandya6-0-34-2
+4161~2~
+4161~2~Pakistan tottering. Time to grab dinner. Danyal is into the hot seat for one last stint tonight
+4161~2~
+4161~2~30.2
+4161~2~1
+4161~2~Pandya to Imad Wasim, 1 run, width, and Imad slashes it away to the offside
+4161~2~
+4161~2~30.3
+4161~2~1
+4161~2~Pandya to Sarfaraz Ahmed, 1 run, shorter this time, pulled down to fine leg
+4161~2~
+4161~2~30.4
+4161~2~1
+4161~2~Pandya to Imad Wasim, 1 run, slower bouncer. Imad works it down to square leg
+4161~2~
+4161~2~30.5
+4161~2~1
+4161~2~Pandya to Sarfaraz Ahmed, 1 run, punched through the offside. Five singles in a row
+4161~2~
+4161~2~30.6
+4161~2~1
+4161~2~Pandya to Imad Wasim, 1 run, bouncer, helped to fine leg. Six off the over, and the asking rate climbs above 10
+4161~2~
+4161~2~31.1
+4161~2~1
+4161~2~Bumrah to Imad Wasim, 1 run, tucked away to the onside for a single
+4161~2~
+4161~2~balaji: "what is the device in umpire Bruce Oxenford's hand?" That's a shield. So he can put his arm up, quick as a flash, and stop the ball from smashing into his face. Trusts his reflexes, does old Bruce
+4161~2~END OF OVER:31 | 6 Runs | PAK: 146/5 (191 runs required from 19 overs, RR: 4.70, RRR: 10.05)
+4161~2~
+4161~2~    Imad Wasim9 (8b)
+4161~2~    Sarfaraz Ahmed8 (20b)
+4161~2~
+4161~2~    Hardik Pandya7-0-40-2
+4161~2~    Kuldeep Yadav9-1-32-2
+4161~2~
+4161~2~
+4161~2~31.2
+4161~2~1
+4161~2~Bumrah to Sarfaraz Ahmed, 1 run, turned around to midwicket. They think about two but it's India, not Pakistan in the field. So they decide against it
+4161~2~
+4161~2~31.3
+4161~2~0
+4161~2~Bumrah to Imad Wasim, no run, jabbed to point
+4161~2~
+4161~2~31.4
+4161~2~1
+4161~2~Bumrah to Imad Wasim, 1 run, an overthrow allows the pair to steal a single
+4161~2~
+4161~2~31.5
+4161~2~1
+4161~2~Bumrah to Sarfaraz Ahmed, 1 run, bouncer, Sarfaraz rises to greet the bounce and tickles it away to third man. The pair are rotating the strike well, but the time for that is perhaps long past
+4161~2~
+4161~2~31.6
+4161~2~4
+4161~2~Bumrah to Imad Wasim, FOUR runs, excellent shot. Almost head height, that bouncer but Imad kept it down and carved it to cow corner, where it scoots along to the boundary
+4161~2~
+4161~2~32.1
+4161~2~0
+4161~2~Shankar to Sarfaraz Ahmed, no run, Safaraz tries to open up the offside, but strikes it straight to point. Looks like they still ant to attack Shankar
+4161~2~
+4161~2~And on that note, it's the final drinks break
+4161~2~
+4161~2~Kashif: "I want... No I demand a refund from PCB for my tickets on the Pak WC matches and also to pay for time lost watching them..... Could have just spent this time on doing something useful" Well, I'll broadcast your request, but doubt you'll get far
+4161~2~END OF OVER:32 | 8 Runs | PAK: 154/5 (183 runs required from 18 overs, RR: 4.81, RRR: 10.16)
+4161~2~
+4161~2~    Imad Wasim15 (12b)
+4161~2~    Sarfaraz Ahmed10 (22b)
+4161~2~
+4161~2~    Jasprit Bumrah5-0-23-0
+4161~2~    Hardik Pandya7-0-40-2
+4161~2~
+4161~2~
+4161~2~32.2
+4161~2~0
+4161~2~Shankar to Sarfaraz Ahmed, no run, tight line, wicket-to-wicket, driven right back to the bowler
+4161~2~
+4161~2~32.3
+4161~2~0
+4161~2~Shankar to Sarfaraz Ahmed, no run, finds the fielder again. India's dominance over every aspect of this match is something to behold
+4161~2~
+4161~2~32.4
+4161~2~1w
+4161~2~Shankar to Sarfaraz Ahmed, 1 wide, dragged it down to the onside
+4161~2~
+4161~2~32.4
+4161~2~0
+4161~2~Shankar to Sarfaraz Ahmed, no run, full and sliced to point. Jadeja stationed there puts in a dive and saves a few runs
+4161~2~
+4161~2~32.5
+4161~2~1
+4161~2~Shankar to Sarfaraz Ahmed, 1 run, Sarfaraz finally gets off the strike with a straight drive
+4161~2~
+4161~2~32.6
+4161~2~1
+4161~2~Shankar to Imad Wasim, 1 run, gets it away to square leg. Just three from that over
+4161~2~
+4161~2~Beginning to drizzle once more. Some umbrellas going up
+4161~2~
+4161~2~33.1
+4161~2~0
+4161~2~Bumrah to Imad Wasim, no run, good-looking straight drive
+4161~2~END OF OVER:33 | 3 Runs | PAK: 157/5 (180 runs required from 17 overs, RR: 4.75, RRR: 10.58)
+4161~2~
+4161~2~    Imad Wasim16 (13b)
+4161~2~    Sarfaraz Ahmed11 (27b)
+4161~2~
+4161~2~    Vijay Shankar4.2-0-21-1
+4161~2~    Jasprit Bumrah5-0-23-0
+4161~2~
+4161~2~
+4161~2~33.2
+4161~2~4
+4161~2~Bumrah to Imad Wasim, FOUR runs, biffed straight down the ground. Nearly takes the umpire with him. Most importantly, gets a boundary for Pakistan. They need several more
+4161~2~
+4161~2~33.3
+4161~2~1
+4161~2~Bumrah to Imad Wasim, 1 run, worked to the onside
+4161~2~
+4161~2~33.4
+4161~2~1lb
+4161~2~Bumrah to Sarfaraz Ahmed, 1 leg bye, dragged down legside, a muffled appeal, but never really anything in it
+4161~2~
+4161~2~33.5
+4161~2~1
+4161~2~Bumrah to Imad Wasim, 1 run, low full toss and Imad takes mid-off on with a quick single
+4161~2~
+4161~2~33.6
+4161~2~1
+4161~2~Bumrah to Sarfaraz Ahmed, 1 run, guided down to third man. Eight off that over
+4161~2~
+4161~2~34.1
+4161~2~W
+4161~2~Shankar to Sarfaraz Ahmed, OUT, and gone! The Pakistan captain drags on. Looked to drive expansively through the offside. gets an inside edge instead, and the ball clatters into leg stump. Another nail in an already tightly secured Pakistan coffin
+4161~2~
+4161~2~Sarfaraz Ahmed b Shankar 12 (42m 30b 0x4 0x6) SR: 40.00
+4161~2~
+4161~2~Mirza Karamat B: "Looks like Micky Arthur is holding his Resignation in the dressing room." Bleak. Have some mercy, mate
+4161~2~END OF OVER:34 | 8 Runs | PAK: 165/5 (172 runs required from 16 overs, RR: 4.85, RRR: 10.75)
+4161~2~
+4161~2~    Sarfaraz Ahmed12 (29b)
+4161~2~    Imad Wasim22 (17b)
+4161~2~
+4161~2~    Jasprit Bumrah6-0-30-0
+4161~2~    Vijay Shankar4.2-0-21-1
+4161~2~
+4161~2~
+4161~2~34.2
+4161~2~0
+4161~2~Shankar to Shadab Khan, no run, drives on the full
+4161~2~
+4161~2~34.3
+4161~2~1
+4161~2~Shankar to Shadab Khan, 1 run, off the mark with a drive off a half-volley
+4161~2~
+4161~2~34.4
+4161~2~0
+4161~2~Shankar to Imad Wasim, no run, short of a length and the extra bounce does Imad
+4161~2~
+4161~2~34.5
+4161~2~0
+4161~2~Shankar to Imad Wasim, no run, drives straight back to Shankar
+4161~2~
+4161~2~34.6
+4161~2~0
+4161~2~Shankar to Imad Wasim, no run, straight to point
+4161~2~
+4161~2~ICC, Please shift few matches to Chennai, we need some rain." -- Savage.
+4161~2~
+4161~2~6.52pm Live visuals from Manchester has Kohli chilling in the dressing room. He exudes the body language of someone who knows there's little chance of a resumption. Some of the players have changed into their training gear. Is that a sign?
+4161~2~
+4161~2~Kartik: "Vijay Shankar's dibbly-dobblies warrant selection for the rest of the WC. Remember exactly how India won the 1983 WC. I see a Madan Lal/Binny/Amarnath element to Vijay Shankar's bowling. " -- I wonder if you've seen a lot of the 1983 film's build up. haha
+4161~2~
+4161~2~6.45pm Good news, or is it? The covers are coming off. But that doesn't necessarily mean chances of play has brightened. They need time to take the covers off, which I find strange. Sometimes, it's almost as if they've taken longer to peel the covers off than the time play has been held up because of the drizzle.
+4161~2~
+4161~2~We could be down to a few minutes before a final call. This is all but over. The crowd has thinned, the hover covers are on, it's dark and gloomy overhead.
+4161~2~
+4161~2~Right, this has been an absolute pleasure, and the viewers have just poured in. I'm handing over to Shashank to take you through to the end.
+4161~2~
+4161~2~06:35pm The rain has relented somewhat, but the covers remain in place for now. Even if they get them off, it might be hard to get play started before the cut-off time.
+4161~2~
+4161~2~06:30pm Cut-off time, for those asking, is 19:15, which is 45 minutes from now
+4161~2~
+4161~2~Abhishek: "Is there any chance for Pakistan, in case rain stops, coz I would have loved seeing a bit of a fight from here on, maybe a Pandyaesque innings to get them near 250-270...would have made things interesting, but other than that, hats off to Men in Blue, a near perfect outing, just hope Bhuvi's Ok, coz, his injury would cause selection headaches, more for his batting at no 8." I don't know what's less likely, the rain relenting or the Pak lower order showing fight from this situation.
+4161~2~
+4161~2~Hammad Afzal: "What disappointment this turned out to be! From golden age of Pakistan cricket when Pakistan used to be the Asian powerhouse of cricket we have come to a time where India is so far ahead that these two teams simply do not constitute a contest anymore, let alone the greatest rivalry in world cricket!"
+4161~2~
+4161~2~06:20pm Right, so rain has stopped play, and India will win by 86 runs should play not resume. We will keep you updated, and be back should we have further information.
+4161~2~
+4161~2~Why not have a read of this cracking interview of Vijay Shankar in the break?
+4161~2~
+4161~2~Satwik: "How well has Vijay Shankar done his job for the team. Stepped in at a critical time to fill in for Bhuvi." No question. Some of you were upset at how he batted, but he's had an excellent game.
+4161~2~
+4161~2~And the rain is heavy enough to stop play. Pakistan are 86 runs behind currently. Par score is 252
+4161~2~END OF OVER:35 | 1 Run 1 Wkt | PAK: 166/6 (171 runs required from 15 overs, RR: 4.74, RRR: 11.40)
+4161~2~
+4161~2~    Imad Wasim22 (20b)
+4161~2~    Shadab Khan1 (2b)
+4161~2~
+4161~2~    Vijay Shankar5.2-0-22-2
+4161~2~    Jasprit Bumrah6-0-30-0
+4161~2~
+4161~2~
+4161~2~35.1
+4161~2~1
+4161~2~Chahal to Shadab Khan, 1 run, drilled to wide long-off
+4161~2~
+4161~2~Let's go. Get on with it. Players are back on, umpires call for play.......
+4161~2~
+4161~2~7.00pm Play to resume in 10 minutes. Will be a 40-over game. Pakistan need 136 off 30 balls. The revised target is 302. "This is even beyond Dre Russ," Saurabh Somani belts out from the desk behind me.
+4161~2~
+4161~2~Maaz Abbasi: "There should be a provision in a situation like this where both captains can agree to call play of. Doubt either India or Pakistan want to resume play and risk injury " -- Many other things to be considered here. Like fans, who've paid big money. Broadcasters, sponsors etc.
+4161~2~
+4161~2~Azweer has a plea: "
+4161~2~35.2
+4161~2~1w
+4161~2~Chahal to Imad Wasim, 1 wide, drifts this wrong'un way outside the wide line
+4161~2~
+4161~2~35.2
+4161~2~1
+4161~2~Chahal to Imad Wasim, 1 run, cuts to deep point, Rahul with the mopping up
+4161~2~
+4161~2~35.3
+4161~2~1
+4161~2~Chahal to Shadab Khan, 1 run, nice flight, lands this on off, dips on Shadab who squeezes this wide of point
+4161~2~
+4161~2~35.4
+4161~2~0
+4161~2~Chahal to Imad Wasim, no run, through with the pull even before the ball arrived, this was another googly.
+4161~2~
+4161~2~35.5
+4161~2~1
+4161~2~Chahal to Imad Wasim, 1 run, toe-ends this slog to long-on, fetched it from way outside off
+4161~2~
+4161~2~35.6
+4161~2~1
+4161~2~Chahal to Shadab Khan, 1 run, slices the drive up and over the infield, but only just.
+4161~2~
+4161~2~36.1
+4161~2~2
+4161~2~Bumrah to Shadab Khan, 2 runs, yorker-length on middle, squeezed to long-on
+4161~2~END OF OVER:36 | 6 Runs | PAK: 172/6 (130 runs required from 24 balls, RR: 4.77, RRR: 32.50)
+4161~2~
+4161~2~    Shadab Khan4 (5b)
+4161~2~    Imad Wasim24 (23b)
+4161~2~
+4161~2~    Yuzvendra Chahal6-0-39-0
+4161~2~    Vijay Shankar5.2-0-22-2
+4161~2~
+4161~2~Nagraj tells me the stands are emptying very quickly at Old Trafford
+4161~2~
+4161~2~36.2
+4161~2~1
+4161~2~Bumrah to Shadab Khan, 1 run, mistimes this wild slog to long-on
+4161~2~
+4161~2~36.3
+4161~2~0
+4161~2~Bumrah to Imad Wasim, no run, dipping slower delivery, squeezed to square leg
+4161~2~
+4161~2~sumo: "To me? The way KL played Amir was the best thing happened to India other than the win and the need for Vijay in the team as a bowler. KL was impeccable juding the line and length against Amir.
+4161~2~
+4161~2~By the way, Bumrah is bowling off a short run-up
+4161~2~
+4161~2~36.4
+4161~2~2
+4161~2~Bumrah to Imad Wasim, 2 runs, slashed up and over point, Chahal sprints around from third man to cut that off
+4161~2~
+4161~2~36.5
+4161~2~1
+4161~2~Bumrah to Imad Wasim, 1 run, makes room and punches this short of length delivery to cover
+4161~2~
+4161~2~36.6
+4161~2~4
+4161~2~Bumrah to Shadab Khan, FOUR runs, smashed back, mid-off didn't even try to stop. Picked the bones out of it
+4161~2~
+4161~2~37.1
+4161~2~1w
+4161~2~Chahal to Imad Wasim, 1 wide, slips this too far wide outside off, googly gone wrong.
+4161~2~END OF OVER:37 | 10 Runs | PAK: 182/6 (120 runs required from 18 balls, RR: 4.91, RRR: 40.00)
+4161~2~
+4161~2~    Shadab Khan11 (8b)
+4161~2~    Imad Wasim27 (26b)
+4161~2~
+4161~2~    Jasprit Bumrah7-0-40-0
+4161~2~    Yuzvendra Chahal6-0-39-0
+4161~2~
+4161~2~
+4161~2~37.1
+4161~2~4
+4161~2~Chahal to Imad Wasim, FOUR runs, muscled over mid-off, bounces away from the boundary rider. Hit really hard, skidded off the turf as it pitched on the wet outfield.
+4161~2~
+4161~2~37.2
+4161~2~2
+4161~2~Chahal to Imad Wasim, 2 runs, mistimes this hoick to wide long-on
+4161~2~
+4161~2~"Feels like the 2007 World Cup final," colleague Anuj chimes
+4161~2~
+4161~2~37.3
+4161~2~1
+4161~2~Chahal to Imad Wasim, 1 run, toe-ends this slog to midwicket
+4161~2~
+4161~2~37.4
+4161~2~2
+4161~2~Chahal to Shadab Khan, 2 runs, Rahul has put down a simple chance at deep midwicket. Shadab's slog across the line resulted in a top-edge, was in the air for a long long time. He just took it way too casually.
+4161~2~
+4161~2~37.5
+4161~2~2
+4161~2~Chahal to Shadab Khan, 2 runs, mistimes a lofted hit but it lands in no man's land, between cover and wide long-off
+4161~2~
+4161~2~37.6
+4161~2~2
+4161~2~Chahal to Shadab Khan, 2 runs, punched down to long-on, lazy work in the deep by Kuldeep. They take two more
+4161~2~
+4161~2~38.1
+4161~2~4
+4161~2~Bumrah to Imad Wasim, FOUR runs, belted down the ground! Backed away, got underneath the length and gave it a proper whack.
+4161~2~END OF OVER:38 | 14 Runs | PAK: 196/6 (106 runs required from 12 balls, RR: 5.15, RRR: 53.00)
+4161~2~
+4161~2~    Shadab Khan17 (11b)
+4161~2~    Imad Wasim34 (29b)
+4161~2~
+4161~2~    Yuzvendra Chahal7-0-53-0
+4161~2~    Jasprit Bumrah7-0-40-0
+4161~2~
+4161~2~
+4161~2~38.2
+4161~2~0
+4161~2~Bumrah to Imad Wasim, no run, slash and a miss
+4161~2~
+4161~2~38.3
+4161~2~1
+4161~2~Bumrah to Imad Wasim, 1 run, lofted down to deep cover
+4161~2~
+4161~2~38.4
+4161~2~1
+4161~2~Bumrah to Shadab Khan, 1 run, eased down to deep cover
+4161~2~
+4161~2~Let's just correct it to say TV media
+4161~2~
+4161~2~38.5
+4161~2~0
+4161~2~Bumrah to Imad Wasim, no run, the bouncer is too good for Imad as he backs away to pull, beaten for pace. Dhoni fumbled and this one nearly grazed the helmet behind him.
+4161~2~
+4161~2~38.6
+4161~2~5nb
+4161~2~Bumrah to Imad Wasim, (no ball) FOUR runs, upper cut, helped on its way. Bumrah bowls a no-ball says the umpire, frontfoot was okay. Poor call Free-hit coming up
+4161~2~
+4161~2~38.6
+4161~2~1
+4161~2~Bumrah to Imad Wasim, 1 run, squeezes the drive to mid-off
+4161~2~
+4161~2~39.1
+4161~2~0
+4161~2~Pandya to Imad Wasim, no run, walks across to scoop, misses.
+4161~2~END OF OVER:39 | 12 Runs | PAK: 208/6 (94 runs required from 6 balls, RR: 5.33, RRR: 94.00)
+4161~2~
+4161~2~    Imad Wasim44 (35b)
+4161~2~    Shadab Khan18 (12b)
+4161~2~
+4161~2~    Jasprit Bumrah8-0-52-0
+4161~2~    Yuzvendra Chahal7-0-53-0
+4161~2~
+4161~2~
+4161~2~39.2
+4161~2~1
+4161~2~Pandya to Imad Wasim, 1 run, slower length ball, crashed to sweeper cover
+4161~2~
+4161~2~39.3
+4161~2~1
+4161~2~Pandya to Shadab Khan, 1 run, slower delivery, dips on Shadab as he backs away and squeezes to long-off
+4161~2~
+4161~2~Hardik from around the stumps
+4161~2~
+4161~2~39.4
+4161~2~1
+4161~2~Pandya to Imad Wasim, 1 run, pulled to long-on, Jadeja with a jolly throw
+4161~2~
+4161~2~39.5
+4161~2~1
+4161~2~Pandya to Shadab Khan, 1 run, steered behind point
+4161~2~
+4161~2~39.6
+4161~2~0
+4161~2~Pandya to Imad Wasim, no run, looks to walk across and scoop, misses it by a long way. Emphatic win for India.
+4161~2~
+4161~2~Wait for the roar at OT. One ball left, the Indian flags are out. The fans are starting to dance.
+4161~2~
+4161~2~
+4161~2~

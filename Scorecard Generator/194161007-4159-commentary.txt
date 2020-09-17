@@ -1,0 +1,3416 @@
+4159~1~Team 1: Aaron Finch (c)!AJ Finch(c), David Warner!DA Warner, Usman Khawaja!UT Khawaja, Steve Smith!SPD Smith, Shaun Marsh!SE Marsh, Glenn Maxwell!GJ Maxwell, Alex Carey (wk)!AT Carey(wk), Pat Cummins!PJ Cummins, Mitchell Starc!MA Starc, Jason Behrendorff!JP Behrendorff, Kane Richardson!KW Richardson
+4159~1~Team 2: Dimuth Karunaratne (c)!FDM Karunaratne(c), Lahiru Thirimanne!HDRL Thirimanne, Kusal Perera (wk)!MDKJ Perera(wk), Kusal Mendis!BKG Mendis, Angelo Mathews!AD Mathews, Dhananjaya de Silva!DM de Silva, Thisara Perera!NLTC Perera, Isuru Udana!I Udana, Milinda Siriwardana!TAM Siriwardana, Nuwan Pradeep!N Pradeep, Lasith Malinga!SL Malinga
+4159~1~0.1
+4159~1~0
+4159~1~Malinga to Warner, no run, 129kph, inswinger, good length, he is forward and defending
+4159~1~
+4159~1~0.2
+4159~1~0
+4159~1~Malinga to Warner, no run, beaten trying to drive a ball that doesn't swing. It was full and hinted to shape back but just held the line as Warner groped at a drive
+4159~1~
+4159~1~One slip
+4159~1~
+4159~1~0.3
+4159~1~4
+4159~1~Malinga to Warner, FOUR runs, full and clipped beautifully wide of mid on! There is a midwicket in place but he juts used the pace and placed it between the two fielders and it raced away
+4159~1~
+4159~1~0.4
+4159~1~0
+4159~1~Malinga to Warner, no run, full on the pads, he clips this to midwicket
+4159~1~
+4159~1~0.5
+4159~1~0
+4159~1~Malinga to Warner, no run, 132kph, good length, angled across, he leaves watchfully
+4159~1~
+4159~1~0.6
+4159~1~0
+4159~1~Malinga to Warner, no run, 126kph, good length, hint of shape back, he is forward pushing a drive to mid off
+4159~1~
+4159~1~1.1
+4159~1~4
+4159~1~Pradeep to Finch, FOUR runs, magnificent drive on the rise past mid off! It was a decent length outside off, he stood tall on the front foot and crunched it past mid off
+4159~1~
+4159~1~Nuwan Pradeep
+4159~1~END OF OVER:1 | 4 Runs | AUS: 4/0 | RR: 4.00
+4159~1~
+4159~1~    David Warner4 (6b)
+4159~1~    Aaron Finch0 (0b)
+4159~1~
+4159~1~    Lasith Malinga1-0-4-0
+4159~1~
+4159~1~
+4159~1~1.2
+4159~1~0
+4159~1~Pradeep to Finch, no run, back of a length, he stands tall and defends with the full face
+4159~1~
+4159~1~1.3
+4159~1~0
+4159~1~Pradeep to Finch, no run, fuller on off, angled in, he drives firmly with the full face to mid on
+4159~1~
+4159~1~1.4
+4159~1~0
+4159~1~Pradeep to Finch, no run, good length, 138kph, angled into off, he defends pushing this to midwicket
+4159~1~
+4159~1~Two slips in
+4159~1~
+4159~1~1.5
+4159~1~4
+4159~1~Pradeep to Finch, FOUR runs, a pure straight drive down the ground! He did this with such ease. It was slightly over-pitched and he just leaned forward, eased the bat through the line and it went straight past the stumps to the sightscreen
+4159~1~
+4159~1~1.6
+4159~1~0
+4159~1~Pradeep to Finch, no run, good length, wide of off, he leaves this alone on the front foot
+4159~1~
+4159~1~2.1
+4159~1~0
+4159~1~Malinga to Warner, no run, 130kph, full and angled across, he reaches out to square drive but mis-times it back to the bowler
+4159~1~END OF OVER:2 | 8 Runs | AUS: 12/0 | RR: 6.00
+4159~1~
+4159~1~    Aaron Finch8 (6b)
+4159~1~    David Warner4 (6b)
+4159~1~
+4159~1~    Nuwan Pradeep1-0-8-0
+4159~1~    Lasith Malinga1-0-4-0
+4159~1~
+4159~1~
+4159~1~2.2
+4159~1~0
+4159~1~Malinga to Warner, no run, 134kph, good length, on leg, he is defending compactly from the crease
+4159~1~
+4159~1~2.3
+4159~1~0
+4159~1~Malinga to Warner, no run, 131kph, good length, fourth stump line, hint of shape back and he leaves
+4159~1~
+4159~1~Vikum: "Win or lose,Its good to see some cricket after the washouts. Go Lanka!!!"
+4159~1~
+4159~1~2.4
+4159~1~0
+4159~1~Malinga to Warner, no run, 129kph, fuller outside off, he drives on the rise, neatly to cover
+4159~1~
+4159~1~2.5
+4159~1~0
+4159~1~Malinga to Warner, no run, 131kph, very full, shaping into off, his head falls a touch as he drags a drive to mid on
+4159~1~
+4159~1~2.6
+4159~1~0
+4159~1~Malinga to Warner, no run, 130kph, good length, angled across and he leaves it alone on the front foot
+4159~1~
+4159~1~3.1
+4159~1~0
+4159~1~Pradeep to Finch, no run, 136kph, over-pitched, another superb straight drive but Pradeep sticks his right foot out like a goalkeeper and makes the stop
+4159~1~END OF OVER:3 | (maiden) | AUS: 12/0 | RR: 4.00
+4159~1~
+4159~1~    David Warner4 (12b)
+4159~1~    Aaron Finch8 (6b)
+4159~1~
+4159~1~    Lasith Malinga2-1-4-0
+4159~1~    Nuwan Pradeep1-0-8-0
+4159~1~
+4159~1~A maiden from Malinga
+4159~1~
+4159~1~3.2
+4159~1~0
+4159~1~Pradeep to Finch, no run, 137kph, good length, fourth stump line, he drives on the up powerfully straight to cover point
+4159~1~
+4159~1~3.3
+4159~1~0
+4159~1~Pradeep to Finch, no run, 136kph, short ball, he swivels to pull but it stops in the surface a touch, he mistimes it to mid on
+4159~1~
+4159~1~Vinod Rajpal: "3 overs done ; Aus yet to score a single or double !"
+4159~1~
+4159~1~3.4
+4159~1~4
+4159~1~Pradeep to Finch, FOUR runs, 138kph, wide of the crease angled in and he clips this beautifully wide of mid on and it just beats Isuru as he dives on the rope!
+4159~1~
+4159~1~3.5
+4159~1~1
+4159~1~Pradeep to Finch, 1 run, good length, he defends off a thick inside edge and it runs through forward square
+4159~1~
+4159~1~Isuru Udana is in a lot of pain. He jarred his left shoulder as he slid head first over the rope and into the fence. The physio has applied some ice and he's walking to the rooms. I'll update you as soon as we know more.
+4159~1~
+4159~1~3.6
+4159~1~0
+4159~1~Pradeep to Warner, no run, 141kph, short on the hip, he's back and tucking this to square leg
+4159~1~
+4159~1~4.1
+4159~1~1
+4159~1~Malinga to Finch, 1 run, 132kph, angled down leg, he glances this neatly down to fine leg
+4159~1~END OF OVER:4 | 5 Runs | AUS: 17/0 | RR: 4.25
+4159~1~
+4159~1~    David Warner4 (13b)
+4159~1~    Aaron Finch13 (11b)
+4159~1~
+4159~1~    Nuwan Pradeep2-0-13-0
+4159~1~    Lasith Malinga2-1-4-0
+4159~1~
+4159~1~Rajat Paul: "What is it looking like- a 350 pitch?" Pitch looks good for batting at the moment. Not a lot of swing or seam movement yet.
+4159~1~
+4159~1~4.2
+4159~1~2
+4159~1~Malinga to Warner, 2 runs, 130kph, full, he drives uppishly back past the bowler, straight of mid off for a couple
+4159~1~
+4159~1~4.3
+4159~1~0
+4159~1~Malinga to Warner, no run, 132kph, good length on middle, he defends solidly from the crease
+4159~1~
+4159~1~4.4
+4159~1~0
+4159~1~Malinga to Warner, no run, 130kph, good length, shaping back into leg, he works this off the pad to square leg
+4159~1~
+4159~1~Jaspal Singh Sa: "Something is definitely going on with Warner - he has been playing unlike himself in this World Cup." He is determined to bat deep.
+4159~1~
+4159~1~4.5
+4159~1~0
+4159~1~Malinga to Warner, no run, 132kph, half volley, he drives powerfully with a bottom hand punch to mid off
+4159~1~
+4159~1~4.6
+4159~1~0
+4159~1~Malinga to Warner, no run, 130kph, good length, tucking up Warner on the pads, he works this to square leg
+4159~1~
+4159~1~5.1
+4159~1~0
+4159~1~Pradeep to Finch, no run, 138kph, good length, angled into off, he defends with pad and bat close together
+4159~1~END OF OVER:5 | 3 Runs | AUS: 20/0 | RR: 4.00
+4159~1~
+4159~1~    David Warner6 (18b)
+4159~1~    Aaron Finch14 (12b)
+4159~1~
+4159~1~    Lasith Malinga3-1-7-0
+4159~1~    Nuwan Pradeep2-0-13-0
+4159~1~
+4159~1~Arseny: "Did Coulter-Nile get dropped?" He's sore and has been rested.
+4159~1~
+4159~1~5.2
+4159~1~0
+4159~1~Pradeep to Finch, no run, 140kph, half volley, he drives superbly wide of mid off but Malinga makes a diving stop
+4159~1~
+4159~1~Udana is back out there. His shoulder is OK. Good news
+4159~1~
+4159~1~5.3
+4159~1~1
+4159~1~Pradeep to Finch, 1 run, 139kph, shorter length, he's back and working this nicely through forward square to the sweeper
+4159~1~
+4159~1~5.4
+4159~1~2
+4159~1~Pradeep to Warner, 2 runs, 138kph, fuller outside off, he pushes nicely on the front foot through the gap at cover-point and the timing yields two
+4159~1~
+4159~1~5.5
+4159~1~0
+4159~1~Pradeep to Warner, no run, 135kph, fuller on off, he pushes firmly on the front foot to mid off
+4159~1~
+4159~1~5.6
+4159~1~0
+4159~1~Pradeep to Warner, no run, 141kph, good length, he pushes on the front foot to mid off
+4159~1~
+4159~1~Sendil: "It seems Warner dnt like oval as his previous score came of 49 dot balls today already he faced 18 balls "
+4159~1~
+4159~1~Alex - Do you really believe NCN is rested? He is definitely being dropped due to average bowling performance and only Australian team has the courage to drop MoM of first match for not meeting expectations of his primary role." He has ongoing back issues and can occasionally get tightness after back to back games.
+4159~1~
+4159~1~6.1
+4159~1~0
+4159~1~Malinga to Finch, no run, full outside off, he pushes on the front foot to point
+4159~1~END OF OVER:6 | 3 Runs | AUS: 23/0 | RR: 3.83
+4159~1~
+4159~1~    David Warner8 (21b)
+4159~1~    Aaron Finch15 (15b)
+4159~1~
+4159~1~    Nuwan Pradeep3-0-16-0
+4159~1~    Lasith Malinga3-1-7-0
+4159~1~
+4159~1~Tushar Patil: "
+4159~1~6.2
+4159~1~4
+4159~1~Malinga to Finch, FOUR runs, glorious straight drive! Finch looks in superb touch. It was over-pitched, he held his shape and balance and punched it down the ground
+4159~1~
+4159~1~6.3
+4159~1~2
+4159~1~Malinga to Finch, 2 runs, good length, into leg stump, he clips this neatly through square leg for a couple
+4159~1~
+4159~1~Malinga around the wicket to the right hander
+4159~1~
+4159~1~6.4
+4159~1~0
+4159~1~Malinga to Finch, no run, 131kph, good length, angled across the right hander and he leaves comfortably
+4159~1~
+4159~1~6.5
+4159~1~4
+4159~1~Malinga to Finch, FOUR runs, driven powerfully to mid off and Thisara misfields to allow four! He was struck really hard but Thisara rolled straight over it
+4159~1~
+4159~1~Roshy: "Finch's steady strike rate gives warner time to play soft (unlike his usual), but also gives him a platform to be there at the 25th. Its not IPL to score at 150 and get out after 15... He knows the middle order can be vulnerable, so he plays sensibly!!!"
+4159~1~
+4159~1~6.6
+4159~1~0
+4159~1~Malinga to Finch, no run, 131kph, half volley, he cracks a cover drive straight to the fielder
+4159~1~
+4159~1~Back over the wicket
+4159~1~
+4159~1~7.1
+4159~1~4
+4159~1~Pradeep to Warner, FOUR runs, slices a square drive through point! It was full and angled across, Warner reached out and placed it nicely through the gap at point and it raced away
+4159~1~END OF OVER:7 | 10 Runs | AUS: 33/0 | RR: 4.71
+4159~1~
+4159~1~    Aaron Finch25 (21b)
+4159~1~    David Warner8 (21b)
+4159~1~
+4159~1~    Lasith Malinga4-1-17-0
+4159~1~    Nuwan Pradeep3-0-16-0
+4159~1~
+4159~1~
+4159~1~7.2
+4159~1~0
+4159~1~Pradeep to Warner, no run, 140kph, fuller on off, he pushes a drive to cover
+4159~1~
+4159~1~7.3
+4159~1~2w
+4159~1~Pradeep to Warner, 2 wides, 133kph, bouncer, too high and called wide, the keeper can't glove it cleanly and they pinch an extra
+4159~1~
+4159~1~7.3
+4159~1~0
+4159~1~Pradeep to Finch, no run, 138kph, full, outside off, he leans into a nice drive straight to cover
+4159~1~
+4159~1~7.4
+4159~1~1
+4159~1~Pradeep to Finch, 1 run, full outside off again, he drives to cover and a misfield allows a single
+4159~1~
+4159~1~7.5
+4159~1~2
+4159~1~Pradeep to Warner, 2 runs, 137kph, good length, angled across, he pushes neatly through cover-point, they get one but another misfield allows an easy second
+4159~1~
+4159~1~7.6
+4159~1~1
+4159~1~Pradeep to Warner, 1 run, shorter length into the hip, he tucks this through square leg comfortably
+4159~1~
+4159~1~8.1
+4159~1~0
+4159~1~Udana to Warner, no run, good length, outside off, he leaves
+4159~1~END OF OVER:8 | 10 Runs | AUS: 43/0 | RR: 5.37
+4159~1~
+4159~1~    David Warner15 (25b)
+4159~1~    Aaron Finch26 (23b)
+4159~1~
+4159~1~    Nuwan Pradeep4-0-26-0
+4159~1~    Lasith Malinga4-1-17-0
+4159~1~
+4159~1~
+4159~1~8.2
+4159~1~0
+4159~1~Udana to Warner, no run, good length, on off, he defends from the crease
+4159~1~
+4159~1~8.3
+4159~1~0
+4159~1~Udana to Warner, no run, fuller on off, he pushes towards cover
+4159~1~
+4159~1~8.4
+4159~1~0
+4159~1~Udana to Warner, no run, back of a length on off, he is back and defending
+4159~1~
+4159~1~8.5
+4159~1~1
+4159~1~Udana to Warner, 1 run, angled into middle and leg, 128kph, he works this through midwicket
+4159~1~
+4159~1~8.6
+4159~1~0
+4159~1~Udana to Finch, no run, back of a length, 130kph, wide of off, he's back and punching this to cover
+4159~1~
+4159~1~Linu: "Is the ball swinging? " Not much Linu
+4159~1~
+4159~1~9.1
+4159~1~1
+4159~1~NLTC Perera to Warner, 1 run, 130kph, on the hip, he tucks this away through square leg for a single
+4159~1~
+4159~1~Thisara Perera into the attack
+4159~1~END OF OVER:9 | 1 Run | AUS: 44/0 | RR: 4.88
+4159~1~
+4159~1~    Aaron Finch26 (24b)
+4159~1~    David Warner16 (30b)
+4159~1~
+4159~1~    Isuru Udana1-0-1-0
+4159~1~    Nuwan Pradeep4-0-26-0
+4159~1~
+4159~1~No issues with Udana's shoulder after that collision with the fence earlier
+4159~1~
+4159~1~9.2
+4159~1~4
+4159~1~NLTC Perera to Finch, FOUR runs, cracked through cover and the skipper misses it! This is a 130kph half volley and he climbs into it, it just bounces awkwardly short of Dimuth it gets through him
+4159~1~
+4159~1~9.3
+4159~1~4
+4159~1~NLTC Perera to Finch, FOUR runs, short and wide and smoked through point! Bad ball this. 128kph, short and wide and a huge gap at cover-point was easy enough for Finch to find.
+4159~1~
+4159~1~9.4
+4159~1~0
+4159~1~NLTC Perera to Finch, no run, full on off, he drives firmly back to the bowler
+4159~1~
+4159~1~9.5
+4159~1~0
+4159~1~NLTC Perera to Finch, no run, 126kph, over-pitched on off, he drives, without much timing, to cover
+4159~1~
+4159~1~9.6
+4159~1~0
+4159~1~NLTC Perera to Finch, no run, 129kph, good length wide of off, he leaves this alone
+4159~1~
+4159~1~10.1
+4159~1~0
+4159~1~Udana to Warner, no run, 129kph, good length wide of off, he's back and punching this to backward point
+4159~1~END OF OVER:10 | 9 Runs | AUS: 53/0 | RR: 5.30
+4159~1~
+4159~1~    Aaron Finch34 (29b)
+4159~1~    David Warner17 (31b)
+4159~1~
+4159~1~    Thisara Perera1-0-9-0
+4159~1~    Isuru Udana1-0-1-0
+4159~1~
+4159~1~Rifdhy: "Misfieldings are not helping the bowlers to get that initial momentum they would like to have.."
+4159~1~
+4159~1~10.2
+4159~1~0
+4159~1~Udana to Warner, no run, good length, angled into off, he defends on the front foot
+4159~1~
+4159~1~Deshapriya Sena: "SL team looks like a bunch of school kids who is forced to play cricket on a gloomy day by a strict head master.No energy at all.No energy at all. Sad !" They have been untidy. But, Australia aren't motoring yet. That is one thing in their favour.
+4159~1~
+4159~1~10.3
+4159~1~0
+4159~1~Udana to Warner, no run, 128kph, full outside off, he pushes on the front foot, opening the face to point
+4159~1~
+4159~1~10.4
+4159~1~2
+4159~1~Udana to Warner, 2 runs, angled into leg, he clips this through midwicket for a couple
+4159~1~
+4159~1~10.5
+4159~1~1
+4159~1~Udana to Warner, 1 run, 129kph, short and wide, he's back and cutting with control to deep point
+4159~1~
+4159~1~10.6
+4159~1~1
+4159~1~Udana to Finch, 1 run, 128kph, good length, angled wide of off, he sits back and cuts with a bottom hand jab to deep point
+4159~1~
+4159~1~11.1
+4159~1~2lb
+4159~1~NLTC Perera to Finch, 2 leg byes, 125kph, shorter on the hip, it comes off the thigh guard and rolls away to square leg but the man is back, Finch sprints back to pinch two
+4159~1~END OF OVER:11 | 4 Runs | AUS: 57/0 | RR: 5.18
+4159~1~
+4159~1~    Aaron Finch35 (30b)
+4159~1~    David Warner20 (36b)
+4159~1~
+4159~1~    Isuru Udana2-0-5-0
+4159~1~    Thisara Perera1-0-9-0
+4159~1~
+4159~1~
+4159~1~11.2
+4159~1~0
+4159~1~NLTC Perera to Finch, no run, huge appeal for LBW given not out. Sri Lanka take their time but they eventually review. Good length, nipping back from outside off, he thrust bat and pad at the ball together. Was it pad first? It was. Just. Now is outside the line? The impact is umpire's call on the line. It was hitting the stumps. Not out remains. Sri Lanka keep their review
+4159~1~
+4159~1~11.3
+4159~1~1
+4159~1~NLTC Perera to Finch, 1 run, 133kph, good length outside off, he pushes slowly towards cover and they run a tight one. Good early call from Finch and response from Warner
+4159~1~
+4159~1~11.4
+4159~1~0
+4159~1~NLTC Perera to Warner, no run, 133kph, good length, angled across, he defends on the front foot to point
+4159~1~
+4159~1~11.5
+4159~1~1w
+4159~1~NLTC Perera to Warner, 1 wide, short and wide, 130kph, way too wide of off and called
+4159~1~
+4159~1~11.5
+4159~1~1
+4159~1~NLTC Perera to Warner, 1 run, 129kph, back of a length, he punches off the back foot to deep cover point
+4159~1~
+4159~1~11.6
+4159~1~1
+4159~1~NLTC Perera to Finch, 1 run, good length, 130kph, he pushes forward and gets a thick outside that runs to third man
+4159~1~
+4159~1~12.1
+4159~1~1
+4159~1~Udana to Finch, 1 run, short and wide, he sits back and thumps a cut shot to deep point
+4159~1~END OF OVER:12 | 6 Runs | AUS: 63/0 | RR: 5.25
+4159~1~
+4159~1~    Aaron Finch37 (34b)
+4159~1~    David Warner21 (38b)
+4159~1~
+4159~1~    Thisara Perera2-0-13-0
+4159~1~    Isuru Udana2-0-5-0
+4159~1~
+4159~1~Vinod Rajpal: "Hey Alex, can you throw some light on DRS (Umpire's call), why the review was retained , SL should have lost the review !!" The impact where ball hit pad was 50/50 in line or not according to hawkeye. So that is deemed umpire's call. Thus Sri Lanka keep the review
+4159~1~
+4159~1~12.2
+4159~1~1
+4159~1~Udana to Warner, 1 run, good length, angled into off, he's back and nudging this wide of mid on
+4159~1~
+4159~1~12.3
+4159~1~0
+4159~1~Udana to Finch, no run, fuller outside off, he punches on the up to cover
+4159~1~
+4159~1~12.4
+4159~1~2
+4159~1~Udana to Finch, 2 runs, 128kph, short outside off, he sits back and pulls behind square into the gap between deep square and fine leg for two
+4159~1~
+4159~1~12.5
+4159~1~0
+4159~1~Udana to Finch, no run, 130kph, good length, angled across and he defends on the front foot
+4159~1~
+4159~1~12.6
+4159~1~2
+4159~1~Udana to Finch, 2 runs, 135kph, shorter outside off, he's punching firmly off the back foot straight of deep cover-point for a couple
+4159~1~
+4159~1~John: "Honestly what is Warner doing? This would not even be positive batting for him in a test match" He has been very restrained. They have bowled better to him than Finch though.
+4159~1~
+4159~1~13.1
+4159~1~1
+4159~1~NLTC Perera to Warner, 1 run, 128kph, shorter outside off, he mistimes a cut but finds the gap getting it out to deep cover-point
+4159~1~END OF OVER:13 | 6 Runs | AUS: 69/0 | RR: 5.30
+4159~1~
+4159~1~    Aaron Finch42 (39b)
+4159~1~    David Warner22 (39b)
+4159~1~
+4159~1~    Isuru Udana3-0-11-0
+4159~1~    Thisara Perera2-0-13-0
+4159~1~
+4159~1~
+4159~1~13.2
+4159~1~0
+4159~1~NLTC Perera to Finch, no run, 133kph, full on middle and off, he drives to mid on
+4159~1~
+4159~1~13.3
+4159~1~1
+4159~1~NLTC Perera to Finch, 1 run, 131kph, full and a hint of shape in, he drives but gets it off the inside half of the bat through square leg to the sweeper
+4159~1~
+4159~1~13.4
+4159~1~1
+4159~1~NLTC Perera to Warner, 1 run, 130kph, good length, outside off, he's half forward pushing at it, getting a thick edge that runs past backward point, another misfield allows one
+4159~1~
+4159~1~13.5
+4159~1~1
+4159~1~NLTC Perera to Finch, 1 run, he walks at Thisara, who bangs in, he's standing up and working this off the hip through square leg
+4159~1~
+4159~1~13.6
+4159~1~0
+4159~1~NLTC Perera to Warner, no run, good length, on off, he's forward and defending back to the bowler
+4159~1~
+4159~1~14.1
+4159~1~0
+4159~1~de Silva to Finch, no run, full on off, driven back to the bowler
+4159~1~
+4159~1~Dhananjaya de Silva with a slip in
+4159~1~END OF OVER:14 | 4 Runs | AUS: 73/0 | RR: 5.21
+4159~1~
+4159~1~    David Warner24 (42b)
+4159~1~    Aaron Finch44 (42b)
+4159~1~
+4159~1~    Thisara Perera3-0-17-0
+4159~1~    Isuru Udana3-0-11-0
+4159~1~
+4159~1~
+4159~1~14.2
+4159~1~1
+4159~1~de Silva to Finch, 1 run, tossed up, he drives handsomely to long on for one
+4159~1~
+4159~1~14.3
+4159~1~1
+4159~1~de Silva to Warner, 1 run, he skips down to a full ball drifting in and clips it to deep long on
+4159~1~
+4159~1~14.4
+4159~1~1
+4159~1~de Silva to Finch, 1 run, flatter on leg, he sits back and works this through square leg
+4159~1~
+4159~1~14.5
+4159~1~0
+4159~1~de Silva to Warner, no run, drifting in and sliding on, he mistimes a drives off the thick inside half of the bat to midwicket
+4159~1~
+4159~1~14.6
+4159~1~0
+4159~1~de Silva to Warner, no run, tossed up, he pushes uppishly but safely to cover
+4159~1~
+4159~1~15.1
+4159~1~0
+4159~1~NLTC Perera to Finch, no run, good length, angled into off, he defends on the front foot
+4159~1~END OF OVER:15 | 3 Runs | AUS: 76/0 | RR: 5.06
+4159~1~
+4159~1~    David Warner25 (45b)
+4159~1~    Aaron Finch46 (45b)
+4159~1~
+4159~1~    Dhananjaya de Silva1-0-3-0
+4159~1~    Thisara Perera3-0-17-0
+4159~1~
+4159~1~Bharath Seervi: 2019 World Cup is Warner's slowest among all series/tournaments where he has batted 150+ balls
+4159~1~
+4159~1~15.2
+4159~1~1
+4159~1~NLTC Perera to Finch, 1 run, 131kph, good length wide of off, he drives fluently on the rise to deep cover-point
+4159~1~
+4159~1~15.3
+4159~1~1
+4159~1~NLTC Perera to Warner, 1 run, 125kph, back of a length outside off, he is back and defending with soft hands to cover-point and pinching one
+4159~1~
+4159~1~15.4
+4159~1~0
+4159~1~NLTC Perera to Finch, no run, 127kph, good length on off, he defends from the crease
+4159~1~
+4159~1~15.5
+4159~1~0
+4159~1~NLTC Perera to Finch, no run, 131kph, good length on off, he is on the walk defending with the full face
+4159~1~
+4159~1~Eeshan: "In my opinion this is really mature and sensible from Warner. Instead of getting out and putting pressure on Smith and Finch who he knows aren't in the best of forms either he tries to bat deep. He can rely on the firepower of Maxwell and Carey to give the score that push in the end and take it closer to 350 if Aus have wickets in hand."
+4159~1~
+4159~1~15.6
+4159~1~1
+4159~1~NLTC Perera to Finch, 1 run, 129kph, wide of off, he climbs into it, thumping a drive on the up to the sweeper in the deep at cover
+4159~1~
+4159~1~Thiru: "Why no one in Srilankan team making any noise at all ?.. even keeper kusal perera in mutrd mode. Need some energy boys. Feels like a test match. I fell asleep for a bit"
+4159~1~
+4159~1~16.1
+4159~1~0
+4159~1~de Silva to Finch, no run, flatter and shorter on off, he's back and working this to midwicket
+4159~1~END OF OVER:16 | 3 Runs | AUS: 79/0 | RR: 4.93
+4159~1~
+4159~1~    Aaron Finch48 (50b)
+4159~1~    David Warner26 (46b)
+4159~1~
+4159~1~    Thisara Perera4-0-20-0
+4159~1~    Dhananjaya de Silva1-0-3-0
+4159~1~
+4159~1~
+4159~1~16.2
+4159~1~1
+4159~1~de Silva to Finch, 1 run, tossed up on off, he drives firmly to long on
+4159~1~
+4159~1~16.3
+4159~1~0
+4159~1~de Silva to Warner, no run, drifting into off, he defends on the front foot
+4159~1~
+4159~1~No slip now
+4159~1~
+4159~1~16.4
+4159~1~W
+4159~1~de Silva to Warner, OUT, bowled him! Well bowled from Dhananjaya. Warner got in a tangle. It was a good length, drifting in and skidding on, Warner pressed forward initially, then pressed back to give room to cut but it was too full and it crashed into middle
+4159~1~
+4159~1~DA Warner b de Silva 26 (70m 48b 2x4 0x6) SR: 54.16
+4159~1~
+4159~1~16.5
+4159~1~0
+4159~1~de Silva to Khawaja, no run, drifts in a full delivery, defended
+4159~1~
+4159~1~Thanks, Alex. Here's Usman Khawaja in at No. 3
+4159~1~
+4159~1~Drinks Sri Lanka have done well there. Australia never got away. Despite some sloppy fielding the bowling was steady enough. Enough pressure yields a wicket. Shashank will step in for the first time today.
+4159~1~
+4159~1~16.6
+4159~1~0
+4159~1~de Silva to Khawaja, no run, shortens his length, he goes back into the crease and blocks
+4159~1~
+4159~1~17.1
+4159~1~1
+4159~1~NLTC Perera to Finch, 1 run, steered behind point, down to square third man. Impressive half-century for Finch. Has a job to do though
+4159~1~END OF OVER:17 | 1 Run 1 Wkt | AUS: 80/1 | RR: 4.70
+4159~1~
+4159~1~    Usman Khawaja0 (2b)
+4159~1~    Aaron Finch49 (52b)
+4159~1~
+4159~1~    Dhananjaya de Silva2-0-4-1
+4159~1~    Thisara Perera4-0-20-0
+4159~1~
+4159~1~
+4159~1~17.2
+4159~1~0
+4159~1~NLTC Perera to Khawaja, no run, slants a length delivery across, defended towards point
+4159~1~
+4159~1~17.3
+4159~1~0
+4159~1~NLTC Perera to Khawaja, no run, nice, tight line. Length on the stumps, hint of angle away, defended back
+4159~1~
+4159~1~17.4
+4159~1~1
+4159~1~NLTC Perera to Khawaja, 1 run, steered wide of point
+4159~1~
+4159~1~17.5
+4159~1~0
+4159~1~NLTC Perera to Finch, no run, touch fuller, around off, Finch is well forward as he stabs it away
+4159~1~
+4159~1~17.6
+4159~1~1
+4159~1~NLTC Perera to Finch, 1 run, cramped for room as he punches this wide of cover
+4159~1~
+4159~1~18.1
+4159~1~0
+4159~1~de Silva to Finch, no run, drifts away from the batsman, driven straight to cover
+4159~1~END OF OVER:18 | 3 Runs | AUS: 83/1 | RR: 4.61
+4159~1~
+4159~1~    Aaron Finch51 (55b)
+4159~1~    Usman Khawaja1 (5b)
+4159~1~
+4159~1~    Thisara Perera5-0-23-0
+4159~1~    Dhananjaya de Silva2-0-4-1
+4159~1~
+4159~1~
+4159~1~18.2
+4159~1~1
+4159~1~de Silva to Finch, 1 run, punched to mid-on for an easy single
+4159~1~
+4159~1~18.3
+4159~1~1
+4159~1~de Silva to Khawaja, 1 run, slider back in from around the stumps, eased wide of cover
+4159~1~
+4159~1~18.4
+4159~1~1
+4159~1~de Silva to Finch, 1 run, too short, he rocks back and slaps this to deep cover
+4159~1~
+4159~1~18.5
+4159~1~0
+4159~1~de Silva to Khawaja, no run, pushed through quicker on the stumps, kept out
+4159~1~
+4159~1~18.6
+4159~1~1
+4159~1~de Silva to Khawaja, 1 run, punched to deep cover again
+4159~1~
+4159~1~19.1
+4159~1~0
+4159~1~Pradeep to Khawaja, no run, beauty! Slants one across the batsman, beaten on the drive
+4159~1~END OF OVER:19 | 4 Runs | AUS: 87/1 | RR: 4.57
+4159~1~
+4159~1~    Usman Khawaja3 (8b)
+4159~1~    Aaron Finch53 (58b)
+4159~1~
+4159~1~    Dhananjaya de Silva3-0-8-1
+4159~1~    Thisara Perera5-0-23-0
+4159~1~
+4159~1~Rifdhy: "Bring on Siriwardane as he is a left arm spinner where it would help Sri Lanka against the set right-handed batsman Finch" -- The exact logic that has resulted in Bangladesh's undoing against top-quality opponents. They almost always hold back a left-arm spinner if a left-hand batsman is at the crease and vice-versa.
+4159~1~
+4159~1~19.2
+4159~1~4
+4159~1~Pradeep to Khawaja, FOUR runs, thick outside edge, races past the vacant third slip to the third man boundary. Lucky runs
+4159~1~
+4159~1~19.3
+4159~1~0
+4159~1~Pradeep to Khawaja, no run, dug in short on leg stump, Khawaja ducks under it and looks away as this zips over his helmet
+4159~1~
+4159~1~19.4
+4159~1~1
+4159~1~Pradeep to Khawaja, 1 run, angles this down to square third man
+4159~1~
+4159~1~19.5
+4159~1~1
+4159~1~Pradeep to Finch, 1 run, punched on the up to deep cover
+4159~1~
+4159~1~19.6
+4159~1~0
+4159~1~Pradeep to Khawaja, no run, skiddy bouncer, excellent bouncer. Seemed a lot faster than the 134kph on the speed gun. Khawaja was looking to sway out of the way but realised it was too quick and suddenly had to look away as he ducked.
+4159~1~
+4159~1~20.1
+4159~1~0
+4159~1~de Silva to Finch, no run, fuller and faster on the stumps, defended
+4159~1~END OF OVER:20 | 6 Runs | AUS: 93/1 | RR: 4.65
+4159~1~
+4159~1~    Usman Khawaja8 (13b)
+4159~1~    Aaron Finch54 (59b)
+4159~1~
+4159~1~    Nuwan Pradeep5-0-32-0
+4159~1~    Dhananjaya de Silva3-0-8-1
+4159~1~
+4159~1~
+4159~1~20.2
+4159~1~0
+4159~1~de Silva to Finch, no run, not much turn, just skids through on a length, punched back
+4159~1~
+4159~1~20.3
+4159~1~0
+4159~1~de Silva to Finch, no run, extra bounce off a length, turns this to short midwicket
+4159~1~
+4159~1~20.4
+4159~1~1
+4159~1~de Silva to Finch, 1 run, works this wide of midwicket as they jog the single
+4159~1~
+4159~1~Manav: "Warner was all guns blazing in IPL and looked like he never went away from international cricket but he's surely struggling to keep up with strike rate in WC. Surprising to see a dip in form so quickly." -- Just change in tactics, not a dip in form. He's wanting to bat through. More than capable of making up for a slow start
+4159~1~
+4159~1~20.5
+4159~1~1
+4159~1~de Silva to Khawaja, 1 run, driven into the gap at extra cover
+4159~1~
+4159~1~20.6
+4159~1~0
+4159~1~de Silva to Finch, no run, right back into the crease as he punches this to midwicket
+4159~1~
+4159~1~21.1
+4159~1~0
+4159~1~Pradeep to Khawaja, no run, huge appeal for lbw, will Sri Lanka review? No, they don't. Pradeep slants this across, Khawaja is looking to run it down to third man but is beaten. Played it with an angled bat. Appeared to be some sound as it passed through on real time, but nothing on snicko.
+4159~1~END OF OVER:21 | 2 Runs | AUS: 95/1 | RR: 4.52
+4159~1~
+4159~1~    Aaron Finch55 (64b)
+4159~1~    Usman Khawaja9 (14b)
+4159~1~
+4159~1~    Dhananjaya de Silva4-0-10-1
+4159~1~    Nuwan Pradeep5-0-32-0
+4159~1~
+4159~1~
+4159~1~21.2
+4159~1~1
+4159~1~Pradeep to Khawaja, 1 run, half-pulls this down to fine leg, this one rushed through
+4159~1~
+4159~1~21.3
+4159~1~0
+4159~1~Pradeep to Finch, no run, Beaten! Was looking to play a short-arm jab but this one nipped back in to cut into two halves. Excellent from Pradeep
+4159~1~
+4159~1~Two men out for the hook shot for Khawaja
+4159~1~
+4159~1~21.4
+4159~1~1
+4159~1~Pradeep to Finch, 1 run, attacks the stumps, Finch feels for this and squirts this off a thick inside edge to fine leg
+4159~1~
+4159~1~21.5
+4159~1~0
+4159~1~Pradeep to Khawaja, no run, excellent short ball, once again rushes through as Khawaja looks away and ducks simultaneously.
+4159~1~
+4159~1~21.6
+4159~1~0
+4159~1~Pradeep to Khawaja, no run, punches this full-length delivery to extra cover
+4159~1~
+4159~1~22.1
+4159~1~0
+4159~1~de Silva to Finch, no run, turns this flatter delivery on off-stump to midwicket
+4159~1~END OF OVER:22 | 2 Runs | AUS: 97/1 | RR: 4.40
+4159~1~
+4159~1~    Usman Khawaja10 (18b)
+4159~1~    Aaron Finch56 (66b)
+4159~1~
+4159~1~    Nuwan Pradeep6-0-34-0
+4159~1~    Dhananjaya de Silva4-0-10-1
+4159~1~
+4159~1~
+4159~1~22.2
+4159~1~0
+4159~1~de Silva to Finch, no run, good grab down leg. Short and sliding down, Finch was looking for a powerful sweep to beat short fine.
+4159~1~
+4159~1~22.3
+4159~1~2
+4159~1~de Silva to Finch, 2 runs, makes room and punches this past cover, down to the boundary rider but the running is top notch. Udana caught napping in the deep.
+4159~1~
+4159~1~22.4
+4159~1~1
+4159~1~de Silva to Finch, 1 run, drills this down to long-off to raise Australia's 100
+4159~1~
+4159~1~22.5
+4159~1~0
+4159~1~de Silva to Khawaja, no run, eases this to point from the crease
+4159~1~
+4159~1~22.6
+4159~1~W
+4159~1~de Silva to Khawaja, OUT, first Warner, now Khawaja and Sri Lanka back in this! This is nicely tossed up, drifting in from around the stumps, Khawaja looks to sweep - takes him on with the short boundary in sight - hits it well but picks out Udana at deep midwicket. Massive blow.
+4159~1~
+4159~1~UT Khawaja c Udana b de Silva 10 (21m 20b 1x4 0x6) SR: 50.00
+4159~1~
+4159~1~23.1
+4159~1~1
+4159~1~Pradeep to Finch, 1 run, slants this in from wide of the crease, tucked down to fine leg
+4159~1~
+4159~1~Smith the new man in. Pradeep to continue
+4159~1~END OF OVER:23 | 3 Runs 1 Wkt | AUS: 100/2 | RR: 4.34
+4159~1~
+4159~1~    Aaron Finch59 (70b)
+4159~1~
+4159~1~    Dhananjaya de Silva5-0-13-2
+4159~1~    Nuwan Pradeep6-0-34-0
+4159~1~
+4159~1~Sri Lankan fans - a question for you guys. Think it's fair Niroshan Dickwella has been left out? Over in Belgaum, he's just smashed a century to help Sri Lanka A to victory over a strong India A team.
+4159~1~
+4159~1~23.2
+4159~1~0
+4159~1~Pradeep to Smith, no run, short of length ball that nips back in from outside off, Smith is hit on the thigh pad as he hops across to whip it square
+4159~1~
+4159~1~23.3
+4159~1~1
+4159~1~Pradeep to Smith, 1 run, whipped to deep square to get off the mark
+4159~1~
+4159~1~Anand V: "Dhananjaya doing a Root here. Amazing how Australia don't have a frontline spinner even today."
+4159~1~
+4159~1~23.4
+4159~1~0
+4159~1~Pradeep to Finch, no run, attacks the stumps, gets this to jag back in off the seam, plays down the wrong line and squirts this off a thick inside edge to short midwicket
+4159~1~
+4159~1~23.5
+4159~1~0
+4159~1~Pradeep to Finch, no run, beaten on the pull. Had to fetch it from outside off, was too early into this stroke. Good effort ball from Pradeep.
+4159~1~
+4159~1~Matt C says: "Would hardly call losing a clearly out of touch Khawaja to make way for Steve Smith a "massive blow". Might even be a blessing. Finch and Smith perfectly suited to bat together." -- For Sri Lanka, it is.
+4159~1~
+4159~1~23.6
+4159~1~6
+4159~1~Pradeep to Finch, SIX runs, he's picked the bones out of this! Dropped short, looking to bowl a bouncer but this one doesn't bounce as much and Finch hammers this pull behind square. Sails into the stands. Was waiting for it and put it away disdainfully when it did.
+4159~1~
+4159~1~24.1
+4159~1~0
+4159~1~de Silva to Smith, no run, lunges forward and stabs this to short mid-on
+4159~1~END OF OVER:24 | 8 Runs | AUS: 108/2 | RR: 4.50
+4159~1~
+4159~1~    Aaron Finch66 (74b)
+4159~1~    Steven Smith1 (2b)
+4159~1~
+4159~1~    Nuwan Pradeep7-0-42-0
+4159~1~    Dhananjaya de Silva5-0-13-2
+4159~1~
+4159~1~
+4159~1~24.2
+4159~1~0
+4159~1~de Silva to Smith, no run, drilled back to the bowler
+4159~1~
+4159~1~24.3
+4159~1~0
+4159~1~de Silva to Smith, no run, punches to short midwicket, diving stop by the skipper
+4159~1~
+4159~1~24.4
+4159~1~1
+4159~1~de Silva to Smith, 1 run, turns this wide of square leg for a quick single
+4159~1~
+4159~1~danny: "The thing with Dickwella is that he is really unreliable and its terrifying watching him play coz you don't know what to expect and the fact that we don't really have a solid middle order means we can't really afford to have an opener going all out like that unlike a Indian or English team."
+4159~1~
+4159~1~24.5
+4159~1~1
+4159~1~de Silva to Finch, 1 run, squirts one off a thick inside edge to long-on
+4159~1~
+4159~1~24.6
+4159~1~0
+4159~1~de Silva to Smith, no run, good stop off his own bowling, this was hit back hard. Dhananjaya threw himself to his right to stop a certain single
+4159~1~
+4159~1~Sean Daniel: "It was a surprise that Dickwella was dropped.. Has a lot of talent especially his keeping behind the wickets always chirpy and full of energy.. he is defineletely a future prospect the team management should look to groom.."
+4159~1~
+4159~1~25.1
+4159~1~1
+4159~1~Udana to Finch, 1 run, slower and fuller on the stumps, eased to long-on
+4159~1~
+4159~1~Udana into the attack
+4159~1~END OF OVER:25 | 2 Runs | AUS: 110/2 | RR: 4.40
+4159~1~
+4159~1~    Steven Smith2 (7b)
+4159~1~    Aaron Finch67 (75b)
+4159~1~
+4159~1~    Dhananjaya de Silva6-0-15-2
+4159~1~    Nuwan Pradeep7-0-42-0
+4159~1~
+4159~1~Shamih: "How many international capped players are playing for Indian A and Sri Lankan A teams? Also Shehan Jayasuriya performing better than Dickwella in that series. Now you may guess my answer."
+4159~1~
+4159~1~Shashank! How you doooo'innnn ;)" -- As good as I've ever been. Now to hope Sri Lanka breathe some fire and we have a great contest
+4159~1~
+4159~1~25.2
+4159~1~1
+4159~1~Udana to Smith, 1 run, works this from outside off towards deep midwicket
+4159~1~
+4159~1~Meh: "
+4159~1~25.3
+4159~1~1
+4159~1~Udana to Finch, 1 run, cutter on a length, dabbed wide of the diving point fielder
+4159~1~
+4159~1~25.4
+4159~1~0
+4159~1~Udana to Smith, no run, goes full and across, Smith exposes middle and leg stump as he walks across to defend back
+4159~1~
+4159~1~Tharindu: "Forget about Dickwella.. I would love get Shehan Jayasuriya in to this SL team given the form he is in.. "
+4159~1~
+4159~1~25.5
+4159~1~2
+4159~1~Udana to Smith, 2 runs, whips this into the acres of open space at deep midwicket
+4159~1~
+4159~1~Chris: "Big mistake leaving out Dickwella, Tharanga, Chandimal and Dananjaya to be honest... dont know if anyone else agrees but these would've all been in my starting 11 "
+4159~1~
+4159~1~25.6
+4159~1~4
+4159~1~Udana to Smith, FOUR runs, full toss on middle and Smith wrists this imperiously to pick the gap at deep midwicket. Strong bottom hand and powerful wrists
+4159~1~
+4159~1~26.1
+4159~1~1w
+4159~1~de Silva to Finch, 1 wide, through with the pull even before the ball arrived, but this was slipping down leg.
+4159~1~END OF OVER:26 | 9 Runs | AUS: 119/2 | RR: 4.57
+4159~1~
+4159~1~    Steven Smith9 (11b)
+4159~1~    Aaron Finch69 (77b)
+4159~1~
+4159~1~    Isuru Udana4-0-20-0
+4159~1~    Dhananjaya de Silva6-0-15-2
+4159~1~
+4159~1~
+4159~1~26.1
+4159~1~0
+4159~1~de Silva to Finch, no run, punched back to the bowler
+4159~1~
+4159~1~26.2
+4159~1~1
+4159~1~de Silva to Finch, 1 run, eased down to long-on
+4159~1~
+4159~1~26.3
+4159~1~1
+4159~1~de Silva to Smith, 1 run, gets to the pitch and eases this down to long-on as they jog the single
+4159~1~
+4159~1~26.4
+4159~1~1
+4159~1~de Silva to Finch, 1 run, slapped to long-off, this was short and he made room to play the stroke
+4159~1~
+4159~1~26.5
+4159~1~0
+4159~1~de Silva to Smith, no run, gets well forward and defends
+4159~1~
+4159~1~26.6
+4159~1~1
+4159~1~de Silva to Smith, 1 run, whips this down to deep midwicket
+4159~1~
+4159~1~27.1
+4159~1~1
+4159~1~Udana to Smith, 1 run, steered down to square third man
+4159~1~
+4159~1~MadSL: "If you guys are considering the Sri Lanka A tour, you will never get Akila Dananjaya into your team. In almost every match he has been hit over 6 economy for no wickets. That's due to his action change."
+4159~1~END OF OVER:27 | 5 Runs | AUS: 124/2 | RR: 4.59
+4159~1~
+4159~1~    Steven Smith11 (14b)
+4159~1~    Aaron Finch71 (80b)
+4159~1~
+4159~1~    Dhananjaya de Silva7-0-20-2
+4159~1~    Isuru Udana4-0-20-0
+4159~1~
+4159~1~
+4159~1~27.2
+4159~1~1
+4159~1~Udana to Finch, 1 run, once again just a gentle little dab down to third man
+4159~1~
+4159~1~27.3
+4159~1~1
+4159~1~Udana to Smith, 1 run, walks across and whips this full delivery on off to Malinga at deep square leg
+4159~1~
+4159~1~For the moment, Udana is happy to just bowl length and angle it across
+4159~1~
+4159~1~27.4
+4159~1~1
+4159~1~Udana to Finch, 1 run, gorgeous straight dive, long-on comes around to cut that off
+4159~1~
+4159~1~ Chris: - What different result you would had have with all names mentioned by you in the team? What was the win loss ratio in the past when they were in the team?"
+4159~1~
+4159~1~27.5
+4159~1~0
+4159~1~Udana to Smith, no run, driven firmly but straight to mid-off
+4159~1~
+4159~1~Aniruddha: "
+4159~1~27.6
+4159~1~4
+4159~1~Udana to Smith, FOUR runs, smears this square drive behind point. Too full from Udana, made it easy as Smith shuffles across and then reached out to find the gap.
+4159~1~
+4159~1~28.1
+4159~1~4
+4159~1~de Silva to Finch, FOUR runs, he's helped this along to beat short fine. Poor, sliding down and all he had to do was get some bat. Easy pickings
+4159~1~END OF OVER:28 | 8 Runs | AUS: 132/2 | RR: 4.71
+4159~1~
+4159~1~    Steven Smith17 (18b)
+4159~1~    Aaron Finch73 (82b)
+4159~1~
+4159~1~    Isuru Udana5-0-28-0
+4159~1~    Dhananjaya de Silva7-0-20-2
+4159~1~
+4159~1~Binuj: "Shashank, I feel the selectors managed the best team given the circumstances. Dickwella, Chandimal et al have been repeated failures despite ample opportunities. High time Avishka thirimanne dimuth were given the chance to prove themselves, and to bring us of out if this rut! And we desperately need Mathews to step up, hes our asset."
+4159~1~
+4159~1~28.2
+4159~1~6
+4159~1~de Silva to Finch, SIX runs, he's heaved this deep into the stands at long-on! Saw it tossed up, got to the pitch and muscled it away. Races into the 80s with a 92-metre hit.
+4159~1~
+4159~1~28.3
+4159~1~6
+4159~1~de Silva to Finch, SIX runs, again! Thumped. Absolutely thumped. Too full, right into his swinging arc, Finch ain't gonna miss out. He's warmed up properly. No spin, no drift, angles in and boom!
+4159~1~
+4159~1~28.4
+4159~1~1w
+4159~1~de Silva to Finch, 1 wide, slides it down leg as he changes his angle to bowl from around the stumps
+4159~1~
+4159~1~28.4
+4159~1~1
+4159~1~de Silva to Finch, 1 run, leading edge, rolls past mid-off for a single. Better from Dhananjaya
+4159~1~
+4159~1~28.5
+4159~1~1
+4159~1~de Silva to Smith, 1 run, eased down to long-on
+4159~1~
+4159~1~28.6
+4159~1~1
+4159~1~de Silva to Finch, 1 run, quicker length ball on middle and leg, worked to deep square
+4159~1~
+4159~1~29.1
+4159~1~1
+4159~1~Malinga to Finch, 1 run, slips this on middle and leg, worked to deep square
+4159~1~
+4159~1~Malinga is back into the attack
+4159~1~END OF OVER:29 | 20 Runs | AUS: 152/2 | RR: 5.24
+4159~1~
+4159~1~    Aaron Finch91 (87b)
+4159~1~    Steven Smith18 (19b)
+4159~1~
+4159~1~    Dhananjaya de Silva8-0-40-2
+4159~1~    Isuru Udana5-0-28-0
+4159~1~
+4159~1~
+4159~1~29.2
+4159~1~1
+4159~1~Malinga to Smith, 1 run, banged in short but this isn't the Lasith of 2007, Smith gets on top of the bounce and nudges it gently into the leg side
+4159~1~
+4159~1~29.3
+4159~1~0
+4159~1~Malinga to Finch, no run, gentle tap into the off side as Malinga bowls a tight line.
+4159~1~
+4159~1~29.4
+4159~1~1w
+4159~1~Malinga to Finch, 1 wide, slower one down leg, Finch didn't pick it early, thought this was coming right at his body. Then realised it wasn't and tried to get down to lap, but missed
+4159~1~
+4159~1~29.4
+4159~1~1
+4159~1~Malinga to Finch, 1 run, squeezed into the leg side, past midwicket
+4159~1~
+4159~1~29.5
+4159~1~2
+4159~1~Malinga to Smith, 2 runs, pulled from outside off towards deep midwicket, Udana comes around to cut that off
+4159~1~
+4159~1~29.6
+4159~1~1
+4159~1~Malinga to Smith, 1 run, dipping yorker, Smith is a long way across as he tucks this down to fine leg
+4159~1~
+4159~1~30.1
+4159~1~4
+4159~1~Siriwardana to Smith, FOUR runs, long hop sliding down and Smith helps it along behind square.
+4159~1~END OF OVER:30 | 7 Runs | AUS: 159/2 | RR: 5.30
+4159~1~
+4159~1~    Steven Smith22 (22b)
+4159~1~    Aaron Finch93 (90b)
+4159~1~
+4159~1~    Lasith Malinga5-1-24-0
+4159~1~    Dhananjaya de Silva8-0-40-2
+4159~1~
+4159~1~
+4159~1~30.2
+4159~1~2
+4159~1~Siriwardana to Smith, 2 runs, reaches out and smears this drive to sweeper cover, good stop.
+4159~1~
+4159~1~30.3
+4159~1~0
+4159~1~Siriwardana to Smith, no run, rocks back and cuts to point.
+4159~1~
+4159~1~30.4
+4159~1~1
+4159~1~Siriwardana to Smith, 1 run, reaches out and drives inside-out to deep cover
+4159~1~
+4159~1~30.5
+4159~1~1
+4159~1~Siriwardana to Finch, 1 run, looks to hoick, gets a thick inside edge that flies past off stump and whacks the keeper's gloves. Lucky not to drag back
+4159~1~
+4159~1~30.6
+4159~1~1
+4159~1~Siriwardana to Smith, 1 run, eased with the spin to deep cover
+4159~1~
+4159~1~31.1
+4159~1~4
+4159~1~Malinga to Smith, FOUR runs, full toss and Smith gleefully takes a step across and punches it to the cover boundary. Easy pickings. Harmless pies from Malinga
+4159~1~END OF OVER:31 | 9 Runs | AUS: 168/2 | RR: 5.41
+4159~1~
+4159~1~    Steven Smith30 (27b)
+4159~1~    Aaron Finch94 (91b)
+4159~1~
+4159~1~    Milinda Siriwardana1-0-9-0
+4159~1~    Lasith Malinga5-1-24-0
+4159~1~
+4159~1~
+4159~1~31.2
+4159~1~1w
+4159~1~Malinga to Smith, 1 wide, slower bouncer outside off, way over the batsman's head, wide called and rightly so
+4159~1~
+4159~1~31.2
+4159~1~0
+4159~1~Malinga to Smith, no run, slower length ball outside off, guided to point
+4159~1~
+4159~1~31.3
+4159~1~1
+4159~1~Malinga to Smith, 1 run, slower and fuller on the stumps, Smith works this behind square
+4159~1~
+4159~1~31.4
+4159~1~1nb
+4159~1~Malinga to Finch, 1 no ball, squirts this length delivery to backward point. Oh, dear. There were only four men inside the ring. No-ball and Australia will get a free-hit. Malinga is not amused. Excellent from the umpires.
+4159~1~
+4159~1~31.4
+4159~1~0
+4159~1~Malinga to Finch, no run, right into the blockhole, dug out, rolls to mid-off. Right on the money this time from Malinga
+4159~1~
+4159~1~31.5
+4159~1~0
+4159~1~Malinga to Finch, no run, dipping yorker which he turns to midwicket from outside off
+4159~1~
+4159~1~31.6
+4159~1~1
+4159~1~Malinga to Finch, 1 run, slower and fuller on the stumps, eased to long-on
+4159~1~
+4159~1~32.1
+4159~1~0
+4159~1~Siriwardana to Finch, no run, sliding into middle and leg, tucks this straight to square leg
+4159~1~
+4159~1~Siriwardena from around the stumps
+4159~1~END OF OVER:32 | 8 Runs | AUS: 176/2 | RR: 5.50
+4159~1~
+4159~1~    Aaron Finch95 (95b)
+4159~1~    Steven Smith35 (30b)
+4159~1~
+4159~1~    Lasith Malinga6-1-32-0
+4159~1~    Milinda Siriwardana1-0-9-0
+4159~1~
+4159~1~
+4159~1~32.2
+4159~1~6
+4159~1~Siriwardana to Finch, SIX runs, lofted through the line, shoveled to bring up a century! Glorious. This has been a classy innings from the skipper.
+4159~1~
+4159~1~Dhaval: "Nice stage set for the Maxwell Show. If SL doesn't bowl well, they are staring at 330+ score on this shortish ground."
+4159~1~
+4159~1~32.3
+4159~1~0
+4159~1~Siriwardana to Finch, no run, swept powerfully but this is an excellent stop at short fine, picked out the lone man there.
+4159~1~
+4159~1~32.4
+4159~1~1
+4159~1~Siriwardana to Finch, 1 run, works this down to deep midwicket
+4159~1~
+4159~1~32.5
+4159~1~1
+4159~1~Siriwardana to Smith, 1 run, squeezes this yorker-length delivery to long-off
+4159~1~
+4159~1~32.6
+4159~1~1lb
+4159~1~Siriwardana to Finch, 1 leg bye, sliding down, Finch gets some pad on this as it rolls to short fine leg, quick single. In fact leg byes called
+4159~1~
+4159~1~33.1
+4159~1~0
+4159~1~NLTC Perera to Finch, no run, punches this short of length delivery to cover
+4159~1~END OF OVER:33 | 9 Runs | AUS: 185/2 | RR: 5.60
+4159~1~
+4159~1~    Aaron Finch102 (100b)
+4159~1~    Steven Smith36 (31b)
+4159~1~
+4159~1~    Milinda Siriwardana2-0-17-0
+4159~1~    Lasith Malinga6-1-32-0
+4159~1~
+4159~1~
+4159~1~33.2
+4159~1~1
+4159~1~NLTC Perera to Finch, 1 run, forced on the up to deep point
+4159~1~
+4159~1~33.3
+4159~1~0
+4159~1~NLTC Perera to Smith, no run, nice and full outside off, Smith takes a step across and drills this straight to extra cover
+4159~1~
+4159~1~33.4
+4159~1~2
+4159~1~NLTC Perera to Smith, 2 runs, rasping drive into the gap at sweeper cover
+4159~1~
+4159~1~33.5
+4159~1~1
+4159~1~NLTC Perera to Smith, 1 run, length ball on middle and leg, worked wide of midwicket for a quick single
+4159~1~
+4159~1~33.6
+4159~1~1
+4159~1~NLTC Perera to Finch, 1 run, mistimes a cut but has hit it enough to get it to deep point
+4159~1~
+4159~1~34.1
+4159~1~0
+4159~1~Udana to Finch, no run, slower length ball, mistimed to cover
+4159~1~
+4159~1~Possibly an over to drinks. Here's Udans
+4159~1~END OF OVER:34 | 5 Runs | AUS: 190/2 | RR: 5.58
+4159~1~
+4159~1~    Aaron Finch104 (103b)
+4159~1~    Steven Smith39 (34b)
+4159~1~
+4159~1~    Thisara Perera6-0-28-0
+4159~1~    Milinda Siriwardana2-0-17-0
+4159~1~
+4159~1~Australia revving up nicely for 350
+4159~1~
+4159~1~34.2
+4159~1~4
+4159~1~Udana to Finch, FOUR runs, driven imperiously, not even a half-stop by mid-off is enough to prevent it from racing to the long boundary. Superb
+4159~1~
+4159~1~34.3
+4159~1~0
+4159~1~Udana to Finch, no run, hops back and across as he defends
+4159~1~
+4159~1~34.4
+4159~1~0
+4159~1~Udana to Finch, no run, lost his shape as he looked to hoick this slower delivery across the line, got a thick inside edge onto the pad
+4159~1~
+4159~1~34.5
+4159~1~0
+4159~1~Udana to Finch, no run, whips uppishly, lands short of midwicket though
+4159~1~
+4159~1~34.6
+4159~1~1
+4159~1~Udana to Finch, 1 run, works this gently into the gap between midwicket and square leg
+4159~1~
+4159~1~Srinath asks : "So much so for winning the toss and bowling first on a cloudy day on a seamer friendly track! I wonder what the score now would have been if SL had batted first? 106 all out?"
+4159~1~
+4159~1~35.1
+4159~1~1
+4159~1~NLTC Perera to Finch, 1 run, 123kph, good length, he defends with soft hands short of cover to get one
+4159~1~
+4159~1~Thanks Shashank. This is been a masterclass from Finch. Adnan Shams: "What about Finch's double hundred now, he have a very good chance, i think so" I agree it's within reach Adnan. He'll need a fair bit of the strike but it could be done. Thisara continues
+4159~1~END OF OVER:35 | 5 Runs | AUS: 195/2 | RR: 5.57
+4159~1~
+4159~1~    Aaron Finch109 (109b)
+4159~1~    Steven Smith39 (34b)
+4159~1~
+4159~1~    Isuru Udana6-0-33-0
+4159~1~    Thisara Perera6-0-28-0
+4159~1~
+4159~1~It's time for drinks and Australia are looking good to add another 150. Alex is back into the hot seat after a break. I'll see you at the start of Sri Lanka's chase
+4159~1~
+4159~1~35.2
+4159~1~0
+4159~1~NLTC Perera to Smith, no run, 129kph, back of a length outside off, he punches off the back foot to backward point
+4159~1~
+4159~1~Starting to dark here
+4159~1~
+4159~1~35.3
+4159~1~4
+4159~1~NLTC Perera to Smith, FOUR runs, edged and it races fine of third man. He was back trying to play an expansive back foot drive and got a genuine edge but there's no slip in place and it flew to the rope
+4159~1~
+4159~1~35.4
+4159~1~1
+4159~1~NLTC Perera to Smith, 1 run, he steps outside off, Thisara goes wider, he punches off the back foot to deep cover-point
+4159~1~
+4159~1~200 up
+4159~1~
+4159~1~35.5
+4159~1~1
+4159~1~NLTC Perera to Finch, 1 run, 129kph, fuller and wider, he anchors the feet and square drives firmly to deep cover-point
+4159~1~
+4159~1~35.6
+4159~1~1
+4159~1~NLTC Perera to Smith, 1 run, 128kph, he tries a back foot drive, gets a thick inside edge onto pad and it rolls into the off side for a single
+4159~1~
+4159~1~36.1
+4159~1~1
+4159~1~Udana to Smith, 1 run, short ball, he pulls firmly through square leg to the sweeper
+4159~1~END OF OVER:36 | 8 Runs | AUS: 203/2 | RR: 5.63
+4159~1~
+4159~1~    Steven Smith45 (38b)
+4159~1~    Aaron Finch111 (111b)
+4159~1~
+4159~1~    Thisara Perera7-0-36-0
+4159~1~    Isuru Udana6-0-33-0
+4159~1~
+4159~1~
+4159~1~36.2
+4159~1~0
+4159~1~Udana to Finch, no run, off spinning slower ball, he defends to point, Smith backs up too far as Finch sends him back, the throw forced Smith to dive but it was wide
+4159~1~
+4159~1~36.3
+4159~1~1
+4159~1~Udana to Finch, 1 run, 129kph, good length angled across, he sits back and late cuts to backward point on the circle
+4159~1~
+4159~1~36.4
+4159~1~0
+4159~1~Udana to Smith, no run, 130kph, play and miss trying to run this with the angle to third man. A touch of extra bounce and some nip away
+4159~1~
+4159~1~36.5
+4159~1~1
+4159~1~Udana to Smith, 1 run, 126kph, back of a length on off, he's back and across in trademark style and working this to square leg
+4159~1~
+4159~1~36.6
+4159~1~4
+4159~1~Udana to Finch, FOUR runs, clubbed over cover! Shocking delivery. It was a short slower ball that just sat in the wicket and said 'hit me', Finch waited and slapped it flat over cover
+4159~1~
+4159~1~37.1
+4159~1~0
+4159~1~NLTC Perera to Smith, no run, full on off, he drives firmly to mid on
+4159~1~END OF OVER:37 | 7 Runs | AUS: 210/2 | RR: 5.67
+4159~1~
+4159~1~    Aaron Finch116 (114b)
+4159~1~    Steven Smith47 (41b)
+4159~1~
+4159~1~    Isuru Udana7-0-40-0
+4159~1~    Thisara Perera7-0-36-0
+4159~1~
+4159~1~Tilan: "Smith is giving a tremendous support to Finch which cannot be underestimated " He's looked very good.
+4159~1~
+4159~1~37.2
+4159~1~1
+4159~1~NLTC Perera to Smith, 1 run, good length, fifth stump line, he is back and square driving to deep point
+4159~1~
+4159~1~37.3
+4159~1~1
+4159~1~NLTC Perera to Finch, 1 run, good length top of off, he sits back and pushes this to gap at cover-point
+4159~1~
+4159~1~37.4
+4159~1~1
+4159~1~NLTC Perera to Smith, 1 run, 131kph, full outside off, he tries to heave over midwicket but miscues, dragging it through square leg
+4159~1~
+4159~1~Lovers Gwenzi: "Australians faith in Aaron Finch when he was out of form now is paying off at world cup. I always said this here that all the national sides like south Africa should work hard on getting what Australia is doing right in preparations for the world cup. "
+4159~1~
+4159~1~37.5
+4159~1~4
+4159~1~NLTC Perera to Finch, FOUR runs, cracking cut shot! Short and wide, he's camped in position early and thumping it past backward point like a missile!
+4159~1~
+4159~1~37.6
+4159~1~1
+4159~1~NLTC Perera to Finch, 1 run, 122kph, good length, outside off, he sits back pushes this with control through point
+4159~1~
+4159~1~38.1
+4159~1~1
+4159~1~Pradeep to Finch, 1 run, upper cut high and safe landing short of fine third man. It was banged in short and he lifted it with the bounce but only gets one
+4159~1~END OF OVER:38 | 8 Runs | AUS: 218/2 | RR: 5.73
+4159~1~
+4159~1~    Aaron Finch122 (117b)
+4159~1~    Steven Smith49 (44b)
+4159~1~
+4159~1~    Thisara Perera8-0-44-0
+4159~1~    Isuru Udana7-0-40-0
+4159~1~
+4159~1~Ananth: "I am searching for the overcast assistance for the bowlers on greentop? Anybody found it" Not in London today
+4159~1~
+4159~1~38.2
+4159~1~0
+4159~1~Pradeep to Smith, no run, 138kph, back of a length, he's punching off the back foot but can't beat cover
+4159~1~
+4159~1~38.3
+4159~1~1
+4159~1~Pradeep to Smith, 1 run, 130kph, back of a length, he's back and across and working this behind square to bring up a half-century for Smith. There are some boos but plenty of applause
+4159~1~
+4159~1~38.4
+4159~1~1
+4159~1~Pradeep to Finch, 1 run, clears the front leg and scythes this away over cover, Udana runs around the rope and saves three! That was good stop
+4159~1~
+4159~1~38.5
+4159~1~1
+4159~1~Pradeep to Smith, 1 run, shorter length, on off, he is back and working this behind square
+4159~1~
+4159~1~38.6
+4159~1~2
+4159~1~Pradeep to Finch, 2 runs, mistimed pull shot just clears midwicket! It was banged in, he tried to pull but it hurried him, he mistimed it but it just ballooned over midwicket's head as he was tight in on the one
+4159~1~
+4159~1~39.1
+4159~1~1
+4159~1~NLTC Perera to Smith, 1 run, 128kph, good length outside off, he works this skilfully with his wrists behind square
+4159~1~END OF OVER:39 | 6 Runs | AUS: 224/2 | RR: 5.74
+4159~1~
+4159~1~    Aaron Finch126 (120b)
+4159~1~    Steven Smith51 (47b)
+4159~1~
+4159~1~    Nuwan Pradeep8-0-48-0
+4159~1~    Thisara Perera8-0-44-0
+4159~1~
+4159~1~
+4159~1~39.2
+4159~1~6
+4159~1~NLTC Perera to Finch, SIX runs, launched over deep square! He sat and waited for length and got it, clearing the front leg and mowing it flat over square leg into the stands! That was a crowd killer!
+4159~1~
+4159~1~39.3
+4159~1~4
+4159~1~NLTC Perera to Finch, FOUR runs, cut in the air just past backward point! It was short and wide and created some more room staying leg side to cut it hard, it was in the air but the diving Dhananjaya couldn't reach it
+4159~1~
+4159~1~Mujtaba: "38.4 only a single? Udana saved it right at the boundary diving and they didn't even run 2?" Yes. He hit it so hard and it got there so quickly they only got one.
+4159~1~
+4159~1~They've lost the ball. A new ball is coming out.
+4159~1~
+4159~1~39.4
+4159~1~1
+4159~1~NLTC Perera to Finch, 1 run, 128kph, yorker on off, he jams down, bunting out into the off side
+4159~1~
+4159~1~39.5
+4159~1~1
+4159~1~NLTC Perera to Smith, 1 run, 127kph, good length outside off, he square drives to deep cover point
+4159~1~
+4159~1~39.6
+4159~1~0
+4159~1~NLTC Perera to Finch, no run, he sits back to a fuller ball, punches off the back foot to cover but can't beat the man
+4159~1~
+4159~1~Jason: "Sri Lanka is Missing the leg spinner Jeevan Mendis in the team for sure here! Lost a trick on this pitch!"
+4159~1~
+4159~1~40.1
+4159~1~4
+4159~1~Pradeep to Smith, FOUR runs, whipped behind square and he finds the gap! Attempted yorker, it was very full, he sat deep in the crease and whipped it off his toes and the timing got it to the rope
+4159~1~
+4159~1~Five men out
+4159~1~END OF OVER:40 | 13 Runs | AUS: 237/2 | RR: 5.92
+4159~1~
+4159~1~    Aaron Finch137 (124b)
+4159~1~    Steven Smith53 (49b)
+4159~1~
+4159~1~    Thisara Perera9-0-57-0
+4159~1~    Nuwan Pradeep8-0-48-0
+4159~1~
+4159~1~ESPNCricinfo score predictor says Australia will get 328
+4159~1~
+4159~1~40.2
+4159~1~4
+4159~1~Pradeep to Smith, FOUR runs, brilliant late cut running it fine of third man! He was surprised by the extra bounce but leaned back and guided it fine. Excellent skill
+4159~1~
+4159~1~40.3
+4159~1~1
+4159~1~Pradeep to Smith, 1 run, full, tailing down leg, he glances this fine to long leg
+4159~1~
+4159~1~40.4
+4159~1~4
+4159~1~Pradeep to Finch, FOUR runs, backs away and thumps this over cover! He gave room early, freed the arms and thrashed it flat over cover!
+4159~1~
+4159~1~40.5
+4159~1~4
+4159~1~Pradeep to Finch, FOUR runs, pulled wide of fine leg! A gift of a short ball, rib high, down leg, he just pulled it behind square into the gap!
+4159~1~
+4159~1~40.6
+4159~1~1
+4159~1~Pradeep to Finch, 1 run, nearly a run out! He got a low full toss, clipped it straight to midwicket and called yes, Dimuth gathered, had a stump and a half to hit and missed! He would have been out
+4159~1~
+4159~1~41.1
+4159~1~4
+4159~1~Malinga to Finch, FOUR runs, length on leg, he whips this over square leg, one bounce four! 150 for the skipper! He celebrates
+4159~1~
+4159~1~Malinga around the wicket
+4159~1~END OF OVER:41 | 18 Runs | AUS: 255/2 | RR: 6.21
+4159~1~
+4159~1~    Aaron Finch146 (127b)
+4159~1~    Steven Smith62 (52b)
+4159~1~
+4159~1~    Nuwan Pradeep9-0-66-0
+4159~1~    Thisara Perera9-0-57-0
+4159~1~
+4159~1~Shashank: Aaron Finch now has the most number of runs in a World Cup innings by an Australian captain. Surpassed Ponting's 140* in that lopsided 2003 final v India in Jo'burg.
+4159~1~
+4159~1~41.2
+4159~1~1
+4159~1~Malinga to Finch, 1 run, 129kph, full on middle, he swings hard dragging it with the bottom hand along ground through midwicket to the sweeper
+4159~1~
+4159~1~That's his second score 150 plus in ODIs this year
+4159~1~
+4159~1~41.3
+4159~1~1w
+4159~1~Malinga to Smith, 1 wide, Smith walked at Malinga who fires a slower ball miles down leg
+4159~1~
+4159~1~41.3
+4159~1~1
+4159~1~Malinga to Smith, 1 run, he walks down and squares up, gets a length ball wide of off, he punches to cover and takes one
+4159~1~
+4159~1~41.4
+4159~1~1
+4159~1~Malinga to Finch, 1 run, 130kph, full outside off, he clears the left leg and slices this down to long off along the ground
+4159~1~
+4159~1~Tushar Patil: "Sashank should be banned from contributing to commentary. I dont want to remember anything about that 2003 final"
+4159~1~
+4159~1~41.5
+4159~1~0
+4159~1~Malinga to Smith, no run, slower ball wide of off, he glides this behind point but picks out the man on the circle
+4159~1~
+4159~1~41.6
+4159~1~6
+4159~1~Malinga to Smith, SIX runs, Boom over midwicket! This was in the slot, almost on a tee, he swung across the line and middled it, and the sound was so loud from the middle of the bat. Like a gun shot. It went 20 rows back
+4159~1~
+4159~1~42.1
+4159~1~1
+4159~1~Udana to Finch, 1 run, full outside off, he backs away and scythes this to cover
+4159~1~
+4159~1~Udana is back around the wicket to Finch
+4159~1~END OF OVER:42 | 14 Runs | AUS: 269/2 | RR: 6.40
+4159~1~
+4159~1~    Steven Smith69 (55b)
+4159~1~    Aaron Finch152 (130b)
+4159~1~
+4159~1~    Lasith Malinga7-1-46-0
+4159~1~    Nuwan Pradeep9-0-66-0
+4159~1~
+4159~1~Sam: "Very cool to see Smiths strike rate only a couple points below Finch despite not hitting sixes, shows how busy the man is at the crease."
+4159~1~
+4159~1~42.2
+4159~1~2
+4159~1~Udana to Smith, 2 runs, slower ball, outside off, 101kph, he whips this wide of long on, he pushes for two and a misfield allows it
+4159~1~
+4159~1~42.3
+4159~1~1
+4159~1~Udana to Smith, 1 run, 133kph, good length outside off, he whips it with the angle through square leg
+4159~1~
+4159~1~42.4
+4159~1~W
+4159~1~Udana to Finch, OUT, skied to cover! Slower ball does the trick! This was well bowled. A back of the hand slower ball at 97kph, Finch cleared the left leg to launch but the extra bounce and lack of pace saw him sky it straight up to cover and the skipper calmly claimed the catch. The end of a wonderful innings.
+4159~1~
+4159~1~AJ Finch c Karunaratne(c) b Udana 153 (176m 132b 15x4 5x6) SR: 115.90
+4159~1~
+4159~1~42.5
+4159~1~1
+4159~1~Udana to Smith, 1 run, 138kph, yorker, well bowled, he dugs this out and they scamper through for a single
+4159~1~
+4159~1~Saheem: "Here comes the Maxi for Big show..." He's out there. Just not on strike, yet
+4159~1~
+4159~1~42.6
+4159~1~1
+4159~1~Udana to Maxwell, 1 run, 121kph, high bouncer, Maxwell wanders around then backs away, paddling a pull shot behind square with control
+4159~1~
+4159~1~43.1
+4159~1~2
+4159~1~Malinga to Maxwell, 2 runs, 129kph, half volley, he plays a conventional straight drive, straight of long off and they get two
+4159~1~END OF OVER:43 | 6 Runs 1 Wkt | AUS: 275/3 | RR: 6.39
+4159~1~
+4159~1~    Glenn Maxwell1 (1b)
+4159~1~    Steven Smith73 (58b)
+4159~1~
+4159~1~    Isuru Udana8-0-46-1
+4159~1~    Lasith Malinga7-1-46-0
+4159~1~
+4159~1~
+4159~1~43.2
+4159~1~1
+4159~1~Malinga to Maxwell, 1 run, full outside off, he tries to drag this to the on side, miscuing it down the ground to long on
+4159~1~
+4159~1~43.3
+4159~1~W
+4159~1~Malinga to Smith, OUT, bowled him with a cracking yorker! The clock says 130kph but that looked quicker. Smith tried to whip this behind square but it slid under the bat and hit the outside of off stump. Vintage Lasith!
+4159~1~
+4159~1~SPD Smith b Malinga 73 (90m 59b 7x4 1x6) SR: 123.72
+4159~1~
+4159~1~43.4
+4159~1~1
+4159~1~Malinga to Marsh, 1 run, slower ball full toss, 111kph, surprises Marsh, he bunts it to backward point
+4159~1~
+4159~1~Shaun Marsh in at No.6
+4159~1~
+4159~1~43.5
+4159~1~1
+4159~1~Malinga to Maxwell, 1 run, 131kph, low full toss, he whips this off the toe of the bat to long on
+4159~1~
+4159~1~43.6
+4159~1~0
+4159~1~Malinga to Marsh, no run, 121kph, slower ball on leg, he works this off his pads to midwicket
+4159~1~
+4159~1~44.1
+4159~1~4
+4159~1~Pradeep to Maxwell, FOUR runs, chest high short ball, he thumps this over mid on! The man was up and Maxwell knew what was coming, he gave room and clubbed it flat
+4159~1~
+4159~1~Pradeep to bowl his last
+4159~1~END OF OVER:44 | 5 Runs 1 Wkt | AUS: 280/4 | RR: 6.36
+4159~1~
+4159~1~    Shaun Marsh1 (2b)
+4159~1~    Glenn Maxwell5 (4b)
+4159~1~
+4159~1~    Lasith Malinga8-1-51-1
+4159~1~    Isuru Udana8-0-46-1
+4159~1~
+4159~1~Zak: "I think Carey deserved to be in next. Loved how he has gone about his roles each game. Marsh can be a slow starter. Thoughts Alex?" I agree. Marsh is a cleaner power hitter but he needs time. Carey has more experience in this role, particularly in recent times.
+4159~1~
+4159~1~44.2
+4159~1~6
+4159~1~Pradeep to Maxwell, SIX runs, And again all this way this time over long on! A length slower ball this time, mid on is up, Maxwell sits and waits and thumps it over the long on rope
+4159~1~
+4159~1~44.3
+4159~1~0
+4159~1~Pradeep to Maxwell, no run, yorker, into leg stump, he digs this out back to the bowler, it hits the stumps at the non striker's and prevents some runs
+4159~1~
+4159~1~Long on back now
+4159~1~
+4159~1~44.4
+4159~1~4
+4159~1~Pradeep to Maxwell, FOUR runs, attempted yorker, he shovels this forward of square! Great power with the bottom hand to whip this square and the man on the rope could not cut it off with a dive
+4159~1~
+4159~1~44.5
+4159~1~4
+4159~1~Pradeep to Maxwell, FOUR runs, high full toss clubbed to deep midwicket! Horrible delivery. They just moved deep midwicket squarer and they he gives a gift
+4159~1~
+4159~1~44.6
+4159~1~4
+4159~1~Pradeep to Maxwell, FOUR runs, top edge over the keeper! A good bouncer, he tried to pull off balance, cramped for room, gets a top edge and it flies over Kusal Perera and away for four!
+4159~1~
+4159~1~45.1
+4159~1~1
+4159~1~Malinga to Marsh, 1 run, slower ball, 111kph, length on leg stump, he tucks this fine for a single
+4159~1~END OF OVER:45 | 22 Runs | AUS: 302/4 | RR: 6.71
+4159~1~
+4159~1~    Glenn Maxwell27 (10b)
+4159~1~    Shaun Marsh1 (2b)
+4159~1~
+4159~1~    Nuwan Pradeep10-0-88-0
+4159~1~    Lasith Malinga8-1-51-1
+4159~1~
+4159~1~
+4159~1~45.2
+4159~1~1
+4159~1~Malinga to Maxwell, 1 run, 131kph, attempted yorker, he whips this with a flourish through square leg to the sweeper
+4159~1~
+4159~1~confidence many: "The maxwell show goes on. That is brutal. Pradeep in lesson number 1.... death bowling. "
+4159~1~
+4159~1~45.3
+4159~1~0
+4159~1~Malinga to Marsh, no run, slower ball on off, he drives with one hand on the bat to cover
+4159~1~
+4159~1~45.4
+4159~1~1lb
+4159~1~Malinga to Marsh, 1 leg bye, slower ball, length on leg, it bounces a touch, he misses trying to work to leg, it comes of thigh and rolls away for a leg bye
+4159~1~
+4159~1~45.5
+4159~1~1
+4159~1~Malinga to Maxwell, 1 run, 132kph, half volley, he opens the face and minces a square drive straight to deep cover-point. He's annoyed he found the sweeper
+4159~1~
+4159~1~45.6
+4159~1~0
+4159~1~Malinga to Marsh, no run, full into leg stump, he clips this straight to midwicket
+4159~1~
+4159~1~46.1
+4159~1~1w
+4159~1~Udana to Maxwell, 1 wide, back of a hand slower ball dragged down leg
+4159~1~
+4159~1~Udana back to bowl the last two. Around the wicket
+4159~1~END OF OVER:46 | 4 Runs | AUS: 306/4 | RR: 6.65
+4159~1~
+4159~1~    Shaun Marsh2 (6b)
+4159~1~    Glenn Maxwell29 (12b)
+4159~1~
+4159~1~    Lasith Malinga9-1-54-1
+4159~1~    Nuwan Pradeep10-0-88-0
+4159~1~
+4159~1~Rithi: "Aus were 110 runs in 25 overs. 194 runs in the next 20 overs. Good middle over scoring ..."
+4159~1~
+4159~1~46.1
+4159~1~1
+4159~1~Udana to Maxwell, 1 run, length slower ball, he's back and just bunting this into the leg side. He was surprised by the bounce
+4159~1~
+4159~1~Pradeep's spell was the second most expensive for SL in World Cups
+4159~1~
+4159~1~46.2
+4159~1~1
+4159~1~Udana to Marsh, 1 run, full and wide sliced behind point
+4159~1~
+4159~1~46.3
+4159~1~0
+4159~1~Udana to Maxwell, no run, 102kph, yorker, nearly bowls him! What a delivery! Completely deceived him but just missed leg
+4159~1~
+4159~1~46.4
+4159~1~1
+4159~1~Udana to Maxwell, 1 run, full 135kph yorker, he digs this out, driving it to long off
+4159~1~
+4159~1~46.5
+4159~1~0
+4159~1~Udana to Marsh, no run, wide yorker, 124kph, almost a full toss, Marsh swings hard but misses
+4159~1~
+4159~1~46.6
+4159~1~W
+4159~1~Udana to Marsh, OUT, caught at deep midwicket! Well bowled! Back of the hand slower ball, outside off, he tries to heave this to the long boundary at deep midwicket, doesn't get it and Siriwardana takes the catch easily 10m inside the rope
+4159~1~
+4159~1~SE Marsh c Siriwardana b Udana 3 (19m 9b 0x4 0x6) SR: 33.33
+4159~1~
+4159~1~47.1
+4159~1~1
+4159~1~Malinga to Maxwell, 1 run, he walks at the bowler, gets half volley and pings it along the ground to deep midwicket
+4159~1~
+4159~1~Carey in. But they didn't cross. Maxwell on strike to Malinga
+4159~1~END OF OVER:47 | 4 Runs 1 Wkt | AUS: 310/5 | RR: 6.59
+4159~1~
+4159~1~    Glenn Maxwell31 (15b)
+4159~1~
+4159~1~    Isuru Udana9-0-50-2
+4159~1~    Lasith Malinga9-1-54-1
+4159~1~
+4159~1~
+4159~1~47.2
+4159~1~0
+4159~1~Malinga to Carey, no run, 117kph slower ball, on leg, he checks his shot pushing this to cover
+4159~1~
+4159~1~47.3
+4159~1~3
+4159~1~Malinga to Carey, 3 runs, 113kph, slower ball, he waits and lofts this neatly over, cover, the two men in the deep try and work together, but Udana flicked it over Siriwardana's head and it allowed three
+4159~1~
+4159~1~SudarshanaSL: "Australian selectors like: why on earth we dropped Handscomb. He would have been a handy no 5."
+4159~1~
+4159~1~47.4
+4159~1~1
+4159~1~Malinga to Maxwell, 1 run, very full outside off, he miscues, dragging it off the toe of the bat towards long on
+4159~1~
+4159~1~47.5
+4159~1~1
+4159~1~Malinga to Carey, 1 run, nearly a direct hit! Full toss, he drives straight to cover, the man on the circle, Kusal Mendis has time to steady and fire but he misses. Carey was well out
+4159~1~
+4159~1~47.6
+4159~1~1
+4159~1~Malinga to Maxwell, 1 run, quality yorker on off, he can only dig it out into the off side
+4159~1~
+4159~1~48.1
+4159~1~W
+4159~1~Udana to Maxwell, OUT, Brilliant run out from Udana! Ridiculously good in fact! The back of the hand slower ball was brilliant in itself, forced Maxwell to check his shot, pushing to long on, Udana dived across full stretch, stopped it one handed. Both batsmen retreated. Udana rolled over and threw the non striker's stumps down with Carey just short as he dove back! Magnificent work
+4159~1~
+4159~1~AT Carey run out (Udana) 4 (8m 3b 0x4 0x6) SR: 133.33
+4159~1~END OF OVER:48 | 7 Runs | AUS: 317/5 | RR: 6.60
+4159~1~
+4159~1~    Glenn Maxwell34 (18b)
+4159~1~    Alex Carey4 (3b)
+4159~1~
+4159~1~    Lasith Malinga10-1-61-1
+4159~1~    Isuru Udana9-0-50-2
+4159~1~
+4159~1~Shahbaz : "Any idea why Ashton Turner was not included?" Shoulder injury means he can't throw or bowl. They had to hide him in the field when he played in India
+4159~1~
+4159~1~48.2
+4159~1~3
+4159~1~Udana to Maxwell, 3 runs, sliced just over Mathews at backward point! Another great slower ball forces a mistake from Maxwell, he was through the shot too soon but he just spooned it over backward point!
+4159~1~
+4159~1~48.3
+4159~1~W
+4159~1~Udana to Cummins, OUT, another direct hit from Udana! This is superb! He nails the yorker, Cummins digs it out on the on side and takes off, Udana whips across like a leopard, Cummins is sent back by Maxwell, Udana gathers, steadies, fires and hits with Cummins miles out at the striker's end!
+4159~1~
+4159~1~PJ Cummins run out (Udana) 0 (4m 1b 0x4 0x6) SR: 0.00
+4159~1~
+4159~1~48.4
+4159~1~1
+4159~1~Udana to Starc, 1 run, wide half volley, he drives firmly to long off
+4159~1~
+4159~1~Ashish Raina: "Please credit Udana with these run-outs as his scalps" Deserves so much credit for this.
+4159~1~
+4159~1~48.5
+4159~1~2
+4159~1~Udana to Maxwell, 2 runs, full on leg, he clips this through midwicket and they sprint back for two
+4159~1~
+4159~1~Ahsan: "What a day of Udana today! Simply Brilliant"
+4159~1~
+4159~1~48.6
+4159~1~1
+4159~1~Udana to Maxwell, 1 run, nearly another direct hit from Udana! Slower ball, Maxwell gets a leading edge back to the bowler, he misfields, they pinch a run as Udana cleans up and the throw is wide
+4159~1~
+4159~1~49.1
+4159~1~1
+4159~1~NLTC Perera to Maxwell, 1 run, full and wide, he reaches out and hammers a square drive to deep cover-point
+4159~1~
+4159~1~Thisara to finish
+4159~1~END OF OVER:49 | 7 Runs 2 Wkts | AUS: 324/7 | RR: 6.61
+4159~1~
+4159~1~    Glenn Maxwell40 (22b)
+4159~1~    Mitchell Starc1 (1b)
+4159~1~
+4159~1~    Isuru Udana10-0-57-2
+4159~1~    Lasith Malinga10-1-61-1
+4159~1~
+4159~1~Shameer: "Those two magnificent runouts. Udana should be given 4 wickets to his name" That was a phenomenal spell from Udana. His figures don't do him justice.
+4159~1~
+4159~1~49.2
+4159~1~1
+4159~1~NLTC Perera to Starc, 1 run, 126kph, full on leg, he whips this off his toes through midwicket the sweeper in the deep
+4159~1~
+4159~1~49.3
+4159~1~1
+4159~1~NLTC Perera to Maxwell, 1 run, wide yorker, he steps outside off and steers this behind point to the man in the deep at wide third man
+4159~1~
+4159~1~49.4
+4159~1~2
+4159~1~NLTC Perera to Starc, 2 runs, 123kph, full on leg, he clips this wide of long on for a couple
+4159~1~
+4159~1~Badar: "SL have done a good job by restricting the Aussies in the end just like how Pakistan did but alas this total will still be a tough target for SL, "
+4159~1~
+4159~1~49.5
+4159~1~1
+4159~1~NLTC Perera to Starc, 1 run, 125kph, low full toss, he drives this firmly to long on
+4159~1~
+4159~1~Saf: "It is a big score. if the sri lanka's middle order clicks anything is possible !"
+4159~1~
+4159~1~49.6
+4159~1~4
+4159~1~NLTC Perera to Maxwell, FOUR runs, he whips this from outside off stump through square leg! Not quite a six but a seriously good shot! That was an excellent wide yorker, he stepped outside off and whipped it with the bottom hand just past square leg and the man at deep midwicket can't cut it off!
+4159~1~
+4159~1~Can the big show delivery off the last ball?
+4159~1~
+4159~2~##########
+4159~2~
+4159~2~0.1
+4159~2~1
+4159~2~Starc to Karunaratne, 1 run, edged and it races down to square third man where Kane Richardson mops it up
+4159~2~
+4159~2~0.2
+4159~2~0
+4159~2~Starc to MDKJ Perera, no run, length ball veering in from wide of the crease, Kusal is hit high on the pad as he plays outside the line. Beat him on the inside edge. Good bowling
+4159~2~
+4159~2~Kusal Janith on strike. How will he approach this?
+4159~2~
+4159~2~0.3
+4159~2~4
+4159~2~Starc to MDKJ Perera, FOUR runs, uppish but into the gap! Scorching drive between cover and point.
+4159~2~
+4159~2~0.4
+4159~2~1lb
+4159~2~Starc to MDKJ Perera, 1 leg bye, rip roaring yorker, Kusal is thrown off balance as he squeezes this between his legs and past the keeper. Came off the pad. Finch and Australia don't review. Good call.
+4159~2~
+4159~2~0.5
+4159~2~2
+4159~2~Starc to Karunaratne, 2 runs, steered over the diving Maxwell at point, down to square third man. Richardson had to move to his left this time, comfortably back for the second run
+4159~2~
+4159~2~0.6
+4159~2~4
+4159~2~Starc to Karunaratne, FOUR runs, stands tall and spanks this wide of point. Got on top of the bounce, used the width and let his timing do the rest. Superb from the skipper. Sri Lanka couldn't have asked for a better start. Gets their fans going, the flags are out
+4159~2~
+4159~2~1.1
+4159~2~1
+4159~2~Cummins to MDKJ Perera, 1 run, helped along to fine leg. Did he get some bat on it? Yes, a very faint one onto the thigh pad. He was hurried for pace first up.
+4159~2~
+4159~2~Pat Cummins to share the new ball
+4159~2~END OF OVER:1 | 12 Runs | SL: 12/0 (323 runs required from 49 overs, RR: 12.00, RRR: 6.59)
+4159~2~
+4159~2~    Dimuth Karunaratne7 (3b)
+4159~2~    Kusal Perera4 (3b)
+4159~2~
+4159~2~    Mitchell Starc1-0-11-0
+4159~2~
+4159~2~
+4159~2~1.2
+4159~2~0
+4159~2~Cummins to Karunaratne, no run, slants a short of length delivery across, left alone
+4159~2~
+4159~2~1.3
+4159~2~3
+4159~2~Cummins to Karunaratne, 3 runs, full on the pads and Dimuth nearly flicks this into the gap past the diving square leg fielder. The ball slows up near the boundary. Excellent wrist work
+4159~2~
+4159~2~Sumant: "SL chased a similar target (322) in the Champions Trophy against India. So they are capable of doing this today." -- Oh yes, absolutely. Remember Asela's heroics towards the end. Terrific hitting.
+4159~2~
+4159~2~1.4
+4159~2~4
+4159~2~Cummins to MDKJ Perera, FOUR runs, he's blasted this pull in front of square, tracer bullet stuff! Picked the length early and flat-batted this disdainfully. This is an excellent start for Sri Lanka, stand-and-deliver stuff
+4159~2~
+4159~2~1.5
+4159~2~0
+4159~2~Cummins to MDKJ Perera, no run, much fuller and straighter, squirts this into the off side
+4159~2~
+4159~2~1.6
+4159~2~4
+4159~2~Cummins to MDKJ Perera, FOUR runs, pulled! This is even better. Right off the middle. Into the gap between midwicket and square leg. Short square boundary that side and at the moment, there's just one winner in this battle. Magnificent approach to the chase. Can Sri Lanka sustain this?
+4159~2~
+4159~2~2.1
+4159~2~0
+4159~2~Starc to Karunaratne, no run, driven back but Starc stops it with his boot on his followthrough. Was timed beautifully though
+4159~2~END OF OVER:2 | 12 Runs | SL: 24/0 (311 runs required from 48 overs, RR: 12.00, RRR: 6.47)
+4159~2~
+4159~2~    Kusal Perera13 (7b)
+4159~2~    Dimuth Karunaratne10 (5b)
+4159~2~
+4159~2~    Pat Cummins1-0-12-0
+4159~2~    Mitchell Starc1-0-11-0
+4159~2~
+4159~2~
+4159~2~2.2
+4159~2~0
+4159~2~Starc to Karunaratne, no run, hops back into the crease and defends back this length delivery. Speedgun clocks that at 149kph
+4159~2~
+4159~2~2.3
+4159~2~2
+4159~2~Starc to Karunaratne, 2 runs, squared up, gets a thick edge and Richardson comes around at third man to stop
+4159~2~
+4159~2~Pretty overcast at the moment.
+4159~2~
+4159~2~2.4
+4159~2~0
+4159~2~Starc to Karunaratne, no run, on the floor! Yorker honing into the leg at 150kph, Dimuth falls over as he tries to negotiate that.
+4159~2~
+4159~2~2.5
+4159~2~0
+4159~2~Starc to Karunaratne, no run, ducks under this ripper of a bouncer angling in from wide of the crease
+4159~2~
+4159~2~2.6
+4159~2~0
+4159~2~Starc to Karunaratne, no run, beaten for pace, looks to tuck it square but this brushes his thigh pad on the way through to the keeper.
+4159~2~
+4159~2~3.1
+4159~2~0
+4159~2~Cummins to MDKJ Perera, no run, punches this length delivery straight to point
+4159~2~END OF OVER:3 | 2 Runs | SL: 26/0 (309 runs required from 46.5 overs, RR: 8.66, RRR: 6.57)
+4159~2~
+4159~2~    Dimuth Karunaratne12 (11b)
+4159~2~    Kusal Perera13 (7b)
+4159~2~
+4159~2~    Mitchell Starc2-0-13-0
+4159~2~    Pat Cummins1-0-12-0
+4159~2~
+4159~2~
+4159~2~3.2
+4159~2~0
+4159~2~Cummins to MDKJ Perera, no run, hits him low on the bat as he tries to drive, rolls to mid-off. The ball is thudding into the bat than it being the other way. Cummins working up serious pace.
+4159~2~
+4159~2~3.3
+4159~2~1
+4159~2~Cummins to MDKJ Perera, 1 run, looks to drive, gets a thick inside edge past midwicket
+4159~2~
+4159~2~3.4
+4159~2~0
+4159~2~Cummins to Karunaratne, no run, mistimes this straight drive back to the bowler. Once again late on the shot, toe-ended it.
+4159~2~
+4159~2~3.5
+4159~2~0
+4159~2~Cummins to Karunaratne, no run, beaten as he looks to slash this with a closed bat face. Lucky to not get an edge.
+4159~2~
+4159~2~Srinath: "Needless to say Sri Lanka need some good partnerships and a LOT of luck going their way to win this one! If they sustain this for 20 overs they will be over the DLS par score. Hope this game lasts that long." -- Fact that not many believe SL can do it if the game lasts the distance tells you a story of their decline.
+4159~2~
+4159~2~3.6
+4159~2~3
+4159~2~Cummins to Karunaratne, 3 runs, gorgeous! How good does he look when he looks to play proper cricketing shots? Not a half-volley by any means but he plans half-forward and laces this into the gap between cover and point. Ball slows down towards the square boundary
+4159~2~
+4159~2~4.1
+4159~2~0
+4159~2~Behrendorff to Karunaratne, no run, beaten as he gets this to nip away off the seam from the fourth-stump.
+4159~2~
+4159~2~Jason Behrendorff into the attack
+4159~2~END OF OVER:4 | 4 Runs | SL: 30/0 (305 runs required from 46 overs, RR: 7.50, RRR: 6.63)
+4159~2~
+4159~2~    Dimuth Karunaratne15 (14b)
+4159~2~    Kusal Perera14 (10b)
+4159~2~
+4159~2~    Pat Cummins2-0-16-0
+4159~2~    Mitchell Starc2-0-13-0
+4159~2~
+4159~2~It has started to drizzle at The Oval, Monga tells me. There's stiff breeze, looks quite dark and grey from one side
+4159~2~
+4159~2~4.2
+4159~2~0
+4159~2~Behrendorff to Karunaratne, no run, punches this length ball to mid-on
+4159~2~
+4159~2~4.3
+4159~2~0
+4159~2~Behrendorff to Karunaratne, no run, beaten for pace as this skids back in to hit him high on the pad. Stifled appeal, not out.
+4159~2~
+4159~2~4.4
+4159~2~0
+4159~2~Behrendorff to Karunaratne, no run, defends this full delivery back to the bowler
+4159~2~
+4159~2~Cheeky Davo says: "The root cause of SL's miserable batting is so simple I can't believe they haven't addressed it yet. All their greats had long, grand names - Jayawardene, Sangakkara, Jayasuriya, Kaluwitharana, etc. Even their half-decent players - Mahanama, Samaraweera, etc. I can't see them going far with Perera, Mendis and Matthews. They need change their names for the scorecard and jerseys - pronto!" -- Don't agree with the 'half-decent' tag for Samaraweera. He was an excellent Test batsman
+4159~2~
+4159~2~4.5
+4159~2~0
+4159~2~Behrendorff to Karunaratne, no run, beaten as he pokes at this delivery with an angled bat face. The change of angle seems to be working already for Australia.
+4159~2~
+4159~2~4.6
+4159~2~1
+4159~2~Behrendorff to Karunaratne, 1 run, works this incoming length ball to midwicket where there's a misfield, and they get through for a single.
+4159~2~
+4159~2~5.1
+4159~2~0
+4159~2~Cummins to Karunaratne, no run, away-going length ball which he bunts to the off side
+4159~2~END OF OVER:5 | 1 Run | SL: 31/0 (304 runs required from 45 overs, RR: 6.20, RRR: 6.75)
+4159~2~
+4159~2~    Dimuth Karunaratne16 (20b)
+4159~2~    Kusal Perera14 (10b)
+4159~2~
+4159~2~    Jason Behrendorff1-0-1-0
+4159~2~    Pat Cummins2-0-16-0
+4159~2~
+4159~2~
+4159~2~5.2
+4159~2~4
+4159~2~Cummins to Karunaratne, FOUR runs, no timing but gets enough on this pull as it races down the hill to the midwicket boundary. This was short, angling away and Dimuth picked the length early and went through with the pull. Lovely.
+4159~2~
+4159~2~5.3
+4159~2~4
+4159~2~Cummins to Karunaratne, FOUR runs, off a thick inside-edge, Cummins can't believe how that's not cannoned into the stumps! Feeble push at a delivery angling away, no feet. Lucky to survive.
+4159~2~
+4159~2~5.4
+4159~2~0
+4159~2~Cummins to Karunaratne, no run, gets a thick inside edge onto the pad as he looks to turn this to the leg side.
+4159~2~
+4159~2~5.5
+4159~2~0
+4159~2~Cummins to Karunaratne, no run, takes a step across and drives this into the off side
+4159~2~
+4159~2~5.6
+4159~2~1
+4159~2~Cummins to Karunaratne, 1 run, steered wide of point, down to third man
+4159~2~
+4159~2~6.1
+4159~2~2
+4159~2~Behrendorff to Karunaratne, 2 runs, back of length on middle and leg, tucked off his hips to deep square
+4159~2~END OF OVER:6 | 9 Runs | SL: 40/0 (295 runs required from 44 overs, RR: 6.66, RRR: 6.70)
+4159~2~
+4159~2~    Dimuth Karunaratne25 (26b)
+4159~2~    Kusal Perera14 (10b)
+4159~2~
+4159~2~    Pat Cummins3-0-25-0
+4159~2~    Jason Behrendorff1-0-1-0
+4159~2~
+4159~2~
+4159~2~6.2
+4159~2~1
+4159~2~Behrendorff to Karunaratne, 1 run, squared up a hint as he bunts this into the covers
+4159~2~
+4159~2~6.3
+4159~2~1
+4159~2~Behrendorff to MDKJ Perera, 1 run, mistimes this pull into the gap at midwicket
+4159~2~
+4159~2~6.4
+4159~2~4
+4159~2~Behrendorff to Karunaratne, FOUR runs, one-handed pull, beats short fine leg. Swivelled nicely and helped it along. Using the bowler's pace very nicely.
+4159~2~
+4159~2~6.5
+4159~2~4
+4159~2~Behrendorff to Karunaratne, FOUR runs, not for the first time tonight have we seen a thick inside edge flying past the stumps. Dollops of luck here for the skipper as he is late on the frontfoot drive, races to the fine leg boundary.
+4159~2~
+4159~2~6.6
+4159~2~1
+4159~2~Behrendorff to Karunaratne, 1 run, hops back and tucks this into the gap at square leg
+4159~2~
+4159~2~7.1
+4159~2~0
+4159~2~Richardson to Karunaratne, no run, Richardson bowled, Dimuth defends, but one of them attempted this delivery in half-heated fashion. Replays confirm Dimuth wasn't entirely read. Dead ball. So he'll rebowl that? Okay, umpire says it's a legal ball as the batsman ended up facing it
+4159~2~END OF OVER:7 | 13 Runs | SL: 53/0 (282 runs required from 43 overs, RR: 7.57, RRR: 6.55)
+4159~2~
+4159~2~    Dimuth Karunaratne37 (31b)
+4159~2~    Kusal Perera15 (11b)
+4159~2~
+4159~2~    Jason Behrendorff2-0-14-0
+4159~2~    Pat Cummins3-0-25-0
+4159~2~
+4159~2~
+4159~2~7.2
+4159~2~4
+4159~2~Richardson to Karunaratne, FOUR runs, on the pads and he's clipped this wide of short fine leg. Easy, very easy. Nothing more than a warm-up delivery. Help-me-on-its-way welcome drink
+4159~2~
+4159~2~7.3
+4159~2~1
+4159~2~Richardson to Karunaratne, 1 run, beaten as he looks to slap this away
+4159~2~
+4159~2~7.4
+4159~2~0
+4159~2~Richardson to MDKJ Perera, no run, right behind the line as he blocks
+4159~2~
+4159~2~7.5
+4159~2~2
+4159~2~Richardson to MDKJ Perera, 2 runs, hammered, absolutely hammered. Some effort that from Pat Cummins to run around from deep square to where a deep midwicket would be. Saved two runs for the side
+4159~2~
+4159~2~7.6
+4159~2~1
+4159~2~Richardson to MDKJ Perera, 1 run, hoicked across the line to deep square leg
+4159~2~
+4159~2~8.1
+4159~2~6
+4159~2~Behrendorff to MDKJ Perera, SIX runs, shades of Jayasuriya! Width and he clobbers this length ball over the extra cover boundary. Stand and deliver
+4159~2~END OF OVER:8 | 8 Runs | SL: 61/0 (274 runs required from 42 overs, RR: 7.62, RRR: 6.52)
+4159~2~
+4159~2~    Kusal Perera18 (14b)
+4159~2~    Dimuth Karunaratne42 (34b)
+4159~2~
+4159~2~    Kane Richardson1-0-8-0
+4159~2~    Jason Behrendorff2-0-14-0
+4159~2~
+4159~2~
+4159~2~8.2
+4159~2~2
+4159~2~Behrendorff to MDKJ Perera, 2 runs, clipped into the gap and they take two more
+4159~2~
+4159~2~8.3
+4159~2~5
+4159~2~Behrendorff to MDKJ Perera, 5 runs, they chance a single of the type Sehwag did after tucking one to mid-on and taking on Lehmann's throw in that 2003 final. This time, there's an overthrow from Finch and they get five (four overthrows). It's all going Sri Lanka's way so far. Kusal threw himself in desperation to complete the run, but not sure even that dive would've saved him if it was a direct hit.
+4159~2~
+4159~2~8.4
+4159~2~1
+4159~2~Behrendorff to Karunaratne, 1 run, superbly flicked down to deep square leg
+4159~2~
+4159~2~8.5
+4159~2~0
+4159~2~Behrendorff to MDKJ Perera, no run, right behind the line of this incoming length ball as he defends
+4159~2~
+4159~2~8.6
+4159~2~4
+4159~2~Behrendorff to MDKJ Perera, FOUR runs, slipping down leg and he tickles this past short fine leg. Pacy, angling in and all he had to do was get some bat along the way.
+4159~2~
+4159~2~9.1
+4159~2~1
+4159~2~Richardson to Karunaratne, 1 run, on middle and leg, worked behind square on the leg side
+4159~2~END OF OVER:9 | 18 Runs | SL: 79/0 (256 runs required from 41 overs, RR: 8.77, RRR: 6.24)
+4159~2~
+4159~2~    Kusal Perera35 (19b)
+4159~2~    Dimuth Karunaratne43 (35b)
+4159~2~
+4159~2~    Jason Behrendorff3-0-32-0
+4159~2~    Kane Richardson1-0-8-0
+4159~2~
+4159~2~
+4159~2~9.2
+4159~2~2
+4159~2~Richardson to MDKJ Perera, 2 runs, pulled across the line, not timed all that well but he'll come back for the second
+4159~2~
+4159~2~9.3
+4159~2~4
+4159~2~Richardson to MDKJ Perera, FOUR runs, dismissed from his presence! Banged in short, Perera wallops this pull in front of square. Raced away to the fence. Tired delivery from Richardson, not going to help bowling such lengths in the mid-130s. Cracking stroke that has forced a new bat on its way. The Sri Lankan fans in the stands are loving it, absolutely loving it.
+4159~2~
+4159~2~9.4
+4159~2~0
+4159~2~Richardson to MDKJ Perera, no run, beaten, extra bounce that time. Looked to run it down. Richardson and Carey think there may be something here, right on the edge and Finch reviews with two seconds on the clock. Let's see if there is a spike there. Replays come back with a straight line, which means there is no spike and Kusal can continue batting. Not out and Australia lose a review.
+4159~2~
+4159~2~9.5
+4159~2~1
+4159~2~Richardson to MDKJ Perera, 1 run, slapped to the man at sweeper cover, Khawaja it is
+4159~2~
+4159~2~9.6
+4159~2~0
+4159~2~Richardson to Karunaratne, no run, gets half-forward and bunts this into the off side
+4159~2~
+4159~2~10.1
+4159~2~0
+4159~2~Maxwell to MDKJ Perera, no run, shaped up to slog-sweep but ended up easing this tossed up delivery to cover
+4159~2~
+4159~2~Maxwell into the attack. In need of a breakthrough
+4159~2~END OF OVER:10 | 8 Runs | SL: 87/0 (248 runs required from 40 overs, RR: 8.70, RRR: 6.20)
+4159~2~
+4159~2~    Dimuth Karunaratne44 (37b)
+4159~2~    Kusal Perera42 (23b)
+4159~2~
+4159~2~    Kane Richardson2-0-16-0
+4159~2~    Jason Behrendorff3-0-32-0
+4159~2~
+4159~2~
+4159~2~10.2
+4159~2~0
+4159~2~Maxwell to MDKJ Perera, no run, squirts this back to the bowler off a thick inside edge.
+4159~2~
+4159~2~10.3
+4159~2~1
+4159~2~Maxwell to MDKJ Perera, 1 run, sliding into middle and leg, tucked wide of square leg for an easy single
+4159~2~
+4159~2~10.4
+4159~2~1w
+4159~2~Maxwell to Karunaratne, 1 wide, slips this down leg, wide called as Dimuth looks to tickle this fine with the angle.
+4159~2~
+4159~2~10.4
+4159~2~0
+4159~2~Maxwell to Karunaratne, no run, gets well forward and stabs this away
+4159~2~
+4159~2~By the way, these are the most runs in the first 10 in world cups since 1999 - only 5 higher scores than this one in all World Cups
+4159~2~
+4159~2~10.5
+4159~2~0
+4159~2~Maxwell to Karunaratne, no run, drifts in a long way from around the stumps, hit on the pad as he looks to work this wide of midwicket
+4159~2~
+4159~2~10.6
+4159~2~2
+4159~2~Maxwell to Karunaratne, 2 runs, onto the backfoot as he works this from outside off towards the gap at deep square and deep midwicket. Excellent running.
+4159~2~
+4159~2~11.1
+4159~2~2
+4159~2~Richardson to MDKJ Perera, 2 runs, slashed away up and over point, this plonks towards the square third man boundary and they get a couple
+4159~2~END OF OVER:11 | 4 Runs | SL: 91/0 (244 runs required from 39 overs, RR: 8.27, RRR: 6.25)
+4159~2~
+4159~2~    Dimuth Karunaratne46 (40b)
+4159~2~    Kusal Perera43 (26b)
+4159~2~
+4159~2~    Glenn Maxwell1-0-4-0
+4159~2~    Kane Richardson2-0-16-0
+4159~2~
+4159~2~
+4159~2~11.2
+4159~2~1
+4159~2~Richardson to MDKJ Perera, 1 run, hops across and bunts this half-pull to short fine leg
+4159~2~
+4159~2~11.3
+4159~2~0
+4159~2~Richardson to Karunaratne, no run, sways out of the way of this short ball, excellent delivery
+4159~2~
+4159~2~Monga's musings from The Oval: Sri Lanka have had a great start, getting the better of all the four quicks from Australia, but they also seem to have enjoyed more than a bit of luck. Apart from the edges etc, just look at the control factor. When Australia batted they were in control of 90% of the deliveries in the first 10 overs. Sri Lanka have controlled only 65%. However, when Australia were in control they scored at under a run a ball. Sri Lanka have gone almost twice of that rate in deliveries they have been in control of. The message is clear: Sri Lanka have less to lose in this match, and they are going all out, taking more risks. And with every single and double - forget boundaries - the crowd is getting more and more into this game. During the first half it seemed there were only a few Sri Lanka supporters in the crowd, but they have found their voice now.
+4159~2~
+4159~2~11.4
+4159~2~0
+4159~2~Richardson to Karunaratne, no run, gets besides the line as he punches this short of length delivery to cover
+4159~2~
+4159~2~11.5
+4159~2~4
+4159~2~Richardson to Karunaratne, FOUR runs, he's clubbed this pull over midwicket, Khawaja may have got an inch on that one but it's not enough. Dimuth has a half-century and his mates are on their feet, as are the fans. What a superb knock so far.
+4159~2~
+4159~2~11.6
+4159~2~0
+4159~2~Richardson to Karunaratne, no run, hops back and defends this short of length delivery.
+4159~2~
+4159~2~12.1
+4159~2~1
+4159~2~Maxwell to MDKJ Perera, 1 run, width and he slaps this to deep point
+4159~2~
+4159~2~Join our #LiveReport for more such nuggets and analysis.
+4159~2~END OF OVER:12 | 7 Runs | SL: 98/0 (237 runs required from 38 overs, RR: 8.16, RRR: 6.23)
+4159~2~
+4159~2~    Dimuth Karunaratne50 (44b)
+4159~2~    Kusal Perera46 (28b)
+4159~2~
+4159~2~    Kane Richardson3-0-23-0
+4159~2~    Glenn Maxwell1-0-4-0
+4159~2~
+4159~2~
+4159~2~12.2
+4159~2~0
+4159~2~Maxwell to Karunaratne, no run, massive appeal for lbw, not given but Australia can't review. Deceived in flight as he looks to skip out, plays all around it and is beaten by the drift. Looked out to me.. Poor decision from Illingworth.
+4159~2~
+4159~2~12.3
+4159~2~0
+4159~2~Maxwell to Karunaratne, no run, gets well forward and bunts it back to the bowler
+4159~2~
+4159~2~12.4
+4159~2~1
+4159~2~Maxwell to Karunaratne, 1 run, works this with the angle to deep midwicket, the 100's up for Sri Lanka.
+4159~2~
+4159~2~12.5
+4159~2~1
+4159~2~Maxwell to MDKJ Perera, 1 run, swept from outside off to short fine leg
+4159~2~
+4159~2~Had Australia reviewed that lbw appeal, the decision would've been overturned. Huge miss, will Australia rue that wasted review off Kane Richardson?
+4159~2~
+4159~2~12.6
+4159~2~1
+4159~2~Maxwell to Karunaratne, 1 run, works this down to deep square leg
+4159~2~
+4159~2~13.1
+4159~2~1
+4159~2~Starc to Karunaratne, 1 run, squeezes this drive into the covers for an easy single
+4159~2~END OF OVER:13 | 4 Runs | SL: 102/0 (233 runs required from 37 overs, RR: 7.84, RRR: 6.29)
+4159~2~
+4159~2~    Dimuth Karunaratne52 (48b)
+4159~2~    Kusal Perera48 (30b)
+4159~2~
+4159~2~    Glenn Maxwell2-0-8-0
+4159~2~    Kane Richardson3-0-23-0
+4159~2~
+4159~2~
+4159~2~13.2
+4159~2~0
+4159~2~Starc to MDKJ Perera, no run, full on the stumps at 146kph, defended back
+4159~2~
+4159~2~Bijit: "Surely, Australia is missing Hazelwood. He has such an accurate line and length..."
+4159~2~
+4159~2~13.3
+4159~2~1
+4159~2~Starc to MDKJ Perera, 1 run, works this length ball from middle to deep square leg
+4159~2~
+4159~2~13.4
+4159~2~0
+4159~2~Starc to Karunaratne, no run, goes right back into his crease to defend this short of length delivery.
+4159~2~
+4159~2~Arty says: "Australia still have hope. Don't forget Sri Lanka were 140 odd for 1 against Afghanistan and got bundled out for 201. On a side note, wonder how awful does Warner's innings look in hindsight. Control percentage is nice and all but if it means Australia ended up 30 runs short does it matter? I'm sure they'd happily swap Warner's control rate and strike rate given the choice."
+4159~2~
+4159~2~13.5
+4159~2~1
+4159~2~Starc to Karunaratne, 1 run, arches back and helps this short delivery along to third man
+4159~2~
+4159~2~Muddasir Rehman: "After a long time enjoying some match. These dominat teams are so cruel. Go Sri Lanka, go."
+4159~2~
+4159~2~13.6
+4159~2~1
+4159~2~Starc to MDKJ Perera, 1 run, ripper of a yorker, Kusal squeezes this into the leg side to bring up a 33-ball half-century.
+4159~2~
+4159~2~14.1
+4159~2~1
+4159~2~Maxwell to MDKJ Perera, 1 run, punches this down to long-off
+4159~2~END OF OVER:14 | 4 Runs | SL: 106/0 (229 runs required from 36 overs, RR: 7.57, RRR: 6.36)
+4159~2~
+4159~2~    Kusal Perera50 (33b)
+4159~2~    Dimuth Karunaratne54 (51b)
+4159~2~
+4159~2~    Mitchell Starc3-0-17-0
+4159~2~    Glenn Maxwell2-0-8-0
+4159~2~
+4159~2~
+4159~2~14.2
+4159~2~0
+4159~2~Maxwell to Karunaratne, no run, drifts in and straightens, Karunaratne defends this back to the bowler
+4159~2~
+4159~2~14.3
+4159~2~0
+4159~2~Maxwell to Karunaratne, no run, turns this to short fine, saw him coming and cleverly shortened his length
+4159~2~
+4159~2~14.4
+4159~2~3
+4159~2~Maxwell to Karunaratne, 3 runs, whips this into the huge gap between mid-on and deep midwicket. Excellent fielding, excellent running. Shaun Marsh covered good ground and then was off balance and going over the ropes -airborne - as he flicked it back
+4159~2~
+4159~2~14.5
+4159~2~1
+4159~2~Maxwell to MDKJ Perera, 1 run, leg-side line not favouring him, worked to square leg, sensible from Kusal
+4159~2~
+4159~2~14.6
+4159~2~1
+4159~2~Maxwell to Karunaratne, 1 run, steps out and flicks this full delivery on the pads to deep midwicket
+4159~2~
+4159~2~15.1
+4159~2~2
+4159~2~Starc to Karunaratne, 2 runs, using Starc's pace to steer this over the infield, bounced over the point fielder's head as he hit it hard into the ground
+4159~2~END OF OVER:15 | 6 Runs | SL: 112/0 (223 runs required from 35 overs, RR: 7.46, RRR: 6.37)
+4159~2~
+4159~2~    Dimuth Karunaratne58 (55b)
+4159~2~    Kusal Perera52 (35b)
+4159~2~
+4159~2~    Glenn Maxwell3-0-14-0
+4159~2~    Mitchell Starc3-0-17-0
+4159~2~
+4159~2~
+4159~2~15.2
+4159~2~1
+4159~2~Starc to Karunaratne, 1 run, imperious flick down to deep square. Balance and timing all in sync
+4159~2~
+4159~2~Arty, Rohit has been for a long time facing this criticism Warner has been facing recently. But hindsight analysis of a slow opener's innings in a high scoring innings should be careful, early control usually helps setup a later assault."
+4159~2~
+4159~2~15.3
+4159~2~W
+4159~2~Starc to MDKJ Perera, OUT, the middle stump is flattened! full, straight and the wicket comes as Kusal misses an attempted mow to the leg side. Australia get a breakthrough they desperately needed. Finch's decision to bring back his trump card works.
+4159~2~
+4159~2~MDKJ Perera b Starc 52 (64m 36b 5x4 1x6) SR: 144.44
+4159~2~
+4159~2~Jithen hits it out of the park: "
+4159~2~15.4
+4159~2~1
+4159~2~Starc to Thirimanne, 1 run, gets on top of the bounce and turns this uppishly behind leg gully to get off the mark
+4159~2~
+4159~2~15.5
+4159~2~0
+4159~2~Starc to Karunaratne, no run, controls this gentle nudge to the leg side, kept it down.
+4159~2~
+4159~2~15.6
+4159~2~4
+4159~2~Starc to Karunaratne, FOUR runs, helped along, no slip and it races to the third man boundary. All he had to do was hit it wide of the keeper, which he did.
+4159~2~
+4159~2~Prem: "Can CricInfo publish DL par score on the top of the page? That way we need not keep asking the question every time we see clouds" -- Sri Lanka ahead as things stand.
+4159~2~
+4159~2~16.1
+4159~2~1
+4159~2~Maxwell to Thirimanne, 1 run, turns this to short fine for a quick single
+4159~2~END OF OVER:16 | 8 Runs 1 Wkt | SL: 120/1 (215 runs required from 34 overs, RR: 7.50, RRR: 6.32)
+4159~2~
+4159~2~    Dimuth Karunaratne65 (59b)
+4159~2~    Lahiru Thirimanne1 (1b)
+4159~2~
+4159~2~    Mitchell Starc4-0-25-1
+4159~2~    Glenn Maxwell3-0-14-0
+4159~2~
+4159~2~
+4159~2~16.2
+4159~2~1
+4159~2~Maxwell to Karunaratne, 1 run, slips this down leg, worked to fine leg
+4159~2~
+4159~2~16.3
+4159~2~0
+4159~2~Maxwell to Thirimanne, no run, nicely tossed up, he covers the line as he gets forward and defends
+4159~2~
+4159~2~16.4
+4159~2~0
+4159~2~Maxwell to Thirimanne, no run, pushed straight to Smith at cover
+4159~2~
+4159~2~16.5
+4159~2~0
+4159~2~Maxwell to Thirimanne, no run, nicely tossed up, got this to dip on Thiri as he lunges forward and defends
+4159~2~
+4159~2~16.6
+4159~2~0
+4159~2~Maxwell to Thirimanne, no run, quicker ball sliding in, pushed to midwicket. Good, tight over that from Maxwell.
+4159~2~
+4159~2~17.1
+4159~2~0
+4159~2~Starc to Karunaratne, no run, 139kph, good length, angled into off stump, he defends across the line working it to midwicket
+4159~2~
+4159~2~Game on Shashank. Sri Lanka are playing very well, led by the skipper.
+4159~2~END OF OVER:17 | 2 Runs | SL: 122/1 (213 runs required from 33 overs, RR: 7.17, RRR: 6.45)
+4159~2~
+4159~2~    Lahiru Thirimanne2 (6b)
+4159~2~    Dimuth Karunaratne66 (60b)
+4159~2~
+4159~2~    Glenn Maxwell4-0-16-0
+4159~2~    Mitchell Starc4-0-25-1
+4159~2~
+4159~2~Excellent first hour and a bit for Sri Lanka. Make no mistake, they're well and truly in this chase. I'm off to dinner. Join Alex on the ride as this game is set to enter a decisive phase. See you'll for the back end
+4159~2~
+4159~2~17.2
+4159~2~0
+4159~2~Starc to Karunaratne, no run, good length, fourth stump line, he defends from the crease and Maxwell is in quickly from point
+4159~2~
+4159~2~17.3
+4159~2~1
+4159~2~Starc to Karunaratne, 1 run, nearly a run out! Khawaja misses the underarm! Thirimanne was gone. It was a good length, defending to midwicket, Dimuth called quickly but Thirimanne was slow to go, Khawaja swooped, dived and underarmed but missed
+4159~2~
+4159~2~17.4
+4159~2~0
+4159~2~Starc to Thirimanne, no run, good length, off stump line, he defends off a thick outside edge to backward point
+4159~2~
+4159~2~17.5
+4159~2~0
+4159~2~Starc to Thirimanne, no run, 145kph, good length, tailing in a touch to off, he defends solidly on the front foot
+4159~2~
+4159~2~17.6
+4159~2~0
+4159~2~Starc to Thirimanne, no run, 147kph, half volley, firmly driven on the front foot straight back to Starc who does well in his follow through
+4159~2~
+4159~2~18.1
+4159~2~1
+4159~2~Maxwell to Karunaratne, 1 run, tossed up, he skips out and mistimes a drive to mid on who is deep
+4159~2~
+4159~2~Maxwell again
+4159~2~END OF OVER:18 | 1 Run | SL: 123/1 (212 runs required from 32 overs, RR: 6.83, RRR: 6.62)
+4159~2~
+4159~2~    Lahiru Thirimanne2 (9b)
+4159~2~    Dimuth Karunaratne67 (63b)
+4159~2~
+4159~2~    Mitchell Starc5-0-26-1
+4159~2~    Glenn Maxwell4-0-16-0
+4159~2~
+4159~2~
+4159~2~18.2
+4159~2~1
+4159~2~Maxwell to Thirimanne, 1 run, shorter and wider, he's back cutting to the sweeper at deep point
+4159~2~
+4159~2~18.3
+4159~2~0
+4159~2~Maxwell to Karunaratne, no run, tossed up, on off, he drives back to the bowler
+4159~2~
+4159~2~18.4
+4159~2~1
+4159~2~Maxwell to Karunaratne, 1 run, 87kph, tossed up, drifting in, he whips this through forwards square to the man in the deep
+4159~2~
+4159~2~18.5
+4159~2~1
+4159~2~Maxwell to Thirimanne, 1 run, drifting into leg stump, he clips this with the drift through midwicket
+4159~2~
+4159~2~18.6
+4159~2~4
+4159~2~Maxwell to Karunaratne, FOUR runs, brilliant late cut! This was a poor delivery. He pushed an arm ball through wide of off, he sat back and waited and placed it perfectly between the two men behind point
+4159~2~
+4159~2~19.1
+4159~2~0
+4159~2~Behrendorff to Thirimanne, no run, good length, angled into off, he defends on the front foot
+4159~2~END OF OVER:19 | 8 Runs | SL: 131/1 (204 runs required from 31 overs, RR: 6.89, RRR: 6.58)
+4159~2~
+4159~2~    Dimuth Karunaratne73 (67b)
+4159~2~    Lahiru Thirimanne4 (11b)
+4159~2~
+4159~2~    Glenn Maxwell5-0-24-0
+4159~2~    Mitchell Starc5-0-26-1
+4159~2~
+4159~2~Gorsi: "Alex, why when a batsman becomes captain, always becomes more careful. They should be taking the same responsibility even when they are not captaining the side. Look at Dimuth, who knew him before the WC, and now he is leading the charge against one of the dangerous bowling attack." Some men rise with the responsibility. It sharpens their focus. Also gives them a greater purpose than their individual score.
+4159~2~
+4159~2~19.2
+4159~2~1
+4159~2~Behrendorff to Thirimanne, 1 run, 131kph, good length, fifth stump line, he opens the face and runs this to third man
+4159~2~
+4159~2~19.3
+4159~2~2
+4159~2~Behrendorff to Karunaratne, 2 runs, he shuffles forward, it's a touch shorter, he clips this off the hip behind square in the gap for a couple
+4159~2~
+4159~2~19.4
+4159~2~1
+4159~2~Behrendorff to Karunaratne, 1 run, short and wide, he late cuts in the air through the vacant gully to third man
+4159~2~
+4159~2~19.5
+4159~2~0
+4159~2~Behrendorff to Thirimanne, no run, 135kph, full outside off, he strides forward and drives elegantly but straight to cover
+4159~2~
+4159~2~19.6
+4159~2~0
+4159~2~Behrendorff to Thirimanne, no run, 132kph, good length, off stump line, he defends on the front foot
+4159~2~
+4159~2~20.1
+4159~2~0
+4159~2~Maxwell to Karunaratne, no run, 87kph, drifting down leg, it comes off pad and runs fine
+4159~2~END OF OVER:20 | 4 Runs | SL: 135/1 (200 runs required from 30 overs, RR: 6.75, RRR: 6.66)
+4159~2~
+4159~2~    Lahiru Thirimanne5 (15b)
+4159~2~    Dimuth Karunaratne76 (69b)
+4159~2~
+4159~2~    Jason Behrendorff4-0-36-0
+4159~2~    Glenn Maxwell5-0-24-0
+4159~2~
+4159~2~Vijit : "I am unable to understand this strategy of Finch of allowing the new batsman to settle by bowling Maxwell upfront. It's more like underestimating your opponent, could well be a game-changing decision too." He's a good match up to the two left handers and he has to get 10 overs out of him. He should have had Dimuth. If you leave it later then the right handers like Mendis and Mathews could climb into Maxwell.
+4159~2~
+4159~2~20.2
+4159~2~1
+4159~2~Maxwell to Karunaratne, 1 run, tossed up, he skips down and clips this on the move to long on
+4159~2~
+4159~2~20.3
+4159~2~1
+4159~2~Maxwell to Thirimanne, 1 run, angled into leg stump, he glances this fine to fine leg to rotate the strike
+4159~2~
+4159~2~20.4
+4159~2~1
+4159~2~Maxwell to Karunaratne, 1 run, a mix up but Khawaja throws to the wrong end! It was a late cut to shot third man but Dimuth didn't run, Khawaja threw to the keeper and Thirimanne got home easily
+4159~2~
+4159~2~20.5
+4159~2~1
+4159~2~Maxwell to Thirimanne, 1 run, drifting into leg, he tucks this through square leg
+4159~2~
+4159~2~20.6
+4159~2~0
+4159~2~Maxwell to Karunaratne, no run, drifting into leg stump, he tries to whip but misses and is taken on the front pad
+4159~2~
+4159~2~21.1
+4159~2~1
+4159~2~Behrendorff to Thirimanne, 1 run, full outside off, he square drives to deep cover-point
+4159~2~END OF OVER:21 | 4 Runs | SL: 139/1 (196 runs required from 29 overs, RR: 6.61, RRR: 6.75)
+4159~2~
+4159~2~    Dimuth Karunaratne78 (73b)
+4159~2~    Lahiru Thirimanne7 (17b)
+4159~2~
+4159~2~    Glenn Maxwell6-0-28-0
+4159~2~    Jason Behrendorff4-0-36-0
+4159~2~
+4159~2~Rana Tahir: "Dimuth achieves his career best"
+4159~2~
+4159~2~21.2
+4159~2~0
+4159~2~Behrendorff to Karunaratne, no run, full angled into off, he works this off the front foot to mid on
+4159~2~
+4159~2~21.3
+4159~2~0
+4159~2~Behrendorff to Karunaratne, no run, 133kph, good length on off, he drives on the up dragging this mid on
+4159~2~
+4159~2~anjit: "I think Sri Lanka missed a trick by not having a right hander at no 3. Would have scored more off Maxwell. Now it's easy for finch to just get overs out of Maxwell. "
+4159~2~
+4159~2~21.4
+4159~2~1
+4159~2~Behrendorff to Karunaratne, 1 run, good length outside off, he closes the face trying to work to leg, gets a leading edge that runs to third man
+4159~2~
+4159~2~21.5
+4159~2~0
+4159~2~Behrendorff to Thirimanne, no run, good length, top of off, he's forced to defend on the front foot
+4159~2~
+4159~2~21.6
+4159~2~0
+4159~2~Behrendorff to Thirimanne, no run, back of a length, top of off, he defends from the crease into the off side
+4159~2~
+4159~2~nishant thaccke: "SL losing their way a bit here. They don't need to fall behind the RR now as Aussies will come back hard at them. Thirimanne needs to step up "
+4159~2~
+4159~2~22.1
+4159~2~0
+4159~2~Maxwell to Karunaratne, no run, attempted reverse sweep to a ball down leg, he paddles it onto his foot
+4159~2~END OF OVER:22 | 2 Runs | SL: 141/1 (194 runs required from 28 overs, RR: 6.40, RRR: 6.92)
+4159~2~
+4159~2~    Lahiru Thirimanne8 (20b)
+4159~2~    Dimuth Karunaratne79 (76b)
+4159~2~
+4159~2~    Jason Behrendorff5-0-38-0
+4159~2~    Glenn Maxwell6-0-28-0
+4159~2~
+4159~2~
+4159~2~22.2
+4159~2~0
+4159~2~Maxwell to Karunaratne, no run, tossed up, he drives towards long off but Maxwell cuts it off
+4159~2~
+4159~2~22.3
+4159~2~1
+4159~2~Maxwell to Karunaratne, 1 run, looped up outside off, he drives to long off this time
+4159~2~
+4159~2~22.4
+4159~2~1
+4159~2~Maxwell to Thirimanne, 1 run, he advances and lofts this over midwicket, but doesn't time it, deep midwicket comes in and gathers on the bounce
+4159~2~
+4159~2~22.5
+4159~2~1
+4159~2~Maxwell to Karunaratne, 1 run, shorter on middle, he stands tall and punches to long on
+4159~2~
+4159~2~22.6
+4159~2~1
+4159~2~Maxwell to Thirimanne, 1 run, tossed up on off, he leans forward playing around his front pad, working this to forward square for one
+4159~2~
+4159~2~23.1
+4159~2~2
+4159~2~Behrendorff to Thirimanne, 2 runs, driven on the up past cover, they take on the throw from Richardson in the deep, Dimuth is stretched at the non-striker's a direct hit would have had him!
+4159~2~END OF OVER:23 | 4 Runs | SL: 145/1 (190 runs required from 27 overs, RR: 6.30, RRR: 7.03)
+4159~2~
+4159~2~    Lahiru Thirimanne10 (22b)
+4159~2~    Dimuth Karunaratne81 (80b)
+4159~2~
+4159~2~    Glenn Maxwell7-0-32-0
+4159~2~    Jason Behrendorff5-0-38-0
+4159~2~
+4159~2~Supradeep: "Important now for Sri Lanka that Thiramanne stays proactive and scores at a bteer rates. Not pile up dot balls. Just make sure it doesnt slip out of their fingers."
+4159~2~
+4159~2~23.2
+4159~2~1lb
+4159~2~Behrendorff to Thirimanne, 1 leg bye, nearly another run out at the non-striker's end! This ball climbed off a length, it came off the arm of Thirimanne and goes behind point, Dimuth calls him through, Maxwell swoops and fires at the non-striker's and just misses!
+4159~2~
+4159~2~23.3
+4159~2~1
+4159~2~Behrendorff to Karunaratne, 1 run, 130kph, good length on off, he's back and working this through square leg to the sweeper
+4159~2~
+4159~2~Thirimanne is getting some treatment on the forearm. Some numbing spray is going the spot he was struck. This delay is taking some time. But Thirimanne is OK to continue.
+4159~2~
+4159~2~23.4
+4159~2~4
+4159~2~Behrendorff to Thirimanne, FOUR runs, cracking square drive on the up through backward point! Too much width and he stood tall and thrashed it behind point with amazing power.
+4159~2~
+4159~2~23.5
+4159~2~W
+4159~2~Behrendorff to Thirimanne, OUT, caught behind! Behrendorff breaks through! He tried to square drive again on the up but this was much tighter to off and a little shorter, he was cramped attempting the shot, got a thin edge to Carey! Behrendorff has his first World Cup wicket
+4159~2~
+4159~2~HDRL Thirimanne c Carey(wk) b Behrendorff 16 (34m 26b 1x4 0x6) SR: 61.53
+4159~2~
+4159~2~23.6
+4159~2~1
+4159~2~Behrendorff to Mendis, 1 run, 133kph, short on the hip, he glances this off the back foot to fine leg
+4159~2~
+4159~2~Kusal Mendis in at No.4. Slip and gully in.
+4159~2~
+4159~2~24.1
+4159~2~0
+4159~2~Cummins to Mendis, no run, good length, fifth stump line, he defends from the crease
+4159~2~
+4159~2~Cummins back, specifically for Mendis
+4159~2~END OF OVER:24 | 9 Runs 1 Wkt | SL: 154/2 (181 runs required from 26 overs, RR: 6.41, RRR: 6.96)
+4159~2~
+4159~2~    Kusal Mendis1 (1b)
+4159~2~    Dimuth Karunaratne82 (81b)
+4159~2~
+4159~2~    Jason Behrendorff6-0-46-1
+4159~2~    Glenn Maxwell7-0-32-0
+4159~2~
+4159~2~Viral kotech: "That ball which hit perera on the arm was a no ball by behrendorff and ump entirely missed it.. free hit gone begging.. "
+4159~2~
+4159~2~24.2
+4159~2~0
+4159~2~Cummins to Mendis, no run, 138kph, back of a length, climbing outside off, he's back and knocking this down into the off side
+4159~2~
+4159~2~24.3
+4159~2~0
+4159~2~Cummins to Mendis, no run, 138kph, full angled into off, he pushes a drive to mid on
+4159~2~
+4159~2~24.4
+4159~2~1w
+4159~2~Cummins to Mendis, 1 wide, bouncer, angled well down the leg side
+4159~2~
+4159~2~24.4
+4159~2~0
+4159~2~Cummins to Mendis, no run, good length,143kph, fourth stump line, he defends on the front foot
+4159~2~
+4159~2~24.5
+4159~2~1
+4159~2~Cummins to Mendis, 1 run, 134kph, back of a length, fifth stump line, he sits back and runs this down to third man with an angled bat
+4159~2~
+4159~2~24.6
+4159~2~0
+4159~2~Cummins to Karunaratne, no run, 136kph, high bouncer, he ducks well underneath it
+4159~2~
+4159~2~Around the wicket
+4159~2~
+4159~2~Rifdhy: "Kuala Mendis played a vital role in the chase of 322 against India in CT2017...Sri Lanka will be safe home if he can repeat the same, where Angelo to be followed next in the order...fingers crossed"
+4159~2~
+4159~2~25.1
+4159~2~0
+4159~2~Behrendorff to Mendis, no run, 134kph, good length, angled across, he defends on the front foot back to the bowler
+4159~2~END OF OVER:25 | 2 Runs | SL: 156/2 (179 runs required from 25 overs, RR: 6.24, RRR: 7.16)
+4159~2~
+4159~2~    Dimuth Karunaratne82 (82b)
+4159~2~    Kusal Mendis2 (6b)
+4159~2~
+4159~2~    Pat Cummins4-0-27-0
+4159~2~    Jason Behrendorff6-0-46-1
+4159~2~
+4159~2~
+4159~2~25.2
+4159~2~1
+4159~2~Behrendorff to Mendis, 1 run, 131kph, good length, leg stump line, he works this into the gap at midwicket
+4159~2~
+4159~2~25.3
+4159~2~1
+4159~2~Behrendorff to Karunaratne, 1 run, 131kph, good length, wide of off, he sits back and glides this to third man
+4159~2~
+4159~2~25.4
+4159~2~1
+4159~2~Behrendorff to Mendis, 1 run, 135kph, head high bouncer, he swivels and pulls beautifully, rolling the wrists but nailing it straight to backward square
+4159~2~
+4159~2~sandy: "Where is zampa? " Running the drinks.
+4159~2~
+4159~2~25.5
+4159~2~0
+4159~2~Behrendorff to Karunaratne, no run, angled into off, 136kph, he works this to midwicket, Khawaja makes the diving save
+4159~2~
+4159~2~25.6
+4159~2~0
+4159~2~Behrendorff to Karunaratne, no run, 136kph, angled in and whipped from off stump straight to the man at midwicket
+4159~2~
+4159~2~26.1
+4159~2~1
+4159~2~Cummins to Mendis, 1 run, 139kph, good length but angled into leg and he clips this neatly off the hip
+4159~2~END OF OVER:26 | 3 Runs | SL: 159/2 (176 runs required from 24 overs, RR: 6.11, RRR: 7.33)
+4159~2~
+4159~2~    Dimuth Karunaratne83 (85b)
+4159~2~    Kusal Mendis4 (9b)
+4159~2~
+4159~2~    Jason Behrendorff7-0-49-1
+4159~2~    Pat Cummins4-0-27-0
+4159~2~
+4159~2~
+4159~2~26.2
+4159~2~1
+4159~2~Cummins to Karunaratne, 1 run, shorter and wider, he late cuts to third man with control
+4159~2~
+4159~2~Luke: "Any idea why Australia are so reluctant to play Lyon?" Can only think that they worry about his strike-rate. He is an excellent container but doesn't take many wickets in the middle overs. But I would have played him for what it's worth
+4159~2~
+4159~2~26.3
+4159~2~1
+4159~2~Cummins to Mendis, 1 run, 145kph, angled down leg and he glances easily to fine leg again
+4159~2~
+4159~2~26.4
+4159~2~0
+4159~2~Cummins to Karunaratne, no run, 139kph, full outside off, he drives but doesn't time it well to mid off
+4159~2~
+4159~2~26.5
+4159~2~1
+4159~2~Cummins to Karunaratne, 1 run, 141kph, shorter length, he upper cuts to third man but it lands well short of the fielder
+4159~2~
+4159~2~26.6
+4159~2~0
+4159~2~Cummins to Mendis, no run, fuller length, 144kph, wide of off, he mistimes a drive to mid off
+4159~2~
+4159~2~27.1
+4159~2~2
+4159~2~Behrendorff to Karunaratne, 2 runs, he walks down the track and flicks this extravagantly behind square, but he didn't middle it, he gets a couple
+4159~2~END OF OVER:27 | 4 Runs | SL: 163/2 (172 runs required from 23 overs, RR: 6.03, RRR: 7.47)
+4159~2~
+4159~2~    Kusal Mendis6 (12b)
+4159~2~    Dimuth Karunaratne85 (88b)
+4159~2~
+4159~2~    Pat Cummins5-0-31-0
+4159~2~    Jason Behrendorff7-0-49-1
+4159~2~
+4159~2~Vipul kotkar : "Jhye Richardson would have been better choice for 3rs Seamer ? " He is recovering from a shoulder injury.
+4159~2~
+4159~2~27.2
+4159~2~0
+4159~2~Behrendorff to Karunaratne, no run, 133kph, full angled into off, his head falls a touch as he whips to mid on
+4159~2~
+4159~2~27.3
+4159~2~0
+4159~2~Behrendorff to Karunaratne, no run, nearly bowled! This was a good length angled in, he tried to pull the length ball, it shot low under the bat and just past off stump
+4159~2~
+4159~2~27.4
+4159~2~1
+4159~2~Behrendorff to Karunaratne, 1 run, he steps forward, gets a length ball wide of off and runs it to third man
+4159~2~
+4159~2~27.5
+4159~2~1
+4159~2~Behrendorff to Mendis, 1 run, good length, on leg, he glances this fine to fine leg
+4159~2~
+4159~2~27.6
+4159~2~1
+4159~2~Behrendorff to Karunaratne, 1 run, 133kph, he drives on the up, gets a thick edge that runs along the ground to third man
+4159~2~
+4159~2~28.1
+4159~2~0
+4159~2~Richardson to Karunaratne, no run, 134kph, good length, angled in towards off, he defends on the front foot
+4159~2~
+4159~2~Kane Richardson returns to the attack. Around the wicket
+4159~2~END OF OVER:28 | 5 Runs | SL: 168/2 (167 runs required from 22 overs, RR: 6.00, RRR: 7.59)
+4159~2~
+4159~2~    Dimuth Karunaratne89 (93b)
+4159~2~    Kusal Mendis7 (13b)
+4159~2~
+4159~2~    Jason Behrendorff8-0-54-1
+4159~2~    Pat Cummins5-0-31-0
+4159~2~
+4159~2~
+4159~2~28.2
+4159~2~2
+4159~2~Richardson to Karunaratne, 2 runs, angled in to off, good length, he works this off the front foot behind square, they run well and pinch two
+4159~2~
+4159~2~Mahesh Rathi: "What a contrast! Australia poor start, great middle and poor end. Sri Lanka great start and poor middle so far. If Sri Lanka continues this poor run in the middle, they will end up leaving too much to do in the end!!"
+4159~2~
+4159~2~28.3
+4159~2~0
+4159~2~Richardson to Karunaratne, no run, 133kph, bouncer outside off, he pulls but is beaten by the extra bounce
+4159~2~
+4159~2~28.4
+4159~2~1
+4159~2~Richardson to Karunaratne, 1 run, 131kph, good length wide of off, he sits back and runs this to third man with a horizontal bat
+4159~2~
+4159~2~28.5
+4159~2~1
+4159~2~Richardson to Mendis, 1 run, good length, 138kph, outside off, he opens the face of the bat and guides it to third man
+4159~2~
+4159~2~28.6
+4159~2~1
+4159~2~Richardson to Karunaratne, 1 run, 129kph, short ball, pulled powerfully, in the air behind square but Marsh gets there on the bounce to cut it off
+4159~2~
+4159~2~ no 4,after a very gud start from the top order(which is rare from them)you want your most experienced player to be out in the middle and take the team home.A very negative approach by matthews here." Kusal Mendis has rotated OK so far.
+4159~2~
+4159~2~29.1
+4159~2~0
+4159~2~Maxwell to Karunaratne, no run, drifting down leg, he glances this straight to backward square
+4159~2~
+4159~2~Maxwell is back
+4159~2~END OF OVER:29 | 5 Runs | SL: 173/2 (162 runs required from 21 overs, RR: 5.96, RRR: 7.71)
+4159~2~
+4159~2~    Dimuth Karunaratne93 (98b)
+4159~2~    Kusal Mendis8 (14b)
+4159~2~
+4159~2~    Kane Richardson4-0-28-0
+4159~2~    Jason Behrendorff8-0-54-1
+4159~2~
+4159~2~Dilip: "Dont understand why matthews did'nt came 
+4159~2~29.2
+4159~2~1
+4159~2~Maxwell to Karunaratne, 1 run, tossed up, he dances down and works this neatly through midwicket
+4159~2~
+4159~2~29.3
+4159~2~0
+4159~2~Maxwell to Mendis, no run, looped up outside off, he opens the face and runs it to short third man
+4159~2~
+4159~2~29.4
+4159~2~1
+4159~2~Maxwell to Mendis, 1 run, angled into leg stump, he clips this square of midwicket
+4159~2~
+4159~2~29.5
+4159~2~0
+4159~2~Maxwell to Karunaratne, no run, flatter and quicker, he cuts from close to off stump straight to backward point
+4159~2~
+4159~2~29.6
+4159~2~1
+4159~2~Maxwell to Karunaratne, 1 run, pushed through on off, he's back and working this through midwicket
+4159~2~
+4159~2~30.1
+4159~2~0
+4159~2~Richardson to Karunaratne, no run, 134kph, good length, angled in, he defends on the front foot
+4159~2~END OF OVER:30 | 3 Runs | SL: 176/2 (159 runs required from 20 overs, RR: 5.86, RRR: 7.95)
+4159~2~
+4159~2~    Dimuth Karunaratne95 (102b)
+4159~2~    Kusal Mendis9 (16b)
+4159~2~
+4159~2~    Glenn Maxwell8-0-35-0
+4159~2~    Kane Richardson4-0-28-0
+4159~2~
+4159~2~SupunL: "Sri Lanka needs someone to do a Aravinda or a Jayawardane here. They were two batsman capable of completely putting the pressure back on the opposition with graceful yet firm counterattacks" Plenty of time yet.
+4159~2~
+4159~2~30.2
+4159~2~1
+4159~2~Richardson to Karunaratne, 1 run, 126kph, good length wide of off, he eases into a drive through extra cover to the sweeper
+4159~2~
+4159~2~30.3
+4159~2~0
+4159~2~Richardson to Mendis, no run, 131kph, full outside off, he tries to drive down the ground but gets it straight back to the bowler
+4159~2~
+4159~2~Stuart: "In what weird pace-inspired world do Behrendorff/Richardson get picked ahead of either - let alone both - of Zampa and Lyon? Aus has completely forgotten who/what got them into a good WC frame of mind. "
+4159~2~
+4159~2~30.4
+4159~2~0
+4159~2~Richardson to Mendis, no run, good length, 130kph, he defends from the crease with an open blade to gully
+4159~2~
+4159~2~30.5
+4159~2~0
+4159~2~Richardson to Mendis, no run, 133kph, good length, angled into off, he defends from the crease who is tight in on the one
+4159~2~
+4159~2~30.6
+4159~2~1
+4159~2~Richardson to Mendis, 1 run, hooked in the air but it falls well short of fine leg. He didn't get any of it. The extra bounce surprised him and he wasn't in control but all is OK.
+4159~2~
+4159~2~31.1
+4159~2~0
+4159~2~Maxwell to Mendis, no run, looped up on off, he works it with the spin to midwicket
+4159~2~END OF OVER:31 | 2 Runs | SL: 178/2 (157 runs required from 19 overs, RR: 5.74, RRR: 8.26)
+4159~2~
+4159~2~    Kusal Mendis10 (20b)
+4159~2~    Dimuth Karunaratne96 (104b)
+4159~2~
+4159~2~    Kane Richardson5-0-30-0
+4159~2~    Glenn Maxwell8-0-35-0
+4159~2~
+4159~2~
+4159~2~31.2
+4159~2~1
+4159~2~Maxwell to Mendis, 1 run, tossed up again, he skips down and drives to long on
+4159~2~
+4159~2~31.3
+4159~2~0
+4159~2~Maxwell to Karunaratne, no run, drifting into leg, he clips this straight to square leg in the ring
+4159~2~
+4159~2~31.4
+4159~2~0
+4159~2~Maxwell to Karunaratne, no run, drifting into leg again, he glances this straight to short fine
+4159~2~
+4159~2~31.5
+4159~2~1
+4159~2~Maxwell to Karunaratne, 1 run, tossed up, he advances and drives neatly to long on
+4159~2~
+4159~2~31.6
+4159~2~6
+4159~2~Maxwell to Mendis, SIX runs, launched straight down the ground! There we go! He skipped out, got the length he wanted and lofted through the line straight down the ground and to the sight screen! Super shot
+4159~2~
+4159~2~32.1
+4159~2~W
+4159~2~Richardson to Karunaratne, OUT, caught at backward point! Oh no! Three short of a magical hundred. It was short and wide, there to cut for four, but he just guided it, didn't try and get over the top of it or hit it up and over Maxwell at backward point. He picked him out. Catching practice for Maxwell. What a massive blow that is
+4159~2~
+4159~2~FDM Karunaratne c Maxwell b Richardson 97 (132m 108b 9x4 0x6) SR: 89.81
+4159~2~END OF OVER:32 | 8 Runs | SL: 186/2 (149 runs required from 18 overs, RR: 5.81, RRR: 8.27)
+4159~2~
+4159~2~    Kusal Mendis17 (23b)
+4159~2~    Dimuth Karunaratne97 (107b)
+4159~2~
+4159~2~    Glenn Maxwell9-0-43-0
+4159~2~    Kane Richardson5-0-30-0
+4159~2~
+4159~2~
+4159~2~32.2
+4159~2~4
+4159~2~Richardson to Mathews, FOUR runs, over-pitched and driven easily straight of mid on! Genuine half-volley first up and Mathews didn't have to be asked twice to put that away
+4159~2~
+4159~2~Angelo Mathews in
+4159~2~
+4159~2~Drinks That could not have come at a worse time for Sri Lanka. They were ready to launch. Dimuth played so well. He deserved better.
+4159~2~
+4159~2~32.3
+4159~2~0
+4159~2~Richardson to Mathews, no run, good length, angled into off, he defends from the crease
+4159~2~
+4159~2~32.4
+4159~2~0
+4159~2~Richardson to Mathews, no run, 130kph, bouncer, well directed, he ducks under it well
+4159~2~
+4159~2~32.5
+4159~2~0
+4159~2~Richardson to Mathews, no run, back of a length, on off, he defends from the crease
+4159~2~
+4159~2~Kartik: "Matthews off the mark this WC"
+4159~2~
+4159~2~32.6
+4159~2~0
+4159~2~Richardson to Mathews, no run, fuller length, angled into off, he pushes on the front foot to mid on
+4159~2~
+4159~2~33.1
+4159~2~1
+4159~2~Maxwell to Mendis, 1 run, angled into leg, he works this off the front foot behind square
+4159~2~
+4159~2~Maxwell round the wicket
+4159~2~END OF OVER:33 | 4 Runs 1 Wkt | SL: 190/3 (145 runs required from 17 overs, RR: 5.75, RRR: 8.52)
+4159~2~
+4159~2~    Angelo Mathews4 (5b)
+4159~2~    Kusal Mendis17 (23b)
+4159~2~
+4159~2~    Kane Richardson6-0-34-1
+4159~2~    Glenn Maxwell9-0-43-0
+4159~2~
+4159~2~
+4159~2~33.2
+4159~2~1
+4159~2~Maxwell to Mathews, 1 run, shorter length, he's back and whipping this through forward square to the sweeper
+4159~2~
+4159~2~33.3
+4159~2~0
+4159~2~Maxwell to Mendis, no run, shorter length, he's back and punching this to cover
+4159~2~
+4159~2~33.4
+4159~2~0
+4159~2~Maxwell to Mendis, no run, shorter down leg, he gets down on one knee and paddles it to short fine
+4159~2~
+4159~2~33.5
+4159~2~0
+4159~2~Maxwell to Mendis, no run, round arm flatter ball, he stands up and punches it straight to midwicket
+4159~2~
+4159~2~33.6
+4159~2~1
+4159~2~Maxwell to Mendis, 1 run, round arm again at the heels of Mendis, he clips this behind square
+4159~2~
+4159~2~34.1
+4159~2~0
+4159~2~Starc to Mendis, no run, good length, top of off, he defends from the crease covering up the stumps
+4159~2~
+4159~2~Starc back
+4159~2~END OF OVER:34 | 3 Runs | SL: 193/3 (142 runs required from 16 overs, RR: 5.67, RRR: 8.87)
+4159~2~
+4159~2~    Kusal Mendis19 (28b)
+4159~2~    Angelo Mathews5 (6b)
+4159~2~
+4159~2~    Glenn Maxwell10-0-46-0
+4159~2~    Kane Richardson6-0-34-1
+4159~2~
+4159~2~Maxwell has bowled 10 overs for just 46. Brilliant performance. But Sri Lanka probably needed to attack him more.
+4159~2~
+4159~2~34.2
+4159~2~6
+4159~2~Starc to Mendis, SIX runs, thumped back over the bowler's head! Off Starc no less! Mid off and mid on were up, this was up in the slot and he swings through the line and crushes it straight at the sight screen. What a shot.
+4159~2~
+4159~2~Syed: "Angelo needs to step up today. Its all about experience from now on and he is the only one left!"
+4159~2~
+4159~2~34.3
+4159~2~1
+4159~2~Starc to Mendis, 1 run, full and wide, he square drives to deep cover-point
+4159~2~
+4159~2~34.4
+4159~2~0
+4159~2~Starc to Mathews, no run, short lifter outside off, he drops his knees and sways underneath it
+4159~2~
+4159~2~Slip in
+4159~2~
+4159~2~200 up to huge applause from the Sri Lanka fans
+4159~2~
+4159~2~34.5
+4159~2~0
+4159~2~Starc to Mathews, no run, 141kph short outside off, he's up on his toes pushing this behind point and Maxwell makes a fabulous diving save. he is a gun in that position
+4159~2~
+4159~2~34.6
+4159~2~4
+4159~2~Starc to Mathews, FOUR runs, chest high and pulled behind square! Super shot. Not short enough and he controlled it beautifully into the gap between the two men in the deep
+4159~2~
+4159~2~35.1
+4159~2~0
+4159~2~Cummins to Mendis, no run, hops back and defends this skiddy short of length delivery.
+4159~2~
+4159~2~Thanks, Alex.
+4159~2~END OF OVER:35 | 11 Runs | SL: 204/3 (131 runs required from 15 overs, RR: 5.82, RRR: 8.73)
+4159~2~
+4159~2~    Angelo Mathews9 (9b)
+4159~2~    Kusal Mendis26 (31b)
+4159~2~
+4159~2~    Mitchell Starc6-0-37-1
+4159~2~    Glenn Maxwell10-0-46-0
+4159~2~
+4159~2~Shashank will take you through the last 15 overs of the game
+4159~2~
+4159~2~35.2
+4159~2~1
+4159~2~Cummins to Mendis, 1 run, tucks this gently off his hip to square leg
+4159~2~
+4159~2~35.3
+4159~2~0
+4159~2~Cummins to Mathews, no run, short of length again, Mathews is caught on the hop but he defends again
+4159~2~
+4159~2~35.4
+4159~2~W
+4159~2~Cummins to Mathews, OUT, he's gloved this down leg! This was short, angling in towards his ribs, Mathews tried to avoid by trying to take him on with the hook shot, swivels a touch too late and gloves it through to the keeper. Massive blow.
+4159~2~
+4159~2~AD Mathews c Carey(wk) b Cummins 9 (14m 11b 2x4 0x6) SR: 81.81
+4159~2~
+4159~2~35.5
+4159~2~2
+4159~2~Cummins to Siriwardana, 2 runs, pulled in front of square, Richardson comes around to cut that off at deep midwicket
+4159~2~
+4159~2~35.6
+4159~2~1
+4159~2~Cummins to Siriwardana, 1 run, driven on the up to sweeper cover
+4159~2~
+4159~2~36.1
+4159~2~1w
+4159~2~Starc to Siriwardana, 1 wide, slips this length ball down leg, wide called.
+4159~2~END OF OVER:36 | 4 Runs 1 Wkt | SL: 208/4 (127 runs required from 14 overs, RR: 5.77, RRR: 9.07)
+4159~2~
+4159~2~    Milinda Siriwardana3 (2b)
+4159~2~    Kusal Mendis27 (33b)
+4159~2~
+4159~2~    Pat Cummins6-0-35-1
+4159~2~    Mitchell Starc6-0-37-1
+4159~2~
+4159~2~
+4159~2~36.1
+4159~2~0
+4159~2~Starc to Siriwardana, no run, shows the full face of the bat to defend this to mid-on
+4159~2~
+4159~2~36.2
+4159~2~W
+4159~2~Starc to Siriwardana, OUT, full, straight and boom! Plays all around this full delivery, misses. The ball tails in to beat the inside edge, deflect off the pad and smash the stumps. The procession continues.
+4159~2~
+4159~2~TAM Siriwardana b Starc 3 (5m 4b 0x4 0x6) SR: 75.00
+4159~2~
+4159~2~36.3
+4159~2~6
+4159~2~Starc to NLTC Perera, SIX runs, swivels back and helps this over fine leg! Short, slanting in, Thisara took him on, was looking away but made clean contact. Is there life in the game yet?
+4159~2~
+4159~2~Thisara stands between Australia and victory.
+4159~2~
+4159~2~36.4
+4159~2~1
+4159~2~Starc to NLTC Perera, 1 run, flicks this full delivery to deep square leg
+4159~2~
+4159~2~36.5
+4159~2~1
+4159~2~Starc to Mendis, 1 run, prods outside the line, squirts one off the inside edge to the keeper.
+4159~2~
+4159~2~36.6
+4159~2~W
+4159~2~Starc to NLTC Perera, OUT, he's chipped this straight to mid-on, good catch by Warner. He was looking to whip this over the infield, didn't get it off the middle. That's the end of Sri Lanka's hopes, me thinks
+4159~2~
+4159~2~NLTC Perera c Warner b Starc 7 (4m 3b 0x4 1x6) SR: 233.33
+4159~2~
+4159~2~37.1
+4159~2~1
+4159~2~Behrendorff to Mendis, 1 run, length on middle and leg, tucks this down to fine leg
+4159~2~END OF OVER:37 | 9 Runs 2 Wkts | SL: 217/6 (118 runs required from 78 balls, RR: 5.86, RRR: 9.07)
+4159~2~
+4159~2~    Kusal Mendis28 (34b)
+4159~2~
+4159~2~    Mitchell Starc7-0-46-3
+4159~2~    Pat Cummins6-0-35-1
+4159~2~
+4159~2~
+4159~2~37.2
+4159~2~0
+4159~2~Behrendorff to de Silva, no run, right behind the line of this away-going length ball as he defends.
+4159~2~
+4159~2~37.3
+4159~2~2
+4159~2~Behrendorff to de Silva, 2 runs, on the pads, flicked into the gap at deep midwicket
+4159~2~
+4159~2~37.4
+4159~2~0
+4159~2~Behrendorff to de Silva, no run, slants this away-going length across, defended from the crease
+4159~2~
+4159~2~37.5
+4159~2~1
+4159~2~Behrendorff to de Silva, 1 run, squared up but he gets a thick edge down to square third man
+4159~2~
+4159~2~37.6
+4159~2~1
+4159~2~Behrendorff to Mendis, 1 run, pulled but no timing, straight to deep square leg.
+4159~2~
+4159~2~38.1
+4159~2~W
+4159~2~Starc to Mendis, OUT, thin edge and gone! Slants a pacy delivery across Kusal who looks to heave this across the line, the pace is too good for him. Gleefully accepted by Carey.
+4159~2~
+4159~2~BKG Mendis c Carey(wk) b Starc 30 (68m 37b 0x4 2x6) SR: 81.08
+4159~2~END OF OVER:38 | 5 Runs | SL: 222/6 (113 runs required from 12 overs, RR: 5.84, RRR: 9.41)
+4159~2~
+4159~2~    Kusal Mendis30 (36b)
+4159~2~    Dhananjaya de Silva3 (4b)
+4159~2~
+4159~2~    Jason Behrendorff9-0-59-1
+4159~2~    Mitchell Starc7-0-46-3
+4159~2~
+4159~2~
+4159~2~38.2
+4159~2~1
+4159~2~Starc to Udana, 1 run, squeezes the drive to deep cover
+4159~2~
+4159~2~38.3
+4159~2~1
+4159~2~Starc to de Silva, 1 run, yorker-length, tails away late, squirts this wide of point
+4159~2~
+4159~2~38.4
+4159~2~1
+4159~2~Starc to Udana, 1 run, squirts a thick outside edge to third man, looking to flick this incoming delivery that was angled to the base of middle from around the stumps.
+4159~2~
+4159~2~38.5
+4159~2~0
+4159~2~Starc to de Silva, no run, hops back and defends
+4159~2~
+4159~2~38.6
+4159~2~4
+4159~2~Starc to de Silva, FOUR runs, gorgeous off-drive, Warner at mid-off with a full-length dive but can't stop. Timed superbly.
+4159~2~
+4159~2~The game may be gone, but Sri Lanka need to be mindful of their margin of defeat here.
+4159~2~
+4159~2~39.1
+4159~2~4
+4159~2~Richardson to Udana, FOUR runs, slashed over point, races to the boundary like a tracer bullet. Too much width
+4159~2~END OF OVER:39 | 7 Runs 1 Wkt | SL: 229/7 (106 runs required from 11 overs, RR: 5.87, RRR: 9.63)
+4159~2~
+4159~2~    Dhananjaya de Silva8 (7b)
+4159~2~    Isuru Udana2 (2b)
+4159~2~
+4159~2~    Mitchell Starc8-0-53-4
+4159~2~    Jason Behrendorff9-0-59-1
+4159~2~
+4159~2~
+4159~2~39.2
+4159~2~0
+4159~2~Richardson to Udana, no run, bunts this short of length delivery to the off side
+4159~2~
+4159~2~39.3
+4159~2~0
+4159~2~Richardson to Udana, no run, ducks under this short ball without much of a hassle
+4159~2~
+4159~2~Rudra Varma: "How did it even come to a required run rate of 8+ after that rollicking 20-25 odd overs for just a wicket. Poor batting in the middle overs by Sri Lanka. Unnecessarily put pressure on themselves and hence this procession now."
+4159~2~
+4159~2~39.4
+4159~2~0
+4159~2~Richardson to Udana, no run, punched straight to cover
+4159~2~
+4159~2~39.5
+4159~2~1w
+4159~2~Richardson to Udana, 1 wide, zips past the thigh pad but the angle down leg means its a wide
+4159~2~
+4159~2~39.5
+4159~2~2
+4159~2~Richardson to Udana, 2 runs, superb stop at third man by Behrendorff! Looks to flay this over point but gets a thick outside edge. Dive saves a couple of runs
+4159~2~
+4159~2~39.6
+4159~2~W
+4159~2~Richardson to Udana, OUT, looks to back away and flat-bat this over the stands, but only manages to slice it high in the air as Finch, back-tracking from mid-off, takes an excellent catch on the move.
+4159~2~
+4159~2~I Udana c Finch(c) b Richardson 8 (8m 8b 1x4 0x6) SR: 100.00
+4159~2~
+4159~2~40.1
+4159~2~1
+4159~2~Starc to Malinga, 1 run, backs away and squirts this yorker on middle to deep cover. Gave Starc a candid view of all three stumps there
+4159~2~
+4159~2~Lasith Malinga, possibly for one last time at The Oval?
+4159~2~END OF OVER:40 | 7 Runs 1 Wkt | SL: 236/8 (99 runs required from 60 balls, RR: 5.90, RRR: 9.90)
+4159~2~
+4159~2~    Dhananjaya de Silva8 (7b)
+4159~2~
+4159~2~    Kane Richardson7-0-41-2
+4159~2~    Mitchell Starc8-0-53-4
+4159~2~
+4159~2~
+4159~2~40.2
+4159~2~0
+4159~2~Starc to de Silva, no run, right into the blockhole, tails away late but he manages to get some bat on it
+4159~2~
+4159~2~40.3
+4159~2~0
+4159~2~Starc to de Silva, no run, length on middle, defended
+4159~2~
+4159~2~40.4
+4159~2~0
+4159~2~Starc to de Silva, no run, attacks his toe with a 147kph thunderbolt, somehow manages to bring his bat in front to keep it out.
+4159~2~
+4159~2~40.5
+4159~2~0
+4159~2~Starc to de Silva, no run, full toss, eased to deep cover
+4159~2~
+4159~2~40.6
+4159~2~0
+4159~2~Starc to de Silva, no run, full toss on off, punches straight to mid-off
+4159~2~
+4159~2~Sathyen: "It's really disappointing to see a side that made 3 world Cup finals and a semi final between 1996 and 2011 and squandering an astonishing start and we'll on their way to lose the match by a considerable margin. Just can't fathom how much Sri Lankan cricket has fallen in recent times. Some drastic steps are required from the Sri Lankan board to arrest this freefall."
+4159~2~
+4159~2~41.1
+4159~2~0
+4159~2~Richardson to Malinga, no run, short ball on middle, somehow manages to get some body behind the line and block
+4159~2~END OF OVER:41 | 1 Run | SL: 237/8 (98 runs required from 54 balls, RR: 5.78, RRR: 10.88)
+4159~2~
+4159~2~    Dhananjaya de Silva8 (12b)
+4159~2~    Lasith Malinga1 (1b)
+4159~2~
+4159~2~    Mitchell Starc9-0-54-4
+4159~2~    Kane Richardson7-0-41-2
+4159~2~
+4159~2~
+4159~2~41.2
+4159~2~0
+4159~2~Richardson to Malinga, no run, backs away to carve behind point, Richardson shortened his length and got it to bounce a touch more than Malinga anticipates, beaten
+4159~2~
+4159~2~41.3
+4159~2~0
+4159~2~Richardson to Malinga, no run, squeezes this full delivery to cover
+4159~2~
+4159~2~41.4
+4159~2~W
+4159~2~Richardson to Malinga, OUT, chips it straight to cover, Khawaja can't ask for an easier catch. The end is near. Excellent change of pace, this is the split-finger slower ball, length on the fuller side, Malinga backed away possibly to hit it over the infield but ended up spooning it to the fielder.
+4159~2~
+4159~2~SL Malinga c Khawaja b Richardson 1 (9m 5b 0x4 0x6) SR: 20.00
+4159~2~
+4159~2~41.5
+4159~2~0
+4159~2~Richardson to Pradeep, no run, jams his bat down to keep this yorker from cannoning into the base of off-stump.
+4159~2~
+4159~2~41.6
+4159~2~0
+4159~2~Richardson to Pradeep, no run, squeezes this yorker back to the bowler
+4159~2~
+4159~2~42.1
+4159~2~0
+4159~2~Starc to de Silva, no run, helps this down to fine leg, turns down the single
+4159~2~END OF OVER:42 | (wicket maiden) | SL: 237/9 (98 runs required from 48 balls, RR: 5.64, RRR: 12.25)
+4159~2~
+4159~2~    Nuwan Pradeep0 (2b)
+4159~2~    Dhananjaya de Silva8 (12b)
+4159~2~
+4159~2~    Kane Richardson8-1-41-3
+4159~2~    Mitchell Starc9-0-54-4
+4159~2~
+4159~2~M Yusuf: "It is so difficult to be a Sri Lankan fan. It is so painful and depressing to be a fan. We still live with the hope that from somewhere we will get a Sanga and a Mahela to lead Sri Lanka cricket again."
+4159~2~
+4159~2~42.2
+4159~2~0
+4159~2~Starc to de Silva, no run, scorching drive but straight to mid-off
+4159~2~
+4159~2~42.3
+4159~2~0
+4159~2~Starc to de Silva, no run, solid forward defence to a full delivery angling in towards the stumps
+4159~2~
+4159~2~42.4
+4159~2~0
+4159~2~Starc to de Silva, no run, brings out the short-arm jab, timed superbly but straight to deep midwicket. Refuses the run again
+4159~2~
+4159~2~42.5
+4159~2~1
+4159~2~Starc to de Silva, 1 run, thick edge, down to third man
+4159~2~
+4159~2~42.6
+4159~2~0
+4159~2~Starc to Pradeep, no run, makes room and steers this down to third man
+4159~2~
+4159~2~43.1
+4159~2~0
+4159~2~Cummins to de Silva, no run, short of length on middle, he hops back and defends
+4159~2~END OF OVER:43 | 1 Run | SL: 238/9 (97 runs required from 42 balls, RR: 5.53, RRR: 13.85)
+4159~2~
+4159~2~    Nuwan Pradeep0 (3b)
+4159~2~    Dhananjaya de Silva9 (17b)
+4159~2~
+4159~2~    Mitchell Starc10-0-55-4
+4159~2~    Kane Richardson8-1-41-3
+4159~2~
+4159~2~
+4159~2~43.2
+4159~2~1w
+4159~2~Cummins to de Silva, 1 wide, sways out of the way of this slower bouncer
+4159~2~
+4159~2~43.2
+4159~2~0
+4159~2~Cummins to de Silva, no run, backs away, bowler follows him, cramped for room but keeps it out
+4159~2~
+4159~2~43.3
+4159~2~0
+4159~2~Cummins to de Silva, no run, hops back and defends this incoming length ball
+4159~2~
+4159~2~43.4
+4159~2~1
+4159~2~Cummins to de Silva, 1 run, pulled all along the ground to deep square leg
+4159~2~
+4159~2~43.5
+4159~2~0
+4159~2~Cummins to Pradeep, no run, looks to back away and slap over point but is beaten for pace
+4159~2~
+4159~2~43.6
+4159~2~0
+4159~2~Cummins to Pradeep, no run, has a big swipe at this length ball outside off, beaten again.
+4159~2~
+4159~2~44.1
+4159~2~0
+4159~2~Richardson to de Silva, no run, toe-ends a wild slog to mid-on
+4159~2~END OF OVER:44 | 2 Runs | SL: 240/9 (95 runs required from 36 balls, RR: 5.45, RRR: 15.83)
+4159~2~
+4159~2~    Nuwan Pradeep0 (5b)
+4159~2~    Dhananjaya de Silva10 (21b)
+4159~2~
+4159~2~    Pat Cummins7-0-37-1
+4159~2~    Mitchell Starc10-0-55-4
+4159~2~
+4159~2~
+4159~2~44.2
+4159~2~1w
+4159~2~Richardson to de Silva, 1 wide, slower and fuller, backs and leaves. Bizarre?
+4159~2~
+4159~2~44.2
+4159~2~0
+4159~2~Richardson to de Silva, no run, yorker-length outside off, squeezed to mid-off
+4159~2~
+4159~2~44.3
+4159~2~0
+4159~2~Richardson to de Silva, no run, walks across and scoops this on the bounce to Behrendorff at short fine. Hint of confusion there, but the fielder gave a clear indication that he isn't sure. Soft signal is not out. Not out it will stay. Clear bump ball.
+4159~2~
+4159~2~44.4
+4159~2~4
+4159~2~Richardson to de Silva, FOUR runs, reverse-scoop that flies over short fine off the back part of the bat. Just eluded Behrendorff as he was back-pedaling.
+4159~2~
+4159~2~44.5
+4159~2~1
+4159~2~Richardson to de Silva, 1 run, top-edges a pull, falls in no man's land at midwicket.
+4159~2~
+4159~2~44.6
+4159~2~0
+4159~2~Richardson to Pradeep, no run, swing and a miss. Backed away and swing it towards Lord's.
+4159~2~
+4159~2~45.1
+4159~2~0
+4159~2~Cummins to de Silva, no run, walks across and looks to pull, beaten.
+4159~2~
+4159~2~Sajidh: "Really disappointed as a Sri Lankan fan. Was excited like never before having a belief we will chase this target down and we could have done that quite comfortable with the start we had, but all that excitement for no avail. Now all hopes lost on qualifying for the semis." -- Well, you expected them to get to the semi-finals. You're an optimist
+4159~2~END OF OVER:45 | 6 Runs | SL: 246/9 (89 runs required from 30 balls, RR: 5.46, RRR: 17.80)
+4159~2~
+4159~2~    Nuwan Pradeep0 (6b)
+4159~2~    Dhananjaya de Silva15 (26b)
+4159~2~
+4159~2~    Kane Richardson9-1-47-3
+4159~2~    Pat Cummins7-0-37-1
+4159~2~
+4159~2~
+4159~2~45.2
+4159~2~0
+4159~2~Cummins to de Silva, no run, defends with an angled bat to the off side
+4159~2~
+4159~2~45.3
+4159~2~0
+4159~2~Cummins to de Silva, no run, punches to cover
+4159~2~
+4159~2~45.4
+4159~2~1
+4159~2~Cummins to de Silva, 1 run, hangs his bat up in the air even as he tries to evade this bouncer, lobs into the square leg region
+4159~2~
+4159~2~45.5
+4159~2~W
+4159~2~Cummins to Pradeep, OUT, edged and taken! Pradeep backs away to slog, swings blindly and ends up nicking behind. Fourth win in five matches for Australia as they move to the top of the points table.
+4159~2~
+4159~2~N Pradeep c Carey(wk) b Cummins 0 (21m 7b 0x4 0x6) SR: 0.00
+4159~2~
+4159~2~

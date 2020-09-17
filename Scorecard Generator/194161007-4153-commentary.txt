@@ -1,0 +1,3620 @@
+4153~1~Team 1: Jason Roy!JJ Roy, Jonny Bairstow!JM Bairstow(wk), Joe Root!JE Root, Eoin Morgan (c)!EJG Morgan(c), Ben Stokes!BA Stokes, Jos Buttler!JC Buttler, Chris Woakes!CR Woakes, Adil Rashid!AU Rashid, Liam Plunkett!LE Plunkett, Jofra Archer!JC Archer, Mark Wood!MA Wood.
+4153~1~Team 2: Tamim Iqbal!Tamim Iqbal, Soumya Sarkar!Soumya Sarkar, Shakib Al Hasan!Shakib Al Hasan, Mushfiqur Rahim (wk)!Mushfiqur Rahim(wk), Mohammad Mithun!Mohammad Mithun, Mahmudullah!Mahmudullah, Mosaddek Hossain!Mosaddek Hossain, Mohammad Saifuddin!Mohammad Saifuddin, Mustafizur Rahman!Mustafizur Rahman, Mashrafe Mortaza (c)!Mashrafe Mortaza(c), Mehidy Hasan Miraz!Mehidy Hasan
+4153~1~0.1
+4153~1~0
+4153~1~Shakib AlHasan to Roy, no run, length ball around off, lunges forward and defends it back towards the bowler
+4153~1~
+4153~1~0.2
+4153~1~1
+4153~1~Shakib AlHasan to Roy, 1 run, fired in with the arm this time, on middle and leg, punched towards short midwicket who dives to his left but cannot make a stop. A single to long-on
+4153~1~
+4153~1~0.3
+4153~1~0
+4153~1~Shakib AlHasan to Bairstow, no run, fuller around off, presses forward and defends it towards extra cover
+4153~1~
+4153~1~0.4
+4153~1~0
+4153~1~Shakib AlHasan to Bairstow, no run, length ball on the stumps, goes back and flicks it towards short midwicket
+4153~1~
+4153~1~0.5
+4153~1~0
+4153~1~Shakib AlHasan to Bairstow, no run, length outside off, comes slower off the wicket, Bairstow defends it from the back foot, extra bounce means the ball hits near the splice
+4153~1~
+4153~1~0.6
+4153~1~0
+4153~1~Shakib AlHasan to Bairstow, no run, fuller around off, comes forward and blocks it under his eyes
+4153~1~
+4153~1~1.1
+4153~1~0
+4153~1~Mashrafe Mortaza to Roy, no run, fuller around off and swinging away, 137 kph with the breeze, Roy comes forward and leaves it alone
+4153~1~Mashrafe from the other end, a wide slip in place
+4153~1~
+4153~1~END OF OVER:1 | 1 Run | ENG: 1/0 | RR: 1.00
+4153~1~Jonny Bairstow
+4153~1~0 (4b)
+4153~1~Jason Roy
+4153~1~1 (2b)
+4153~1~Shakib AlHasan
+4153~1~1-0-1-0
+4153~1~
+4153~1~1.2
+4153~1~0
+4153~1~Mashrafe Mortaza to Roy, no run, length ball on the stumps, stays back and defends on the off side
+4153~1~
+4153~1~1.3
+4153~1~0
+4153~1~Mashrafe Mortaza to Roy, no run, length ball around off, gets behind the line and taps it towards long-on, that's seven dots in a row
+4153~1~
+4153~1~1.4
+4153~1~4
+4153~1~Mashrafe Mortaza to Roy, FOUR runs, lovely on-drive, fuller on the stumps, Roy comes on the front foot and just punches it past the non-striker with a straight bat
+4153~1~
+4153~1~1.5
+4153~1~1
+4153~1~Mashrafe Mortaza to Roy, 1 run, length ball around off this time, corrects himself Mashrafe, Roy stays back and turns it towards square leg for one
+4153~1~
+4153~1~1.6
+4153~1~0
+4153~1~Mashrafe Mortaza to Bairstow, no run, length ball around off, looks to drive on the up, gets an inside edge on to the pads
+4153~1~
+4153~1~2.1
+4153~1~0
+4153~1~Shakib AlHasan to Roy, no run, length ball on the stumps, Roy looks to smash it across the line, shows his stumps but ends up inside-edging it on to his shoes
+4153~1~END OF OVER:2 | 5 Runs | ENG: 6/0 | RR: 3.00
+4153~1~Jonny Bairstow
+4153~1~0 (5b)
+4153~1~Jason Roy
+4153~1~6 (7b)
+4153~1~Mashrafe Mortaza
+4153~1~1-0-5-0
+4153~1~Shakib AlHasan
+4153~1~1-0-1-0
+4153~1~Qasim : "OMG!!!! Is the England team I'm watching going by the number of dot balls "
+4153~1~
+4153~1~
+4153~1~2.2
+4153~1~0
+4153~1~Shakib AlHasan to Roy, no run, a touch fuller this time, pushed towards mid-off
+4153~1~
+4153~1~2.3
+4153~1~0
+4153~1~Shakib AlHasan to Roy, no run, length ball outside off, goes back and punches hard, a diving stop by the extra cover fielder
+4153~1~
+4153~1~2.4
+4153~1~1
+4153~1~Shakib AlHasan to Roy, 1 run, length ball outside off, manages to squeeze it past the extra cover fielder this time, a single
+4153~1~
+4153~1~2.5
+4153~1~0
+4153~1~Shakib AlHasan to Bairstow, no run, length ball around off and middle, pushed back
+4153~1~
+4153~1~2.6
+4153~1~0
+4153~1~Shakib AlHasan to Bairstow, no run, length ball on the stumps, comes forward and defends it back towards the bowler
+4153~1~
+4153~1~3.1
+4153~1~0
+4153~1~Mashrafe Mortaza to Roy, no run, length ball outside off, Roy was walking at the bowler, gets too close to the line though and decides to leave in the end
+4153~1~END OF OVER:3 | 1 Run | ENG: 7/0 | RR: 2.33
+4153~1~Jonny Bairstow
+4153~1~0 (7b)
+4153~1~Jason Roy
+4153~1~7 (11b)
+4153~1~Shakib AlHasan
+4153~1~2-0-2-0
+4153~1~Mashrafe Mortaza
+4153~1~1-0-5-0
+4153~1~
+4153~1~3.2
+4153~1~1
+4153~1~Mashrafe Mortaza to Roy, 1 run, length ball on the stumps, Roy gets behind and taps it towards the right of mid-on
+4153~1~
+4153~1~3.3
+4153~1~0
+4153~1~Mashrafe Mortaza to Bairstow, no run, length ball around middle, Bairstow was looking to work it on the leg side, gets a leading edge but well short of mid-off
+4153~1~
+4153~1~3.4
+4153~1~1
+4153~1~Mashrafe Mortaza to Bairstow, 1 run, length outside off and swatted towards midwicket, finally off the mark, took him nine balls
+4153~1~
+4153~1~3.5
+4153~1~0
+4153~1~Mashrafe Mortaza to Roy, no run, length ball around off, stands back and punches it back towards the bowler
+4153~1~
+4153~1~3.6
+4153~1~0
+4153~1~Mashrafe Mortaza to Roy, no run, short of length and angling on to the pads, looks to flick and misses, struck high on the thigh
+4153~1~
+4153~1~4.1
+4153~1~0
+4153~1~Shakib AlHasan to Bairstow, no run, length ball around off, goes back and punches it towards short midwicket
+4153~1~END OF OVER:4 | 2 Runs | ENG: 9/0 | RR: 2.25
+4153~1~Jason Roy
+4153~1~8 (15b)
+4153~1~Jonny Bairstow
+4153~1~1 (9b)
+4153~1~Mashrafe Mortaza
+4153~1~2-0-7-0
+4153~1~Shakib AlHasan
+4153~1~2-0-2-0
+4153~1~Here is a nugget from Mohammad Isam: "This is only the third time in his career that Mashrafe has gone wicketless in 4 consecutive ODIs. The previous occasion was in 2010. He has never gone 5 matches wicketless."
+4153~1~
+4153~1~
+4153~1~4.2
+4153~1~0
+4153~1~Shakib AlHasan to Bairstow, no run, this one kept a bit low, and also Bairstow played back when he should have been forward, manages to get his bat down in time in the end
+4153~1~
+4153~1~4.3
+4153~1~1
+4153~1~Shakib AlHasan to Bairstow, 1 run, length ball around off, punched off the back foot towards mid-off, gets a single
+4153~1~
+4153~1~4.4
+4153~1~1
+4153~1~Shakib AlHasan to Roy, 1 run, length ball angling in, punched once again towards mid-off for one more
+4153~1~
+4153~1~4.5
+4153~1~1
+4153~1~Shakib AlHasan to Bairstow, 1 run, fuller around off, comes forward and pushes it towards the left of the bowler, Shakib dives across but cannot prevent the single
+4153~1~
+4153~1~4.6
+4153~1~3
+4153~1~Shakib AlHasan to Roy, 3 runs, uses his feet and drives this fuller delivery past mid-off, the fielder puts in the chase and manages to pull it just inside
+4153~1~
+4153~1~5.1
+4153~1~4
+4153~1~Mashrafe Mortaza to Roy, FOUR runs, length ball around off, was looking to make some room and hit through the off side, but gets an inside edge past the stumps for four
+4153~1~END OF OVER:5 | 6 Runs | ENG: 15/0 | RR: 3.00
+4153~1~Jason Roy
+4153~1~12 (17b)
+4153~1~Jonny Bairstow
+4153~1~3 (13b)
+4153~1~Shakib AlHasan
+4153~1~3-0-8-0
+4153~1~Mashrafe Mortaza
+4153~1~2-0-7-0
+4153~1~Somnath Adhikar: "It's obvious England's attitude/confidence has taken a hit. Welcome to the World Cup!"
+4153~1~
+4153~1~
+4153~1~5.2
+4153~1~0
+4153~1~Mashrafe Mortaza to Roy, no run, fuller on middle and leg, pushes it towards short midwicket
+4153~1~
+4153~1~5.3
+4153~1~4
+4153~1~Mashrafe Mortaza to Roy, FOUR runs, just away from the short midwicket fielder, was a length ball around off, Roy stays back and chips it in the air, it was on the right of Mustafizur who cannot reach there, Roy gets a boundary
+4153~1~Ghulam Mustafa: "Oh yeah! I expected that from the English team after match against Pakistan. Change of tactics but I don't think it will work against this spin heavy attack."
+4153~1~
+4153~1~
+4153~1~5.4
+4153~1~0
+4153~1~Mashrafe Mortaza to Roy, no run, short of length around off, turns it towards short midwicket with wrists, straight towards short midwicket
+4153~1~
+4153~1~5.5
+4153~1~1
+4153~1~Mashrafe Mortaza to Roy, 1 run, length ball on the stumps, punches it towards mid-on for a quick single
+4153~1~
+4153~1~5.6
+4153~1~2
+4153~1~Mashrafe Mortaza to Bairstow, 2 runs, length ball around off, flicked away towards midwicket, the fielder puts in the chase but fumbles, allows an easy two
+4153~1~
+4153~1~6.1
+4153~1~4
+4153~1~Shakib AlHasan to Roy, FOUR runs, fuller around off and driven through extra cover, timing, placement all perfect with that shot
+4153~1~Shakib to continue
+4153~1~
+4153~1~END OF OVER:6 | 11 Runs | ENG: 26/0 | RR: 4.33
+4153~1~Jonny Bairstow
+4153~1~5 (14b)
+4153~1~Jason Roy
+4153~1~21 (22b)
+4153~1~Mashrafe Mortaza
+4153~1~3-0-18-0
+4153~1~Shakib AlHasan
+4153~1~3-0-8-0
+4153~1~
+4153~1~6.2
+4153~1~1
+4153~1~Shakib AlHasan to Roy, 1 run, Shakib shortens his length and bowls one on the pads, flicked away towards square leg for one more
+4153~1~
+4153~1~6.3
+4153~1~1
+4153~1~Shakib AlHasan to Bairstow, 1 run, length ball around off, Bairstow is once again on the back foot, punches it towards long-on
+4153~1~
+4153~1~6.4
+4153~1~0
+4153~1~Shakib AlHasan to Roy, no run, length ball around off, Roy was looking to open up but the ball comes slower off the surface, mistimes it towards the bowler
+4153~1~
+4153~1~6.5
+4153~1~4
+4153~1~Shakib AlHasan to Roy, FOUR runs, gets it right this time, short of length on the stumps and pulled away towards deep midwicket for another four
+4153~1~
+4153~1~6.6
+4153~1~0
+4153~1~Shakib AlHasan to Roy, no run, flatter and quicker around off, Roy once again stays back but finds short midwicket with the punch
+4153~1~
+4153~1~7.1
+4153~1~4
+4153~1~Mohammad Saifuddin to Bairstow, FOUR runs, starts with a fuller on around off, easy pickings for Bairstow who drives it past the bowler for four
+4153~1~Mohammad Saifuddin
+4153~1~
+4153~1~END OF OVER:7 | 10 Runs | ENG: 36/0 | RR: 5.14
+4153~1~Jason Roy
+4153~1~30 (27b)
+4153~1~Jonny Bairstow
+4153~1~6 (15b)
+4153~1~Shakib AlHasan
+4153~1~4-0-18-0
+4153~1~Mashrafe Mortaza
+4153~1~3-0-18-0
+4153~1~Sixty: "Every one is looking at the run rate and dots, I am looking at the wickets and thinking this is perfect for England. Bangladesh is in big trouble even if England is only at 100-120 after 20 overs and they lose none or only one wicket"
+4153~1~
+4153~1~
+4153~1~7.2
+4153~1~0
+4153~1~Mohammad Saifuddin to Bairstow, no run, an offcutter it looked like, length around off, Bairstow was looking to drive on the up, mistimes it down the ground
+4153~1~
+4153~1~7.3
+4153~1~3
+4153~1~Mohammad Saifuddin to Bairstow, 3 runs, short of length outside off, goes for the pull, a bit of thick edge towards the right of deep-backward square leg who keeps it to three
+4153~1~
+4153~1~7.4
+4153~1~1w
+4153~1~Mohammad Saifuddin to Roy, 1 wide, Roy once again walking towards the bowler, length ball but wide outside off, goes further away from the batsman with the breeze
+4153~1~
+4153~1~7.4
+4153~1~3
+4153~1~Mohammad Saifuddin to Roy, 3 runs, Roy is once again down the track, cannot reach to the pitch of the ball and ends up pushing at it, gets a leading edge between point and cover, Roy is looking for the fourth one as the fielder has to throw against the wind but will have to be satisfied with three only
+4153~1~
+4153~1~7.5
+4153~1~4
+4153~1~Mohammad Saifuddin to Bairstow, FOUR runs, fuller around off and Saifuddin pays the price once more, driven past mid-off for four
+4153~1~
+4153~1~7.6
+4153~1~1
+4153~1~Mohammad Saifuddin to Bairstow, 1 run, short of length outside off, pulled away towards deep square leg but only a single. Still 16 from that over
+4153~1~
+4153~1~8.1
+4153~1~0
+4153~1~Shakib AlHasan to Bairstow, no run, tossed up around off, Bairstow comes forward and blocks
+4153~1~END OF OVER:8 | 16 Runs | ENG: 52/0 | RR: 6.50
+4153~1~Jonny Bairstow
+4153~1~18 (20b)
+4153~1~Jason Roy
+4153~1~33 (28b)
+4153~1~Mohammad Saifuddin
+4153~1~1-0-16-0
+4153~1~Shakib AlHasan
+4153~1~4-0-18-0
+4153~1~
+4153~1~8.2
+4153~1~4
+4153~1~Shakib AlHasan to Bairstow, 4 runs, length ball around off, Bairstow goes back and flicks it towards deep midwicket, the deep square leg fielder had to run all the way to prevent reaching it to the boundary but the batsmen run four themselves
+4153~1~
+4153~1~8.3
+4153~1~0
+4153~1~Shakib AlHasan to Bairstow, no run, fuller on the stumps, comes forward and defended
+4153~1~
+4153~1~8.4
+4153~1~0
+4153~1~Shakib AlHasan to Bairstow, no run, pitched up once again, defended from the front foot
+4153~1~
+4153~1~8.5
+4153~1~0
+4153~1~Shakib AlHasan to Bairstow, no run, fuller outside off, comes forward and opens the face this time to run it towards point
+4153~1~
+4153~1~8.6
+4153~1~4
+4153~1~Shakib AlHasan to Bairstow, FOUR runs, slightly short in length, Bairstow goes back and pulls it towards the vacant deep midwicket, four more to him
+4153~1~
+4153~1~9.1
+4153~1~0
+4153~1~Mohammad Saifuddin to Roy, no run, length ball outside off, punched firmly towards extra cover
+4153~1~END OF OVER:9 | 8 Runs | ENG: 60/0 | RR: 6.66
+4153~1~Jonny Bairstow
+4153~1~26 (26b)
+4153~1~Jason Roy
+4153~1~33 (28b)
+4153~1~Shakib AlHasan
+4153~1~5-0-26-0
+4153~1~Mohammad Saifuddin
+4153~1~1-0-16-0
+4153~1~
+4153~1~9.2
+4153~1~1
+4153~1~Mohammad Saifuddin to Roy, 1 run, short of length outside off, looks to pull it off the front foot, the ball hits the toe-end and rolls towards midwicket
+4153~1~
+4153~1~9.3
+4153~1~1
+4153~1~Mohammad Saifuddin to Bairstow, 1 run, fuller on the stumps, flicked away towards deep midwicket for one
+4153~1~
+4153~1~9.4
+4153~1~4
+4153~1~Mohammad Saifuddin to Roy, FOUR runs, fuller around off and lofted over mid-off, not the best of the connections, the bat turning in his hands, but enough on it to reach the boundary line
+4153~1~Gururaj: "I can't believe Mo has been dropped for Plunkett. He was their best bowler against Pakistan and not sure they needed an extra seamer either. I understand they don't want to drop Rashid after couple of bad games as he is a game changer but Ali didn't deserve it either. I would have definitely played with both on this slow surface.. "
+4153~1~
+4153~1~
+4153~1~9.5
+4153~1~0
+4153~1~Mohammad Saifuddin to Roy, no run, length ball on the stumps, cramping the batsman a bit, Roy is happy to defend this time
+4153~1~
+4153~1~9.6
+4153~1~1lb
+4153~1~Mohammad Saifuddin to Roy, 1 leg bye, a touch fuller and on the pads, Roy misses the flick and the ball brushes the pads. Mushfiqur puts in the dive and gets a hand to it
+4153~1~
+4153~1~10.1
+4153~1~1
+4153~1~Mustafizur Rahman to Roy, 1 run, short of the length at the batsman, Roy pulls it towards square leg
+4153~1~Here's a gem from Shiva: "Bangladesh might have missed a trick here: England openers have averaged 27.68 (19 dismissals in 28 innings) against left-arm pacers as opposed to 52.77 against the right-arm kind in the last three years. Mashrafe Mortaza could've bowled Mustafizur Rahman earlier than he was planning to do." Finally, Mustafizur is here
+4153~1~
+4153~1~END OF OVER:10 | 7 Runs | ENG: 67/0 | RR: 6.70
+4153~1~Jason Roy
+4153~1~38 (33b)
+4153~1~Jonny Bairstow
+4153~1~27 (27b)
+4153~1~Mohammad Saifuddin
+4153~1~2-0-22-0
+4153~1~Shakib AlHasan
+4153~1~5-0-26-0
+4153~1~Haris Abbasi: "Seems like England will score another 400 plus runs today, looking for Buttler show "
+4153~1~
+4153~1~
+4153~1~10.2
+4153~1~4
+4153~1~Mustafizur Rahman to Bairstow, FOUR runs, fuller around middle and off, Bairstow comes forward and flicks it across the line towards midwicket, once again no fielder there, deep square leg cannot reach there in time
+4153~1~
+4153~1~10.3
+4153~1~0
+4153~1~Mustafizur Rahman to Bairstow, no run, length ball around off, stands tall and taps it towards cover-point
+4153~1~
+4153~1~10.4
+4153~1~2
+4153~1~Mustafizur Rahman to Bairstow, 2 runs, short of length outside off, Bairstow, who is batting with an open stance, taps it behind point for a couple more
+4153~1~
+4153~1~10.5
+4153~1~1
+4153~1~Mustafizur Rahman to Bairstow, 1 run, slower one on the pads, flicked away towards backward square leg
+4153~1~anwar: "In my view against bigger sides Bangladesh's only chance of winning is to bat first and post some good total"
+4153~1~
+4153~1~
+4153~1~10.6
+4153~1~1
+4153~1~Mustafizur Rahman to Roy, 1 run, short of length at the batsman, Roy pulls it down towards fine leg
+4153~1~
+4153~1~11.1
+4153~1~0
+4153~1~Mohammad Saifuddin to Roy, no run, short of length around off, punches it towards mid-off from the back foot
+4153~1~END OF OVER:11 | 9 Runs | ENG: 76/0 | RR: 6.90
+4153~1~Jason Roy
+4153~1~40 (35b)
+4153~1~Jonny Bairstow
+4153~1~34 (31b)
+4153~1~Mustafizur Rahman
+4153~1~1-0-9-0
+4153~1~Mohammad Saifuddin
+4153~1~2-0-22-0
+4153~1~Saadat Nazmus: "Buttler show might not be possible. The way England is batting, I think Roy and Bairstow can take it to whatever they want."
+4153~1~
+4153~1~
+4153~1~11.2
+4153~1~6
+4153~1~Mohammad Saifuddin to Roy, SIX runs, fuller around off, and Roy just lofts it over the bowler's head, straight bat, no fuss, and this one goes all the way - first six of the game
+4153~1~
+4153~1~11.3
+4153~1~4
+4153~1~Mohammad Saifuddin to Roy, FOUR runs, cheekily done this time, length ball outside off, Roy waits for it and guides it past the keeper for four, that's fifty off 38 balls for him
+4153~1~
+4153~1~11.4
+4153~1~1
+4153~1~Mohammad Saifuddin to Roy, 1 run, length ball on the stumps, stays back and punches it towards long-on
+4153~1~
+4153~1~11.5
+4153~1~0
+4153~1~Mohammad Saifuddin to Bairstow, no run, length ball around off, punched back towards the bowler and it bounces over his head, Saifuddin jumps and gets his fingertips to it, the mid-off tidies it up
+4153~1~
+4153~1~11.6
+4153~1~0
+4153~1~Mohammad Saifuddin to Bairstow, no run, length ball around off, punches it towards extra cover off the back foot
+4153~1~
+4153~1~12.1
+4153~1~1w
+4153~1~Shakib AlHasan to Roy, 1 wide, length ball fired down the leg side, goes for the flick but misses
+4153~1~Shakib is back again after a short break. Bangladesh desperately want a wicket here
+4153~1~
+4153~1~END OF OVER:12 | 11 Runs | ENG: 87/0 | RR: 7.25
+4153~1~Jonny Bairstow
+4153~1~34 (33b)
+4153~1~Jason Roy
+4153~1~51 (39b)
+4153~1~Mohammad Saifuddin
+4153~1~3-0-33-0
+4153~1~Mustafizur Rahman
+4153~1~1-0-9-0
+4153~1~
+4153~1~12.1
+4153~1~0
+4153~1~Shakib AlHasan to Roy, no run, length ball around middle, goes back and chops it towards extra cover
+4153~1~
+4153~1~12.2
+4153~1~0
+4153~1~Shakib AlHasan to Roy, no run, a touch fuller and angled in, looks to drive through covers, gets an inside edge towards short midwicket
+4153~1~
+4153~1~12.3
+4153~1~0
+4153~1~Shakib AlHasan to Roy, no run, a touch fuller around off, comes forward to defend, doesn't find the middle though
+4153~1~
+4153~1~12.4
+4153~1~1
+4153~1~Shakib AlHasan to Roy, 1 run, fuller around off, goes back and looks to punch through the off side, gets an inside edge towards short fine leg
+4153~1~
+4153~1~12.5
+4153~1~0
+4153~1~Shakib AlHasan to Bairstow, no run, fuller around off, pushed back from the front foot
+4153~1~
+4153~1~12.6
+4153~1~0
+4153~1~Shakib AlHasan to Bairstow, no run, fuller, just outside off, Bairstow was looking to turn it towards the leg side, gets an outside edge towards short third man
+4153~1~
+4153~1~13.1
+4153~1~0
+4153~1~Mustafizur Rahman to Roy, no run, length ball around off, stays in his crease and steers it towards cover-point
+4153~1~Change of ends for Mustafizur
+4153~1~
+4153~1~END OF OVER:13 | 2 Runs | ENG: 89/0 | RR: 6.84
+4153~1~Jonny Bairstow
+4153~1~34 (35b)
+4153~1~Jason Roy
+4153~1~52 (43b)
+4153~1~Shakib AlHasan
+4153~1~6-0-28-0
+4153~1~Mohammad Saifuddin
+4153~1~3-0-33-0
+4153~1~
+4153~1~13.2
+4153~1~0
+4153~1~Mustafizur Rahman to Roy, no run, length ball around off, Roy once again stays back and chops it towards point
+4153~1~
+4153~1~13.3
+4153~1~0
+4153~1~Mustafizur Rahman to Roy, no run, fuller and wider outside off, Roy opens the face and steers it towards point, straight towards the fielder
+4153~1~
+4153~1~13.4
+4153~1~0
+4153~1~Mustafizur Rahman to Roy, no run, fuller around off and driven firmly but cannot get past the extra cover fielder, four dots
+4153~1~
+4153~1~13.5
+4153~1~4
+4153~1~Mustafizur Rahman to Roy, FOUR runs, fuller around off and this time Roy takes the aerial route, over extra cover for four this time
+4153~1~
+4153~1~13.6
+4153~1~2
+4153~1~Mustafizur Rahman to Roy, 2 runs, short of length outside off, steers it behind point for one and keeps the strike
+4153~1~Sinosh: "Its poor captaincy from mortaza, he is wasting shakib's overs . He is more valuable in the middle and final overs"
+4153~1~
+4153~1~
+4153~1~14.1
+4153~1~0
+4153~1~Shakib AlHasan to Bairstow, no run, fuller on the stumps, comes forward and defends
+4153~1~END OF OVER:14 | 6 Runs | ENG: 95/0 | RR: 6.78
+4153~1~Jason Roy
+4153~1~58 (49b)
+4153~1~Jonny Bairstow
+4153~1~34 (35b)
+4153~1~Mustafizur Rahman
+4153~1~2-0-15-0
+4153~1~Shakib AlHasan
+4153~1~6-0-28-0
+4153~1~Umanga: "The issue for bangladesh against bigger teams is that they dont have a proper wrist/leg spinner who can take wicket at middle overs in their team & this will haunt them time & again against bigger teams."
+4153~1~
+4153~1~
+4153~1~14.2
+4153~1~1
+4153~1~Shakib AlHasan to Bairstow, 1 run, length ball around off, goes back and cuts it towards sweeper cover
+4153~1~
+4153~1~14.3
+4153~1~0
+4153~1~Shakib AlHasan to Roy, no run, length ball on the pads, flicked towards short fine leg, no single though
+4153~1~
+4153~1~14.4
+4153~1~1
+4153~1~Shakib AlHasan to Roy, 1 run, slower through the air, 77 kph, Roy was early into the shot, ends up chipping over the bowler's head
+4153~1~
+4153~1~14.5
+4153~1~0
+4153~1~Shakib AlHasan to Bairstow, no run, fuller and angled in, pushed back towards the bowler
+4153~1~
+4153~1~14.6
+4153~1~4
+4153~1~Shakib AlHasan to Bairstow, FOUR runs, length ball on the pads, flicked away past the short fine leg fielder, he chases it all the way but the ball was always going to win
+4153~1~
+4153~1~15.1
+4153~1~0
+4153~1~Mustafizur Rahman to Roy, no run, Roy comes down the track, giving himself some room, but Mustafizur fires it full and wide outside off, Roy cannot reach there
+4153~1~Around the wicket
+4153~1~
+4153~1~END OF OVER:15 | 6 Runs | ENG: 101/0 | RR: 6.73
+4153~1~Jonny Bairstow
+4153~1~39 (39b)
+4153~1~Jason Roy
+4153~1~59 (51b)
+4153~1~Shakib AlHasan
+4153~1~7-0-34-0
+4153~1~Mustafizur Rahman
+4153~1~2-0-15-0
+4153~1~Neil Sen: "Why is Shakib still bowling? Is he protecting himself from the inveitable onslaught later in the innings? Because there is zero reason for him to still be bowling .. "
+4153~1~
+4153~1~
+4153~1~15.2
+4153~1~1
+4153~1~Mustafizur Rahman to Roy, 1 run, short of length outside off, dabs it towards third man
+4153~1~
+4153~1~15.3
+4153~1~1
+4153~1~Mustafizur Rahman to Bairstow, 1 run, length ball around off, an offcutter from the bowler, Bairstow adjusts and opens the face of the bat to guide it towards point, a bit of fumble there means an easy single
+4153~1~
+4153~1~15.4
+4153~1~4
+4153~1~Mustafizur Rahman to Roy, FOUR runs, fuller and in the slot, Roy bends his front knee and smashes it through covers
+4153~1~
+4153~1~15.5
+4153~1~2
+4153~1~Mustafizur Rahman to Roy, 2 runs, a bit of a mix-up, but the throw is at the wrong end, and Bairstow makes it easily in the end. Coming to the ball, it fuller outside off, Roy steered towards extra cover and turned back for the second, Bairstow was busy watching the ball but the throw is to the keeper, where Roy was always going to make it
+4153~1~Bharath Seervi has got a stat on Shakib: Shakib has bowled 7 overs in the first 15 overs of the inns - the most by any spinner in ODIs in England since 2001.
+4153~1~
+4153~1~
+4153~1~15.6
+4153~1~1
+4153~1~Mustafizur Rahman to Roy, 1 run, short of length on the body, pulled away towards fine leg
+4153~1~
+4153~1~16.1
+4153~1~0
+4153~1~Mehidy Hasan Miraz to Roy, no run, length ball around off, goes back and cuts it towards covers
+4153~1~Mehidy Hasan
+4153~1~
+4153~1~END OF OVER:16 | 9 Runs | ENG: 110/0 | RR: 6.87
+4153~1~Jason Roy
+4153~1~67 (56b)
+4153~1~Jonny Bairstow
+4153~1~40 (40b)
+4153~1~Mustafizur Rahman
+4153~1~3-0-24-0
+4153~1~Shakib AlHasan
+4153~1~7-0-34-0
+4153~1~
+4153~1~16.2
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Roy, 1 run, length ball on the stumps, punched it towards long-on for an easy single
+4153~1~
+4153~1~16.3
+4153~1~0
+4153~1~Mehidy Hasan Miraz to Bairstow, no run, length ball around off, comes forward and drives it towards the right of the bowler who dives across to make a stop
+4153~1~
+4153~1~16.4
+4153~1~0
+4153~1~Mehidy Hasan Miraz to Bairstow, no run, length ball around off, flicked away towards short midwicket
+4153~1~
+4153~1~16.5
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Bairstow, 1 run, length ball around off, goes deep and turns it towards the right of short midwicket for a quick single
+4153~1~
+4153~1~16.6
+4153~1~0
+4153~1~Mehidy Hasan Miraz to Roy, no run, fuller on the pads, looks to flick but misses, an appeal for lbw but perhaps was going down
+4153~1~
+4153~1~17.1
+4153~1~1
+4153~1~Mashrafe Mortaza to Bairstow, 1 run, into the toes, and flicked to the leg side
+4153~1~Morning all. The skipper is back
+4153~1~
+4153~1~END OF OVER:17 | 2 Runs | ENG: 112/0 | RR: 6.58
+4153~1~Jason Roy
+4153~1~68 (59b)
+4153~1~Jonny Bairstow
+4153~1~41 (43b)
+4153~1~Mehidy Hasan
+4153~1~1-0-2-0
+4153~1~Mustafizur Rahman
+4153~1~3-0-24-0
+4153~1~It's time for Andrew Miller to take over
+4153~1~
+4153~1~
+4153~1~17.2
+4153~1~0
+4153~1~Mashrafe Mortaza to Roy, no run, round the wicket, cramping Roy for room on the pads, and a leading edge squirts out to point
+4153~1~
+4153~1~17.3
+4153~1~0
+4153~1~Mashrafe Mortaza to Roy, no run, fuller length, pushed with an open face into the off side
+4153~1~
+4153~1~17.4
+4153~1~1
+4153~1~Mashrafe Mortaza to Roy, 1 run, cracked on the up, gathered at long-off. Another forceful stroke to a good-length ball
+4153~1~
+4153~1~17.5
+4153~1~4
+4153~1~Mashrafe Mortaza to Bairstow, FOUR runs, a baseball slug off the legs! Flinging the bat across the line, nailing the connection, bissecting the fielders at backward square. Not short, not full, just sloggable
+4153~1~
+4153~1~17.6
+4153~1~2
+4153~1~Mashrafe Mortaza to Bairstow, 2 runs, better length, angled across the right-hander, pushed down to long-off, but there's a grim misfield and a stolen bonus run .. in fact, it wasn't a misfield, Shakib chose to throw the ball to mid-on instead of the keeper!
+4153~1~
+4153~1~18.1
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Roy, 1 run, tucked into the gap
+4153~1~Taimoo Najam: "Can anyone tell me why injury hit South Africa plays 3 games in a week while Ind open with their first one only now (Lodha report rule?) I know they are a cricket frenzy nation who set their own terms/conditions, but a WC comes once in 4 years: rules must be same for all! #INDvSA. Why SA played 3 games in same time.... is something unusual and impartial. " It is strange, isn't it? I mean, India playing late is one thing. But not sure why their first game couldn't have been someone else's second.
+4153~1~
+4153~1~Of course, had South Africa not muffed their lines in this tournament, it could have been a massive advantage to them ... confidence and form etc... but it, err ... wasn't.
+4153~1~
+4153~1~END OF OVER:18 | 8 Runs | ENG: 120/0 | RR: 6.66
+4153~1~Jonny Bairstow
+4153~1~48 (46b)
+4153~1~Jason Roy
+4153~1~69 (62b)
+4153~1~Mashrafe Mortaza
+4153~1~4-0-26-0
+4153~1~Mehidy Hasan
+4153~1~1-0-2-0
+4153~1~That will be drinks. And it's been all England this morning, with the honourable exception of Shakib AlHasan. But he's had to bowl more overs than Bangladesh would have liked, just to keep them in touch. Ominous signs... Forecaster is predicting 354 ... the first 350-plus score of the competition in prospect?
+4153~1~
+4153~1~
+4153~1~18.2
+4153~1~0
+4153~1~Mehidy Hasan Miraz to Bairstow, no run, looped onto the pads, Bairstow looking for his fifty, but can't pierce the gap
+4153~1~
+4153~1~18.3
+4153~1~2
+4153~1~Mehidy Hasan Miraz to Bairstow, 2 runs, no problems this time! Nurdled into the gap behind square, back they sprint for the second, and Bairstow's tournament is up and running with his first World Cup fifty
+4153~1~
+4153~1~18.4
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Bairstow, 1 run, thumped into the covers
+4153~1~
+4153~1~18.5
+4153~1~0
+4153~1~Mehidy Hasan Miraz to Roy, no run, advancing down the wicket this time, looking for something ambitious over deep midwicket, but beaten in the flight this time
+4153~1~
+4153~1~18.6
+4153~1~4
+4153~1~Mehidy Hasan Miraz to Roy, FOUR runs, retreats to leg, climbs into the flog through the covers! Shimmering footwork, and that gallops through the infield. This is getting brisk
+4153~1~
+4153~1~19.1
+4153~1~W
+4153~1~Mashrafe Mortaza to Bairstow, OUT, leading edge into the covers, and a very sharp take! What a timely breakthrough! Mortaza found some extra lift from round the wicket, Bairstow attempted a nudge to leg, but the ball popped up to short cover, where it was gobbled brilliantly by a sprint and dive from Mehedy. The stand is broken, Bangladesh have a glimmer at last!
+4153~1~JM Bairstow c Mehidy Hasan Miraz b Mashrafe Mortaza 51 (81m 50b 6x4 0x6) SR: 102.00
+4153~1~
+4153~1~END OF OVER:19 | 8 Runs | ENG: 128/0 | RR: 6.73
+4153~1~Jason Roy
+4153~1~74 (65b)
+4153~1~Jonny Bairstow
+4153~1~51 (49b)
+4153~1~Mehidy Hasan
+4153~1~2-0-10-0
+4153~1~Mashrafe Mortaza
+4153~1~4-0-26-0
+4153~1~
+4153~1~19.2
+4153~1~1
+4153~1~Mashrafe Mortaza to Root, 1 run, banged in short, rolls the wrists on the pull to get off the mark straightaway
+4153~1~Here comes Joe Root, a very mature and measured hundred in his last innings... what's in store today?
+4153~1~
+4153~1~
+4153~1~19.3
+4153~1~1
+4153~1~Mashrafe Mortaza to Roy, 1 run, tucked off the pads once more, an easy single to deep midwicket
+4153~1~
+4153~1~19.4
+4153~1~0
+4153~1~Mashrafe Mortaza to Root, no run, very full, off-stump line, met with a vertical blade and a push to mid-on
+4153~1~Srikanth: "Am I the only one expecting 400+ score today or maybe about to witness the six hitting frenzy. If this stand continues for another 5-10 overs we will be finishing at 450+ today. Remember you first heard it here" We did, and we're holding you to it despite the evidence before our eyes!
+4153~1~
+4153~1~
+4153~1~19.5
+4153~1~0
+4153~1~Mashrafe Mortaza to Root, no run, back of a length, a slower ball, tapped to gully
+4153~1~
+4153~1~19.6
+4153~1~0
+4153~1~Mashrafe Mortaza to Root, no run, flicked to leg once more, well fielded at midwicket
+4153~1~
+4153~1~20.1
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Roy, 1 run, fenced on the up to mid-on, another fumble gifts the single
+4153~1~END OF OVER:20 | 2 Runs 1 Wkt | ENG: 130/1 | RR: 6.50
+4153~1~Joe Root
+4153~1~1 (4b)
+4153~1~Jason Roy
+4153~1~75 (66b)
+4153~1~Mashrafe Mortaza
+4153~1~5-0-28-1
+4153~1~Mehidy Hasan
+4153~1~2-0-10-0
+4153~1~"Huge relief for Mashrafe, having taken his first wicket after four wicketless games," says Isam. Who also reports that breakfast was "fine"... I've heard higher praise!
+4153~1~
+4153~1~
+4153~1~20.2
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Root, 1 run, sliding back and across, eased to Tamim at mid-on again, who gathers well this time to ironic cheers from the crowd
+4153~1~
+4153~1~20.3
+4153~1~0
+4153~1~Mehidy Hasan Miraz to Roy, no run, round the wicket, looped onto a middle-and-off line, pushed firmly down the pitch
+4153~1~
+4153~1~20.4
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Roy, 1 run, shuffling at the crease, trying to create an angle into the covers, and that's a sharp single, with Roy on the back foot. So was the fielder...
+4153~1~
+4153~1~20.5
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Root, 1 run, nurdled off the pads to midwicket, England just ticking along for now
+4153~1~
+4153~1~20.6
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Roy, 1 run, making room again, confident footwork and a scything slash out to deep cover. Five singles, that's steady from England and Mehidy
+4153~1~
+4153~1~21.1
+4153~1~0
+4153~1~Mashrafe Mortaza to Roy, no run, on the up, deep in the crease, pushed to the on side
+4153~1~END OF OVER:21 | 5 Runs | ENG: 135/1 | RR: 6.42
+4153~1~Jason Roy
+4153~1~78 (70b)
+4153~1~Joe Root
+4153~1~3 (6b)
+4153~1~Mehidy Hasan
+4153~1~3-0-15-0
+4153~1~Mashrafe Mortaza
+4153~1~5-0-28-1
+4153~1~Ebrahim: "Based on week 1, I can say that the biggest challenge for any team will be facing the Windies attack with the new ball, barring Windies themselves obviously. A Jos Buttler after the 35th over or a determined Rohit Sharma would fight for second place. Think facing Riaz and the rest of Pakistan at the death falls third." Fair assessment. And Bumrah with the new ball looks pretty lethal too!
+4153~1~
+4153~1~
+4153~1~21.2
+4153~1~1
+4153~1~Mashrafe Mortaza to Roy, 1 run, banged in short outside off, attempted slap on the up to short cover, but can't time the stroke at the top of the bounce
+4153~1~
+4153~1~21.3
+4153~1~0
+4153~1~Mashrafe Mortaza to Root, no run, thumped to mid-off, more intentful timing
+4153~1~
+4153~1~21.4
+4153~1~1
+4153~1~Mashrafe Mortaza to Root, 1 run, on the legs, whipped behind square
+4153~1~
+4153~1~21.5
+4153~1~0
+4153~1~Mashrafe Mortaza to Roy, no run, pushed into the off side
+4153~1~
+4153~1~21.6
+4153~1~1
+4153~1~Mashrafe Mortaza to Roy, 1 run, another measured single into the off side. Roy is just ticking over for now. He's been so cross with himself for giving away his starts recently...
+4153~1~Kalyanaraman : "if we know what was for breakfast, we can also salivate!!!!" Bread and eggs, says Isam. Sounds ... underwhelming to me
+4153~1~
+4153~1~
+4153~1~22.1
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Roy, 1 run, flicked off the legs to midwicket once more
+4153~1~END OF OVER:22 | 3 Runs | ENG: 138/1 | RR: 6.27
+4153~1~Jason Roy
+4153~1~80 (74b)
+4153~1~Joe Root
+4153~1~4 (8b)
+4153~1~Mashrafe Mortaza
+4153~1~6-0-31-1
+4153~1~Mehidy Hasan
+4153~1~3-0-15-0
+4153~1~
+4153~1~22.2
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Root, 1 run, round the wicket, leg-stump line, clipped behind square
+4153~1~
+4153~1~22.3
+4153~1~0
+4153~1~Mehidy Hasan Miraz to Roy, no run, on the legs once more, this is a constrictive line, nudged with a closed face to the leg side
+4153~1~
+4153~1~22.4
+4153~1~0
+4153~1~Mehidy Hasan Miraz to Roy, no run, sure enough, Roy is tempted to try something different. Lines up the reverse sweep and is thumped on the pad! But outside the line, no review
+4153~1~
+4153~1~22.5
+4153~1~4
+4153~1~Mehidy Hasan Miraz to Roy, FOUR runs, that's a fractional drag-down from Mehidy, and Roy rocks back to launch it over the leg side! Solid batting
+4153~1~
+4153~1~22.6
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Roy, 1 run, worked off the pads once more, down to long-on. Tick, tick ... boom?
+4153~1~
+4153~1~23.1
+4153~1~0
+4153~1~Mashrafe Mortaza to Roy, no run, hooping angle from round the wicket, an attempted thrash through the covers, but inside-edged
+4153~1~END OF OVER:23 | 7 Runs | ENG: 145/1 | RR: 6.30
+4153~1~Jason Roy
+4153~1~86 (79b)
+4153~1~Joe Root
+4153~1~5 (9b)
+4153~1~Mehidy Hasan
+4153~1~4-0-22-0
+4153~1~Mashrafe Mortaza
+4153~1~6-0-31-1
+4153~1~
+4153~1~23.2
+4153~1~1
+4153~1~Mashrafe Mortaza to Roy, 1 run, punched from under the eyeline, out to mid-on
+4153~1~
+4153~1~23.3
+4153~1~1
+4153~1~Mashrafe Mortaza to Root, 1 run, flicked off the pads again, out towards the long deep midwicket boundary
+4153~1~
+4153~1~23.4
+4153~1~1
+4153~1~Mashrafe Mortaza to Roy, 1 run, cramped for room on the legs again, another pushed single to mid-on
+4153~1~
+4153~1~23.5
+4153~1~1
+4153~1~Mashrafe Mortaza to Root, 1 run, leaning back for a chop out to point
+4153~1~
+4153~1~23.6
+4153~1~1
+4153~1~Mashrafe Mortaza to Roy, 1 run, once again, targeting that leg-stump line, desperate to avoid offering any width to Roy's long levers. So he accepts the nudge off the hips and picks off another single
+4153~1~Sahil : "Don't forget Trent Boult with the new ball. He's been swinging it around, bagged 4 wickets against India in the warmup. As Monga mentioned in his article he's been outstanding since the 2015 world cup." Yep, very true ...
+4153~1~
+4153~1~
+4153~1~24.1
+4153~1~1
+4153~1~Mustafizur Rahman to Roy, 1 run, angled across the right-hander, chopped down into the off-side, and beats the diving keeper before third man tidies up
+4153~1~END OF OVER:24 | 5 Runs | ENG: 150/1 | RR: 6.25
+4153~1~Jason Roy
+4153~1~89 (83b)
+4153~1~Joe Root
+4153~1~7 (11b)
+4153~1~Mashrafe Mortaza
+4153~1~7-0-36-1
+4153~1~Mehidy Hasan
+4153~1~4-0-22-0
+4153~1~Mirzan: ""Tick,Tick. Boom" Reminds later innings of the Great Misbah ul haq." If this England team can be as great as Misbah, they'll settle for that
+4153~1~
+4153~1~
+4153~1~24.2
+4153~1~1
+4153~1~Mustafizur Rahman to Root, 1 run, rising to meet the delivery on the back foot, off-stump line, open-faced dab to third man
+4153~1~
+4153~1~24.3
+4153~1~1
+4153~1~Mustafizur Rahman to Roy, 1 run, eases back and across, to nudge another leg-stump delivery into the gap behind square. Sharp running, but not quite sharp enough to come back for the second
+4153~1~
+4153~1~24.4
+4153~1~0
+4153~1~Mustafizur Rahman to Root, no run, tighter line, back of a length, draws a respectful block, with the third man region plugged for now...
+4153~1~
+4153~1~24.5
+4153~1~0
+4153~1~Mustafizur Rahman to Root, no run, stretching into the drive, swinging a touch, Root chases with the drive but can't time it
+4153~1~
+4153~1~24.6
+4153~1~1
+4153~1~Mustafizur Rahman to Root, 1 run, on the legs again, another cherry-picked single to backward square.
+4153~1~
+4153~1~25.1
+4153~1~1
+4153~1~Mashrafe Mortaza to Root, 1 run, tapped off the toes to the leg side
+4153~1~END OF OVER:25 | 4 Runs | ENG: 154/1 | RR: 6.16
+4153~1~Joe Root
+4153~1~9 (15b)
+4153~1~Jason Roy
+4153~1~91 (85b)
+4153~1~Mustafizur Rahman
+4153~1~4-0-28-0
+4153~1~Mashrafe Mortaza
+4153~1~7-0-36-1
+4153~1~
+4153~1~25.2
+4153~1~1
+4153~1~Mashrafe Mortaza to Roy, 1 run, crashed with intent into the leg side once more, latching onto a fractional change of length, but it's a long boundary and not quite timed
+4153~1~Watch Mehidy Hasan's brilliant catch. to send Jonny Bairstow back. (UK, Ireland, Australia, South-East Aisa and Hong Kong)
+4153~1~
+4153~1~
+4153~1~25.3
+4153~1~1
+4153~1~Mashrafe Mortaza to Root, 1 run, over the wicket now to Root, who meets a full-length ball with a clip to long-on
+4153~1~
+4153~1~25.4
+4153~1~2
+4153~1~Mashrafe Mortaza to Roy, 2 runs, rising up onto the toes, punched past short cover, and more really sloppy fielding! An easy single, followed by a wayward shy past the stumps, and nearly a third overthrow too... whoops
+4153~1~
+4153~1~25.5
+4153~1~1
+4153~1~Mashrafe Mortaza to Roy, 1 run, back of a length from round the wicket again, outside off, firmly clumped down to long-off, to move to 95...
+4153~1~
+4153~1~25.6
+4153~1~0
+4153~1~Mashrafe Mortaza to Root, no run, nibbles off the seam on a full length, thumps the pad as Root falls across his stance, but no review for that, sliding past leg
+4153~1~
+4153~1~26.1
+4153~1~0
+4153~1~Mustafizur Rahman to Roy, no run, onto the front foot, high-elbowed push to mid-off
+4153~1~END OF OVER:26 | 6 Runs | ENG: 160/1 | RR: 6.15
+4153~1~Joe Root
+4153~1~11 (18b)
+4153~1~Jason Roy
+4153~1~95 (88b)
+4153~1~Mashrafe Mortaza
+4153~1~8-0-42-1
+4153~1~Mustafizur Rahman
+4153~1~4-0-28-0
+4153~1~Hari: "I smell a first Double Century today in this world cup. Roy, don't let me down." Well that's blown it for the single century ...
+4153~1~
+4153~1~
+4153~1~26.2
+4153~1~0
+4153~1~Mustafizur Rahman to Roy, no run, squeezed for room on the leg stump, another useful dot as Roy tries to make the angle
+4153~1~
+4153~1~26.3
+4153~1~1w
+4153~1~Mustafizur Rahman to Roy, 1 wide, down the leg side, it's a bonus run, but Roy is livid, as it was back of a length, and the slenderest tickle of bat would have been four all the way
+4153~1~
+4153~1~26.3
+4153~1~1
+4153~1~Mustafizur Rahman to Roy, 1 run, firmly cracked on the up into the covers, lovely straight blade, seizing on the merest hint of off-side line. But the sweeper limits the damage
+4153~1~
+4153~1~26.4
+4153~1~1
+4153~1~Mustafizur Rahman to Root, 1 run, flowing drive, all along the ground to long-off, Root returns the compliment
+4153~1~
+4153~1~26.5
+4153~1~4
+4153~1~Mustafizur Rahman to Roy, FOUR runs, short, pulled, and away to the rope via another misfield! Jason Roy has his century, but takes a moment to make sure he's not left a permanent dent in the umpire, whom he completely wipes out while completing his run! Joel Wilson is fine. On we go!
+4153~1~Veerender: "Mostaza, please keep couple of overs to bowl in the death, Bangladesh need your attack in last 5 overs. " The trouble is, they've bowled seven for Shakib already, so not sure how to balance attack and defence
+4153~1~
+4153~1~
+4153~1~26.6
+4153~1~0
+4153~1~Mustafizur Rahman to Roy, no run, worked to the leg side again
+4153~1~
+4153~1~27.1
+4153~1~4
+4153~1~Mohammad Saifuddin to Root, FOUR runs, a rank long-hop, 126kph, hoisted out through the leg side
+4153~1~Now then, 23 overs to go, a centurion at the crease, a powder keg of batting to come ... stand by
+4153~1~
+4153~1~END OF OVER:27 | 7 Runs | ENG: 167/1 | RR: 6.18
+4153~1~Jason Roy
+4153~1~100 (93b)
+4153~1~Joe Root
+4153~1~12 (19b)
+4153~1~Mustafizur Rahman
+4153~1~5-0-35-0
+4153~1~Mashrafe Mortaza
+4153~1~8-0-42-1
+4153~1~
+4153~1~27.2
+4153~1~1
+4153~1~Mohammad Saifuddin to Root, 1 run, short and wide, chopped to third man
+4153~1~
+4153~1~27.3
+4153~1~1
+4153~1~Mohammad Saifuddin to Roy, 1 run, gives himself room, showing the stumps, and slapping a drive through the line to long-off
+4153~1~Those in India can watch the match live here.
+4153~1~
+4153~1~
+4153~1~27.4
+4153~1~0
+4153~1~Mohammad Saifuddin to Root, no run, a firm punch back down the pitch, but that is well stopped in the bowler's followthrough. Mid-on tidies up
+4153~1~
+4153~1~27.5
+4153~1~1
+4153~1~Mohammad Saifuddin to Root, 1 run, back of a length, outside off, another whittle to third man
+4153~1~
+4153~1~27.6
+4153~1~0
+4153~1~Mohammad Saifuddin to Roy, no run, chopped down into the crease, a bit cramped for room on the back foot
+4153~1~jansher: "Difference between cricket and football, in football knocking the umpire down Red card, in cricket umpire smiling. :)" To be fair, even football referees usually recognise accidental collisions... usually...
+4153~1~
+4153~1~
+4153~1~28.1
+4153~1~0
+4153~1~Mustafizur Rahman to Root, no run, very full, angled in from round the wicket, tucked up for room on the attempted nurdle through third man
+4153~1~The Fizz continues...
+4153~1~
+4153~1~END OF OVER:28 | 7 Runs | ENG: 174/1 | RR: 6.21
+4153~1~Jason Roy
+4153~1~101 (95b)
+4153~1~Joe Root
+4153~1~18 (23b)
+4153~1~Mohammad Saifuddin
+4153~1~4-0-40-0
+4153~1~Mustafizur Rahman
+4153~1~5-0-35-0
+4153~1~cvaya: "Jason Roy is very well placed for a double hundred... and England looks all set for 400 if they don't loose any wicket till 35th over" Isn't he just ... extraordinary to think that sights can be set so high. I remember Sachin getting there in 2010, felt like Everest had been conquered at last
+4153~1~
+4153~1~
+4153~1~28.2
+4153~1~1
+4153~1~Mustafizur Rahman to Root, 1 run, gets the angle this time, just opening the face on a good length, dabbed to third man off the back foot
+4153~1~
+4153~1~28.3
+4153~1~0
+4153~1~Mustafizur Rahman to Roy, no run, walks across the stumps for the affempted flick over the keeper's head, but can't lay bat on ball
+4153~1~
+4153~1~28.4
+4153~1~2
+4153~1~Mustafizur Rahman to Roy, 2 runs, on the toes, flicked fine, and more sluggish fielding on the long square boundary allows them back for the second
+4153~1~
+4153~1~28.5
+4153~1~2
+4153~1~Mustafizur Rahman to Roy, 2 runs, back of a length on a leg-stump line, cracked out to backward point
+4153~1~Prashant Khairn: "373,359,341,351,311,334 England in last 6 innings, on the same way in 7th inning in row." Indeed, it would be a record as well, outstripping the Aussies in 2007
+4153~1~
+4153~1~
+4153~1~28.6
+4153~1~2
+4153~1~Mustafizur Rahman to Roy, 2 runs, banged in short, a slightly top-edgy slap of a pull, but the long boundary is so long that the fielders rather get lost in a sea of green. Lands safe
+4153~1~
+4153~1~29.1
+4153~1~1
+4153~1~Mohammad Saifuddin to Root, 1 run, punched to long-on
+4153~1~END OF OVER:29 | 7 Runs | ENG: 181/1 | RR: 6.24
+4153~1~Jason Roy
+4153~1~107 (99b)
+4153~1~Joe Root
+4153~1~19 (25b)
+4153~1~Mustafizur Rahman
+4153~1~6-0-42-0
+4153~1~Mohammad Saifuddin
+4153~1~4-0-40-0
+4153~1~Dez: "Part of me wants J Roy to get a double. The other wants it to be 159 - my cricket picks prediction!" Very good point! I went for 121 ... I'll settle for that!
+4153~1~
+4153~1~
+4153~1~29.2
+4153~1~0
+4153~1~Mohammad Saifuddin to Roy, no run, swivels into a pull, a bottom edge into the ankles ... lots of intent, lacking in execution on that occasion
+4153~1~
+4153~1~29.3
+4153~1~2
+4153~1~Mohammad Saifuddin to Roy, 2 runs, eased on the up to midwicket
+4153~1~
+4153~1~29.4
+4153~1~0
+4153~1~Mohammad Saifuddin to Roy, no run, on the pads, clipped to short midwicket. No way through there
+4153~1~
+4153~1~29.5
+4153~1~1
+4153~1~Mohammad Saifuddin to Roy, 1 run, short and wide, Roy reaches for the pull and drags it to the leg side in front of square
+4153~1~
+4153~1~29.6
+4153~1~0
+4153~1~Mohammad Saifuddin to Root, no run, very full, full face of the bat in response, Saifuddin half-stops with a leap in his followthrough
+4153~1~
+4153~1~30.1
+4153~1~4
+4153~1~Shakib AlHasan to Roy, FOUR runs, utterly lashed through the covers! Shakib's return is rudely greeted with a full-faced slap!
+4153~1~END OF OVER:30 | 4 Runs | ENG: 185/1 | RR: 6.16
+4153~1~Joe Root
+4153~1~20 (27b)
+4153~1~Jason Roy
+4153~1~110 (103b)
+4153~1~Mohammad Saifuddin
+4153~1~5-0-44-0
+4153~1~Mustafizur Rahman
+4153~1~6-0-42-0
+4153~1~Manas Mishra: "Root has just absorbed the momentum, England have retarded. Morgan should have sent himself" Poppycock. He's a couple of boundaries from a run a ball
+4153~1~
+4153~1~
+4153~1~30.2
+4153~1~4
+4153~1~Shakib AlHasan to Roy, FOUR runs, goes for the exact same shot, with the exact same result! Round the wicket, into the arc, and pummelled through the covers!
+4153~1~
+4153~1~30.3
+4153~1~6
+4153~1~Shakib AlHasan to Roy, SIX runs, Shakib tightens his line, and is battered over long-on!
+4153~1~
+4153~1~30.4
+4153~1~1
+4153~1~Shakib AlHasan to Roy, 1 run, pushed into the off side, and up comes the 200...
+4153~1~
+4153~1~30.5
+4153~1~1
+4153~1~Shakib AlHasan to Root, 1 run, worked into the covers for another single
+4153~1~
+4153~1~30.6
+4153~1~1
+4153~1~Shakib AlHasan to Roy, 1 run, wide line outside off, Roy reaches with a cross-batted mow, and finds the single to square leg
+4153~1~
+4153~1~31.1
+4153~1~2
+4153~1~Mohammad Saifuddin to Roy, 2 runs, low full toss, a muffed slog to deep midwicket
+4153~1~END OF OVER:31 | 17 Runs | ENG: 202/1 | RR: 6.51
+4153~1~Jason Roy
+4153~1~126 (108b)
+4153~1~Joe Root
+4153~1~21 (28b)
+4153~1~Shakib AlHasan
+4153~1~8-0-51-0
+4153~1~Mohammad Saifuddin
+4153~1~5-0-44-0
+4153~1~Mo Patel: "I want Jason Roy to get out at 118!!! Oh the irony of choosing between good bashing and winning Match Picks competition ;) " Well, my mark is long gone in the space of three shots, so onwards and upwards!
+4153~1~
+4153~1~
+4153~1~31.2
+4153~1~1
+4153~1~Mohammad Saifuddin to Roy, 1 run, speared into the legs, can't work the angle but accepts the single into the leg side
+4153~1~
+4153~1~31.3
+4153~1~W
+4153~1~Mohammad Saifuddin to Root, OUT, inside-edged drive! Root's knock is sawn off by a slower ball, perhaps he was through the shot too soon. Respite at last for Bangladesh, but I wonder if we might see Jos Buttler now?
+4153~1~JE Root b Mohammad Saifuddin 21 (54m 29b 1x4 0x6) SR: 72.41
+4153~1~
+4153~1~
+4153~1~31.4
+4153~1~1lb
+4153~1~Mohammad Saifuddin to Buttler, 1 leg bye, advancing out of his crease, that is arrow-straight but a long way down the pitch! Bangladesh are reviewing! It was an attempted flick to leg, no bat involved ... was it past the 3m mark though ... nope, but it was missing leg! Just starting to swing at the point of impact, which may be why he missed it
+4153~1~Sure enough ... here's Jos... stand by!
+4153~1~
+4153~1~
+4153~1~31.5
+4153~1~1
+4153~1~Mohammad Saifuddin to Roy, 1 run, flicked to the leg side
+4153~1~
+4153~1~31.6
+4153~1~1
+4153~1~Mohammad Saifuddin to Buttler, 1 run, chipped off the pads, in the air for a moment, but short of the man at short backward square
+4153~1~
+4153~1~32.1
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Buttler, 1 run, looping into the legs, worked to short midwicket
+4153~1~END OF OVER:32 | 6 Runs 1 Wkt | ENG: 208/2 | RR: 6.50
+4153~1~Jos Buttler
+4153~1~1 (2b)
+4153~1~Jason Roy
+4153~1~130 (111b)
+4153~1~Mohammad Saifuddin
+4153~1~6-0-49-1
+4153~1~Shakib AlHasan
+4153~1~8-0-51-0
+4153~1~Shiva has a nugget about Roy's form: "A rare hundred by an England opener in the World Cup: Jason Roy's is just the fifth for England from 75 matches. Among teams that have played at least 30 World Cup matches, only Zimbabwe and Bangladesh have fewer hundreds from openers. A record that is likely to be set right in this World Cup given the form the England openers have been in."
+4153~1~
+4153~1~
+4153~1~32.2
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Roy, 1 run, on the back foot, nurdled to the leg side, the leg-stump line continues to have a limited impact
+4153~1~
+4153~1~32.3
+4153~1~0
+4153~1~Mehidy Hasan Miraz to Buttler, no run, closing the face on impact, tucked to the leg side once more
+4153~1~Philip McCarthy: "It's days like this that make me glad that at least I'm not a cricket ball facing Roy and Buttler. It's the small things. "
+4153~1~
+4153~1~
+4153~1~32.4
+4153~1~0
+4153~1~Mehidy Hasan Miraz to Buttler, no run, shuffling back and across, can't connect properly as Mehidy gathers
+4153~1~
+4153~1~32.5
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Buttler, 1 run, this is turning into a tidy over, clipped off the pads once again with no great intent
+4153~1~
+4153~1~32.6
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Roy, 1 run, more ambitious to finish the over, hopping back into the crease to make room for a slashing drive, but only as far as wide mid-off
+4153~1~
+4153~1~33.1
+4153~1~1
+4153~1~Mohammad Saifuddin to Roy, 1 run, length ball around off, pushes it towards long-on off the back foot
+4153~1~Thanks, Andrew. England look all set for a big finish. Anyone else thinking Roy might go on to score a double here? Looking at the feedback, I can say I am not the only one. Saifuddin to continue...
+4153~1~
+4153~1~END OF OVER:33 | 4 Runs | ENG: 212/2 | RR: 6.42
+4153~1~Jason Roy
+4153~1~132 (113b)
+4153~1~Jos Buttler
+4153~1~3 (6b)
+4153~1~Mehidy Hasan
+4153~1~5-0-26-0
+4153~1~Mohammad Saifuddin
+4153~1~6-0-49-1
+4153~1~That will be drinks. Hemant will bring up the rear on an ominously placed England innings
+4153~1~
+4153~1~
+4153~1~33.2
+4153~1~1
+4153~1~Mohammad Saifuddin to Buttler, 1 run, length ball around off, stays back and pushes it towards sweeper cover
+4153~1~Mufaro: "Butler to score a century first before Roy's double!"
+4153~1~
+4153~1~Abhijato: "Warning: Rohit Sharma's record of highest ODl score is under threat. I repeat, Rohit Sharma's ODI record for scoring 264 is under threat. Put on your 'Roy-al' bandanas and sit in front of a telly, right now. This is not a drill, this is not a drill!"
+4153~1~
+4153~1~
+4153~1~33.3
+4153~1~0
+4153~1~Mohammad Saifuddin to Roy, no run, fuller on the stumps, flicked away but straight to the straight-ish midwicket
+4153~1~
+4153~1~33.4
+4153~1~1
+4153~1~Mohammad Saifuddin to Roy, 1 run, length ball around off, drops it towards point and scampers through for a quick single
+4153~1~
+4153~1~33.5
+4153~1~1
+4153~1~Mohammad Saifuddin to Buttler, 1 run, fuller on the stumps, drives it towards long-on
+4153~1~
+4153~1~33.6
+4153~1~1
+4153~1~Mohammad Saifuddin to Roy, 1 run, down the track and smashes it towards long-on, one-bounce to the fielder
+4153~1~
+4153~1~34.1
+4153~1~6
+4153~1~Mehidy Hasan Miraz to Roy, SIX runs, length ball from around the wicket, Roy goes down the track and lofts it over wide long-on, 97 metres that one
+4153~1~END OF OVER:34 | 5 Runs | ENG: 217/2 | RR: 6.38
+4153~1~Jason Roy
+4153~1~135 (117b)
+4153~1~Jos Buttler
+4153~1~5 (8b)
+4153~1~Mohammad Saifuddin
+4153~1~7-0-54-1
+4153~1~Mehidy Hasan
+4153~1~5-0-26-0
+4153~1~
+4153~1~34.2
+4153~1~6
+4153~1~Mehidy Hasan Miraz to Roy, SIX runs, and again, this one went high in the air but still enough to sail over the long-on boundary
+4153~1~
+4153~1~34.3
+4153~1~6
+4153~1~Mehidy Hasan Miraz to Roy, SIX runs, make that three in a row, Roy is just enjoying himself out there, was a length ball, does that matter to Roy! He skips down and goes over deep midwicket, 90 metres long. Roy reaches 150 in style, off 120 balls
+4153~1~
+4153~1~34.4
+4153~1~W
+4153~1~Mehidy Hasan Miraz to Roy, OUT, looks to go for the fourth one but Mehidy has pushed it a bit wider, Roy came down and looked to go straight, the ball hit the outer half of the bat and Mashrafe Mortaza settled under it extra cover
+4153~1~JJ Roy c Mashrafe Mortaza b Mehidy Hasan Miraz 153 (153m 121b 14x4 5x6) SR: 126.44
+4153~1~
+4153~1~
+4153~1~34.5
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Buttler, 1 run, length around off, dabs it towards backward point for one
+4153~1~
+4153~1~34.6
+4153~1~0
+4153~1~Mehidy Hasan Miraz to Morgan, no run, length ball around off, comes forward and blocks
+4153~1~A slip in place for Morgan
+4153~1~
+4153~1~
+4153~1~35.1
+4153~1~1
+4153~1~Mosaddek Hossain to Buttler, 1 run, fuller on the pads, flicked away towards deep-backward square leg
+4153~1~Mosaddek Hossain
+4153~1~
+4153~1~END OF OVER:35 | 19 Runs 1 Wkt | ENG: 236/3 | RR: 6.74
+4153~1~Eoin Morgan
+4153~1~0 (1b)
+4153~1~Jos Buttler
+4153~1~6 (9b)
+4153~1~Mehidy Hasan
+4153~1~6-0-45-1
+4153~1~Mohammad Saifuddin
+4153~1~7-0-54-1
+4153~1~
+4153~1~35.2
+4153~1~1
+4153~1~Mosaddek Hossain to Morgan, 1 run, length outside off, stays in his crease and cuts it away towards deep extra cover
+4153~1~Shorif Uddin : "Those who predicted a score of 400+, England can score at best 360/370, mark my word. "
+4153~1~
+4153~1~
+4153~1~35.3
+4153~1~1
+4153~1~Mosaddek Hossain to Buttler, 1 run, dropped short this time, Buttler goes back and pulls it towards deep midwicket, only a single
+4153~1~
+4153~1~35.4
+4153~1~0
+4153~1~Mosaddek Hossain to Morgan, no run, length ball on the stumps, Morgan punches it back towards the bowler
+4153~1~
+4153~1~35.5
+4153~1~1
+4153~1~Mosaddek Hossain to Morgan, 1 run, length again, Morgan goes back this time and flicks it towards midwicket
+4153~1~
+4153~1~35.6
+4153~1~1
+4153~1~Mosaddek Hossain to Buttler, 1 run, length ball on the stumps, flicked away behind square for one more
+4153~1~
+4153~1~36.1
+4153~1~0
+4153~1~Mehidy Hasan Miraz to Buttler, no run, length ball angled across from around the wicket, guides it towards short third man
+4153~1~END OF OVER:36 | 5 Runs | ENG: 241/3 | RR: 6.69
+4153~1~Jos Buttler
+4153~1~9 (12b)
+4153~1~Eoin Morgan
+4153~1~2 (4b)
+4153~1~Mosaddek Hossain
+4153~1~1-0-5-0
+4153~1~Mehidy Hasan
+4153~1~6-0-45-1
+4153~1~
+4153~1~36.2
+4153~1~1lb
+4153~1~Mehidy Hasan Miraz to Buttler, 1 leg bye, fuller on the pads, misses the flick and is hit on the pad, an appeal for lbw but was going down
+4153~1~
+4153~1~36.3
+4153~1~0
+4153~1~Mehidy Hasan Miraz to Morgan, no run, fuller around off and middle, drives it towards extra cover
+4153~1~
+4153~1~36.4
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Morgan, 1 run, length outside off, pushed towards sweeper cover for one
+4153~1~
+4153~1~36.5
+4153~1~0
+4153~1~Mehidy Hasan Miraz to Buttler, no run, length ball on the stumps, defended from the crease
+4153~1~
+4153~1~36.6
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Buttler, 1 run, fuller on the pads, flicked away towards deep square leg
+4153~1~
+4153~1~37.1
+4153~1~6
+4153~1~Mosaddek Hossain to Buttler, SIX runs, Buttler uses his feet this time, gets to the pitch of the ball and lofts it over wide long-on for his first six
+4153~1~Around the wicket
+4153~1~
+4153~1~END OF OVER:37 | 3 Runs | ENG: 244/3 | RR: 6.59
+4153~1~Jos Buttler
+4153~1~10 (16b)
+4153~1~Eoin Morgan
+4153~1~3 (6b)
+4153~1~Mehidy Hasan
+4153~1~7-0-47-1
+4153~1~Mosaddek Hossain
+4153~1~1-0-5-0
+4153~1~Sohel Memon: "I guess Roy innings end with the "commentator curse" kind of thing. No 'Roy-al' double for him today."
+4153~1~
+4153~1~
+4153~1~37.2
+4153~1~4
+4153~1~Mosaddek Hossain to Buttler, FOUR runs, backs away this time and cuts this length ball past the cover fielder for four more
+4153~1~
+4153~1~37.3
+4153~1~1
+4153~1~Mosaddek Hossain to Buttler, 1 run, a low full toss on the pads, clipped away in front of square
+4153~1~
+4153~1~37.4
+4153~1~1
+4153~1~Mosaddek Hossain to Morgan, 1 run, length ball around off, stays back and punches it towards long-off
+4153~1~
+4153~1~37.5
+4153~1~6
+4153~1~Mosaddek Hossain to Buttler, SIX runs, what a shot! Length ball on the stumps, Buttler goes back and pulls it over long-on, all the way for a six. They need a new ball
+4153~1~
+4153~1~37.6
+4153~1~1
+4153~1~Mosaddek Hossain to Buttler, 1 run, length ball on the stumps, flicked towards midwicket for a single
+4153~1~Buttler was in some sort of discomfort after that shot but he is good to go for now
+4153~1~
+4153~1~
+4153~1~38.1
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Buttler, 1 run, fuller on the stumps, digs it out towards long-on
+4153~1~END OF OVER:38 | 19 Runs | ENG: 263/3 | RR: 6.92
+4153~1~Jos Buttler
+4153~1~28 (21b)
+4153~1~Eoin Morgan
+4153~1~4 (7b)
+4153~1~Mosaddek Hossain
+4153~1~2-0-24-0
+4153~1~Mehidy Hasan
+4153~1~7-0-47-1
+4153~1~
+4153~1~38.2
+4153~1~0
+4153~1~Mehidy Hasan Miraz to Morgan, no run, fuller around off, comes forward and pushes it towards cover-point
+4153~1~
+4153~1~38.3
+4153~1~2
+4153~1~Mehidy Hasan Miraz to Morgan, 2 runs, length outside off, cuts it away, a misfield by the point fielder allows a couple
+4153~1~
+4153~1~38.4
+4153~1~0
+4153~1~Mehidy Hasan Miraz to Morgan, no run, length ball around middle and leg, pushed towards square leg
+4153~1~
+4153~1~38.5
+4153~1~0
+4153~1~Mehidy Hasan Miraz to Morgan, no run, length ball around off, comes forward and blocks
+4153~1~
+4153~1~38.6
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Morgan, 1 run, length ball around off, punched towards long-on for one
+4153~1~
+4153~1~39.1
+4153~1~0
+4153~1~Mashrafe Mortaza to Morgan, no run, length ball around off, defended from the back foot
+4153~1~END OF OVER:39 | 4 Runs | ENG: 267/3 | RR: 6.84
+4153~1~Eoin Morgan
+4153~1~7 (12b)
+4153~1~Jos Buttler
+4153~1~29 (22b)
+4153~1~Mehidy Hasan
+4153~1~8-0-51-1
+4153~1~Mosaddek Hossain
+4153~1~2-0-24-0
+4153~1~
+4153~1~39.2
+4153~1~0
+4153~1~Mashrafe Mortaza to Morgan, no run, fuller around off, driven firmly but straight towards mid-off
+4153~1~
+4153~1~39.3
+4153~1~6
+4153~1~Mashrafe Mortaza to Morgan, SIX runs, too full this time and Morgan takes full advantages, goes aerial and clears mid-off with ease, 82 metres
+4153~1~
+4153~1~39.4
+4153~1~0
+4153~1~Mashrafe Mortaza to Morgan, no run, length around off, taps it towards point from the crease
+4153~1~
+4153~1~39.5
+4153~1~1
+4153~1~Mashrafe Mortaza to Morgan, 1 run, length ball around middle, pushes it towards long-on off the back foot
+4153~1~
+4153~1~39.6
+4153~1~1
+4153~1~Mashrafe Mortaza to Buttler, 1 run, fuller on the pads, clipped uppishly towards deep midwicket, a bit of a fumble but the batsmen settle for one
+4153~1~
+4153~1~40.1
+4153~1~1w
+4153~1~Mehidy Hasan Miraz to Buttler, 1 wide, fired but down the leg side, has to be bowled again
+4153~1~END OF OVER:40 | 8 Runs | ENG: 275/3 | RR: 6.87
+4153~1~Jos Buttler
+4153~1~30 (23b)
+4153~1~Eoin Morgan
+4153~1~14 (17b)
+4153~1~Mashrafe Mortaza
+4153~1~9-0-50-1
+4153~1~Mehidy Hasan
+4153~1~8-0-51-1
+4153~1~
+4153~1~40.1
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Buttler, 1 run, full on the stumps, digs it out towards midwicket for a quick single
+4153~1~
+4153~1~40.2
+4153~1~0
+4153~1~Mehidy Hasan Miraz to Morgan, no run, length ball around off, comes forward and blocks
+4153~1~
+4153~1~40.3
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Morgan, 1 run, length ball around off, punched towards long-off from the back foot
+4153~1~Here's an update from the ICC on Joel Wilson. They sent the doc out straight away to give him a concussion test. He seemed OK but they asked him to go off at next drinks interval for further testing. He again seemed fine and resumed after the break.
+4153~1~
+4153~1~
+4153~1~40.4
+4153~1~4
+4153~1~Mehidy Hasan Miraz to Buttler, FOUR runs, fuller on the stumps and Buttler has flicked this through midwicket for four, the wide long-on fielder has no chacne to cut it off
+4153~1~
+4153~1~40.5
+4153~1~2
+4153~1~Mehidy Hasan Miraz to Buttler, 2 runs, fuller again and Buttler goes again, this time the wide long-on fielder manages to reach there, puts in the slide to keep it to two
+4153~1~
+4153~1~40.6
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Buttler, 1 run, a full toss on the pads, flicked away towards midwicket
+4153~1~
+4153~1~41.1
+4153~1~1
+4153~1~Mustafizur Rahman to Buttler, 1 run, a full toss outside off, hits it into the ground and the ball bounces over the bowler, a single to long-off
+4153~1~ASIM: "Commentators shouldn't talk about the total now. Otherwise england might be restricted to 330. And tigers are capable of chasing that... So everyone predict what Bangladesh can chase ???"
+4153~1~
+4153~1~END OF OVER:41 | 10 Runs | ENG: 285/3 | RR: 6.95
+4153~1~Jos Buttler
+4153~1~38 (27b)
+4153~1~Eoin Morgan
+4153~1~15 (19b)
+4153~1~Mehidy Hasan
+4153~1~9-0-61-1
+4153~1~Mashrafe Mortaza
+4153~1~9-0-50-1
+4153~1~Anand: "Jos Buttler now in "The Punisher" mode."
+4153~1~
+4153~1~
+4153~1~41.2
+4153~1~1w
+4153~1~Mustafizur Rahman to Morgan, 1 wide, length ball but sliding down the leg side, Morgan cannot connect the flick, called a wide
+4153~1~
+4153~1~41.2
+4153~1~1
+4153~1~Mustafizur Rahman to Morgan, 1 run, fuller around off, driven towards long-on for one
+4153~1~
+4153~1~41.3
+4153~1~2
+4153~1~Mustafizur Rahman to Buttler, 2 runs, fuller around middle and off, drives it past the point fielder, comes for the second and makes it easily
+4153~1~Jacques Prince: "England slowing down a bit now, we're used to the 19 an over not these 8's and 10's!"
+4153~1~
+4153~1~
+4153~1~41.4
+4153~1~6
+4153~1~Mustafizur Rahman to Buttler, SIX runs, golf swing this time from Buttler, was a touch fuller around off and Buttler tees away, stand and deliver, 85 metres over long-on. New balls please!
+4153~1~
+4153~1~41.5
+4153~1~0
+4153~1~Mustafizur Rahman to Buttler, no run, a slower short ball, just around off, Buttler was looking to pull but had to check his shot, ends up defending it down the ground
+4153~1~
+4153~1~41.6
+4153~1~2
+4153~1~Mustafizur Rahman to Buttler, 2 runs, short of length outside off, pulls it away towards deep midwicket for a couple
+4153~1~
+4153~1~42.1
+4153~1~4
+4153~1~Shakib AlHasan to Morgan, FOUR runs, length outside off, perhaps a touch short, Morgan cuts it past the point fielder for four
+4153~1~Shakib comes on
+4153~1~
+4153~1~END OF OVER:42 | 13 Runs | ENG: 298/3 | RR: 7.09
+4153~1~Jos Buttler
+4153~1~49 (32b)
+4153~1~Eoin Morgan
+4153~1~16 (20b)
+4153~1~Mustafizur Rahman
+4153~1~7-0-55-0
+4153~1~Mehidy Hasan
+4153~1~9-0-61-1
+4153~1~Our Forecaster is predicting 370 for England
+4153~1~
+4153~1~
+4153~1~42.2
+4153~1~1
+4153~1~Shakib AlHasan to Morgan, 1 run, length ball around off, punches it towards extra cover off the back foot, Buttler is quick to respond and completes the run easily
+4153~1~
+4153~1~42.3
+4153~1~2
+4153~1~Shakib AlHasan to Buttler, 2 runs, length ball on the pads, tucked away towards square leg, scampers back for the second and that's his fifty, off just 33 balls
+4153~1~
+4153~1~42.4
+4153~1~1
+4153~1~Shakib AlHasan to Buttler, 1 run, full and wide outside off, reaches out for it and pushes it towards the left of Shakib who moves quickly and hits the stumps direct. They are checking upstairs but Buttler was just in
+4153~1~
+4153~1~42.5
+4153~1~1
+4153~1~Shakib AlHasan to Morgan, 1 run, moves across and flicks this fuller delivery towards midwicket
+4153~1~Buttler looks in some discomfort, really hobbling there
+4153~1~
+4153~1~
+4153~1~42.6
+4153~1~1w
+4153~1~Shakib AlHasan to Buttler, 1 wide, down the leg side, looks to paddle it away but misses
+4153~1~
+4153~1~42.6
+4153~1~1
+4153~1~Shakib AlHasan to Buttler, 1 run, fuller outside off, hits it towards sweeper cover for one, Buttler's really struggling there
+4153~1~
+4153~1~43.1
+4153~1~1
+4153~1~Mustafizur Rahman to Buttler, 1 run, short of length outside off, goes back and pulls it in front of squares, hobbles through for a single
+4153~1~END OF OVER:43 | 11 Runs | ENG: 309/3 | RR: 7.18
+4153~1~Jos Buttler
+4153~1~53 (35b)
+4153~1~Eoin Morgan
+4153~1~22 (23b)
+4153~1~Shakib AlHasan
+4153~1~9-0-62-0
+4153~1~Mustafizur Rahman
+4153~1~7-0-55-0
+4153~1~
+4153~1~43.2
+4153~1~1
+4153~1~Mustafizur Rahman to Morgan, 1 run, short of length around off, pulls it towards deep-backward square leg
+4153~1~
+4153~1~43.3
+4153~1~2nb
+4153~1~Mustafizur Rahman to Buttler, (no ball) 1 run, fuller outside off, backs away and squeezes it towards deep extra cover, but he has stepped over the line, a big no-ball
+4153~1~
+4153~1~43.3
+4153~1~1
+4153~1~Mustafizur Rahman to Morgan, 1 run, length ball around off, goes for the pull but top-edges it behind the wicket, Mushfiqur runs towards his right and catches it but those don't count
+4153~1~Free-hit coming up
+4153~1~
+4153~1~
+4153~1~43.4
+4153~1~0
+4153~1~Mustafizur Rahman to Buttler, no run, short of length outside off, Buttler goes off the ground and plays a tennis forehand towards the bowler, doesn't get the timing right
+4153~1~
+4153~1~43.5
+4153~1~0
+4153~1~Mustafizur Rahman to Buttler, no run, fuller outside off, opens the face of the bat to steer it towards point
+4153~1~
+4153~1~43.6
+4153~1~1
+4153~1~Mustafizur Rahman to Buttler, 1 run, short of length outside off, pulled away towards deep square leg
+4153~1~
+4153~1~44.1
+4153~1~1
+4153~1~Shakib AlHasan to Buttler, 1 run, length ball on the pads, glanced towards short fine leg
+4153~1~Jamie Dow: "Why wouldn't Buttler retire hurt? That looks like the smart move, surely? Let Stokes and Morgs have a slog, and be able to run the quick singles and twos as well. He can come back if needed for a few blows at the end, and the physio can have had a look in the meantime ... what's he doing still out there?!!"
+4153~1~
+4153~1~END OF OVER:44 | 6 Runs | ENG: 315/3 | RR: 7.15
+4153~1~Jos Buttler
+4153~1~56 (40b)
+4153~1~Eoin Morgan
+4153~1~24 (25b)
+4153~1~Mustafizur Rahman
+4153~1~8-0-61-0
+4153~1~Shakib AlHasan
+4153~1~9-0-62-0
+4153~1~Arun: "Jos is playing badmiton with cricket bat!!"
+4153~1~
+4153~1~Sj: "Looks like England has reclaimed its place as tournament favorites This is a hill too far for Bangladesh batters."
+4153~1~
+4153~1~
+4153~1~44.2
+4153~1~6
+4153~1~Shakib AlHasan to Morgan, SIX runs, down the track and lofted over the bowler's head, a flat six for Morgan, 79 metres
+4153~1~
+4153~1~44.3
+4153~1~0
+4153~1~Shakib AlHasan to Morgan, no run, almost a yorker from Shakib this time, Morgan jams his bat at it, an inside edge on to his shoe
+4153~1~
+4153~1~44.4
+4153~1~1
+4153~1~Shakib AlHasan to Morgan, 1 run, length outside off, chops it towards backward point
+4153~1~
+4153~1~44.5
+4153~1~1
+4153~1~Shakib AlHasan to Buttler, 1 run, fuller around off, flat-bats it towards long-off
+4153~1~
+4153~1~44.6
+4153~1~0
+4153~1~Shakib AlHasan to Morgan, no run, length ball outside off, Morgan was looking to back away, Shakib fires it wide outside off and the batsman can just look at it go through into the keeper's gloves. Morgan was expecting a wide, doesn't get
+4153~1~
+4153~1~45.1
+4153~1~6
+4153~1~Mohammad Saifuddin to Buttler, SIX runs, more tennis than cricket from Buttler, short of length outside off, Buttler backs away a bit and smashes it over extra cover, all the way for a six
+4153~1~Last five overs. England need 76 to reach 400
+4153~1~
+4153~1~END OF OVER:45 | 9 Runs | ENG: 324/3 | RR: 7.20
+4153~1~Eoin Morgan
+4153~1~31 (29b)
+4153~1~Jos Buttler
+4153~1~58 (42b)
+4153~1~Shakib AlHasan
+4153~1~10-0-71-0
+4153~1~Mustafizur Rahman
+4153~1~8-0-61-0
+4153~1~
+4153~1~45.2
+4153~1~W
+4153~1~Mohammad Saifuddin to Buttler, OUT, fuller on the pads and flicked away by Buttler, it looked like it was going all the way but Soumya Sarkar does well at deep square leg, a couple of steps towards his right and takes the catch just inside the boundary line
+4153~1~JC Buttler c Soumya Sarkar b Mohammad Saifuddin 64 (66m 44b 2x4 4x6) SR: 145.45
+4153~1~
+4153~1~
+4153~1~45.3
+4153~1~1w
+4153~1~Mohammad Saifuddin to Stokes, 1 wide, slower length ball but way too down the leg side, Morgan lets it go
+4153~1~
+4153~1~45.3
+4153~1~1
+4153~1~Mohammad Saifuddin to Morgan, 1 run, slower short ball, pulled away towards deep square leg
+4153~1~
+4153~1~45.4
+4153~1~0
+4153~1~Mohammad Saifuddin to Stokes, no run, length ball around off, whips it towards the bowler
+4153~1~Ben Stokes now
+4153~1~
+4153~1~
+4153~1~45.5
+4153~1~2
+4153~1~Mohammad Saifuddin to Stokes, 2 runs, length ball around middle, flicked away towards wide long-on. Stokes calls for two and they complete it easily
+4153~1~
+4153~1~45.6
+4153~1~1
+4153~1~Mohammad Saifuddin to Stokes, 1 run, short of length outside off, punches it towards mid-off for one
+4153~1~
+4153~1~46.1
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Stokes, 1 run, length ball on the pads, flicked away towards midwicket for one
+4153~1~England's highest total in the World Cup is 338 against India in Bengaluru in 2011 in that tied game
+4153~1~
+4153~1~END OF OVER:46 | 11 Runs 1 Wkt | ENG: 335/4 | RR: 7.28
+4153~1~Ben Stokes
+4153~1~3 (3b)
+4153~1~Eoin Morgan
+4153~1~32 (30b)
+4153~1~Mohammad Saifuddin
+4153~1~8-0-65-2
+4153~1~Shakib AlHasan
+4153~1~10-0-71-0
+4153~1~
+4153~1~46.2
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Morgan, 1 run, length but way outside off, Morgan reaches out for hit and hits it towards sweeper cover
+4153~1~
+4153~1~46.3
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Stokes, 1 run, length ball around off, pushed towards long-off from the back foot
+4153~1~
+4153~1~46.4
+4153~1~2
+4153~1~Mehidy Hasan Miraz to Morgan, 2 runs, dropped by Tamim Iqbal at long-off, Morgan looks to go aerial but doesn't get the distance, Tamim runs towards his right, gets his hands to hit but cannot latch on to. This is now England's highest score in the World Cup
+4153~1~
+4153~1~46.5
+4153~1~W
+4153~1~Mehidy Hasan Miraz to Morgan, OUT, in the slot and Morgan looks to go over long-on this time, ends up hitting it high, Soumya runs in, judges it well as the wind is taking it away, and puts in the dive to complete the catch
+4153~1~EJG Morgan c Soumya Sarkar b Mehidy Hasan Miraz 35 (56m 33b 1x4 2x6) SR: 106.06
+4153~1~
+4153~1~
+4153~1~46.6
+4153~1~1
+4153~1~Mehidy Hasan Miraz to Stokes, 1 run, fuller around off, drives it towards wide long-off for one
+4153~1~
+4153~1~47.1
+4153~1~W
+4153~1~Mustafizur Rahman to Stokes, OUT, short of length outside off, Stokes looks to go over extra cover but ends up top-edging it towards point, Mashrafe settles under it but fumbles once, twice and finally grabs it diving forward on the third attempt
+4153~1~BA Stokes c Mashrafe Mortaza b Mustafizur Rahman 6 (13m 7b 0x4 0x6) SR: 85.71
+4153~1~
+4153~1~END OF OVER:47 | 6 Runs 1 Wkt | ENG: 341/5 | RR: 7.25
+4153~1~Ben Stokes
+4153~1~6 (6b)
+4153~1~Chris Woakes
+4153~1~0 (0b)
+4153~1~Mehidy Hasan
+4153~1~10-0-67-2
+4153~1~Mohammad Saifuddin
+4153~1~8-0-65-2
+4153~1~Tamim is off with a bruise in his left leg, says Isam
+4153~1~
+4153~1~
+4153~1~47.2
+4153~1~0
+4153~1~Mustafizur Rahman to Woakes, no run, short of length outside off, a cutter from Mustafizur, Woakes looks to run it down but misses
+4153~1~Shiva with another gem: England have hit just three boundaries in the last five overs
+4153~1~
+4153~1~
+4153~1~47.3
+4153~1~6
+4153~1~Mustafizur Rahman to Woakes, SIX runs, length ball, another slower one, Woakes backs away and pulls it over deep square leg for a six
+4153~1~
+4153~1~47.4
+4153~1~0
+4153~1~Mustafizur Rahman to Woakes, no run, fuller and wider outside off this time, Woakes fails to put bat on that
+4153~1~
+4153~1~47.5
+4153~1~2
+4153~1~Mustafizur Rahman to Woakes, 2 runs, fuller around off, chips it inside out over covers, scampers back for the second, excellent running
+4153~1~
+4153~1~47.6
+4153~1~6
+4153~1~Mustafizur Rahman to Woakes, SIX runs, fuller around off, clears his front leg and lofts it over wide long-off for another six
+4153~1~
+4153~1~48.1
+4153~1~4
+4153~1~Mashrafe Mortaza to Plunkett, FOUR runs, length outside off, picks it from there and pulls it between deep midwicket and deep square leg, piercing that small gap for four
+4153~1~END OF OVER:48 | 14 Runs 1 Wkt | ENG: 355/6 | RR: 7.39
+4153~1~Chris Woakes
+4153~1~14 (5b)
+4153~1~Liam Plunkett
+4153~1~0 (0b)
+4153~1~Mustafizur Rahman
+4153~1~9-0-75-1
+4153~1~Mehidy Hasan
+4153~1~10-0-67-2
+4153~1~Alan Hardy: "Plunkett not Archer? You've got to be kidding me...."
+4153~1~
+4153~1~
+4153~1~48.2
+4153~1~4
+4153~1~Mashrafe Mortaza to Plunkett, FOUR runs, length ball on middle and leg and Plunkett brings out another pull, this time behind square leg, four more
+4153~1~
+4153~1~48.3
+4153~1~1
+4153~1~Mashrafe Mortaza to Plunkett, 1 run, fuller outside off, clears his front leg and drills it towards long-off
+4153~1~This is the highest total in the 2019 World Cup so far. It's also the highest total for England in any World Cup match, going past the 338 they made in Bangalore in 2011 in a thrilling tie. Here's the full list.
+4153~1~
+4153~1~
+4153~1~48.4
+4153~1~2
+4153~1~Mashrafe Mortaza to Woakes, 2 runs, short of length outside off, backs away and chips it over cover-point for a couple
+4153~1~Arbazkhan A Pat: "See 2 fours in 2 ball, Morgan knows his players well"
+4153~1~
+4153~1~
+4153~1~48.5
+4153~1~1
+4153~1~Mashrafe Mortaza to Woakes, 1 run, bowling around the wicket a length ball angling towards the off stump, pushes it towards extra cover
+4153~1~Roger Butcher : "A classic reverse jinx from Alan Hardy there..."
+4153~1~
+4153~1~
+4153~1~48.6
+4153~1~6
+4153~1~Mashrafe Mortaza to Plunkett, SIX runs, fuller on the stumps, clears his front leg and goes over long-on for another six
+4153~1~
+4153~1~49.1
+4153~1~1
+4153~1~Mohammad Saifuddin to Woakes, 1 run, fuller around off, throws his bat at it, ends up slicing it over covers
+4153~1~END OF OVER:49 | 18 Runs | ENG: 373/6 | RR: 7.61
+4153~1~Liam Plunkett
+4153~1~15 (4b)
+4153~1~Chris Woakes
+4153~1~17 (7b)
+4153~1~Mashrafe Mortaza
+4153~1~10-0-68-1
+4153~1~Mustafizur Rahman
+4153~1~9-0-75-1
+4153~1~
+4153~1~49.2
+4153~1~0
+4153~1~Mohammad Saifuddin to Plunkett, no run, fuller outside off, looks to smash it into oblivion, misses
+4153~1~Kshitij: "Saifuddin ? Not Mustafiz ?? You've gotta be kidding me !"
+4153~1~
+4153~1~
+4153~1~49.3
+4153~1~2
+4153~1~Mohammad Saifuddin to Plunkett, 2 runs, a yorker outside off, digs it out towards long-off, comes back for the second, a direct-hit at the non-striker's end, but Woakes was home
+4153~1~
+4153~1~49.4
+4153~1~4
+4153~1~Mohammad Saifuddin to Plunkett, FOUR runs, fuller and wider outside off, clears his front leg and smashes it through extra cover for four
+4153~1~
+4153~1~49.5
+4153~1~4
+4153~1~Mohammad Saifuddin to Plunkett, FOUR runs, fuller on the stumps and drilled past the non-striker, long-on fielder had no chacne
+4153~1~
+4153~1~49.6
+4153~1~2
+4153~1~Mohammad Saifuddin to Plunkett, 2 runs, fuller again, was a slower one, goes over extra cover, comes back for the second
+4153~1~
+4153~2~######################################
+4153~2~
+4153~2~0.1
+4153~2~0
+4153~2~Woakes to Tamim Iqbal, no run, immediate confusion! A tap to cover, Tamim wanted the single, Soumya wasn't paying attention. Has to abort!
+4153~2~
+4153~2~0.2
+4153~2~0
+4153~2~Woakes to Tamim Iqbal, no run, pushed onto the back foot, defended back down the track. Very tight line on a tricky length
+4153~2~
+4153~2~0.3
+4153~2~1
+4153~2~Woakes to Tamim Iqbal, 1 run, no hassles this time, tapped to the off side and an easy single
+4153~2~
+4153~2~0.4
+4153~2~0
+4153~2~Woakes to Soumya Sarkar, no run, angled across the left-hander, who is early into his drive and inside-edges to midwicket
+4153~2~
+4153~2~0.5
+4153~2~0
+4153~2~Woakes to Soumya Sarkar, no run, nudged into the covers, tight line and length
+4153~2~
+4153~2~0.6
+4153~2~0
+4153~2~Woakes to Soumya Sarkar, no run, very tight line once again, demanding a respectful push back down the line of the ball. Tidy
+4153~2~
+4153~2~1.1
+4153~2~0
+4153~2~Archer to Tamim Iqbal, no run, tight line and length, cruising onto a full length, Tamim drives from the crease
+4153~2~So, Archer again to share the new ball. Went the journey against Pakistan ... how will he respond?
+4153~2~
+4153~2~END OF OVER:1 | 1 Run | BDESH: 1/0 (386 runs required from 49 overs, RR: 1.00, RRR: 7.87)
+4153~2~Soumya Sarkar
+4153~2~0 (3b)
+4153~2~Tamim Iqbal
+4153~2~1 (3b)
+4153~2~Chris Woakes
+4153~2~1-0-1-0
+4153~2~Viewers in India can enjoy the highlights of Jason Roy's brilliant knock here.
+4153~2~
+4153~2~
+4153~2~1.2
+4153~2~0
+4153~2~Archer to Tamim Iqbal, no run, attempted pull! Whistling short ball, through the stroke before Tamim can line it up!
+4153~2~
+4153~2~1.3
+4153~2~0
+4153~2~Archer to Tamim Iqbal, no run, short again, wider outside off, but no gripes from the umpire. Well bowled again
+4153~2~
+4153~2~1.4
+4153~2~0
+4153~2~Archer to Tamim Iqbal, no run, lovely length, nipping off the deck and patted uneasily out to point off the back foot. Pushed right back into the crease now
+4153~2~
+4153~2~1.5
+4153~2~0
+4153~2~Archer to Tamim Iqbal, no run, beaten for pace outside off! Tamim flirts as the ball sails by
+4153~2~
+4153~2~1.6
+4153~2~0
+4153~2~Archer to Tamim Iqbal, no run, hopping back and across to defend. A maiden to launch his spell. Impressive
+4153~2~
+4153~2~2.1
+4153~2~0
+4153~2~Woakes to Soumya Sarkar, no run, lovely line and length, attacking the top of off as Soumya fences at the ball and misses
+4153~2~END OF OVER:2 | (maiden) | BDESH: 1/0 (386 runs required from 48 overs, RR: 0.50, RRR: 8.04)
+4153~2~Tamim Iqbal
+4153~2~1 (9b)
+4153~2~Soumya Sarkar
+4153~2~0 (3b)
+4153~2~Jofra Archer
+4153~2~1-1-0-0
+4153~2~Chris Woakes
+4153~2~1-0-1-0
+4153~2~
+4153~2~2.2
+4153~2~1
+4153~2~Woakes to Soumya Sarkar, 1 run, wide on the crease, tight to off stump again, driven with a closed face to midwicket
+4153~2~
+4153~2~2.3
+4153~2~4
+4153~2~Woakes to Tamim Iqbal, FOUR runs, hint of width, and out comes the uppercut! Good stuff from Tamim, alert to the opportunity in spite of the pressure, freeing his hands and trusting the eye
+4153~2~
+4153~2~2.4
+4153~2~0
+4153~2~Woakes to Tamim Iqbal, no run, slashed uppishly, but bounces short of point!
+4153~2~
+4153~2~2.5
+4153~2~1
+4153~2~Woakes to Tamim Iqbal, 1 run, fuller length, nudged from an off-stump line to square leg. Woakes is a bit miffed they managed to pinch the single there
+4153~2~
+4153~2~2.6
+4153~2~1
+4153~2~Woakes to Soumya Sarkar, 1 run, in the slot outside off, but there's no timing on that uppish thump into the covers. More constrictive work from England's new-ball attack
+4153~2~
+4153~2~3.1
+4153~2~0
+4153~2~Archer to Soumya Sarkar, no run, outside off, edged and did that carry to slip? Sarkar was leaning back, toe-ending a deflection, and it was on the half-volley ... tough chance
+4153~2~END OF OVER:3 | 7 Runs | BDESH: 8/0 (379 runs required from 47 overs, RR: 2.66, RRR: 8.06)
+4153~2~Soumya Sarkar
+4153~2~2 (6b)
+4153~2~Tamim Iqbal
+4153~2~6 (12b)
+4153~2~Chris Woakes
+4153~2~2-0-8-0
+4153~2~Jofra Archer
+4153~2~1-1-0-0
+4153~2~
+4153~2~3.2
+4153~2~W
+4153~2~Archer to Soumya Sarkar, OUT, absolute beauty! I defy any batsman in the world to play that one! Line, length, nip off the seam at 90mph, bending into the top of off stump, clipping it so finely that the ball balloons over the keeper! Soumya played forwards, but the stump went backwards! Soumya was too deep in his crease to respond, but gosh ... decent nut!
+4153~2~Soumya Sarkar b Archer 2 (14m 8b 0x4 0x6) SR: 25.00
+4153~2~
+4153~2~
+4153~2~3.3
+4153~2~0
+4153~2~Archer to Shakib AlHasan, no run, outside off, banged into the deck, through to the keeper
+4153~2~Shakib arrives at 3... with a job on his hands
+4153~2~
+4153~2~
+4153~2~3.4
+4153~2~0
+4153~2~Archer to Shakib AlHasan, no run, pushed to the on-side
+4153~2~
+4153~2~3.5
+4153~2~0
+4153~2~Archer to Shakib AlHasan, no run, short and wide, Shakib climbs into the slash through the off side, but the ball slips past the stroke before it has formed
+4153~2~
+4153~2~3.6
+4153~2~0
+4153~2~Archer to Shakib AlHasan, no run, round the wicket to tighten the angle, met with a comprehensive wallop to point, but sharply intercepted. Already England's fielding looks sharper than it did against Pakistan
+4153~2~
+4153~2~4.1
+4153~2~3
+4153~2~Woakes to Tamim Iqbal, 3 runs, boshed into the covers, hitting on the up but not quite timed as it is hauled back in in the deep
+4153~2~END OF OVER:4 | (wicket maiden) | BDESH: 8/1 (379 runs required from 46 overs, RR: 2.00, RRR: 8.23)
+4153~2~Shakib AlHasan
+4153~2~0 (4b)
+4153~2~Tamim Iqbal
+4153~2~6 (12b)
+4153~2~Jofra Archer
+4153~2~2-2-0-1
+4153~2~Chris Woakes
+4153~2~2-0-8-0
+4153~2~
+4153~2~4.2
+4153~2~0
+4153~2~Woakes to Shakib AlHasan, no run, opens the face, pushed into the covers
+4153~2~
+4153~2~4.3
+4153~2~0
+4153~2~Woakes to Shakib AlHasan, no run, cracked on the up again, into the covers, but straight at the man
+4153~2~
+4153~2~4.4
+4153~2~4
+4153~2~Woakes to Shakib AlHasan, FOUR runs, edged, and there's no cutting that one off! Chasing the wider one, a fat edge
+4153~2~
+4153~2~4.5
+4153~2~2
+4153~2~Woakes to Shakib AlHasan, 2 runs, a roundhouse wallop, climbing into the short ball and thumped over mid-on
+4153~2~
+4153~2~4.6
+4153~2~1
+4153~2~Woakes to Shakib AlHasan, 1 run, slashed once more on the angle, down to third man. A touch more intent in that over from Bangladesh
+4153~2~
+4153~2~5.1
+4153~2~1
+4153~2~Archer to Shakib AlHasan, 1 run, bending into the front pad on a full length, punched with a compact stance to mid-off
+4153~2~END OF OVER:5 | 10 Runs | BDESH: 18/1 (369 runs required from 45 overs, RR: 3.60, RRR: 8.20)
+4153~2~Shakib AlHasan
+4153~2~7 (9b)
+4153~2~Tamim Iqbal
+4153~2~9 (13b)
+4153~2~Chris Woakes
+4153~2~3-0-18-0
+4153~2~Jofra Archer
+4153~2~2-2-0-1
+4153~2~
+4153~2~5.2
+4153~2~1
+4153~2~Archer to Tamim Iqbal, 1 run, nudged to mid-off, lots of pace for Archer, and Tamim is content just to stay in line and take the single
+4153~2~
+4153~2~5.3
+4153~2~0
+4153~2~Archer to Shakib AlHasan, no run, a suspicion of width, Shakib clims into the cut but the ball eludes him once more
+4153~2~
+4153~2~5.4
+4153~2~0
+4153~2~Archer to Shakib AlHasan, no run, banged in short, and Shakib ducks
+4153~2~
+4153~2~5.5
+4153~2~0
+4153~2~Archer to Shakib AlHasan, no run, fenced into the off side, full and straight once more
+4153~2~
+4153~2~5.6
+4153~2~1
+4153~2~Archer to Shakib AlHasan, 1 run, fired into the pads, tucked fine, a single to finish, but another fine and uncollarable over
+4153~2~
+4153~2~6.1
+4153~2~1
+4153~2~Woakes to Shakib AlHasan, 1 run, full length, outside off, met with a dead bat and a sharply snaffled single into the off side
+4153~2~A gust of wind disrupts Woakes at the point of delivery... he'll try again
+4153~2~
+4153~2~END OF OVER:6 | 3 Runs | BDESH: 21/1 (366 runs required from 44 overs, RR: 3.50, RRR: 8.31)
+4153~2~Shakib AlHasan
+4153~2~9 (14b)
+4153~2~Tamim Iqbal
+4153~2~10 (14b)
+4153~2~Jofra Archer
+4153~2~3-2-3-1
+4153~2~Chris Woakes
+4153~2~3-0-18-0
+4153~2~Muhammad Zahoor: "Jofra Archer is a fantastic, thrilling new edition to this ENG side. He looks like he'll have a promising future in the team." Not half ...
+4153~2~
+4153~2~
+4153~2~6.2
+4153~2~1
+4153~2~Woakes to Tamim Iqbal, 1 run, opens the face on a tight line, runs the single to third man
+4153~2~
+4153~2~6.3
+4153~2~2
+4153~2~Woakes to Shakib AlHasan, 2 runs, short, hoisted across the line with oodles of intent, not entirely nailed but enough to give the fine leg sweeper some work
+4153~2~
+4153~2~6.4
+4153~2~1
+4153~2~Woakes to Shakib AlHasan, 1 run, opens the face to run another single to third man. Slim pickings
+4153~2~
+4153~2~6.5
+4153~2~1
+4153~2~Woakes to Tamim Iqbal, 1 run, tapped down into the pitch, another tip-and-run single as Woakes gallops through to gather
+4153~2~
+4153~2~6.6
+4153~2~2
+4153~2~Woakes to Shakib AlHasan, 2 runs, round the wicket, chopped behind square, Rashid sprints round at third man to cut off the boundary with a tumble
+4153~2~
+4153~2~7.1
+4153~2~1
+4153~2~Archer to Tamim Iqbal, 1 run, on the back foot, tapped to midwicket, singles are as much as Archer is willing to relinquish at the moment...
+4153~2~END OF OVER:7 | 8 Runs | BDESH: 29/1 (358 runs required from 43 overs, RR: 4.14, RRR: 8.32)
+4153~2~Shakib AlHasan
+4153~2~15 (18b)
+4153~2~Tamim Iqbal
+4153~2~12 (16b)
+4153~2~Chris Woakes
+4153~2~4-0-26-0
+4153~2~Jofra Archer
+4153~2~3-2-3-1
+4153~2~Nirmit: "Wow Archer 3 overs, 2 maidens, 1 wicket. To think that England were going to leave him out on the grounds that it would be unfair on the group of bowlers! What a game changer for them!"
+4153~2~
+4153~2~
+4153~2~7.2
+4153~2~0
+4153~2~Archer to Shakib AlHasan, no run, full length, clipped to the on side. Areas ... and wheels
+4153~2~
+4153~2~7.3
+4153~2~0
+4153~2~Archer to Shakib AlHasan, no run, short and fast! Shakib sways inside the line like a vision from Sabina Park 1986
+4153~2~
+4153~2~7.4
+4153~2~3
+4153~2~Archer to Shakib AlHasan, 3 runs, cracked with urgency, off the back foot and through the covers. It was the reflexive bat-speed that did the job there. No time for timing ...
+4153~2~Imran Khan: "Andrew can you just tell me how it would be if KP was in this team? Ah man, he was a treat to watch ..."
+4153~2~
+4153~2~
+4153~2~7.5
+4153~2~0
+4153~2~Archer to Tamim Iqbal, no run, on the stumps once more, stabbed defence on the back foot
+4153~2~
+4153~2~7.6
+4153~2~0
+4153~2~Archer to Tamim Iqbal, no run, Tamim is made to hop as Archer gets his line and length tight and aggressive, into the body
+4153~2~Usama Khan: "The delivery that got rid of Soumya Sarkar actually 'went for 6' after hitting the top of off stump." Wow, I thought it had flown ... I didn't know how far!
+4153~2~
+4153~2~
+4153~2~8.1
+4153~2~1
+4153~2~Woakes to Shakib AlHasan, 1 run, a round-house pull to midwicket
+4153~2~END OF OVER:8 | 4 Runs | BDESH: 33/1 (354 runs required from 42 overs, RR: 4.12, RRR: 8.42)
+4153~2~Tamim Iqbal
+4153~2~13 (19b)
+4153~2~Shakib AlHasan
+4153~2~18 (21b)
+4153~2~Jofra Archer
+4153~2~4-2-7-1
+4153~2~Chris Woakes
+4153~2~4-0-26-0
+4153~2~Stephen Kissoon: "Would Pietersen, Flintoff and Trescothick in their prime make this England team?" Such good questions. And yes, I think they would. All three had the intent to take the game to the opposition from the outset ...KP would have loved the "no consequences" attitude, Flintoff was lightning in his prime (gets in ahead of Wood), and imagine having Tres competing with Roy and Bairstow at the top of the order ...
+4153~2~
+4153~2~
+4153~2~8.2
+4153~2~1
+4153~2~Woakes to Tamim Iqbal, 1 run, walks across the stumps, opens the face with stiff forearms and guides another single to third man
+4153~2~
+4153~2~8.3
+4153~2~0
+4153~2~Woakes to Shakib AlHasan, no run, round the wicket now, slower ball outside off, poked out to point with a loud 'no!'
+4153~2~
+4153~2~8.4
+4153~2~1
+4153~2~Woakes to Shakib AlHasan, 1 run, on the legs, tucked to short square. Another single to the cause
+4153~2~
+4153~2~8.5
+4153~2~1
+4153~2~Woakes to Tamim Iqbal, 1 run, outside leg, looped into the pads, Woakes gives chase to gather
+4153~2~
+4153~2~8.6
+4153~2~0
+4153~2~Woakes to Shakib AlHasan, no run, round the wicket once more, a bottom-handed bunt into the covers, thoughts of a single but sharp groundwork gets the ball into hand quickly
+4153~2~Stephen Kissoon: "In other news, England have maintained their perfect record of failing to reach 400 without Alex Hales #JustSaying." Hmmm ...
+4153~2~
+4153~2~
+4153~2~9.1
+4153~2~0
+4153~2~Archer to Tamim Iqbal, no run, nudged off the legs, a bit of a scamper as the shy comes in from backward square
+4153~2~England are missing a fielder for some reason. Tom Curran is whistled off the bench
+4153~2~
+4153~2~END OF OVER:9 | 4 Runs | BDESH: 37/1 (350 runs required from 41 overs, RR: 4.11, RRR: 8.53)
+4153~2~Shakib AlHasan
+4153~2~20 (25b)
+4153~2~Tamim Iqbal
+4153~2~15 (21b)
+4153~2~Chris Woakes
+4153~2~5-0-30-0
+4153~2~Jofra Archer
+4153~2~4-2-7-1
+4153~2~Irfan Haider: "Why Jofra Archer reminds me of Andrew Flintoff?" Cos he's got wheels, I suspect!
+4153~2~
+4153~2~
+4153~2~9.2
+4153~2~4lb
+4153~2~Archer to Tamim Iqbal, 4 leg byes, sconed! Tamim ducks into the ball, which flicks his shoulder, and zooms to the rope!
+4153~2~
+4153~2~9.3
+4153~2~1
+4153~2~Archer to Tamim Iqbal, 1 run, more fierce pace on a tight line
+4153~2~
+4153~2~9.4
+4153~2~0
+4153~2~Archer to Shakib AlHasan, no run, turned inside out by a snorter! Tried to duck, decided to stand tall, and the ball zings off the gloves and flies safe!
+4153~2~
+4153~2~9.5
+4153~2~0
+4153~2~Archer to Shakib AlHasan, no run, pulled, with no conviction! Lucky to scuff the shot, as square leg was lurking!
+4153~2~
+4153~2~9.6
+4153~2~6
+4153~2~Archer to Shakib AlHasan, SIX runs, that's more like it! Flicked up, up and away, over the short straight boundary, all the way into the stands! Using the pace, creating the angle!
+4153~2~
+4153~2~10.1
+4153~2~1lb
+4153~2~Plunkett to Tamim Iqbal, 1 leg bye, full and swift, on the leg stump, and nudged square for the single
+4153~2~Woakes is done for now. Here's Plunkett for some mid-pitch deck-bangers
+4153~2~
+4153~2~END OF OVER:10 | 11 Runs | BDESH: 48/1 (339 runs required from 40 overs, RR: 4.80, RRR: 8.47)
+4153~2~Shakib AlHasan
+4153~2~26 (28b)
+4153~2~Tamim Iqbal
+4153~2~16 (24b)
+4153~2~Jofra Archer
+4153~2~5-2-14-1
+4153~2~Chris Woakes
+4153~2~5-0-30-0
+4153~2~Abhijato: "Mr Miller, I had sent in a comment during England's recent series v Pakistan. 'England needs Jofra More Than Jofra needs England'. And how this has been ratified! Mark the words from my Crystal Ball: he will finish with stunning match figures today as well (irrespective of the nature of this surface). England could well become world champions solely due to his presence in this side! Not that this Indian fan wants them to :)"
+4153~2~
+4153~2~
+4153~2~10.2
+4153~2~1
+4153~2~Plunkett to Shakib AlHasan, 1 run, whipped off the toes, to the leg side
+4153~2~
+4153~2~10.3
+4153~2~1
+4153~2~Plunkett to Tamim Iqbal, 1 run, on the leg stump, tickled out of Bairstow's reach for the single
+4153~2~
+4153~2~10.4
+4153~2~1w
+4153~2~Plunkett to Shakib AlHasan, 1 wide, fired down the leg side
+4153~2~
+4153~2~10.4
+4153~2~1w
+4153~2~Plunkett to Shakib AlHasan, 1 wide, not quite on the right line to the left-hander in this over. This one slides past leg stump again
+4153~2~
+4153~2~10.4
+4153~2~0
+4153~2~Plunkett to Shakib AlHasan, no run, outside off this time, bringing the batsman with him with a bottom-handed flog into the covers, but can't get the timing
+4153~2~
+4153~2~10.5
+4153~2~1
+4153~2~Plunkett to Shakib AlHasan, 1 run, on the pads, worked to midwicket. Just a variety of singles in that over
+4153~2~
+4153~2~10.6
+4153~2~1
+4153~2~Plunkett to Tamim Iqbal, 1 run, angled bat down to third man
+4153~2~
+4153~2~11.1
+4153~2~1
+4153~2~Wood to Tamim Iqbal, 1 run, decent line and length, attacking the top of off with that skiddy line. Pushed to the off side
+4153~2~Archer off, Wood on. More heat to come...
+4153~2~
+4153~2~END OF OVER:11 | 7 Runs | BDESH: 55/1 (332 runs required from 39 overs, RR: 5.00, RRR: 8.51)
+4153~2~Tamim Iqbal
+4153~2~18 (27b)
+4153~2~Shakib AlHasan
+4153~2~28 (31b)
+4153~2~Liam Plunkett
+4153~2~1-0-6-0
+4153~2~Jofra Archer
+4153~2~5-2-14-1
+4153~2~
+4153~2~11.2
+4153~2~2
+4153~2~Wood to Shakib AlHasan, 2 runs, flinched on the up, out to deep cover
+4153~2~MA Hasan: "Why bye runs from hitting other part of the body apart from leg is leg bye? " I guess it's just a word for deflection. And most deflection come off the legs
+4153~2~
+4153~2~
+4153~2~11.3
+4153~2~0
+4153~2~Wood to Shakib AlHasan, no run, lining up the pull but that's too wide of off for a connection
+4153~2~Ajay Kumar Gour: "At the risk of being criticized and without having any doubt to Archer's talent, he's yet to be tested under pressure and by the hitters like Warner, Gayle, Dekock, Rohit etc who fancy pace in the bowling. Promising start but he's winning the tournament seems tad far fetched." Well ... it's a fair point. But he's looked the part alright. And easy pace, allied to reliable lines and lengths will trouble any new batsman.
+4153~2~
+4153~2~
+4153~2~11.4
+4153~2~4
+4153~2~Wood to Shakib AlHasan, FOUR runs, cracked backward of point, past the diving Roy! And if you beat Roy, you tend to beat the field. Excellent shot
+4153~2~
+4153~2~11.5
+4153~2~1
+4153~2~Wood to Shakib AlHasan, 1 run, chopped down into the pitch, and past the stumps! Tight line and nearly earns the reward!
+4153~2~
+4153~2~11.6
+4153~2~W
+4153~2~Wood to Tamim Iqbal, OUT, gallops down the pitch, and holes out to extra cover! Tamim wasn't enjoying himsefl out there, and tried in vain to kick-start his innings with some pre-meditated aggression. It was not to be, a simple spooned catch, and Bangladesh are in some bother now
+4153~2~Tamim Iqbal c Morgan b Wood 19 (53m 29b 1x4 0x6) SR: 65.51
+4153~2~
+4153~2~
+4153~2~12.1
+4153~2~1
+4153~2~Plunkett to Shakib AlHasan, 1 run, flicked off the toes, behind square
+4153~2~END OF OVER:12 | 8 Runs 1 Wkt | BDESH: 63/2 (324 runs required from 228 balls, RR: 5.25, RRR: 8.52)
+4153~2~Shakib AlHasan
+4153~2~35 (35b)
+4153~2~Mark Wood
+4153~2~1-0-8-1
+4153~2~Liam Plunkett
+4153~2~1-0-6-0
+4153~2~Here comes the Mighty Atom. How Bangladesh need their greatest batting partnership to do something special
+4153~2~
+4153~2~
+4153~2~12.2
+4153~2~1
+4153~2~Plunkett to Mushfiqur Rahim, 1 run, outside off on a full length, a bit of late nip off the seam, and the recently posted gully was nearly in business there...
+4153~2~
+4153~2~12.3
+4153~2~0
+4153~2~Plunkett to Shakib AlHasan, no run, tapped off the back foot, straight back down the pitch
+4153~2~
+4153~2~12.4
+4153~2~1
+4153~2~Plunkett to Shakib AlHasan, 1 run, hopping back and across, attempted flick out to the leg side, gets enough bat on it to snaffle the single
+4153~2~
+4153~2~12.5
+4153~2~1
+4153~2~Plunkett to Mushfiqur Rahim, 1 run, outside off, and cracked into the covers
+4153~2~
+4153~2~12.6
+4153~2~1
+4153~2~Plunkett to Shakib AlHasan, 1 run, worked to the leg side, hopping across the stumps
+4153~2~
+4153~2~13.1
+4153~2~0
+4153~2~Wood to Shakib AlHasan, no run, hitting a solid length outside the left-hander's off stump. Blocked into the covers
+4153~2~END OF OVER:13 | 5 Runs | BDESH: 68/2 (319 runs required from 37 overs, RR: 5.23, RRR: 8.62)
+4153~2~Shakib AlHasan
+4153~2~38 (39b)
+4153~2~Mushfiqur Rahim
+4153~2~2 (2b)
+4153~2~Liam Plunkett
+4153~2~2-0-11-0
+4153~2~Mark Wood
+4153~2~1-0-8-1
+4153~2~Anshu ayushya: "Meanwhile, Shakib is giving Bangladesh a wonderful tournaments. He is truly batting like a veteran. Happy to see him leading the Bangladesh batting continually" Very true. This match might prove to be beyond Bangladesh, but they are very much in this competition ...
+4153~2~
+4153~2~
+4153~2~13.2
+4153~2~1
+4153~2~Wood to Shakib AlHasan, 1 run, walks across the stumps, flicking a leg-stump line to backward square
+4153~2~
+4153~2~13.3
+4153~2~1
+4153~2~Wood to Mushfiqur Rahim, 1 run, on the legs again, worked behind square. Very little width to cash in on at the moment
+4153~2~
+4153~2~13.4
+4153~2~0
+4153~2~Wood to Shakib AlHasan, no run, bouncer, and a sharp one too! Shakib tries to pull but the ball is gone
+4153~2~
+4153~2~13.5
+4153~2~0
+4153~2~Wood to Shakib AlHasan, no run, rolls the fingers on a cutter. Defended from the crease
+4153~2~
+4153~2~13.6
+4153~2~4
+4153~2~Wood to Shakib AlHasan, FOUR runs, nudged off the pads, this time the cutter doesn't pay dividends, too leg-sided, and eased fine of fine leg
+4153~2~
+4153~2~14.1
+4153~2~0
+4153~2~Plunkett to Mushfiqur Rahim, no run, through to the keeper as Mushy shoulders arms outside off
+4153~2~END OF OVER:14 | 6 Runs | BDESH: 74/2 (313 runs required from 36 overs, RR: 5.28, RRR: 8.69)
+4153~2~Shakib AlHasan
+4153~2~43 (44b)
+4153~2~Mushfiqur Rahim
+4153~2~3 (3b)
+4153~2~Mark Wood
+4153~2~2-0-14-1
+4153~2~Liam Plunkett
+4153~2~2-0-11-0
+4153~2~Ghalib: "To be fair, BD lost this match in first half. But still they should have shown some intent. Such big targets cannot be chased without intent and aggression upfront." Yep. Nothing wrong with the balance of this team. They can give it some humpty
+4153~2~
+4153~2~
+4153~2~14.2
+4153~2~0
+4153~2~Plunkett to Mushfiqur Rahim, no run, back of a length, dabbed down into the pitch
+4153~2~
+4153~2~14.3
+4153~2~1
+4153~2~Plunkett to Mushfiqur Rahim, 1 run, width outside off, chopped into the covers
+4153~2~charan: "Just saw the wicket of sarkar. If that ball was a free hit, would it have been 6 byes??? That would have been the most bizarre 6 runs !!!" Good question... I think (think...) four byes is the maximum but I don't know for sure!
+4153~2~
+4153~2~
+4153~2~14.4
+4153~2~1
+4153~2~Plunkett to Shakib AlHasan, 1 run, down the leg side
+4153~2~
+4153~2~14.5
+4153~2~0
+4153~2~Plunkett to Mushfiqur Rahim, no run, forward and fenced into the off side
+4153~2~
+4153~2~14.6
+4153~2~1
+4153~2~Plunkett to Mushfiqur Rahim, 1 run, forward with pad and gloves to the fore, angled down to third man
+4153~2~Nishank: "What a contrast at show here...Wood - all muscle and sinew, almost falling over in follow through and bowling 90mph....On the other hand, Archer all nimble and grace, touches 90 mph seemingly by just gently ambling in" It's frankly unfair, isn't it!
+4153~2~
+4153~2~
+4153~2~15.1
+4153~2~0
+4153~2~Wood to Mushfiqur Rahim, no run, lifting through to the keeper outside off, beaten for pace
+4153~2~END OF OVER:15 | 3 Runs | BDESH: 77/2 (310 runs required from 35 overs, RR: 5.13, RRR: 8.85)
+4153~2~Mushfiqur Rahim
+4153~2~5 (8b)
+4153~2~Shakib AlHasan
+4153~2~44 (45b)
+4153~2~Liam Plunkett
+4153~2~3-0-14-0
+4153~2~Mark Wood
+4153~2~2-0-14-1
+4153~2~Wajid Jawaid: "Bangladesh need their other star Tamim to come good sooner rather than later. Currently it seems Shakib and Mushfiqur are carrying the responsibility in every batting innings of Bangladesh. Even they can't come good every time" It's true. He did suffer a bit of a wrist injury before the South Africa game which was clearly bothering him then. I have no doubt he'll come to the party before it is over!
+4153~2~
+4153~2~
+4153~2~15.2
+4153~2~1
+4153~2~Wood to Mushfiqur Rahim, 1 run, flipped into the leg side
+4153~2~
+4153~2~15.3
+4153~2~1lb
+4153~2~Wood to Shakib AlHasan, 1 leg bye, ambitious appeal ... might have pitched outside leg, but clearly thumped the pad in an adjacent position!
+4153~2~Gwasela: "Question - as a team vying for 4th or 5th position, when faced with a massive target like this, do you consign yourself to defeat and just try to bat through 50 overs and score 250-300 and preserve NRR... or go for it at risk of being bowled out for sub 200?" Tough call ... I have no doubt NRR will be a factor, but you've got to go for it at this stage of an innings, don't you?
+4153~2~
+4153~2~
+4153~2~15.4
+4153~2~4
+4153~2~Wood to Mushfiqur Rahim, FOUR runs, bat on ball, with extra bounce outside off. That'll do nicely. Sizzles through third man to the short straight boundary
+4153~2~
+4153~2~15.5
+4153~2~0
+4153~2~Wood to Mushfiqur Rahim, no run, hops into line to defend to the off side
+4153~2~
+4153~2~15.6
+4153~2~0
+4153~2~Wood to Mushfiqur Rahim, no run, on the back foot, defended back down the pitch
+4153~2~
+4153~2~ avg of 19.66 What a disaster he has been so far in World Cups." That's harsh, given his demolition of India in 2007. And don't forget his record in England - 50+ in ODIs, 67 in Tests!
+4153~2~
+4153~2~
+4153~2~ avg of 25.66 2019 - 59 runs in 3 matches so far 
+4153~2~ avg of 26.16 2015 - 154 runs in 6 matches 
+4153~2~ avg of 19.11 2011 - 157 runs in 6 matches 
+4153~2~16.1
+4153~2~0
+4153~2~Plunkett to Shakib AlHasan, no run, poked back to the bowler on a tight line
+4153~2~END OF OVER:16 | 6 Runs | BDESH: 83/2 (304 runs required from 34 overs, RR: 5.18, RRR: 8.94)
+4153~2~Mushfiqur Rahim
+4153~2~10 (13b)
+4153~2~Shakib AlHasan
+4153~2~44 (46b)
+4153~2~Mark Wood
+4153~2~3-0-19-1
+4153~2~Liam Plunkett
+4153~2~3-0-14-0
+4153~2~Yasin: "Don't be too optimistic about Tamim coming good in this World Cup. Tamim Iqbal in World Cup Matches 2007 - 172 runs in 9 matches 
+4153~2~16.2
+4153~2~1
+4153~2~Plunkett to Shakib AlHasan, 1 run, lifter on leg stump, fenced off the hip
+4153~2~
+4153~2~16.3
+4153~2~0
+4153~2~Plunkett to Mushfiqur Rahim, no run, worked back to the bowler once more, tight lines, back of a length
+4153~2~
+4153~2~16.4
+4153~2~1
+4153~2~Plunkett to Mushfiqur Rahim, 1 run, opens the face for a deliberate steer to a wide one outside off. Third man gathers
+4153~2~
+4153~2~16.5
+4153~2~1
+4153~2~Plunkett to Shakib AlHasan, 1 run, tucked off the pads, behind square once more
+4153~2~
+4153~2~16.6
+4153~2~1
+4153~2~Plunkett to Mushfiqur Rahim, 1 run, tapped to the off side, this has been a very composed hour from England, who hold all the cards at drinks
+4153~2~
+4153~2~17.1
+4153~2~1
+4153~2~Rashid to Mushfiqur Rahim, 1 run, length ball around middle and off, Mushfiqur moves across and tickles it towards square leg
+4153~2~Thanks, Andrew. Bangladesh are 87 for 2 but need 300 more from 33 overs. Time for some spin, here's Adil Rashid.
+4153~2~
+4153~2~END OF OVER:17 | 4 Runs | BDESH: 87/2 (300 runs required from 33 overs, RR: 5.11, RRR: 9.09)
+4153~2~Mushfiqur Rahim
+4153~2~12 (16b)
+4153~2~Shakib AlHasan
+4153~2~46 (49b)
+4153~2~Liam Plunkett
+4153~2~4-0-18-0
+4153~2~Mark Wood
+4153~2~3-0-19-1
+4153~2~Here's Hemant for the mid-innings mayhem.
+4153~2~
+4153~2~AB Van Gobi: "Think BD missed a trick here. Mashrafe should have opened the innings. Nothing like a good old fashioned pinch hitting to unsettle your opponent!!" Soumya plays that role very nicely. But I defy anyone to pinch-hit Archer in that sort of a mood!
+4153~2~
+4153~2~
+4153~2~17.2
+4153~2~1
+4153~2~Rashid to Shakib AlHasan, 1 run, slower on middle and leg, 80 kph, flicked away in front of square
+4153~2~
+4153~2~17.3
+4153~2~0
+4153~2~Rashid to Mushfiqur Rahim, no run, almost played on! Length ball around middle and off, Mushfiqur defends it with the soft hands and the ball dribbles towards the off stump, just missing it
+4153~2~
+4153~2~17.4
+4153~2~2
+4153~2~Rashid to Mushfiqur Rahim, 2 runs, length outside off, punched towards deep point off the back foot
+4153~2~
+4153~2~17.5
+4153~2~1
+4153~2~Rashid to Mushfiqur Rahim, 1 run, a touch fuller this time, comes forward and slashes it towards sweeper cover
+4153~2~
+4153~2~17.6
+4153~2~1
+4153~2~Rashid to Shakib AlHasan, 1 run, a googly, length ball on the pads, glanced towards short fine leg
+4153~2~
+4153~2~ Yasin: why not be optimistic of tamim? After 2015 he is a different player all together. But Problem is giving tamim a role of playing till 40 overs so thus tamim is very watchful at the beginning. but after a certain period of time tamim feels the heat of scoreboard pressure and thus he lost his concentration and wicket with a false stroke. Team Management and captain should allow tamim to play his natural game to make sure that you will get best from your best opener of the country."
+4153~2~
+4153~2~END OF OVER:18 | 6 Runs | BDESH: 93/2 (294 runs required from 32 overs, RR: 5.16, RRR: 9.18)
+4153~2~Shakib AlHasan
+4153~2~48 (51b)
+4153~2~Mushfiqur Rahim
+4153~2~16 (20b)
+4153~2~Adil Rashid
+4153~2~1-0-6-0
+4153~2~Liam Plunkett
+4153~2~4-0-18-0
+4153~2~Hassan: "Its high time for BD to press the peddle and get 8 to 9 runs per over from here on till 30th over. And if these two stay on crease till 35th over, chances of BD getting the total are kind of bright. "
+4153~2~
+4153~2~
+4153~2~18.1
+4153~2~1
+4153~2~Plunkett to Shakib AlHasan, 1 run, short but down the leg side, Shakib pulls it down towards fine leg
+4153~2~AA Musabbir: "
+4153~2~18.2
+4153~2~1
+4153~2~Plunkett to Mushfiqur Rahim, 1 run, length ball on middle and leg, flicked away towards deep square leg
+4153~2~
+4153~2~18.3
+4153~2~1
+4153~2~Plunkett to Shakib AlHasan, 1 run, length ball around middle and off, turned away towards square leg and that's fifty for Shakib
+4153~2~Hamid Ali: "So it was just Pakistan who played Archer pretty well the other day. I guess the practice of the series prior paid off for them. Best of luck to those playing him for the first time this World Cup."
+4153~2~
+4153~2~
+4153~2~18.4
+4153~2~1
+4153~2~Plunkett to Mushfiqur Rahim, 1 run, length ball around off, drops it towards cover with soft hands, Morgan has a shy at the bowler's end but Mushfiqur just makes it
+4153~2~
+4153~2~18.5
+4153~2~1
+4153~2~Plunkett to Shakib AlHasan, 1 run, a touch fuller on the stumps, Shakib moves away and scoops it towards fine leg, the fielder is deep
+4153~2~
+4153~2~18.6
+4153~2~0
+4153~2~Plunkett to Mushfiqur Rahim, no run, short of length outside off, Mushfiqur goes for the cut and misses
+4153~2~
+4153~2~19.1
+4153~2~4
+4153~2~Rashid to Shakib AlHasan, FOUR runs, dropped short on middle and leg, Shakib rocks back and pulls it towards deep square leg for four
+4153~2~END OF OVER:19 | 5 Runs | BDESH: 98/2 (289 runs required from 31 overs, RR: 5.15, RRR: 9.32)
+4153~2~Mushfiqur Rahim
+4153~2~18 (23b)
+4153~2~Shakib AlHasan
+4153~2~51 (54b)
+4153~2~Liam Plunkett
+4153~2~5-0-23-0
+4153~2~Adil Rashid
+4153~2~1-0-6-0
+4153~2~
+4153~2~19.2
+4153~2~1
+4153~2~Rashid to Shakib AlHasan, 1 run, slower in the air this time, but once again on the leg stump, Shakib skips down and flicks it towards square leg
+4153~2~
+4153~2~19.3
+4153~2~1
+4153~2~Rashid to Mushfiqur Rahim, 1 run, a touch fuller outside off, comes forward and drives it towards sweeper cover
+4153~2~
+4153~2~19.4
+4153~2~0
+4153~2~Rashid to Shakib AlHasan, no run, length ball around off, stays back and punches it towards mid-off
+4153~2~
+4153~2~19.5
+4153~2~1
+4153~2~Rashid to Shakib AlHasan, 1 run, fuller around off, swiped away in front of square on the leg side, to the left of deep midwicket
+4153~2~
+4153~2~19.6
+4153~2~0
+4153~2~Rashid to Mushfiqur Rahim, no run, length ball on the stumps, pushed through, Mushfiqur goes back and punches it towards extra cover
+4153~2~
+4153~2~20.1
+4153~2~1
+4153~2~Wood to Shakib AlHasan, 1 run, fuller on the stumps, works it towards square leg for a single
+4153~2~END OF OVER:20 | 7 Runs | BDESH: 105/2 (282 runs required from 30 overs, RR: 5.25, RRR: 9.40)
+4153~2~Mushfiqur Rahim
+4153~2~19 (25b)
+4153~2~Shakib AlHasan
+4153~2~57 (58b)
+4153~2~Adil Rashid
+4153~2~2-0-13-0
+4153~2~Liam Plunkett
+4153~2~5-0-23-0
+4153~2~Abeer Hasan: "i don't think BD should go crazy, and run after impossible target. They should try to score more as they can to maintain a good net run rate. "
+4153~2~
+4153~2~
+4153~2~20.2
+4153~2~1
+4153~2~Wood to Mushfiqur Rahim, 1 run, length ball on the stumps, goes back and across and flicks it towards square leg
+4153~2~
+4153~2~20.3
+4153~2~2
+4153~2~Wood to Shakib AlHasan, 2 runs, fuller and angling across the left-hander, Shakib looks to go leg side but gets the outer half and it goes aerial towards short third man but well short of the fielder there
+4153~2~
+4153~2~20.4
+4153~2~0
+4153~2~Wood to Shakib AlHasan, no run, fuller around off once again, Shakib comes forward and drives, straight towards extra cover
+4153~2~
+4153~2~20.5
+4153~2~1
+4153~2~Wood to Shakib AlHasan, 1 run, fuller around off, moves across towards the off stump and flicks it towards square leg
+4153~2~
+4153~2~20.6
+4153~2~1
+4153~2~Wood to Mushfiqur Rahim, 1 run, short of length on middle and leg, Mushfiqur pulls it towards fine leg for one
+4153~2~
+4153~2~21.1
+4153~2~1
+4153~2~Rashid to Mushfiqur Rahim, 1 run, fuller around off, comes down the ground and hits it towards long-off, was in the air for a while but Mushfiqur knew how deep the fielder was
+4153~2~END OF OVER:21 | 6 Runs | BDESH: 111/2 (276 runs required from 29 overs, RR: 5.28, RRR: 9.51)
+4153~2~Mushfiqur Rahim
+4153~2~21 (27b)
+4153~2~Shakib AlHasan
+4153~2~61 (62b)
+4153~2~Mark Wood
+4153~2~4-0-25-1
+4153~2~Adil Rashid
+4153~2~2-0-13-0
+4153~2~
+4153~2~21.2
+4153~2~4
+4153~2~Rashid to Shakib AlHasan, FOUR runs, fuller again, Shakib gives himself some room and drives it past the extra cover fielder on his left for four
+4153~2~
+4153~2~21.3
+4153~2~1
+4153~2~Rashid to Shakib AlHasan, 1 run, short in length this time, Shakib once again was backing away, flat-bats it towards mid-off
+4153~2~
+4153~2~21.4
+4153~2~0
+4153~2~Rashid to Mushfiqur Rahim, no run, length ball around off and spinning away, Mushfiqur was looking to run it down, misses
+4153~2~
+4153~2~21.5
+4153~2~1
+4153~2~Rashid to Mushfiqur Rahim, 1 run, flatter around off, Mushfiqur goes back and cuts it towards sweeper cover
+4153~2~
+4153~2~21.6
+4153~2~1
+4153~2~Rashid to Shakib AlHasan, 1 run, length ball on the pads, nudges it towards square leg for one more
+4153~2~
+4153~2~22.1
+4153~2~1lb
+4153~2~Wood to Shakib AlHasan, 1 leg bye, starts the over with a bouncer, Shakib was in no position to pull it, still goes for it, the ball hits the helmet and goes towards third man
+4153~2~Wood to continue
+4153~2~
+4153~2~END OF OVER:22 | 8 Runs | BDESH: 119/2 (268 runs required from 28 overs, RR: 5.40, RRR: 9.57)
+4153~2~Shakib AlHasan
+4153~2~67 (65b)
+4153~2~Mushfiqur Rahim
+4153~2~23 (30b)
+4153~2~Adil Rashid
+4153~2~3-0-21-0
+4153~2~Mark Wood
+4153~2~4-0-25-1
+4153~2~
+4153~2~22.2
+4153~2~1
+4153~2~Wood to Mushfiqur Rahim, 1 run, fuller on the pads, flicked away towards deep square leg, Wood tumbles in his followthrough
+4153~2~
+4153~2~22.3
+4153~2~4
+4153~2~Wood to Shakib AlHasan, FOUR runs, short of length outside off, Shakib goes up and over backward point, towards the left of Rashid at third man who had no chance to cut it off
+4153~2~
+4153~2~22.4
+4153~2~1
+4153~2~Wood to Shakib AlHasan, 1 run, length outside off, cuts it towards sweeper cover from the front foot
+4153~2~
+4153~2~22.5
+4153~2~0
+4153~2~Wood to Mushfiqur Rahim, no run, length around off, Mushfiqur was stuck at his crease, pushes it towards point in the end
+4153~2~
+4153~2~22.6
+4153~2~1
+4153~2~Wood to Mushfiqur Rahim, 1 run, length ball around off, punched past the diving extra cover, he might have got a hand to it, the mid-off fielder cuts it off eventually
+4153~2~
+4153~2~23.1
+4153~2~1
+4153~2~Rashid to Mushfiqur Rahim, 1 run, a brilliant effort by Roy at extra cover, jumping in the air but perhaps too high as the ball hits him near the wrist, was a length ball around off, Mushfiqur came down the track and looked to clear Roy
+4153~2~END OF OVER:23 | 8 Runs | BDESH: 127/2 (260 runs required from 27 overs, RR: 5.52, RRR: 9.62)
+4153~2~Mushfiqur Rahim
+4153~2~25 (33b)
+4153~2~Shakib AlHasan
+4153~2~72 (68b)
+4153~2~Mark Wood
+4153~2~5-0-32-1
+4153~2~Adil Rashid
+4153~2~3-0-21-0
+4153~2~
+4153~2~23.2
+4153~2~0
+4153~2~Rashid to Shakib AlHasan, no run, fuller on the stumps, misses the flick and gets hit on the pads
+4153~2~
+4153~2~23.3
+4153~2~1
+4153~2~Rashid to Shakib AlHasan, 1 run, fuller on the pads, swept fine for a single, there was a top-edge but lands safe
+4153~2~
+4153~2~23.4
+4153~2~1
+4153~2~Rashid to Mushfiqur Rahim, 1 run, flighted around off, drives it towards long-off for one
+4153~2~
+4153~2~23.5
+4153~2~0
+4153~2~Rashid to Shakib AlHasan, no run, short of length on the stumps, goes back and pulls it into the ground
+4153~2~
+4153~2~23.6
+4153~2~1w
+4153~2~Rashid to Shakib AlHasan, 1 wide, a big googly from outside leg stump, Shakib knows where his stumps are and lets it go to the keeper
+4153~2~
+4153~2~23.6
+4153~2~4
+4153~2~Rashid to Shakib AlHasan, FOUR runs, fuller on the stumps this time and driven past Rashid on his left, he was moving to his left, the boundary-riders have no chance to cut it off
+4153~2~
+4153~2~24.1
+4153~2~1
+4153~2~Wood to Mushfiqur Rahim, 1 run, short of length outside off, looks to upper cut but doesn't middle it, gets a single though
+4153~2~END OF OVER:24 | 8 Runs | BDESH: 135/2 (252 runs required from 26 overs, RR: 5.62, RRR: 9.69)
+4153~2~Shakib AlHasan
+4153~2~77 (72b)
+4153~2~Mushfiqur Rahim
+4153~2~27 (35b)
+4153~2~Adil Rashid
+4153~2~4-0-29-0
+4153~2~Mark Wood
+4153~2~5-0-32-1
+4153~2~
+4153~2~24.2
+4153~2~1
+4153~2~Wood to Shakib AlHasan, 1 run, length ball on the stumps, moves across and flicks it towards square leg
+4153~2~
+4153~2~24.3
+4153~2~1
+4153~2~Wood to Mushfiqur Rahim, 1 run, short of length around off, drops it towards covers and sets off for one
+4153~2~
+4153~2~24.4
+4153~2~0
+4153~2~Wood to Shakib AlHasan, no run, short of length outside off, at 147 kph, was looking to run it down, gets beaten by the pace
+4153~2~
+4153~2~24.5
+4153~2~0
+4153~2~Wood to Shakib AlHasan, no run, short of length once again, Shakib moves towards the off side and looks to ramp it over, misses
+4153~2~
+4153~2~24.6
+4153~2~1
+4153~2~Wood to Shakib AlHasan, 1 run, short of length outside off, dabs it down towards third man
+4153~2~
+4153~2~25.1
+4153~2~4
+4153~2~Rashid to Shakib AlHasan, FOUR runs, fuller around off, Shakib goes down on one knee and sweeps it towards deep midwicket for four
+4153~2~END OF OVER:25 | 4 Runs | BDESH: 139/2 (248 runs required from 25 overs, RR: 5.56, RRR: 9.92)
+4153~2~Shakib AlHasan
+4153~2~79 (76b)
+4153~2~Mushfiqur Rahim
+4153~2~29 (37b)
+4153~2~Mark Wood
+4153~2~6-0-36-1
+4153~2~Adil Rashid
+4153~2~4-0-29-0
+4153~2~Bharath Seervi: This year Shakib and Mushfiqur have batted together 5 times and have added 50+ runs every time - 68* and 64 in the Tri-Series in Ireland, 142, 50 and this one in the 3 matches of this World Cup
+4153~2~
+4153~2~
+4153~2~25.2
+4153~2~1
+4153~2~Rashid to Shakib AlHasan, 1 run, fuller on middle and leg, drives it towards long-on for one
+4153~2~
+4153~2~25.3
+4153~2~0
+4153~2~Rashid to Mushfiqur Rahim, no run, looks to come down the track but cannot reach the pitch of the ball and is hit on the pads
+4153~2~
+4153~2~25.4
+4153~2~0
+4153~2~Rashid to Mushfiqur Rahim, no run, goes for the reverse sweep to this fuller delivery but ends up hitting straight towards short third man
+4153~2~
+4153~2~25.5
+4153~2~4
+4153~2~Rashid to Mushfiqur Rahim, FOUR runs, down the track, reaches to the pitch of the ball and lofts it over mid-on, one-bounce four
+4153~2~
+4153~2~25.6
+4153~2~1
+4153~2~Rashid to Mushfiqur Rahim, 1 run, length outside off, late-cuts it towards third man for one
+4153~2~
+4153~2~26.1
+4153~2~1
+4153~2~Plunkett to Mushfiqur Rahim, 1 run, loopy bounce outside off, Mushfiqur opens the face of the bat to help it towards third man, falls short of the fielder
+4153~2~END OF OVER:26 | 10 Runs | BDESH: 149/2 (238 runs required from 24 overs, RR: 5.73, RRR: 9.91)
+4153~2~Mushfiqur Rahim
+4153~2~34 (41b)
+4153~2~Shakib AlHasan
+4153~2~84 (78b)
+4153~2~Adil Rashid
+4153~2~5-0-39-0
+4153~2~Mark Wood
+4153~2~6-0-36-1
+4153~2~Mohammad Isam: Shakib is the second Bangladeshi after Tamim Iqbal to hit four fifties in a row in ODIs. Tamim had struck five in a row in 2012.
+4153~2~
+4153~2~
+4153~2~26.2
+4153~2~1
+4153~2~Plunkett to Shakib AlHasan, 1 run, length ball on the pads, tucked away towards fine leg
+4153~2~
+4153~2~26.3
+4153~2~1
+4153~2~Plunkett to Mushfiqur Rahim, 1 run, length ball on the pads, flicks it towards fine leg for another single
+4153~2~
+4153~2~26.4
+4153~2~0
+4153~2~Plunkett to Shakib AlHasan, no run, length ball on the stumps, was looking to work it on the leg side, gets a leading edge down the ground but well short of Plunkett
+4153~2~Shakib AlHasan is now the highest run-getter in this World Cup
+4153~2~
+4153~2~
+4153~2~26.5
+4153~2~0
+4153~2~Plunkett to Shakib AlHasan, no run, short outside off, tennis-ball bounce there, Shakib jumps in the air and tries to help it towards third man, misses. He was expecting a wide but he umpire doesn't agree
+4153~2~
+4153~2~26.6
+4153~2~1
+4153~2~Plunkett to Shakib AlHasan, 1 run, length ball outside off, chops it down towards third man
+4153~2~
+4153~2~27.1
+4153~2~1
+4153~2~Rashid to Shakib AlHasan, 1 run, length ball on the pads, nudged away towards fine leg
+4153~2~Lovers Gwenzi: "Shakib deserves double pay and double recognition after completing 100% expectation as a bowler and now completing a perfect done job as a batsman. He is a rare quality in this Bangladesh side"
+4153~2~
+4153~2~END OF OVER:27 | 4 Runs | BDESH: 153/2 (234 runs required from 23 overs, RR: 5.66, RRR: 10.17)
+4153~2~Shakib AlHasan
+4153~2~86 (82b)
+4153~2~Mushfiqur Rahim
+4153~2~36 (43b)
+4153~2~Liam Plunkett
+4153~2~6-0-27-0
+4153~2~Adil Rashid
+4153~2~5-0-39-0
+4153~2~
+4153~2~27.2
+4153~2~2
+4153~2~Rashid to Mushfiqur Rahim, 2 runs, fuller on the stumps, goes for the slog sweep, just wide of mid-on and enough on it for a brace
+4153~2~
+4153~2~27.3
+4153~2~1
+4153~2~Rashid to Mushfiqur Rahim, 1 run, fuller on the stumps, more conventional this time, driven inside out towards long-off
+4153~2~
+4153~2~27.4
+4153~2~1
+4153~2~Rashid to Shakib AlHasan, 1 run, fuller on the pads, easy single for Shakib who flicks it towards square leg
+4153~2~
+4153~2~27.5
+4153~2~2
+4153~2~Rashid to Mushfiqur Rahim, 2 runs, flighted outside off, 71 kph, Mushfiqur pushes at it, gets an outside edge past the keeper, Archer at third man cuts it off
+4153~2~
+4153~2~27.6
+4153~2~2
+4153~2~Rashid to Mushfiqur Rahim, 2 runs, fuller around off, skips down and hits it hard towards the left of long-off for two more
+4153~2~
+4153~2~28.1
+4153~2~1
+4153~2~Plunkett to Shakib AlHasan, 1 run, short of length on middle and leg, tucked away behind square and that single bring up the 100-run stand between these two
+4153~2~END OF OVER:28 | 9 Runs | BDESH: 162/2 (225 runs required from 22 overs, RR: 5.78, RRR: 10.22)
+4153~2~Mushfiqur Rahim
+4153~2~43 (47b)
+4153~2~Shakib AlHasan
+4153~2~88 (84b)
+4153~2~Adil Rashid
+4153~2~6-0-48-0
+4153~2~Liam Plunkett
+4153~2~6-0-27-0
+4153~2~
+4153~2~28.2
+4153~2~0
+4153~2~Plunkett to Mushfiqur Rahim, no run, length ball around off, stays beside the line and steers it towards point
+4153~2~
+4153~2~28.3
+4153~2~1
+4153~2~Plunkett to Mushfiqur Rahim, 1 run, fuller around off, moves across and scoops it towards fine leg, Adil Rashid there keeps it to one
+4153~2~
+4153~2~28.4
+4153~2~4
+4153~2~Plunkett to Shakib AlHasan, FOUR runs, short of length around off, Shakib swivels and pulls it towards deep midwicket, neat connection there, gets a boundary
+4153~2~
+4153~2~28.5
+4153~2~1
+4153~2~Plunkett to Shakib AlHasan, 1 run, fuller on the pads, tucked away towards fine leg
+4153~2~
+4153~2~28.6
+4153~2~W
+4153~2~Plunkett to Mushfiqur Rahim, OUT, and gone! Jason Roy takes the catch at point, tumbling to his right. A cross-seam length ball around off and middle, Mushfiqur was looking to work it on the leg side, gets a leading edge and Roy does the rest
+4153~2~Mushfiqur Rahim c Roy b Plunkett 44 (65m 50b 2x4 0x6) SR: 88.00
+4153~2~
+4153~2~
+4153~2~29.1
+4153~2~1
+4153~2~Rashid to Shakib AlHasan, 1 run, length ball around off, stays back and steers it towards backward point
+4153~2~Mohammad Mithun is the new batsman but for now at the other end
+4153~2~
+4153~2~END OF OVER:29 | 7 Runs 1 Wkt | BDESH: 169/3 (218 runs required from 126 balls, RR: 5.82, RRR: 10.38)
+4153~2~Shakib AlHasan
+4153~2~94 (87b)
+4153~2~Liam Plunkett
+4153~2~7-0-34-1
+4153~2~Adil Rashid
+4153~2~6-0-48-0
+4153~2~Former Brisbane Heat player Ashleigh Barty wins the French Open. I guess we'll forgive her if she doesn't check the cricket scores today
+4153~2~
+4153~2~
+4153~2~29.2
+4153~2~0
+4153~2~Rashid to Mohammad Mithun, no run, fuller around off, comes forward and pushes it towards the bowler
+4153~2~
+4153~2~29.3
+4153~2~W
+4153~2~Rashid to Mohammad Mithun, OUT, tossed up outside off and spinning away, Mithun looks to go aerial, gets a faint outside edge and Bairstow does well to latch on to it, clinging to his chest
+4153~2~Mohammad Mithun c Bairstow(wk) b Rashid 0 (4m 2b 0x4 0x6) SR: 0.00
+4153~2~
+4153~2~
+4153~2~29.4
+4153~2~0
+4153~2~Rashid to Mahmudullah, no run, length ball around off, defends it from the crease
+4153~2~Mahmudullah
+4153~2~
+4153~2~
+4153~2~29.5
+4153~2~0
+4153~2~Rashid to Mahmudullah, no run, length ball down the leg side, flicked towards short fine leg
+4153~2~
+4153~2~29.6
+4153~2~0
+4153~2~Rashid to Mahmudullah, no run, length ball on the stumps, goes back and cuts it towards point
+4153~2~
+4153~2~30.1
+4153~2~0
+4153~2~Plunkett to Shakib AlHasan, no run, fuller around off, comes forward and digs it out towards extra cover
+4153~2~Asad : "Whenever a leading edge goes to point fielder reminds me of Virat Kohli wicket at CT final!!! Not a WC memory but a sensational CT final moment! "
+4153~2~
+4153~2~END OF OVER:30 | 1 Run 1 Wkt | BDESH: 170/4 (217 runs required from 20 overs, RR: 5.66, RRR: 10.85)
+4153~2~Mahmudullah
+4153~2~0 (3b)
+4153~2~Shakib AlHasan
+4153~2~95 (88b)
+4153~2~Adil Rashid
+4153~2~7-0-49-1
+4153~2~Liam Plunkett
+4153~2~7-0-34-1
+4153~2~
+4153~2~30.2
+4153~2~1
+4153~2~Plunkett to Shakib AlHasan, 1 run, length ball on middle and leg, helps it towards fine leg
+4153~2~
+4153~2~30.3
+4153~2~0
+4153~2~Plunkett to Mahmudullah, no run, fuller around off, comes forward and defends it back
+4153~2~
+4153~2~30.4
+4153~2~0
+4153~2~Plunkett to Mahmudullah, no run, length ball around off, steered towards the left of Roy who flungs himself low and makes a two-handed stop
+4153~2~
+4153~2~30.5
+4153~2~0
+4153~2~Plunkett to Mahmudullah, no run, short of length outside off, rises on the top of the bounce and cuts it into the ground, towards point
+4153~2~
+4153~2~30.6
+4153~2~1
+4153~2~Plunkett to Mahmudullah, 1 run, length ball outside off, goes back and cuts it towards sweeper cover
+4153~2~
+4153~2~31.1
+4153~2~0
+4153~2~Rashid to Mahmudullah, no run, fuller around off, comes forward and drives it back towards the bowler
+4153~2~A slip in place
+4153~2~
+4153~2~END OF OVER:31 | 2 Runs | BDESH: 172/4 (215 runs required from 19 overs, RR: 5.54, RRR: 11.31)
+4153~2~Mahmudullah
+4153~2~1 (7b)
+4153~2~Shakib AlHasan
+4153~2~96 (90b)
+4153~2~Liam Plunkett
+4153~2~8-0-36-1
+4153~2~Adil Rashid
+4153~2~7-0-49-1
+4153~2~
+4153~2~31.2
+4153~2~1
+4153~2~Rashid to Mahmudullah, 1 run, a quicker one on the stumps, gets an inside edge towards short fine leg
+4153~2~
+4153~2~31.3
+4153~2~0
+4153~2~Rashid to Shakib AlHasan, no run, fuller on the stumps, goes for the sweep but misses and is hit on the pads
+4153~2~
+4153~2~31.4
+4153~2~1
+4153~2~Rashid to Shakib AlHasan, 1 run, a full toss on the pads but Shakib misses out, only a single to deep square leg
+4153~2~
+4153~2~31.5
+4153~2~1
+4153~2~Rashid to Mahmudullah, 1 run, length ball around off, works it towards sweeper cover
+4153~2~
+4153~2~31.6
+4153~2~1
+4153~2~Rashid to Shakib AlHasan, 1 run, length ball on the pads, flicks it behind square for one more
+4153~2~
+4153~2~32.1
+4153~2~1
+4153~2~Archer to Shakib AlHasan, 1 run, length ball, a slower one down the leg side, glances it towards fine leg and moves to 99 with the single
+4153~2~END OF OVER:32 | 4 Runs | BDESH: 176/4 (211 runs required from 18 overs, RR: 5.50, RRR: 11.72)
+4153~2~Shakib AlHasan
+4153~2~98 (93b)
+4153~2~Mahmudullah
+4153~2~3 (10b)
+4153~2~Adil Rashid
+4153~2~8-0-53-1
+4153~2~Liam Plunkett
+4153~2~8-0-36-1
+4153~2~KK: "Time now for BAN to either explode or implode. Just proding around doesn't help"
+4153~2~
+4153~2~
+4153~2~32.2
+4153~2~1
+4153~2~Archer to Mahmudullah, 1 run, length ball around off, looks to drop it on the off side, gets an inside edge on to the pads, the ball rolls towards covers as they get a quick single
+4153~2~
+4153~2~32.3
+4153~2~1
+4153~2~Archer to Shakib AlHasan, 1 run, fuller around off, comes forward and drives it towards sweeper cover and gets to his hundred off just 95 balls
+4153~2~Shakib on 99
+4153~2~
+4153~2~
+4153~2~32.4
+4153~2~0
+4153~2~Archer to Mahmudullah, no run, length ball around off, defended towards cover from the crease
+4153~2~
+4153~2~32.5
+4153~2~1lb
+4153~2~Archer to Mahmudullah, 1 leg bye, length ball on the pads, flicks it behind square leg for one
+4153~2~
+4153~2~32.6
+4153~2~2
+4153~2~Archer to Shakib AlHasan, 2 runs, short of length outside off, cuts it away up and over backward point, Adil Rashid tidies it up at third man
+4153~2~
+4153~2~KK, Bangladesh must get as close to the target as possible to ensure the impact on net rate is reduced as much as possible."
+4153~2~
+4153~2~
+4153~2~33.1
+4153~2~0
+4153~2~Rashid to Mahmudullah, no run, fuller on the stumps, pushes it inside out towards extra cover
+4153~2~END OF OVER:33 | 6 Runs | BDESH: 182/4 (205 runs required from 17 overs, RR: 5.51, RRR: 12.05)
+4153~2~Shakib AlHasan
+4153~2~102 (96b)
+4153~2~Mahmudullah
+4153~2~4 (13b)
+4153~2~Jofra Archer
+4153~2~6-2-19-1
+4153~2~Adil Rashid
+4153~2~8-0-53-1
+4153~2~Ram: "
+4153~2~33.2
+4153~2~0
+4153~2~Rashid to Mahmudullah, no run, tossed up outside off, waits for it to arrive and pushes it towards extra cover
+4153~2~
+4153~2~33.3
+4153~2~1
+4153~2~Rashid to Mahmudullah, 1 run, flatter around off, a late cut towards short third man for one
+4153~2~
+4153~2~33.4
+4153~2~0
+4153~2~Rashid to Shakib AlHasan, no run, tossed up on middle and leg, Shakib was moving away but had to defend back towards the bowler
+4153~2~Kiran Timilsena: "Roy's hundred also came in 95 ball Shakibs one is same as well. But Roys hundred laid platform for england to reach mammoth total. Shakibs one is looking insignificant one. Thats why i think they say timing matters."
+4153~2~
+4153~2~
+4153~2~33.5
+4153~2~0
+4153~2~Rashid to Shakib AlHasan, no run, charges down but gets too close to the ball, digs it out towards the bowler
+4153~2~
+4153~2~33.6
+4153~2~1
+4153~2~Rashid to Shakib AlHasan, 1 run, length ball around off, stays back and chips it towards mid-off for one
+4153~2~
+4153~2~34.1
+4153~2~1
+4153~2~Archer to Shakib AlHasan, 1 run, short of length outside off, cuts it towards third man for one
+4153~2~END OF OVER:34 | 2 Runs | BDESH: 184/4 (203 runs required from 16 overs, RR: 5.41, RRR: 12.68)
+4153~2~Shakib AlHasan
+4153~2~103 (99b)
+4153~2~Mahmudullah
+4153~2~5 (16b)
+4153~2~Adil Rashid
+4153~2~9-0-55-1
+4153~2~Jofra Archer
+4153~2~6-2-19-1
+4153~2~
+4153~2~34.2
+4153~2~0
+4153~2~Archer to Mahmudullah, no run, length ball around off, hops in the air and pushes it towards backward point
+4153~2~
+4153~2~34.3
+4153~2~0
+4153~2~Archer to Mahmudullah, no run, a bouncer from Archer, but Mahmudullah had no problem ducking under it
+4153~2~
+4153~2~34.4
+4153~2~0
+4153~2~Archer to Mahmudullah, no run, short of length once again, this time near the rib cage, looks to flick it away but gets hit high on the bat
+4153~2~
+4153~2~34.5
+4153~2~1
+4153~2~Archer to Mahmudullah, 1 run, short of length outside off, steers it past point from the back foot
+4153~2~
+4153~2~34.6
+4153~2~0
+4153~2~Archer to Shakib AlHasan, no run, another bouncer, Shakib ducks under and almost slips in an attempt to get out of the way, all well in the end
+4153~2~
+4153~2~35.1
+4153~2~0
+4153~2~Rashid to Mahmudullah, no run, twirled onto a perfect line and length, a cagey inside-edge is gathered at short backward square
+4153~2~Hello again. What an innings from Shakib. Must be pretty galling to still be 200 runs adrift after playing this well
+4153~2~
+4153~2~END OF OVER:35 | 2 Runs | BDESH: 186/4 (201 runs required from 15 overs, RR: 5.31, RRR: 13.40)
+4153~2~Shakib AlHasan
+4153~2~104 (101b)
+4153~2~Mahmudullah
+4153~2~6 (20b)
+4153~2~Jofra Archer
+4153~2~7-2-21-1
+4153~2~Adil Rashid
+4153~2~9-0-55-1
+4153~2~And it's time for drinks. Andrew Miller is back to wrap it up
+4153~2~
+4153~2~
+4153~2~35.2
+4153~2~1
+4153~2~Rashid to Mahmudullah, 1 run, shuffles back and across to chop to point
+4153~2~
+4153~2~35.3
+4153~2~1
+4153~2~Rashid to Shakib AlHasan, 1 run, a big yawning sweep, well in front of square, but Stokes gallops round to swoop on the ball. Sharp work
+4153~2~
+4153~2~35.4
+4153~2~0
+4153~2~Rashid to Mahmudullah, no run, advancing out of the pitch, eased into the covers
+4153~2~
+4153~2~35.5
+4153~2~1w
+4153~2~Rashid to Mahmudullah, 1 wide, sliding past the leg stump
+4153~2~
+4153~2~35.5
+4153~2~0
+4153~2~Rashid to Mahmudullah, no run, tossed up, and pushed into the covers
+4153~2~
+4153~2~35.6
+4153~2~6
+4153~2~Rashid to Mahmudullah, SIX runs, h-u-u-u-g-e air, and a stunning connection! A total sucker ball, right above the eyeline, but Mahmudullah, to his credit, held his stance, checked his swing, and timed the pants off a lofted slog down the ground
+4153~2~
+4153~2~36.1
+4153~2~0
+4153~2~Archer to Shakib AlHasan, no run, leans back to push to cover
+4153~2~END OF OVER:36 | 9 Runs | BDESH: 195/4 (192 runs required from 14 overs, RR: 5.41, RRR: 13.71)
+4153~2~Mahmudullah
+4153~2~13 (25b)
+4153~2~Shakib AlHasan
+4153~2~105 (102b)
+4153~2~Adil Rashid
+4153~2~10-0-64-1
+4153~2~Jofra Archer
+4153~2~7-2-21-1
+4153~2~A tough end to a tidy spell from Rashid, whose shoulder seemed to warm to the task
+4153~2~
+4153~2~
+4153~2~36.2
+4153~2~1
+4153~2~Archer to Shakib AlHasan, 1 run, worked off the legs, good pace on the ball once more
+4153~2~
+4153~2~36.3
+4153~2~1
+4153~2~Archer to Mahmudullah, 1 run, wicket-to-wicket, dabbed to point, another sharp single
+4153~2~
+4153~2~36.4
+4153~2~0
+4153~2~Archer to Shakib AlHasan, no run, beaten all ends up! A knuckle-ball yorker, skimming past the off stump as Shakib is suckered through the air. Bairstow just about gathers
+4153~2~
+4153~2~36.5
+4153~2~5w
+4153~2~Archer to Shakib AlHasan, 5 wides, short and wild! No-one's cutting that one off! Shakib tried to swing into the shot, but couldn't get close on a stepladder
+4153~2~
+4153~2~36.5
+4153~2~1
+4153~2~Archer to Shakib AlHasan, 1 run, speared into the toes, that's a better line! Squirted out to point
+4153~2~
+4153~2~36.6
+4153~2~0
+4153~2~Archer to Mahmudullah, no run, on the back foot, hops back and across to block
+4153~2~
+4153~2~37.1
+4153~2~0
+4153~2~Stokes to Shakib AlHasan, no run, back of a length, swinging from a leg-stump line, Stokes sprints after the ball and in doing so, puts them off the single
+4153~2~Well now, it's the lesser-spotted Ben Stokes.
+4153~2~
+4153~2~END OF OVER:37 | 8 Runs | BDESH: 203/4 (184 runs required from 13 overs, RR: 5.48, RRR: 14.15)
+4153~2~Mahmudullah
+4153~2~14 (27b)
+4153~2~Shakib AlHasan
+4153~2~107 (106b)
+4153~2~Jofra Archer
+4153~2~8-2-29-1
+4153~2~Adil Rashid
+4153~2~10-0-64-1
+4153~2~Shyam: "Looks dry that Shakib has no support. He himself has reached a very difficult target. What would Bangladesh's score be without Shakib's century?" Better off looking at the positives, I reckon. Once again, they've shown they won't be cowed into submission. Someone else is going to come a cropper, South Africa-style, you sense
+4153~2~
+4153~2~
+4153~2~37.2
+4153~2~0
+4153~2~Stokes to Shakib AlHasan, no run, bashed back at the bowler, gathered in his followthrough
+4153~2~
+4153~2~37.3
+4153~2~0
+4153~2~Stokes to Shakib AlHasan, no run, thumped in short, Shakib was advancing early, so he gets away with the wide
+4153~2~
+4153~2~37.4
+4153~2~0
+4153~2~Stokes to Shakib AlHasan, no run, fuller and straighter, blocked off the top of off
+4153~2~
+4153~2~37.5
+4153~2~0
+4153~2~Stokes to Shakib AlHasan, no run, turns his stance inside-out but can't connect with a ramp
+4153~2~shimal hussain: "Chasing a mammoth total , what is actually Mahumudullah thinking??" Batting practice, probably, and net run rate... This game was long gone before he arrived.
+4153~2~
+4153~2~
+4153~2~37.6
+4153~2~0
+4153~2~Stokes to Shakib AlHasan, no run, whistles another bouncer through a half-cocked pull. A maiden over
+4153~2~
+4153~2~38.1
+4153~2~1
+4153~2~Woakes to Mahmudullah, 1 run, outside off, a thick-edged slash down to third man, gathered with a tumble
+4153~2~END OF OVER:38 | (maiden) | BDESH: 203/4 (184 runs required from 12 overs, RR: 5.34, RRR: 15.33)
+4153~2~Shakib AlHasan
+4153~2~107 (112b)
+4153~2~Mahmudullah
+4153~2~14 (27b)
+4153~2~Ben Stokes
+4153~2~1-1-0-0
+4153~2~Jofra Archer
+4153~2~8-2-29-1
+4153~2~Ryan : "You have to say this is turning into a tragically selfish innings from Shakib.... part of any top 6 batsman's role is managing the required run rate....in case you're wondering that's the figure that has tipped onto the 14s..." Seriously? Some people are just born to grumble
+4153~2~
+4153~2~
+4153~2~38.2
+4153~2~4
+4153~2~Woakes to Shakib AlHasan, FOUR runs, crunched on the up! Full face of the bat, drilling through the line of the ball, and skimming it inches over Archer's head at mid-on!
+4153~2~
+4153~2~38.3
+4153~2~4
+4153~2~Woakes to Shakib AlHasan, FOUR runs, clears the front leg, swings the hips through the line, and belts another boundary through wide long-on. There you go, he's up with rate now!
+4153~2~
+4153~2~38.4
+4153~2~0
+4153~2~Woakes to Shakib AlHasan, no run, twisting once more into a pull, through mid-on. A touch of cramp kicking in for Shakib as he finishes his followthrough?
+4153~2~
+4153~2~38.5
+4153~2~4
+4153~2~Woakes to Shakib AlHasan, FOUR runs, banged in short, dragged down into the gap in the leg side, more supreme timing and placement! This is ballsy batting
+4153~2~
+4153~2~38.6
+4153~2~1
+4153~2~Woakes to Shakib AlHasan, 1 run, speared into the toes, met with a lofted tonk, straight-lined hitting into the covers. Plugs safely in no-man's land
+4153~2~
+4153~2~39.1
+4153~2~1
+4153~2~Stokes to Shakib AlHasan, 1 run, takes a step back, slashes high over backward point, where Root, running back, can't cling on!
+4153~2~END OF OVER:39 | 14 Runs | BDESH: 217/4 (170 runs required from 11 overs, RR: 5.56, RRR: 15.45)
+4153~2~Shakib AlHasan
+4153~2~120 (117b)
+4153~2~Mahmudullah
+4153~2~15 (28b)
+4153~2~Chris Woakes
+4153~2~6-0-44-0
+4153~2~Ben Stokes
+4153~2~1-1-0-0
+4153~2~Sajjad Khuhro : "Not a selfish but a very planned one, bcz he knows we are not going to win this but if he (Shakib) stays at the crease for rest of the overs then atleast he will manage to save NRR from getting worse" That's more like it!
+4153~2~
+4153~2~
+4153~2~39.2
+4153~2~1
+4153~2~Stokes to Mahmudullah, 1 run, flicked out to backward square leg
+4153~2~
+4153~2~39.3
+4153~2~W
+4153~2~Stokes to Shakib AlHasan, OUT, aimed at the base of the stumps! And that's the end of a magnificent innings! Flicks the toe, deflects into the off bail. Brilliant bowling to end an indomitable stay
+4153~2~Shakib AlHasan b Stokes 121 (147m 119b 12x4 1x6) SR: 101.68
+4153~2~
+4153~2~
+4153~2~39.4
+4153~2~4
+4153~2~Stokes to Mosaddek Hossain, FOUR runs, this one races away to the rope, a big fat edge through third man
+4153~2~
+4153~2~39.5
+4153~2~0
+4153~2~Stokes to Mosaddek Hossain, no run, full and straight, angled into the stumps, and solidly blocked
+4153~2~
+4153~2~39.6
+4153~2~1
+4153~2~Stokes to Mosaddek Hossain, 1 run, nudged down to third man once more. We're into the final ten, and it's officially damage-limitation time for Bangladesh. Their net run-rare is going to take a hit today...
+4153~2~
+4153~2~40.1
+4153~2~0
+4153~2~Woakes to Mosaddek Hossain, no run, solid areas once more from Woakes
+4153~2~END OF OVER:40 | 7 Runs 1 Wkt | BDESH: 224/5 (163 runs required from 60 balls, RR: 5.60, RRR: 16.30)
+4153~2~Mosaddek Hossain
+4153~2~5 (3b)
+4153~2~Mahmudullah
+4153~2~16 (29b)
+4153~2~Ben Stokes
+4153~2~2-1-7-1
+4153~2~Chris Woakes
+4153~2~6-0-44-0
+4153~2~Uday: "Shouldn't shakib wicket be considered LBW?" Pitched outside leg, and the first decision to be adjudicated on was the bails falling off!
+4153~2~
+4153~2~
+4153~2~40.2
+4153~2~1
+4153~2~Woakes to Mosaddek Hossain, 1 run, full and straight, worked back down the pitch into the gap at mid-on
+4153~2~
+4153~2~40.3
+4153~2~1
+4153~2~Woakes to Mahmudullah, 1 run, nurdled into the leg side
+4153~2~
+4153~2~40.4
+4153~2~4
+4153~2~Woakes to Mosaddek Hossain, FOUR runs, creamed through the line of the ball, high over long-on. Another slower ball, easily picked and walloped
+4153~2~
+4153~2~40.5
+4153~2~4
+4153~2~Woakes to Mosaddek Hossain, FOUR runs, short, and spanked! A flat-batted mow high over long-off! Like a right-handed Tamim versus Zaheer in 2007 (you all know the shot...)
+4153~2~
+4153~2~40.6
+4153~2~1
+4153~2~Woakes to Mosaddek Hossain, 1 run, nudged out to point
+4153~2~
+4153~2~41.1
+4153~2~2
+4153~2~Stokes to Mosaddek Hossain, 2 runs, cracked hard out to midwicket where two fielders converge and Roy pounces well to intercept
+4153~2~END OF OVER:41 | 11 Runs | BDESH: 235/5 (152 runs required from 54 balls, RR: 5.73, RRR: 16.88)
+4153~2~Mosaddek Hossain
+4153~2~15 (8b)
+4153~2~Mahmudullah
+4153~2~17 (30b)
+4153~2~Chris Woakes
+4153~2~7-0-55-0
+4153~2~Ben Stokes
+4153~2~2-1-7-1
+4153~2~
+4153~2~41.2
+4153~2~2
+4153~2~Stokes to Mosaddek Hossain, 2 runs, open-faced punch out to deep cover
+4153~2~
+4153~2~41.3
+4153~2~1
+4153~2~Stokes to Mosaddek Hossain, 1 run, very full, squeezed down to third man
+4153~2~
+4153~2~41.4
+4153~2~0
+4153~2~Stokes to Mahmudullah, no run, sharp bouncer, angling down the leg side though. Bairstow half-appeals to distract the umpire from stretching his arms
+4153~2~
+4153~2~41.5
+4153~2~1
+4153~2~Stokes to Mahmudullah, 1 run, worked off the toes to the leg side
+4153~2~
+4153~2~41.6
+4153~2~1w
+4153~2~Stokes to Mosaddek Hossain, 1 wide, fired down the leg side
+4153~2~Strategist : "Most of the times, run-fests can be too predictable, one-sided and boring at the same time. After 35th over the result was obvious." It never ceases to amuse me how good batting can be to blame for boring matches. Besides, there's been entertainment in Archer and Shakib, hasn't there?
+4153~2~
+4153~2~
+4153~2~41.6
+4153~2~0
+4153~2~Stokes to Mosaddek Hossain, no run, banged in short, outside off, steered to point
+4153~2~
+4153~2~42.1
+4153~2~4
+4153~2~Woakes to Mahmudullah, FOUR runs, fizzes through fine leg, slightly off-line and punished
+4153~2~END OF OVER:42 | 7 Runs | BDESH: 242/5 (145 runs required from 48 balls, RR: 5.76, RRR: 18.12)
+4153~2~Mosaddek Hossain
+4153~2~20 (12b)
+4153~2~Mahmudullah
+4153~2~18 (32b)
+4153~2~Ben Stokes
+4153~2~3-1-14-1
+4153~2~Chris Woakes
+4153~2~7-0-55-0
+4153~2~
+4153~2~42.2
+4153~2~1
+4153~2~Woakes to Mahmudullah, 1 run, tucked off the toes, a juggle at short fine leg
+4153~2~
+4153~2~42.3
+4153~2~1
+4153~2~Woakes to Mosaddek Hossain, 1 run, on the pads, whipped out to deep square leg
+4153~2~
+4153~2~42.4
+4153~2~1
+4153~2~Woakes to Mahmudullah, 1 run, worked out to the leg-side sweeper once more. It's rather drifting to a conclusion now
+4153~2~Abhishek: "The way this world cup is shaping, it looks like at least one SF spot will be decided by NRR so Bangladesh did the sensible thing here by not going for glory, then again people pay and come to watch their team giving it a whole hearted attempt to win the match. No matter the target."
+4153~2~
+4153~2~
+4153~2~42.5
+4153~2~4
+4153~2~Woakes to Mosaddek Hossain, FOUR runs, battered through the line of the ball! That's another dent in the NRR
+4153~2~
+4153~2~42.6
+4153~2~1
+4153~2~Woakes to Mosaddek Hossain, 1 run, eased down to long-on for another single
+4153~2~
+4153~2~43.1
+4153~2~W
+4153~2~Stokes to Mosaddek Hossain, OUT, banged in short, into the body, a self-preservatory swat across the line, a spiralling top-edge, and Archer makes no mistake, tumbling at deep backward square! Bangladesh's hopes of reaching 300 take a hit
+4153~2~Mosaddek Hossain c Archer b Stokes 26 (16m 16b 4x4 0x6) SR: 162.50
+4153~2~
+4153~2~END OF OVER:43 | 12 Runs | BDESH: 254/5 (133 runs required from 42 balls, RR: 5.90, RRR: 19.00)
+4153~2~Mosaddek Hossain
+4153~2~26 (15b)
+4153~2~Mahmudullah
+4153~2~24 (35b)
+4153~2~Chris Woakes
+4153~2~8-0-67-0
+4153~2~Ben Stokes
+4153~2~3-1-14-1
+4153~2~
+4153~2~43.2
+4153~2~1
+4153~2~Stokes to Mahmudullah, 1 run, flicked off the toes out to the leg side
+4153~2~
+4153~2~43.3
+4153~2~1
+4153~2~Stokes to Mohammad Saifuddin, 1 run, short and aggressive, a top-edged pull plops safe at short square
+4153~2~
+4153~2~43.4
+4153~2~0
+4153~2~Stokes to Mahmudullah, no run, slower ball, cunningly bowled, rolls the fingers and beats the attempted pull. Stokes returned to over the wicket, incidentally, after encountering difficulties with his footing from round the wicket
+4153~2~Naresh: "This is a bizarre chase from BD, they never looked like they want to chase this down right from the start" When your target is more than 50 runs higher than your ODI highest score, perhaps there's no obvious place to begin!
+4153~2~
+4153~2~
+4153~2~43.5
+4153~2~1
+4153~2~Stokes to Mahmudullah, 1 run, nudged to mid-on for another single
+4153~2~
+4153~2~43.6
+4153~2~0
+4153~2~Stokes to Mohammad Saifuddin, no run, pushed back up the pitch, leg-sided, and another tight over ticks by
+4153~2~
+4153~2~44.1
+4153~2~1
+4153~2~Wood to Mahmudullah, 1 run, worked to the leg side
+4153~2~END OF OVER:44 | 3 Runs 1 Wkt | BDESH: 257/6 (130 runs required from 36 balls, RR: 5.84, RRR: 21.66)
+4153~2~Mohammad Saifuddin
+4153~2~1 (2b)
+4153~2~Mahmudullah
+4153~2~26 (38b)
+4153~2~Ben Stokes
+4153~2~4-1-17-2
+4153~2~Chris Woakes
+4153~2~8-0-67-0
+4153~2~Vaibhav: "Yes there has been some entertainment by Archer and Shakib. Still, would have been more fun if it was a sub 300 type pitch. Run fests are mostly boring to watch." Perhaps it is a sub-300 pitch? Bangladesh have batted pretty well you know. And England were 15 for 0 after five ...
+4153~2~
+4153~2~
+4153~2~44.2
+4153~2~1
+4153~2~Wood to Mohammad Saifuddin, 1 run, on the hip, flipped behind square
+4153~2~
+4153~2~44.3
+4153~2~1
+4153~2~Wood to Mahmudullah, 1 run, one more pull out to deep midwicket, back of a length but on a tight line
+4153~2~
+4153~2~44.4
+4153~2~0
+4153~2~Wood to Mohammad Saifuddin, no run, banged in short, an ambitious pull, but can't make contact
+4153~2~
+4153~2~44.5
+4153~2~1
+4153~2~Wood to Mohammad Saifuddin, 1 run, slower-ball bouncer, tapped out to deep backward square
+4153~2~
+4153~2~44.6
+4153~2~W
+4153~2~Wood to Mahmudullah, OUT, leading edge, spirals high into the air, Bairstow sprints backwards and guzzles the chance! An attempted flick off the toes, but Wood's extra pace made it fraught with danger. We're nearly done here
+4153~2~M Mahmudullah c Bairstow(wk) b Wood 28 (66m 41b 1x4 1x6) SR: 68.29
+4153~2~
+4153~2~
+4153~2~45.1
+4153~2~1
+4153~2~Stokes to Mehidy Hasan Miraz, 1 run, tucked to square leg to get off the mark
+4153~2~END OF OVER:45 | 4 Runs 1 Wkt | BDESH: 261/7 (126 runs required from 30 balls, RR: 5.80, RRR: 25.20)
+4153~2~Mohammad Saifuddin
+4153~2~3 (5b)
+4153~2~Mark Wood
+4153~2~7-0-40-2
+4153~2~Ben Stokes
+4153~2~4-1-17-2
+4153~2~Roshan: "None of the WC's were won by a Net RR optimizer!" Nope, but plenty have been lost ... just ask South Africa!
+4153~2~
+4153~2~
+4153~2~45.2
+4153~2~2
+4153~2~Stokes to Mohammad Saifuddin, 2 runs, back of a length, outside off, chipped in the air, out of the reach of point
+4153~2~
+4153~2~45.3
+4153~2~0
+4153~2~Stokes to Mohammad Saifuddin, no run, bowled him ... no, the bails have stayed on! Down the leg side, under-edged into the crease, hops up into the timbers and despite an audible clunk of wood, the wicket remains intact!
+4153~2~
+4153~2~45.4
+4153~2~W
+4153~2~Stokes to Mohammad Saifuddin, OUT, the bails aren't on any longer! That's the solution to the heavy bails 'crisis' ... hit them harder! A heat-seeker of a delivery, spread-eagling off and middle as Saifuddin plays across the line. Stokes didn't appear until the 38th over, but he's suddenly on course for a five-for!
+4153~2~Mohammad Saifuddin b Stokes 5 (13m 8b 0x4 0x6) SR: 62.50
+4153~2~
+4153~2~
+4153~2~45.5
+4153~2~0
+4153~2~Stokes to Mashrafe Mortaza, no run, beaten outside off, as Mashrafe stabs with an angled bat outside off, but can't connect
+4153~2~
+4153~2~45.6
+4153~2~0
+4153~2~Stokes to Mashrafe Mortaza, no run, opens the face on a yorker, steered to point
+4153~2~
+4153~2~46.1
+4153~2~1
+4153~2~Wood to Mehidy Hasan Miraz, 1 run, punched into the covers
+4153~2~END OF OVER:46 | 3 Runs 1 Wkt | BDESH: 264/8 (123 runs required from 24 balls, RR: 5.73, RRR: 30.75)
+4153~2~Mashrafe Mortaza
+4153~2~0 (2b)
+4153~2~Mehidy Hasan
+4153~2~1 (1b)
+4153~2~Ben Stokes
+4153~2~5-1-20-3
+4153~2~Mark Wood
+4153~2~7-0-40-2
+4153~2~Hridoy: "It would have been different match if Bangladesh batted first. The way they have batted it should have been 300+ target for England. World cup pressure!! Game on!" Maybe ... maybe ...
+4153~2~
+4153~2~
+4153~2~46.2
+4153~2~1
+4153~2~Wood to Mashrafe Mortaza, 1 run, short and agggressive, and eventfully played by Mashrafe, limboing out of line and deflecting very fine through third man. A fine tumbling stop to intercept the boundary
+4153~2~
+4153~2~46.3
+4153~2~4
+4153~2~Wood to Mehidy Hasan Miraz, FOUR runs, climbing into the ribs, and flicked with some panache behind square. Cramped on impact, but watched the ball well
+4153~2~
+4153~2~46.4
+4153~2~1
+4153~2~Wood to Mehidy Hasan Miraz, 1 run, angled bat, into the off side
+4153~2~
+4153~2~46.5
+4153~2~1
+4153~2~Wood to Mashrafe Mortaza, 1 run, shows all three stumps, inviting the yorker, and biffed with intent into the off side
+4153~2~
+4153~2~46.6
+4153~2~4
+4153~2~Wood to Mehidy Hasan Miraz, FOUR runs, pounded back through the bowler's followthrough! This is good from Bangladesh, no surrender to futility, just a volley of strokeplay. Wood was collapsing a touch in his followthrough, as he is wont to do, and his outstretched hand can't intercept
+4153~2~
+4153~2~47.1
+4153~2~0
+4153~2~Stokes to Mashrafe Mortaza, no run, pushed onto the back foot, and blocked to cover
+4153~2~END OF OVER:47 | 12 Runs | BDESH: 276/8 (111 runs required from 18 balls, RR: 5.87, RRR: 37.00)
+4153~2~Mehidy Hasan
+4153~2~11 (5b)
+4153~2~Mashrafe Mortaza
+4153~2~2 (4b)
+4153~2~Mark Wood
+4153~2~8-0-52-2
+4153~2~Ben Stokes
+4153~2~5-1-20-3
+4153~2~
+4153~2~47.2
+4153~2~0
+4153~2~Stokes to Mashrafe Mortaza, no run, leans back for a slap into the covers, but can't beat the field this time
+4153~2~
+4153~2~47.3
+4153~2~1
+4153~2~Stokes to Mashrafe Mortaza, 1 run, outside off, and deflected down to third man
+4153~2~
+4153~2~47.4
+4153~2~1
+4153~2~Stokes to Mehidy Hasan Miraz, 1 run, crashed out to the covers
+4153~2~Shake: "Ever since I have learnt how to play cricket I was always told take one game at a time. These players accepted defeat during innings break Because they are thinking 9 games ahead wow!! Not a single thought on how millions of people are feeling right now. I am disgusted by this chase approach. I am so ashamed I rather die fighting than accept defeat without a fight. " Heroically futile attitude. Nice knowing you!
+4153~2~
+4153~2~
+4153~2~47.5
+4153~2~1
+4153~2~Stokes to Mashrafe Mortaza, 1 run, full length, brings the bat down late on an angle to pick off another single to cover
+4153~2~
+4153~2~47.6
+4153~2~0
+4153~2~Stokes to Mehidy Hasan Miraz, no run, slower ball, much straighter line, blocked down into the crease
+4153~2~
+4153~2~48.1
+4153~2~1lb
+4153~2~Archer to Mashrafe Mortaza, 1 leg bye, on the legs, worked fine
+4153~2~Here's Archer to wrap his day's work up
+4153~2~
+4153~2~END OF OVER:48 | 3 Runs | BDESH: 279/8 (108 runs required from 12 balls, RR: 5.81, RRR: 54.00)
+4153~2~Mehidy Hasan
+4153~2~12 (7b)
+4153~2~Mashrafe Mortaza
+4153~2~4 (8b)
+4153~2~Ben Stokes
+4153~2~6-1-23-3
+4153~2~Mark Wood
+4153~2~8-0-52-2
+4153~2~Frank: "Help please! Looks like NRR could be a factor. In which case, given England are going to win, wouldn't it be better for them to bowl defensively/boringly?" True, though the best way to resolve NRR is to bowl your opponents out
+4153~2~
+4153~2~
+4153~2~48.2
+4153~2~W
+4153~2~Archer to Mehidy Hasan Miraz, OUT, short and wide, draws the ambitious slap through point, but it's a thin edge to the keeper! Mehidy chooses the valiant way to go - that will please the death-or-glory mob - and England are one wicket from victory
+4153~2~Mehidy HasanMiraz c Bairstow(wk) b Archer 12 (16m 8b 2x4 0x6) SR: 150.00
+4153~2~
+4153~2~
+4153~2~48.3
+4153~2~0
+4153~2~Archer to Mustafizur Rahman, no run, full and straight from round the wicket, poked to short cover
+4153~2~
+4153~2~48.4
+4153~2~0
+4153~2~Archer to Mustafizur Rahman, no run, yorker, well bowled
+4153~2~
+4153~2~48.5
+4153~2~W
+4153~2~Archer to Mustafizur Rahman, OUT, fizzing bouncer, flicked to the keeper, and that's the end of that! That was a savage finale, speared right in at the tailender, who had nowhere to go, and a looping catch was gobbled by Bairstow.
+4153~2~Mustafizur Rahman c Bairstow(wk) b Archer 0 (4m 3b 0x4 0x6) SR: 0.00
+4153~2~
+4153~2~
+4153~2~

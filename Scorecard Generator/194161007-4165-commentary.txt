@@ -1,0 +1,3517 @@
+4165~1~Team 1: Hashim Amla!HM Amla, Quinton de Kock (wk)!Q de Kock(wk), Aiden Markram!AK Markram, Faf du Plessis (c)!F du Plessis(c), Rassie van der Dussen!HE van der Dussen, David Miller!DA Miller, Andile Phehlukwayo!AL Phehlukwayo, Chris Morris!CH Morris, Kagiso Rabada!K Rabada, Lungi Ngidi!L Ngidi, Imran Tahir!Imran Tahir.
+4165~1~Team 2: Martin Guptill!MJ Guptill, Colin Munro!C Munro, Kane Williamson (c)!KS Williamson(c), Ross Taylor!LRPL Taylor, Tom Latham (wk)!TWM Latham(wk), James Neesham!JDS Neesham, Colin de Grandhomme!C de Grandhomme, Mitchell Santner!MJ Santner, Matt Henry!MJ Henry, Lockie Ferguson!LH Ferguson, Trent Boult!TA Boult
+4165~1~0.1
+4165~1~0
+4165~1~Henry to de Kock, no run, back of a length, angling across to off stump, opens up a little to try and work it leg side, but he's working against the angle and decides to defend instead
+4165~1~
+4165~1~0.2
+4165~1~0
+4165~1~Henry to de Kock, no run, ooh, that's a loose shot. Fuller, but still on a good length, and a lot wider. Throws an angled bat at it and he's lucky not to edge that
+4165~1~
+4165~1~0.3
+4165~1~1
+4165~1~Henry to de Kock, 1 run, length ball on off stump, uses his wrists to work it into the backward square leg region
+4165~1~
+4165~1~0.4
+4165~1~0
+4165~1~Henry to Amla, no run, back of a length, fifth-stump line, steep bounce. Amla lifts his bat high over his head to ensure the ball's safe passage through to the keeper
+4165~1~
+4165~1~0.5
+4165~1~4
+4165~1~Henry to Amla, FOUR runs, too straight, stays onto Amla's hip, and he tucks it away easily to the fine leg boundary. The fielder there is pretty fine, but not fine enough
+4165~1~
+4165~1~0.6
+4165~1~0
+4165~1~Henry to Amla, no run, length ball, fifth-stump line, left alone
+4165~1~
+4165~1~1.1
+4165~1~0
+4165~1~Boult to de Kock, no run, full on off stump, clipped to mid-on
+4165~1~
+4165~1~Here's Trent Boult. Two slips for him too as he comes in from left-arm over to de Kock.
+4165~1~
+4165~1~I Goosen: "NZ anthem giving me flashbacks to All Blacks vs Springboks last year! Two insane games, each team winning one. Lets go Proteas!!"
+4165~1~END OF OVER:1 | 5 Runs | SA: 5/0 | RR: 5.00
+4165~1~
+4165~1~    Hashim Amla4 (3b)
+4165~1~    Quinton de Kock1 (3b)
+4165~1~
+4165~1~    Matt Henry1-0-5-0
+4165~1~
+4165~1~
+4165~1~1.2
+4165~1~0
+4165~1~Boult to de Kock, no run, full again, a bit of late swing in to the left-hander, towards leg stump. Gets his front foot out of the way in time and clips to mid-on
+4165~1~
+4165~1~1.3
+4165~1~4
+4165~1~Boult to de Kock, FOUR runs, too straight. A full one straying onto the pads, and de Kock works it nice and fine, and fine leg once again has no chance
+4165~1~
+4165~1~1.4
+4165~1~0
+4165~1~Boult to de Kock, no run, back of a length, angling into middle and leg. Clipped to midwicket
+4165~1~
+4165~1~1.5
+4165~1~W
+4165~1~Boult to de Kock, OUT, bowled him, stumps flying all over the place! He's been looking for that full one angling in towards leg stump all through the over, and he bowls another. De Kock leaves a bit of a hole in his attempted on-drive - the result of his front foot not really getting forward at all - and the ball simply bursts through. Judging by how the rest of the over's gone, a definite plan from Boult - something to do with de Kock's lack of feet movement early on, and maybe the angle that his bat comes down at, from around gully or thereabouts
+4165~1~
+4165~1~de Kock b Boult 5 (8m 8b 1x4 0x6) SR: 62.50
+4165~1~
+4165~1~1.6
+4165~1~2
+4165~1~Boult to du Plessis, 2 runs, gets a full one first up, outside off, and he gets a good stride out to drive with an open face to the left of extra-cover. Big mix-up between the batsmen - not sure when exactly, because the TV pictures are a complete muddle - but Faf dives and makes his ground in time to beat his throw to the keeper
+4165~1~
+4165~1~Faf du Plessis walks in at No. 3.
+4165~1~
+4165~1~2.1
+4165~1~0
+4165~1~Henry to Amla, no run, fullish outside off, left alone
+4165~1~END OF OVER:2 | 6 Runs 1 Wkt | SA: 11/1 | RR: 5.50
+4165~1~
+4165~1~    Faf du Plessis2 (1b)
+4165~1~    Hashim Amla4 (3b)
+4165~1~
+4165~1~    Trent Boult1-0-6-1
+4165~1~    Matt Henry1-0-5-0
+4165~1~
+4165~1~
+4165~1~2.2
+4165~1~0
+4165~1~Henry to Amla, no run, back of a length close to off stump, hops in the air and defends towards backward point
+4165~1~
+4165~1~2.3
+4165~1~0
+4165~1~Henry to Amla, no run, in the blockhole close to off stump, jams down without too much fuss and keeps it out
+4165~1~
+4165~1~2.4
+4165~1~1
+4165~1~Henry to Amla, 1 run, length ball, quite wide outside off. No real front-foot stride to drive through the covers, and he sends a thick inside edge running away towards fine leg instead
+4165~1~
+4165~1~Gagan: "Where's the guy that was forecasting a De Kock hundred?" - Bringing you the ball-by-ball commentary, that's where.
+4165~1~
+4165~1~2.5
+4165~1~0
+4165~1~Henry to du Plessis, no run, full, angling into middle and leg, keeps his front leg out of the way and shows the full face to block it back to the bowler
+4165~1~
+4165~1~2.6
+4165~1~0
+4165~1~Henry to du Plessis, no run, ooh, that's a tight leave. On the shorter side of a good length, with a bit of nip back in. Doesn't seem to miss the top of off stump by much
+4165~1~
+4165~1~3.1
+4165~1~2
+4165~1~Boult to Amla, 2 runs, short, but on a tight line close to off stump. Jumps to ride the bounce and just meets it with a vertical bat to send it rolling away between backward point and cover point
+4165~1~
+4165~1~Hamish: "Boult has dismissed de Kock five times in ODIs now." Yup. In just eight innings!
+4165~1~END OF OVER:3 | 1 Run | SA: 12/1 | RR: 4.00
+4165~1~
+4165~1~    Faf du Plessis2 (3b)
+4165~1~    Hashim Amla5 (7b)
+4165~1~
+4165~1~    Matt Henry2-0-6-0
+4165~1~    Trent Boult1-0-6-1
+4165~1~
+4165~1~
+4165~1~3.2
+4165~1~0
+4165~1~Boult to Amla, no run, length ball, slanting away a touch wider. Left alone
+4165~1~
+4165~1~3.3
+4165~1~1
+4165~1~Boult to Amla, 1 run, shortish, at the body. Whipped off the hip to fine leg
+4165~1~
+4165~1~Anshul Dave : "Myy fantasy team vice captain has taken out my captain. Dont know whether be happy or sad" -- That's how life mostly works, mate.
+4165~1~
+4165~1~3.4
+4165~1~0
+4165~1~Boult to du Plessis, no run, wide length ball, left alone. Could have been called wide, but isn't
+4165~1~
+4165~1~3.5
+4165~1~0
+4165~1~Boult to du Plessis, no run, nicely bowled. Not quite as wide as the previous one, and on a length that's juuust short of drive-able. Two slips in place, and Faf ignores the bait
+4165~1~
+4165~1~3.6
+4165~1~0
+4165~1~Boult to du Plessis, no run, back of a length close to off stump, defended into the point region
+4165~1~
+4165~1~4.1
+4165~1~0
+4165~1~Henry to Amla, no run, another wide-ish length ball - sixth stump or thereabouts - and Amla leaves it alone
+4165~1~END OF OVER:4 | 3 Runs | SA: 15/1 | RR: 3.75
+4165~1~
+4165~1~    Faf du Plessis2 (6b)
+4165~1~    Hashim Amla8 (10b)
+4165~1~
+4165~1~    Trent Boult2-0-9-1
+4165~1~    Matt Henry2-0-6-0
+4165~1~
+4165~1~
+4165~1~4.2
+4165~1~0
+4165~1~Henry to Amla, no run, ooh, some swing on this occasion. On the fuller side of a good length, inviting the cover drive away from the body. Amla goes for it, and the ball swerves past his outside edge
+4165~1~
+4165~1~4.3
+4165~1~3
+4165~1~Henry to Amla, 3 runs, full, angling into off stump. Amla looks for the cover drive, a hands shot with feet going nowhere. The ball doesn't swing this time - he's playing for swing - and it runs away through midwicket off the inside edge. Big gap between bat and pad - that could easily have gone through
+4165~1~
+4165~1~4.4
+4165~1~0
+4165~1~Henry to du Plessis, no run, length ball outside off, a bit of outswing. Faf leaves it alone
+4165~1~
+4165~1~4.5
+4165~1~0
+4165~1~Henry to du Plessis, no run, a touch shorter, swerves away sharply from a fifth-stump line, left alone
+4165~1~
+4165~1~4.6
+4165~1~0
+4165~1~Henry to du Plessis, no run, and again, no shot offered. Back of a length outside off, a bit of away swing
+4165~1~
+4165~1~5.1
+4165~1~0
+4165~1~Boult to Amla, no run, Ooh, that's some sharp inswing. A fullish length, and once again Amla's front foot goes nowhere. Tries to flick it hurriedly, following the swing, but his front pad is in the way. No appeal - the impact was outside leg stump and the ball was missing leg too
+4165~1~
+4165~1~A wide gully in place now for Boult. No slips.
+4165~1~END OF OVER:5 | 3 Runs | SA: 18/1 | RR: 3.60
+4165~1~
+4165~1~    Faf du Plessis2 (9b)
+4165~1~    Hashim Amla11 (13b)
+4165~1~
+4165~1~    Matt Henry3-0-9-0
+4165~1~    Trent Boult2-0-9-1
+4165~1~
+4165~1~
+4165~1~5.2
+4165~1~0
+4165~1~Boult to Amla, no run, full on leg stump, clipped to midwicket
+4165~1~
+4165~1~5.3
+4165~1~0
+4165~1~Boult to Amla, no run, length ball on middle and off, shuffles across and defends into the on side
+4165~1~
+4165~1~5.4
+4165~1~2
+4165~1~Boult to Amla, 2 runs, looks for that full inswinger again, ends up a touch too straight, and Amla clips it off his toes to the left of fine leg
+4165~1~
+4165~1~Faf du Plessis finished the 2015 World Cup with an average of 36. He's bulked that up to 46 now thanks to a really good last four years. In that time, he's even made public a wish to move from a good player to a great player and that's the focus whenever he trains.
+4165~1~
+4165~1~5.5
+4165~1~0
+4165~1~Boult to Amla, no run, length ball, straightens a little along the fourth-stump line. Defended off the front foot, into the covers
+4165~1~
+4165~1~5.6
+4165~1~0
+4165~1~Boult to Amla, no run, length ball swinging in towards middle and off. Gets behind it and clips to square leg
+4165~1~
+4165~1~Gully's moved to slip now. And Guptill is at a catching short midwicket.
+4165~1~
+4165~1~6.1
+4165~1~0
+4165~1~Henry to du Plessis, no run, fullish on off stump, du Plessis plays a good-looking checked drive to mid-off
+4165~1~
+4165~1~You can now WATCH the game LIVE on Hotstar in India or in the US.
+4165~1~END OF OVER:6 | 2 Runs | SA: 20/1 | RR: 3.33
+4165~1~
+4165~1~    Hashim Amla13 (19b)
+4165~1~    Faf du Plessis2 (9b)
+4165~1~
+4165~1~    Trent Boult3-0-11-1
+4165~1~    Matt Henry3-0-9-0
+4165~1~
+4165~1~
+4165~1~6.2
+4165~1~0
+4165~1~Henry to du Plessis, no run, back of a length close to off stump, did that keep a tiny bit low? Du Plessis jams his bat down quickly and jabs towards midwicket, off the inside half of the bat
+4165~1~
+4165~1~6.3
+4165~1~0
+4165~1~Henry to du Plessis, no run, length ball swinging away lavishly, but the initial line is wide enough for du Plessis not to get drawn into playing at it
+4165~1~
+4165~1~6.4
+4165~1~0
+4165~1~Henry to du Plessis, no run, length ball, fifth-stump line, not as much swing - more a hit-the-deck type of ball. Du Plessis leaves again
+4165~1~
+4165~1~6.5
+4165~1~2
+4165~1~Henry to du Plessis, 2 runs, ooh, that's a good ball. Full, fuller than half-volley length, and it swings away late from just outside off. Du Plessis was looking for a drive through mid-on, and he ended up opened up and edging thickly to the left of third man, where Lockie Ferguson makes a good attempt at a diving save. Looks like he's juuust kept it in with a strong swish of his left hand
+4165~1~
+4165~1~6.6
+4165~1~0
+4165~1~Henry to du Plessis, no run, length ball outside off, and again that shape away. Left alone
+4165~1~
+4165~1~7.1
+4165~1~0
+4165~1~Boult to Amla, no run, fullish, slanting into a wide-ish line outside off. Left alone again
+4165~1~
+4165~1~Jas Goria : "There is a news that Shikhar Dhawan is out of CWC19 due to fracture. Is that true? " -- Yup, it's true. We're getting up a news piece as we speak.
+4165~1~END OF OVER:7 | 2 Runs | SA: 22/1 | RR: 3.14
+4165~1~
+4165~1~    Faf du Plessis4 (15b)
+4165~1~    Hashim Amla13 (19b)
+4165~1~
+4165~1~    Matt Henry4-0-11-0
+4165~1~    Trent Boult3-0-11-1
+4165~1~
+4165~1~
+4165~1~7.2
+4165~1~0
+4165~1~Boult to Amla, no run, length ball close to off stump, stays on the crease and pokes into the covers
+4165~1~
+4165~1~7.3
+4165~1~4
+4165~1~Boult to Amla, FOUR runs, shot! Given that Amla doesn't really get on the front foot to most deliveries, bowlers can occasionally try and go fuller to try and draw him forward. This one's got a bit of width on it, though, and not much swing back in, and Amla waves his wand of a bat at it - it's a diagonal bat, but does it matter when he connects so cleanly? - and sends it racing away through cover point
+4165~1~
+4165~1~7.4
+4165~1~4
+4165~1~Boult to Amla, FOUR runs, bam. Overpitches, on off stump, and Amla just shows it the full face and finds the gap to the right of mid-off
+4165~1~
+4165~1~Round the wicket now.
+4165~1~
+4165~1~7.5
+4165~1~0
+4165~1~Boult to Amla, no run, length ball angling across towards off stump, gets across and behind it and defends into the covers
+4165~1~
+4165~1~Back over the wicket.
+4165~1~
+4165~1~7.6
+4165~1~1
+4165~1~Boult to Amla, 1 run, ooh, good ball. Good length, slanting across into the corridor, and gets some extra bounce. Takes the shoulder of the bat as Amla props half-forward to defend, but he plays with soft hands and it doesn't carry to the fielder at slip
+4165~1~
+4165~1~8.1
+4165~1~0
+4165~1~Henry to Amla, no run, another good-length outswinger, sixth-stump line, left alone
+4165~1~END OF OVER:8 | 9 Runs | SA: 31/1 | RR: 3.87
+4165~1~
+4165~1~    Hashim Amla22 (25b)
+4165~1~    Faf du Plessis4 (15b)
+4165~1~
+4165~1~    Trent Boult4-0-20-1
+4165~1~    Matt Henry4-0-11-0
+4165~1~
+4165~1~
+4165~1~8.2
+4165~1~0
+4165~1~Henry to Amla, no run, good length again, closer to off stump. Judges it well and leaves it again
+4165~1~
+4165~1~Sam : "Lots of talk and articles written about bat dominating ball, but there have been some brilliant fast bowling in this World Cup. " -- Indeed. Boult and Henry have been pretty good too, so far, and bowled a fuller length than most teams at the tournament. Lots of leaves - tells you how much it's swinging, and that these two have batted pretty well too.
+4165~1~
+4165~1~8.3
+4165~1~0
+4165~1~Henry to Amla, no run, third leave in a row. Slightly fuller than the previous ball, on a tight line outside off. Sees the shape on it and leaves it
+4165~1~
+4165~1~8.4
+4165~1~0
+4165~1~Henry to Amla, no run, back of a length on off stump, punched to mid-on
+4165~1~
+4165~1~8.5
+4165~1~0
+4165~1~Henry to Amla, no run, back of a length on middle stump, clipped to the left of square leg, where the fielder makes a good diving stop
+4165~1~
+4165~1~Was Amla having some trouble shuffling too far across his stumps? He's taking guard outside leg stump today, so that his shuffle doesn't take him as far across.
+4165~1~
+4165~1~8.6
+4165~1~0
+4165~1~Henry to Amla, no run, length ball outside off, left alone
+4165~1~
+4165~1~9.1
+4165~1~4
+4165~1~Boult to du Plessis, FOUR runs, full outside off, and that's a good shot even though it isn't off the middle of the bat. It isn't a half-volley, and it's swinging back in, but du Plessis got a big stride forward, ensuring he reduced the width of the swing at the point of impact, and the ball rolled away to the right of mid-off off the inside half of the bat
+4165~1~END OF OVER:9 | (maiden) | SA: 31/1 | RR: 3.44
+4165~1~
+4165~1~    Hashim Amla22 (31b)
+4165~1~    Faf du Plessis4 (15b)
+4165~1~
+4165~1~    Matt Henry5-1-11-0
+4165~1~    Trent Boult4-0-20-1
+4165~1~
+4165~1~
+4165~1~9.2
+4165~1~0
+4165~1~Boult to du Plessis, no run, length ball, straightens a bit outside off, not enough to make Faf play
+4165~1~
+4165~1~9.3
+4165~1~4
+4165~1~Boult to du Plessis, FOUR runs, shot! A touch overpitched this time, but again a big stride forward to ensure he's close to the pitch, and he drives between mid-off and short extra-cover
+4165~1~
+4165~1~9.4
+4165~1~1
+4165~1~Boult to du Plessis, 1 run, length ball, fifth-stump line. Presses forward, lets it come, and dabs to the left of backward point
+4165~1~
+4165~1~9.5
+4165~1~0
+4165~1~Boult to Amla, no run, shortish, off-stump line. Jumps to ride the bounce and defends towards midwicket
+4165~1~
+4165~1~9.6
+4165~1~0
+4165~1~Boult to Amla, no run, beauty. He's been getting consistent swing back into the right-hander, and this one just keeps going with the angle. Back of a length, pitching within the stumps and slanting away, and it beats the outside edge as Amla aims a back-foot punch at it
+4165~1~
+4165~1~Avinash Singh: "I just came across the Sign language commentary in the Guernsey v Norway ICC Men's T20 World Cup Global Qualifier. It is just amazing in every aspect of the game."
+4165~1~
+4165~1~10.1
+4165~1~0
+4165~1~Henry to du Plessis, no run, full and largely holds its line outside off, Faf presses forward and drives only as far as backward point
+4165~1~
+4165~1~Thanks, KK. Henry into his sixth over
+4165~1~END OF OVER:10 | 9 Runs | SA: 40/1 | RR: 4.00
+4165~1~
+4165~1~    Hashim Amla22 (33b)
+4165~1~    Faf du Plessis13 (19b)
+4165~1~
+4165~1~    Trent Boult5-0-29-1
+4165~1~    Matt Henry5-1-11-0
+4165~1~
+4165~1~With that, it will be Deiva for the next ten overs. See you soon.
+4165~1~
+4165~1~10.2
+4165~1~0
+4165~1~Henry to du Plessis, no run, on a good length and wobbles away outside off, du Plessis thought about having a dip at it before belatedly letting it pass
+4165~1~
+4165~1~10.3
+4165~1~0
+4165~1~Henry to du Plessis, no run, fuller than a good length and swings away outside off again, Henry wants the two slips to come into play. Du Plessis doesn't. No shot
+4165~1~
+4165~1~10.4
+4165~1~0
+4165~1~Henry to du Plessis, no run, Henry makes du Plessis play and beats the outside edge. Good length, angling in close to off as du Plessis wafts at it. But the ball straightens away so very late to skip past the outside edge. Excellent bowling from Henry
+4165~1~
+4165~1~10.5
+4165~1~0
+4165~1~Henry to du Plessis, no run, Henry drags his length back, this keeps coming into Faf with the angle and cramps him for room. He awkwardly fends the ball to the off side off the back foot
+4165~1~
+4165~1~10.6
+4165~1~0
+4165~1~Henry to du Plessis, no run, on a length and moving away with the angle, not close enough to off to draw a stroke from Faf. End of a maiden from Henry
+4165~1~
+4165~1~11.1
+4165~1~1
+4165~1~Ferguson to Amla, 1 run, full and wide outside off, 142ks, Amla reaches out for the ball and carves to deep third man
+4165~1~
+4165~1~Get on board the Whakamana Express: Lockie Ferguson. One slip
+4165~1~END OF OVER:11 | (maiden) | SA: 40/1 | RR: 3.63
+4165~1~
+4165~1~    Faf du Plessis13 (25b)
+4165~1~    Hashim Amla22 (33b)
+4165~1~
+4165~1~    Matt Henry6-2-11-0
+4165~1~    Trent Boult5-0-29-1
+4165~1~
+4165~1~
+4165~1~11.2
+4165~1~0
+4165~1~Ferguson to du Plessis, no run, pitched up and outside off, 137ks, du Plessis reaches out for a drive, but the ball wanders away to the leg side via a soft inside edge
+4165~1~
+4165~1~11.3
+4165~1~0
+4165~1~Ferguson to du Plessis, no run, keeps it full, attacks off stump now, du Plessis drives firmly but can't get it past mid-off
+4165~1~
+4165~1~11.4
+4165~1~1
+4165~1~Ferguson to du Plessis, 1 run, wide of the crease, full and holds its line outside off, 145ks, Faf drives away from the body again and carves the ball fine of deep third man
+4165~1~
+4165~1~Karthik Krishnaswamy: 20 leaves in the first ten overs from South Africa - the most in the first Powerplay at this World Cup so far. The previous highest was 15 by Pakistan against West Indies.
+4165~1~
+4165~1~11.5
+4165~1~0
+4165~1~Ferguson to Amla, no run, shorter and outside off, Ferguson cranks it up to 145kph Amla jumps and jabs the ball away to the left of short cover
+4165~1~
+4165~1~11.6
+4165~1~2
+4165~1~Ferguson to Amla, 2 runs, ... but this is full and outside off, Amla threads the gap at point and reaches 8000 ODI runs. He's the second fastest to the landmark behind Kohli
+4165~1~
+4165~1~Two men in the deep for the pull/hook
+4165~1~
+4165~1~12.1
+4165~1~1
+4165~1~Henry to du Plessis, 1 run, on a length and outside off, driven on the up, just wide of Williamson at mid-off. He can't throw down the stumps either. A single is the outcome
+4165~1~END OF OVER:12 | 4 Runs | SA: 44/1 | RR: 3.66
+4165~1~
+4165~1~    Hashim Amla25 (36b)
+4165~1~    Faf du Plessis14 (28b)
+4165~1~
+4165~1~    Lockie Ferguson1-0-4-0
+4165~1~    Matt Henry6-2-11-0
+4165~1~
+4165~1~
+4165~1~12.2
+4165~1~0
+4165~1~Henry to Amla, no run, on a length and floats away outside off, Amla simply shoulders arms
+4165~1~
+4165~1~Tabrez: "I pledge to walk 50000 steps tomorrow, if this match ends just like the semi final of WC2015 but with SA winning this time"
+4165~1~
+4165~1~12.3
+4165~1~0
+4165~1~Henry to Amla, no run, pitched up and on a fourth-stump line, Amla drives and finds mid-off
+4165~1~
+4165~1~12.4
+4165~1~3
+4165~1~Henry to Amla, 3 runs, Williamson has deployed men at short midwicket and mid-on, but Amla hops, skips, and fends this short ball that is aimed at his body into that very gap
+4165~1~
+4165~1~WATCH - Trent Boult sends Quinton de Kock's stumps flying (Australia, UK and SEA only)
+4165~1~
+4165~1~12.5
+4165~1~0
+4165~1~Henry to du Plessis, no run, Henry hits a hard length on off, Faf covers up the line and defends back to the bowler
+4165~1~
+4165~1~12.6
+4165~1~4
+4165~1~Henry to du Plessis, FOUR runs, pitched up on off, right in Faf's driving radar. He stretches out and drives serenely past the non-striker and straight of mid-on to push SA past 50
+4165~1~
+4165~1~Supradeep: "South Africa are doing the right thing. This is the proven strategy in many ways this tournament. Dont lose wickets early, condolidaye and score at blistering pace at the death. Just need to make sure they dont overdo this."
+4165~1~
+4165~1~13.1
+4165~1~0
+4165~1~Ferguson to Amla, no run, back of a length and outside off, 146ks, Amla throws his hands at the ball and winds up mis-hitting it right back to the bowler
+4165~1~END OF OVER:13 | 8 Runs | SA: 52/1 | RR: 4.00
+4165~1~
+4165~1~    Faf du Plessis19 (31b)
+4165~1~    Hashim Amla28 (39b)
+4165~1~
+4165~1~    Matt Henry7-2-19-0
+4165~1~    Lockie Ferguson1-0-4-0
+4165~1~
+4165~1~
+4165~1~13.2
+4165~1~3
+4165~1~Ferguson to Amla, 3 runs, shorter and outside off, 147ks, Amla gets on top of the bounce and beautifully punches it away to the left of backward point and right of deep third man for three
+4165~1~
+4165~1~13.3
+4165~1~0
+4165~1~Ferguson to du Plessis, no run, really full on middle, Faf drills a drive but can't get it past mid-on
+4165~1~
+4165~1~13.4
+4165~1~4
+4165~1~Ferguson to du Plessis, FOUR runs, back of a length and outside off, 148ks, this pings into the boundary off the middle of the bat. The weight is on the back foot as du Plessis punches through the line - to the right of short cover and left of mid-off
+4165~1~
+4165~1~13.5
+4165~1~0
+4165~1~Ferguson to du Plessis, no run, typical fast bowler's response after being hit for a boundary. Bouncer, 149ks, aimed at the head. Faf keeps his eyes on the ball and rocks his head out of the way
+4165~1~
+4165~1~13.6
+4165~1~W
+4165~1~Ferguson to du Plessis, OUT, Ferguson yorks du Plessis. How do you even play this? Ferguson follows the 149ks bouncer with a 148ks missile at the blockhole. The short ball and the bouncer pushed Faf back. This one clatters into off stump. Ferguson aces the 1-2. Just too quick for Faf
+4165~1~
+4165~1~Fdu Plessis b Ferguson 23 (53m 35b 4x4 0x6) SR: 65.71
+4165~1~
+4165~1~14.1
+4165~1~0
+4165~1~de Grandhomme to Amla, no run, floats it up outside off, swings away further, no shot
+4165~1~
+4165~1~De Grandhomme comes on
+4165~1~END OF OVER:14 | 7 Runs 1 Wkt | SA: 59/2 | RR: 4.21
+4165~1~
+4165~1~    Hashim Amla31 (41b)
+4165~1~
+4165~1~    Lockie Ferguson2-0-11-1
+4165~1~    Matt Henry7-2-19-0
+4165~1~
+4165~1~Just leaving this here. It's about Ferguson and his need for speed
+4165~1~
+4165~1~14.2
+4165~1~1
+4165~1~de Grandhomme to Amla, 1 run, overpitched and outside off, driven through the line to sweeper cover
+4165~1~
+4165~1~14.3
+4165~1~0
+4165~1~de Grandhomme to Markram, no run, good length and holds its line outside off, Markram spars at it and... misses
+4165~1~
+4165~1~14.4
+4165~1~0
+4165~1~de Grandhomme to Markram, no run, short and wide outside off, slashed away to cover-point
+4165~1~
+4165~1~14.5
+4165~1~0
+4165~1~de Grandhomme to Markram, no run, full and wobbles away late outside off, Markram covers his off stump and ignores it
+4165~1~
+4165~1~14.6
+4165~1~0
+4165~1~de Grandhomme to Markram, no run, floated full and swings away outside off, left alone once again, barely carries to Latham who is standing back
+4165~1~
+4165~1~15.1
+4165~1~0
+4165~1~Ferguson to Amla, no run, bouncer, angling in at 143ks, Amla drops his gloves and sways his upper body out of the way
+4165~1~END OF OVER:15 | 1 Run | SA: 60/2 | RR: 4.00
+4165~1~
+4165~1~    Aiden Markram0 (4b)
+4165~1~    Hashim Amla32 (43b)
+4165~1~
+4165~1~    Colin de Grandhomme1-0-1-0
+4165~1~    Lockie Ferguson2-0-11-1
+4165~1~
+4165~1~
+4165~1~15.2
+4165~1~0
+4165~1~Ferguson to Amla, no run, short and wide outside off, 143ks again, Amla plays a long way away from the body. Has a mighty slash at it and watches the ball skip past the bat
+4165~1~
+4165~1~15.3
+4165~1~1
+4165~1~Ferguson to Amla, 1 run, back of a length and angling into Amla's back-foot defensive to the covers. They hare across for the single, taking on Santner's arm
+4165~1~
+4165~1~15.4
+4165~1~0
+4165~1~Ferguson to Markram, no run, full and speared in at off, 149ks, Markram closes the bat-face, and jabs the ball down to mid-on
+4165~1~
+4165~1~15.5
+4165~1~4
+4165~1~Ferguson to Markram, FOUR runs, pitched up and outside off, not quite a half-volley, but Markram leans into it and languidly drives it away to the left of short cover. Gorgeous front-foot drive - as gorgeous as his trademark back-foot punch
+4165~1~
+4165~1~15.6
+4165~1~0
+4165~1~Ferguson to Markram, no run, Ferguson runs in hard and hits the pitch harder. Lifter, angling in, and straightening away outside off. Markram has a lazy waft at it and is beaten on the outside edge
+4165~1~
+4165~1~Aashu: "Shows the impact of a fast and accurate first change bolwer. England have Wood, NZ have Ferguson which makes a lot of effect on the game. "
+4165~1~
+4165~1~16.1
+4165~1~0
+4165~1~de Grandhomme to Amla, no run, full and outside off, nibbles away, at least 25kph slower than Ferguson, Amla lets it go
+4165~1~END OF OVER:16 | 5 Runs | SA: 65/2 | RR: 4.06
+4165~1~
+4165~1~    Aiden Markram4 (7b)
+4165~1~    Hashim Amla33 (46b)
+4165~1~
+4165~1~    Lockie Ferguson3-0-16-1
+4165~1~    Colin de Grandhomme1-0-1-0
+4165~1~
+4165~1~
+4165~1~16.2
+4165~1~0
+4165~1~de Grandhomme to Amla, no run, off-stump yorker at 125ks, Amla jams his bat down on it and the ball rolls to cover
+4165~1~
+4165~1~16.3
+4165~1~0
+4165~1~de Grandhomme to Amla, no run, full and on off, barely 125ks now, Amla bunts it away towards mid-on
+4165~1~
+4165~1~There's a wide slip in place, but Amla has been happy to ignore those offerings outside off
+4165~1~
+4165~1~16.4
+4165~1~0
+4165~1~de Grandhomme to Amla, no run, shorter and outside off, Amla camps back and flashes to backward point
+4165~1~
+4165~1~16.5
+4165~1~1
+4165~1~de Grandhomme to Amla, 1 run, full and on off, possibly an offcutter, the batsman is early into a drive and ends up spooning it away to the right of de Grandhomme
+4165~1~
+4165~1~16.6
+4165~1~0
+4165~1~de Grandhomme to Markram, no run, on a length and outside off, de Grandhomme finds awayswing, this leaves Markram and beats the outside edge. When he finds movement, de Grandhomme could be quite a handy option
+4165~1~
+4165~1~17.1
+4165~1~0
+4165~1~Santner to Amla, no run, drifts in outside off, full, driven to the covers off the front foot
+4165~1~
+4165~1~Time for drinks. Mitchell Santner comes into the attack with a slip in place
+4165~1~END OF OVER:17 | 1 Run | SA: 66/2 | RR: 3.88
+4165~1~
+4165~1~    Aiden Markram4 (8b)
+4165~1~    Hashim Amla34 (51b)
+4165~1~
+4165~1~    Colin de Grandhomme2-0-2-0
+4165~1~    Lockie Ferguson3-0-16-1
+4165~1~
+4165~1~
+4165~1~17.2
+4165~1~1
+4165~1~Santner to Amla, 1 run, tossed up outside off, this non-turner is eased down to long-off off the front foot
+4165~1~
+4165~1~FrziMike: "A weird realisation just hit me at Faf's wicket: When anyone from the Fab4 falls cheaply, there is a hope someone else will try and consolidate the innings. But after ABD's retirement, I lose all hope once Faf's gone. Just like today. I believe New Zealand is taking another World Cup win over SA....:("
+4165~1~
+4165~1~17.3
+4165~1~1
+4165~1~Santner to Markram, 1 run, slower through the air, on a length on off, Markram hangs back and forces the ball down to long-on
+4165~1~
+4165~1~17.4
+4165~1~0
+4165~1~Santner to Amla, no run, on the pads, Amla whisks it away to short midwicket
+4165~1~
+4165~1~17.5
+4165~1~1
+4165~1~Santner to Amla, 1 run, on a length, hint of turn for Santner, driven with the break to the off-side sweeper
+4165~1~
+4165~1~17.6
+4165~1~0
+4165~1~Santner to Markram, no run, looped up on off, Markram is right forward to smother it and close out the over
+4165~1~
+4165~1~He might seem innocuous, but Mitchell Santner is a vital part of this New Zealand team and this is why. Go on. Click it. You know you want to.
+4165~1~
+4165~1~18.1
+4165~1~0
+4165~1~de Grandhomme to Amla, no run, shorter and hoops back into Amla, who is on the back foot, flicking and missing. The ball was doing too much to threaten the stumps. Latham reckons it was bouncing too much. The tracker returns umpire's call on leg stump
+4165~1~END OF OVER:18 | 3 Runs | SA: 69/2 | RR: 3.83
+4165~1~
+4165~1~    Aiden Markram5 (10b)
+4165~1~    Hashim Amla36 (55b)
+4165~1~
+4165~1~    Mitchell Santner1-0-3-0
+4165~1~    Colin de Grandhomme2-0-2-0
+4165~1~
+4165~1~
+4165~1~18.2
+4165~1~1
+4165~1~de Grandhomme to Amla, 1 run, shorter and outside off, slashed away behind point
+4165~1~
+4165~1~18.3
+4165~1~0
+4165~1~de Grandhomme to Markram, no run, back of a length and outside off, punched up to cover
+4165~1~
+4165~1~18.4
+4165~1~0
+4165~1~de Grandhomme to Markram, no run, much fuller, another inswinger, it has Markram falling over the flick and playing around his front pad, but this is heading down leg
+4165~1~
+4165~1~18.5
+4165~1~0
+4165~1~de Grandhomme to Markram, no run, full on the stumps, defended
+4165~1~
+4165~1~18.6
+4165~1~1
+4165~1~de Grandhomme to Markram, 1 run, full and holds its line outside off, Markram chases a big cover drive and nicks an inside edge to the leg side
+4165~1~
+4165~1~19.1
+4165~1~1
+4165~1~Santner to Markram, 1 run, skidding into leg stump, back-foot punch down to long-on
+4165~1~END OF OVER:19 | 2 Runs | SA: 71/2 | RR: 3.73
+4165~1~
+4165~1~    Aiden Markram6 (14b)
+4165~1~    Hashim Amla37 (57b)
+4165~1~
+4165~1~    Colin de Grandhomme3-0-4-0
+4165~1~    Mitchell Santner1-0-3-0
+4165~1~
+4165~1~
+4165~1~19.2
+4165~1~0
+4165~1~Santner to Amla, no run, tossed just a shade outside off, driven to Taylor at short cover
+4165~1~
+4165~1~KK (not the one who is sharing bbb duties with me): "Is Markram the only palindromic player on this World Cup?"
+4165~1~
+4165~1~19.3
+4165~1~0
+4165~1~Santner to Amla, no run, sliding in with the arm, clipped to short midwicket's left with that incoming angle
+4165~1~
+4165~1~19.4
+4165~1~1
+4165~1~Santner to Amla, 1 run, slower through the air, on a length on middle, Amla stays leg-side of the ball and drops a single in front of point
+4165~1~
+4165~1~19.5
+4165~1~0
+4165~1~Santner to Markram, no run, flighted on off, Markram presses forward and blocks it back
+4165~1~
+4165~1~Edward van der : "For a South African like me, it hurts to see how wonky our batting line up is. We cannot rely on the tail enders again to get us past 200(if we are lucky)"
+4165~1~
+4165~1~19.6
+4165~1~0
+4165~1~Santner to Markram, no run, Santner keeps it tight at off stump, Markram responds with an equally tight forward defence
+4165~1~
+4165~1~20.1
+4165~1~0
+4165~1~de Grandhomme to Amla, no run, full, a bit of inward wobble as it angles in towards off and middle. Looks to punch straight, goes to mid-on off the inside half of the bat
+4165~1~
+4165~1~Thanks, Deiva.
+4165~1~END OF OVER:20 | 2 Runs | SA: 73/2 | RR: 3.65
+4165~1~
+4165~1~    Aiden Markram7 (17b)
+4165~1~    Hashim Amla38 (60b)
+4165~1~
+4165~1~    Mitchell Santner2-0-5-0
+4165~1~    Colin de Grandhomme3-0-4-0
+4165~1~
+4165~1~Right then, it's back to KK
+4165~1~
+4165~1~20.2
+4165~1~1
+4165~1~de Grandhomme to Amla, 1 run, full on middle stump, clipped away to deep square leg
+4165~1~
+4165~1~20.3
+4165~1~0
+4165~1~de Grandhomme to Markram, no run, full again, on middle stump. Gets his front leg out of the way and drives firmly back to the bowler
+4165~1~
+4165~1~20.4
+4165~1~0
+4165~1~de Grandhomme to Markram, no run, length ball close to off stump, stays on the crease and a touch leg-side of the ball to block into the point region
+4165~1~
+4165~1~20.5
+4165~1~0
+4165~1~de Grandhomme to Markram, no run, back of a length outside off, takes a big back-and-across step, looks to punch towards mid-on, doesn't really middle it. The bowler moves across to his right to stop it
+4165~1~
+4165~1~20.6
+4165~1~1
+4165~1~de Grandhomme to Markram, 1 run, back of a length, a bit of width, slapped fiercely but straight to deep point
+4165~1~
+4165~1~21.1
+4165~1~1
+4165~1~Santner to Markram, 1 run, length ball on off stump, stays back and whips it to long-on with a lot of bottom hand
+4165~1~END OF OVER:21 | 2 Runs | SA: 75/2 | RR: 3.57
+4165~1~
+4165~1~    Aiden Markram8 (21b)
+4165~1~    Hashim Amla39 (62b)
+4165~1~
+4165~1~    Colin de Grandhomme4-0-6-0
+4165~1~    Mitchell Santner2-0-5-0
+4165~1~
+4165~1~
+4165~1~21.2
+4165~1~1
+4165~1~Santner to Amla, 1 run, slower now, length ball close to off stump. Props forward, lets it come on, and dabs gently into the covers for a quick single
+4165~1~
+4165~1~Kartik: "Santner certainly has X factor, but where's his specs factor today?" -- Doesn't he usually only wear them while batting?
+4165~1~
+4165~1~21.3
+4165~1~0
+4165~1~Santner to Markram, no run, nice length, angling in towards off stump, defended down the pitch, towards the non-striker
+4165~1~
+4165~1~21.4
+4165~1~0
+4165~1~Santner to Markram, no run, a bit fuller, angling into middle stump. Gets his front pad out of the way and blocks it back where it came from
+4165~1~
+4165~1~21.5
+4165~1~1
+4165~1~Santner to Markram, 1 run, back of a length, homing in on the top of off stump. Makes a bit of room and jabs to the right of backward point
+4165~1~
+4165~1~21.6
+4165~1~1
+4165~1~Santner to Amla, 1 run, back of a length on middle stump, punched to long-on
+4165~1~
+4165~1~22.1
+4165~1~0
+4165~1~de Grandhomme to Amla, no run, back of a length close to off stump, stays leg-side of the ball and carves to backward point
+4165~1~END OF OVER:22 | 4 Runs | SA: 79/2 | RR: 3.59
+4165~1~
+4165~1~    Hashim Amla41 (64b)
+4165~1~    Aiden Markram10 (25b)
+4165~1~
+4165~1~    Mitchell Santner3-0-9-0
+4165~1~    Colin de Grandhomme4-0-6-0
+4165~1~
+4165~1~
+4165~1~22.2
+4165~1~0
+4165~1~de Grandhomme to Amla, no run, length ball on off stump, defended towards backward point
+4165~1~
+4165~1~22.3
+4165~1~1
+4165~1~de Grandhomme to Amla, 1 run, big step down the pitch and across his stumps, whips this full one from outside off to mid-on, and takes off in a hurry
+4165~1~
+4165~1~22.4
+4165~1~1lb
+4165~1~de Grandhomme to Markram, 1 leg bye, fullish, is that sliding down leg? Bit of an appeal, but no review once the umpire gives it not out. Steps out of the crease, looks to whip through the leg side, the ball slides past his inside edge. Was probably missing leg
+4165~1~
+4165~1~22.5
+4165~1~1
+4165~1~de Grandhomme to Amla, 1 run, shortish outside off, slapped to deep point
+4165~1~
+4165~1~22.6
+4165~1~2
+4165~1~de Grandhomme to Markram, 2 runs, length ball on off stump, whipped into the square leg region. The fielder has to come in a long way off the boundary and that gives them time to sprint two
+4165~1~
+4165~1~23.1
+4165~1~1
+4165~1~Santner to Amla, 1 run, full on middle stump, whipped to long-on
+4165~1~
+4165~1~Hassan: "I am unable to grasp if it is the pitch that is not letting the SA batsmen play freely or the SA batting lineup has become so weak and sloppy that they are unable to score runs freely because the current RR is horrible, given the English conditions and type of pitches we have seen so far?" -- This has been an unusual pitch for the World Cup, with a bit of help in it for the bowlers, and apart fron the pitch the ball has also swung a lot.
+4165~1~END OF OVER:23 | 5 Runs | SA: 84/2 | RR: 3.65
+4165~1~
+4165~1~    Aiden Markram12 (27b)
+4165~1~    Hashim Amla43 (68b)
+4165~1~
+4165~1~    Colin de Grandhomme5-0-10-0
+4165~1~    Mitchell Santner3-0-9-0
+4165~1~
+4165~1~
+4165~1~23.2
+4165~1~1
+4165~1~Santner to Markram, 1 run, not quite as full this time, and the attempted whip to long-on is intercepted by Williamson diving left from short midwicket. Gets on his feet super quick and Markram has to hurry to beat the throw home at the non-striker's end
+4165~1~
+4165~1~23.3
+4165~1~1
+4165~1~Santner to Amla, 1 run, length ball close to off stump, jabbed into the point region
+4165~1~
+4165~1~23.4
+4165~1~0
+4165~1~Santner to Markram, no run, flat length ball on leg stump. Looks to push to long-on again, can't get it far enough of the bowler, who throws himself to his right to stop it
+4165~1~
+4165~1~23.5
+4165~1~4
+4165~1~Santner to Markram, FOUR runs, overpitched. Gives it a bit of air and loses his length, bowls a half-volley on off stump, and Markram brings all the power of his bottom hand into this drive to beat the diving bowler and beat long-on to his left
+4165~1~
+4165~1~23.6
+4165~1~0
+4165~1~Santner to Markram, no run, tossed up slow on off stump, better length, stretches out to defend towards short extra
+4165~1~
+4165~1~24.1
+4165~1~0
+4165~1~de Grandhomme to Amla, no run, back of a length close to off stump, whipped to mid-on
+4165~1~
+4165~1~CdG continues. A wide gully in place.
+4165~1~END OF OVER:24 | 7 Runs | SA: 91/2 | RR: 3.79
+4165~1~
+4165~1~    Aiden Markram17 (31b)
+4165~1~    Hashim Amla45 (70b)
+4165~1~
+4165~1~    Mitchell Santner4-0-16-0
+4165~1~    Colin de Grandhomme5-0-10-0
+4165~1~
+4165~1~
+4165~1~24.2
+4165~1~0
+4165~1~de Grandhomme to Amla, no run, length ball close to off stump, stops on the pitch a little as Amla looks to drive on the up. Hits the inside half of the bat and rolls slowly towards short extra-cover. Wanted to drive to that fielder's left
+4165~1~
+4165~1~24.3
+4165~1~0
+4165~1~de Grandhomme to Amla, no run, short now, and again the ball stops on Amla. Wants to slap to deep point, ends up dragging it to short extra
+4165~1~
+4165~1~24.4
+4165~1~2
+4165~1~de Grandhomme to Amla, 2 runs, shot. Goes full now, and he leans forward to whip this from outside off, over mid-on. There's a deep midwicket in place to mop up
+4165~1~
+4165~1~24.5
+4165~1~4
+4165~1~de Grandhomme to Amla, FOUR runs, full again, and this time he doesn't whip it in the air as much. It's just out of reach of mid-on throwing himself to his right, and it runs away quickly to bring up Amla's fifty
+4165~1~
+4165~1~24.6
+4165~1~1
+4165~1~de Grandhomme to Amla, 1 run, short outside off, carved to deep point
+4165~1~
+4165~1~25.1
+4165~1~1
+4165~1~Santner to Amla, 1 run, full on off stump, driven inside-out to the left of extra-cover
+4165~1~
+4165~1~Sid: "This innings so far reminds me of the India-SA game in this tournament. Looks like this is going to be low-scoring dogfight."
+4165~1~END OF OVER:25 | 7 Runs | SA: 98/2 | RR: 3.92
+4165~1~
+4165~1~    Hashim Amla52 (76b)
+4165~1~    Aiden Markram17 (31b)
+4165~1~
+4165~1~    Colin de Grandhomme6-0-17-0
+4165~1~    Mitchell Santner4-0-16-0
+4165~1~
+4165~1~
+4165~1~25.2
+4165~1~1
+4165~1~Santner to Markram, 1 run, back of a length close to off stump, lets it come on and eases it towards deep point. That brings up South Africa's 100
+4165~1~
+4165~1~25.3
+4165~1~0
+4165~1~Santner to Amla, no run, flat, angling into the pads. Whipped firmly but can't beat short fine leg
+4165~1~
+4165~1~25.4
+4165~1~0
+4165~1~Santner to Amla, no run, nicely bowled. Gets a bit of in-drift towards middle stump. Wants to drive inside-out through the covers, ends up hitting it back to the bowler
+4165~1~
+4165~1~25.5
+4165~1~1
+4165~1~Santner to Amla, 1 run, wide length ball, carved away to deep point
+4165~1~
+4165~1~25.6
+4165~1~1
+4165~1~Santner to Markram, 1 run, length ball on off stump, driven to long-off
+4165~1~
+4165~1~26.1
+4165~1~2
+4165~1~Ferguson to Markram, 2 runs, back of a length close to off stump, punched to the right of the off-side sweeper
+4165~1~
+4165~1~Change in bowling. Ferguson returns.
+4165~1~
+4165~1~Nico Myburgh : "A lot of people complaining about the run rate. With conditions as is i would much rather have them bat like this, wickets in hand and post a 250-ish score, than being bundled out for 180."
+4165~1~
+4165~1~WATCH - Ferguson yorks Faf for 23 (Australia, UK and SEA only)
+4165~1~END OF OVER:26 | 4 Runs | SA: 102/2 | RR: 3.92
+4165~1~
+4165~1~    Aiden Markram19 (33b)
+4165~1~    Hashim Amla54 (80b)
+4165~1~
+4165~1~    Mitchell Santner5-0-20-0
+4165~1~    Colin de Grandhomme6-0-17-0
+4165~1~
+4165~1~
+4165~1~26.2
+4165~1~1
+4165~1~Ferguson to Markram, 1 run, full outside off, driven to the sweeper at deep cover point
+4165~1~
+4165~1~26.3
+4165~1~0
+4165~1~Ferguson to Amla, no run, short, rising ball, angling in towards middle stump. Gets square-on, lets it come on, and defends towards midwicket with soft hands
+4165~1~
+4165~1~26.4
+4165~1~1
+4165~1~Ferguson to Amla, 1 run, shortish on middle and off. Hops to ride the bounce and dab with soft hands into the cover region
+4165~1~
+4165~1~26.5
+4165~1~1w
+4165~1~Ferguson to Markram, 1 wide, bouncer over off stump, and it rises comfortably over head height. Markram just leans across to let it pass over his left shoulder
+4165~1~
+4165~1~26.5
+4165~1~0
+4165~1~Ferguson to Markram, no run, in the blockhole on off stump, blocked solidly to mid-off, ensuring his feet aren't in the way
+4165~1~
+4165~1~26.6
+4165~1~1
+4165~1~Ferguson to Markram, 1 run, short outside off, gets off his feet to get on top of the bounce, and rolls his wrists over to keep the cut down. Guptill, diving left from backward point, gets a hand to it, but can't fully stop the ball, which rolls gently through the outfield
+4165~1~
+4165~1~27.1
+4165~1~0
+4165~1~Santner to Markram, no run, nicely tossed up on middle stump, not full enough to drive, blocked back to the bowler
+4165~1~END OF OVER:27 | 6 Runs | SA: 108/2 | RR: 4.00
+4165~1~
+4165~1~    Aiden Markram23 (37b)
+4165~1~    Hashim Amla55 (82b)
+4165~1~
+4165~1~    Lockie Ferguson4-0-22-1
+4165~1~    Mitchell Santner5-0-20-0
+4165~1~
+4165~1~
+4165~1~27.2
+4165~1~2
+4165~1~Santner to Markram, 2 runs, down the track now and Santner drifts one into his pads, to try and deny him swinging room. Looks to flick, ends up playing towards short fine leg off the inside half of the bat
+4165~1~
+4165~1~27.3
+4165~1~1
+4165~1~Santner to Markram, 1 run, shortish on off stump, rocks back and flat-bats to long-on
+4165~1~
+4165~1~27.4
+4165~1~W
+4165~1~Santner to Amla, OUT, bowled him, that's slightly loose from Amla. Good ball from Santner, though, hits an excellent length and spins from middle stump to hit top of off. Amla, though, was trying to stay leg-side of the ball and play that with an open face, looking to dab into the point region, which is a risky shot if all you're looking for is a single
+4165~1~
+4165~1~HM Amla b Santner 55 (111m 83b 4x4 0x6) SR: 66.26
+4165~1~
+4165~1~27.5
+4165~1~0
+4165~1~Santner to van der Dussen, no run, full on off stump, punched back to the bowler
+4165~1~
+4165~1~In walks Rassie van der Dussen. A slip moves into place.
+4165~1~
+4165~1~27.6
+4165~1~1
+4165~1~Santner to van der Dussen, 1 run, back of a length on off stump, makes room for the push to deep point
+4165~1~
+4165~1~28.1
+4165~1~1lb
+4165~1~Ferguson to van der Dussen, 1 leg bye, hits a good length, gets a bit of inward nip to beat the inside edge of the attempted flick. Ricochets off the pad towards backward point, was probably missing leg stump
+4165~1~END OF OVER:28 | 4 Runs 1 Wkt | SA: 112/3 | RR: 4.00
+4165~1~
+4165~1~    Rassie van der Dussen1 (2b)
+4165~1~    Aiden Markram26 (40b)
+4165~1~
+4165~1~    Mitchell Santner6-0-24-1
+4165~1~    Lockie Ferguson4-0-22-1
+4165~1~
+4165~1~
+4165~1~28.2
+4165~1~1
+4165~1~Ferguson to Markram, 1 run, digs this in short, and surprises Markram with extra bounce. Fends at it and the ball pops up slightly, but to the right of midwicket
+4165~1~
+4165~1~28.3
+4165~1~0
+4165~1~Ferguson to van der Dussen, no run, back of a length close to off stump, punched into the backward point region
+4165~1~
+4165~1~Only three back for Lockie to Rassie. Fine leg, third man, deep point. A slip in place too.
+4165~1~
+4165~1~28.4
+4165~1~1
+4165~1~Ferguson to van der Dussen, 1 run, back of a length again, this time he punches it in front of square, to the man at deep point
+4165~1~
+4165~1~28.5
+4165~1~0
+4165~1~Ferguson to Markram, no run, full outside off, nice stride forward, nice-looking drive, but straight to extra-cover
+4165~1~
+4165~1~No slip for Markram.
+4165~1~
+4165~1~28.6
+4165~1~0
+4165~1~Ferguson to Markram, no run, shortish, angling into off stump, turns his wrists on top of the bounce to play it down to midwicket
+4165~1~
+4165~1~29.1
+4165~1~1
+4165~1~Santner to van der Dussen, 1 run, tossed up close to off stump, presses forward and eases it into the point region
+4165~1~
+4165~1~Santner continues. Only three back for him too. Sweepers on both sides and a long-off.
+4165~1~
+4165~1~Jarryd: "Maybe José Mourinho has secretly found a job as South Africa's batting coach." Heh. I should re-emphasise, however, that this isn't the easiest pitch to bat on.
+4165~1~END OF OVER:29 | 3 Runs | SA: 115/3 | RR: 3.96
+4165~1~
+4165~1~    Aiden Markram27 (43b)
+4165~1~    Rassie van der Dussen2 (5b)
+4165~1~
+4165~1~    Lockie Ferguson5-0-24-1
+4165~1~    Mitchell Santner6-0-24-1
+4165~1~
+4165~1~
+4165~1~29.2
+4165~1~0
+4165~1~Santner to Markram, no run, tossed up slow on off stump, driven firmly to cover
+4165~1~
+4165~1~29.3
+4165~1~4
+4165~1~Santner to Markram, FOUR runs, shot! Tosses it up again and gives away a bit of width, but Markram still had to pierce the field with his drive - a cover, a short extra-cover, a sweeper square at cover point. He opens his bat face a bit to split cover and deep cover point.
+4165~1~
+4165~1~29.4
+4165~1~1
+4165~1~Santner to Markram, 1 run, tossed up full on off stump, clipped away to long-on
+4165~1~
+4165~1~29.5
+4165~1~2
+4165~1~Santner to van der Dussen, 2 runs, flat, angling down leg, tickled away past the left glove of the keeper
+4165~1~
+4165~1~29.6
+4165~1~0
+4165~1~Santner to van der Dussen, no run, flat and fairly full on off stump, blocked to short extra-cover
+4165~1~
+4165~1~30.1
+4165~1~1
+4165~1~de Grandhomme to Markram, 1 run, Boult, of all fielders, drops a catch. Wouldya believe it? He has misjudged this. He runs across to his left from deep square leg, the ball comes at him at a rather awkward height, but Boult makes life difficult for him by leaping. Both his feet are in the air as he goes for the catch with both hands. The ball ultimately pops out of his hands. Boult was never stable and Markram gets away with that airy pull off a hip-high short ball
+4165~1~
+4165~1~Thanks, KK
+4165~1~END OF OVER:30 | 8 Runs | SA: 123/3 | RR: 4.10
+4165~1~
+4165~1~    Rassie van der Dussen5 (8b)
+4165~1~    Aiden Markram32 (46b)
+4165~1~
+4165~1~    Mitchell Santner7-0-32-1
+4165~1~    Lockie Ferguson5-0-24-1
+4165~1~
+4165~1~Another change in commentary, it's back to Deiva.
+4165~1~
+4165~1~30.2
+4165~1~0
+4165~1~de Grandhomme to van der Dussen, no run, fuller and outside off, chipped into the covers
+4165~1~
+4165~1~30.3
+4165~1~1
+4165~1~de Grandhomme to van der Dussen, 1 run, shorter and outside off, Rasssie gets on top of it and laces it away to sweeper
+4165~1~
+4165~1~30.4
+4165~1~0
+4165~1~de Grandhomme to Markram, no run, back of a length and swings back in to beat the inside edge and lob into the pad-flap
+4165~1~
+4165~1~30.5
+4165~1~2lb
+4165~1~de Grandhomme to Markram, 2 leg byes, short and veering down the leg side, tickled away to fine leg
+4165~1~
+4165~1~30.6
+4165~1~0
+4165~1~de Grandhomme to Markram, no run, back of a length and outside off, punched through the line to cover
+4165~1~
+4165~1~31.1
+4165~1~1
+4165~1~Boult to van der Dussen, 1 run, short and angling across off from over the stumps, deftly run down to deep third man
+4165~1~
+4165~1~Boult is back as Kane searches for a wicket. Can he put that drop behind him?
+4165~1~
+4165~1~WATCH - Amla reaches 50 with a boundary (Australia, UK and SEA only)
+4165~1~END OF OVER:31 | 4 Runs | SA: 127/3 | RR: 4.09
+4165~1~
+4165~1~    Aiden Markram33 (50b)
+4165~1~    Rassie van der Dussen6 (10b)
+4165~1~
+4165~1~    Colin de Grandhomme7-0-19-0
+4165~1~    Mitchell Santner7-0-32-1
+4165~1~
+4165~1~
+4165~1~31.2
+4165~1~4
+4165~1~Boult to Markram, FOUR runs, back of a length and outside off, Markram stretches out, gets on top of it and laces it away to the left of short cover and right of sweeper
+4165~1~
+4165~1~Rithi : "NZ seem to have all bases covered. Good fast bowling, quality spin attack. experienced batting lineup and the playing conditions similar to their home. Are we in for a surprise this WC ?" --- They need one their two allrounders to come good as a finisher with the bat
+4165~1~
+4165~1~Matt: "All SA batsmen bowled so far. What's the record for bowled dismissals in an ODI innings?" It's eight
+4165~1~
+4165~1~31.3
+4165~1~1
+4165~1~Boult to Markram, 1 run, full and wide again, Markram has a proper go at it and scythes it away to sweeper cover
+4165~1~
+4165~1~Around the stumps now
+4165~1~
+4165~1~31.4
+4165~1~0
+4165~1~Boult to van der Dussen, no run, length ball, slower offcutter, Rassie waits for the ball to arrive, then taps to point
+4165~1~
+4165~1~31.5
+4165~1~1
+4165~1~Boult to van der Dussen, 1 run, overpitched on off, looks like another slower ball, 110ks, Rassie drills it so straight that it knocks off the bails at the other end
+4165~1~
+4165~1~31.6
+4165~1~1w
+4165~1~Boult to Markram, 1 wide, Boult bangs a bouncer, angling down the leg side, Markram simply lets it go for a wide
+4165~1~
+4165~1~31.6
+4165~1~0
+4165~1~Boult to Markram, no run, back of a length and outside off, the bat turns in Markram's hands as he wafts this away into the leg side
+4165~1~
+4165~1~32.1
+4165~1~1
+4165~1~de Grandhomme to van der Dussen, 1 run, fuller and outside off, Rassie lets the ball to slide off the face down to deep third man
+4165~1~END OF OVER:32 | 8 Runs | SA: 135/3 | RR: 4.21
+4165~1~
+4165~1~    Aiden Markram38 (53b)
+4165~1~    Rassie van der Dussen8 (13b)
+4165~1~
+4165~1~    Trent Boult6-0-37-1
+4165~1~    Colin de Grandhomme7-0-19-0
+4165~1~
+4165~1~
+4165~1~32.2
+4165~1~0
+4165~1~de Grandhomme to Markram, no run, slower short ball outside off, flapped away towards mid-on
+4165~1~
+4165~1~32.3
+4165~1~W
+4165~1~de Grandhomme to Markram, OUT, Markram runs down the track to de Grandhomme and skews a catch to sweeper cover. Markram ventures down the pitch, de Grandhomme pulls his length back, and this nips away slightly outside off. Markam looks to swat it away over the leg side, but ends up splicing it to sweeper, where Munro runs in and snaffles it with a reverse-cup
+4165~1~
+4165~1~AK Markram c Munro b de Grandhomme 38 (74m 55b 4x4 0x6) SR: 69.09
+4165~1~
+4165~1~32.4
+4165~1~1
+4165~1~de Grandhomme to van der Dussen, 1 run, pitched up and outside off, driven to long-off
+4165~1~
+4165~1~32.5
+4165~1~0
+4165~1~de Grandhomme to Miller, no run, fuller and angling across off, patted to mid-on off the front foot
+4165~1~
+4165~1~Miller. Three men in the deep: deep midwicket, fine leg, third man
+4165~1~
+4165~1~32.6
+4165~1~0
+4165~1~de Grandhomme to Miller, no run, full and outside off, lashed to mid-off
+4165~1~
+4165~1~33.1
+4165~1~0
+4165~1~Boult to van der Dussen, no run, back of a length and slanting across off from over the stumps, slapped straight to backward point
+4165~1~
+4165~1~Ashish: "Is the pitch slow? Looks like that. The shots are not coming through perfectly.even slow outfield. Have newzealand made a mistake of bowling first? The pitch will become slow further." --- Yep, quite a few balls are sticking in the surface
+4165~1~END OF OVER:33 | 2 Runs 1 Wkt | SA: 137/4 | RR: 4.15
+4165~1~
+4165~1~    David Miller0 (2b)
+4165~1~    Rassie van der Dussen10 (15b)
+4165~1~
+4165~1~    Colin de Grandhomme8-0-21-1
+4165~1~    Trent Boult6-0-37-1
+4165~1~
+4165~1~
+4165~1~33.2
+4165~1~1
+4165~1~Boult to van der Dussen, 1 run, shorter and angling across off, dragged towards the midwicket region off the inside half
+4165~1~
+4165~1~33.3
+4165~1~0
+4165~1~Boult to Miller, no run, fullish and on middle, Miller clears his front leg and drills the ball to mid-on
+4165~1~
+4165~1~WATCH - Boult drops a stinker to reprieve Markram (Australia, UK and SEA only)
+4165~1~
+4165~1~33.4
+4165~1~1
+4165~1~Boult to Miller, 1 run, Miller rides the bounce of this short ball outside off and gets this behind Guptill at point. Third man mops up in the outfield
+4165~1~
+4165~1~Devang Srivasta: "For every partnership, proteas have lost a wicket they'd least want to. Now Markram follows suit."
+4165~1~
+4165~1~33.5
+4165~1~1
+4165~1~Boult to van der Dussen, 1 run, full and finishes on the pads, knocked into the leg side for one
+4165~1~
+4165~1~Shads: "Im a big fan of Markram and always look forward to watching him bat. But his form in ODI cricket hasn't lived up to his test form and it's so frustrating watching a very talented batsman not convert these starts into big scores"
+4165~1~
+4165~1~33.6
+4165~1~0
+4165~1~Boult to Miller, no run, back of a length and slanting into the pads, Miller can't put it away with a flick and the drink will taste sweeter for NZ
+4165~1~
+4165~1~34.1
+4165~1~2
+4165~1~de Grandhomme to van der Dussen, 2 runs, full and floats away outside off, Rassie reaches out for the moving ball and scoops it over extra-cover
+4165~1~
+4165~1~Miles B: "1.20am in NZ. My dog and I are loving the action, but we are still waiting for the Neesh to be unleashed!! When will Kane give us what we want??" --- C'mon Kane #UnleashtheNeesh. Okay, you'll have to do with de Grandhomme
+4165~1~END OF OVER:34 | 3 Runs | SA: 140/4 | RR: 4.11
+4165~1~
+4165~1~    David Miller1 (5b)
+4165~1~    Rassie van der Dussen12 (18b)
+4165~1~
+4165~1~    Trent Boult7-0-40-1
+4165~1~    Colin de Grandhomme8-0-21-1
+4165~1~
+4165~1~
+4165~1~34.2
+4165~1~0
+4165~1~de Grandhomme to van der Dussen, no run, slower ball - slower than de Grandhomme's usual stuff. Short and wide outside off, Rassie reaches out again and toe-ends it to point
+4165~1~
+4165~1~34.3
+4165~1~2
+4165~1~de Grandhomme to van der Dussen, 2 runs, back of a length and angling into a leg-side flick in front of square. Rassie comes back for the second
+4165~1~
+4165~1~Nick T: "Yes pitch looks slow and perhaps batting first with runs on the board will prove important. But NZ chasing <250 would be very pleasing for Kano"
+4165~1~
+4165~1~34.4
+4165~1~0
+4165~1~de Grandhomme to van der Dussen, no run, short and outside off, Rassie allows the ball to come onto him, then glides it away to point
+4165~1~
+4165~1~34.5
+4165~1~0
+4165~1~de Grandhomme to van der Dussen, no run, Rassie plays around his front pad and inside-edges this full inswinger from de Grandhomme
+4165~1~
+4165~1~34.6
+4165~1~1
+4165~1~de Grandhomme to van der Dussen, 1 run, back of a length and around off, Rassie nurdles it away to the leg side
+4165~1~
+4165~1~35.1
+4165~1~1
+4165~1~Ferguson to van der Dussen, 1 run, wide of the crease, short and outside off, 137ks, Rassie cuts and inside-edges the ball past the leg stump
+4165~1~
+4165~1~Looks like NZ don't need the Neesh today. Ferguson is back
+4165~1~END OF OVER:35 | 5 Runs | SA: 145/4 | RR: 4.14
+4165~1~
+4165~1~    Rassie van der Dussen17 (24b)
+4165~1~    David Miller1 (5b)
+4165~1~
+4165~1~    Colin de Grandhomme9-0-26-1
+4165~1~    Trent Boult7-0-40-1
+4165~1~
+4165~1~
+4165~1~35.2
+4165~1~1
+4165~1~Ferguson to Miller, 1 run, full and a bit too straight from Ferguson as Miller tucks this 145ks dart to deep midwicket
+4165~1~
+4165~1~35.3
+4165~1~0
+4165~1~Ferguson to van der Dussen, no run, on a length and outside off, quite possibly a slower ball, run away towards point
+4165~1~
+4165~1~35.4
+4165~1~0
+4165~1~Ferguson to van der Dussen, no run, full-toss on off, 143ks, rushes Rassie, flapped to mid-on off the inside half
+4165~1~
+4165~1~35.5
+4165~1~1
+4165~1~Ferguson to van der Dussen, 1 run, short, wide, flayed away to deepish mid-off. Williamson can't throw down the stumps
+4165~1~
+4165~1~Amit Chourey: "NZ has always been a team with the whole greater than sum of its parts. And that has also been the reason why they although reach top 4 most times, but fail to win the big prize. Those one or two big ones that pull their might at the right time. They had Baz in 2015 who got them closest. They have none this time and i reckon they will falter in Semis which would be very sad as I have my money on them being an Indian. "
+4165~1~
+4165~1~35.6
+4165~1~1lb
+4165~1~Ferguson to Miller, 1 leg bye, cross-seam bouncer, angling away, nearly rips out Miller's glove as he fends at it. The ball dribbles away behind square on the off side
+4165~1~
+4165~1~36.1
+4165~1~3
+4165~1~de Grandhomme to Miller, 3 runs, pumped over mid-on inside the circle. Henry chases it hard and hauls the ball into play inches inside the rope. On a length and outside off, Miller goes over the top
+4165~1~END OF OVER:36 | 4 Runs | SA: 149/4 | RR: 4.13
+4165~1~
+4165~1~    David Miller2 (7b)
+4165~1~    Rassie van der Dussen19 (28b)
+4165~1~
+4165~1~    Lockie Ferguson6-0-27-1
+4165~1~    Colin de Grandhomme9-0-26-1
+4165~1~
+4165~1~
+4165~1~36.2
+4165~1~1
+4165~1~de Grandhomme to van der Dussen, 1 run, slower offcutter, worked away through square leg
+4165~1~
+4165~1~WATCH - Santner gets key wicket of Amla (Australia, UK and SEA only)
+4165~1~
+4165~1~36.3
+4165~1~1
+4165~1~de Grandhomme to Miller, 1 run, floated on the pads, flicked to deep midwicket
+4165~1~
+4165~1~36.4
+4165~1~0
+4165~1~de Grandhomme to van der Dussen, no run, back of a length and outside off, Rassie opens the bat-face and slides it to short third man
+4165~1~
+4165~1~36.5
+4165~1~1
+4165~1~de Grandhomme to van der Dussen, 1 run, hip-high short ball on middle, Rassie swivels on the back foot and swats it away to deep square leg
+4165~1~
+4165~1~Amit - Disagree a bit here. Kane Williamson and Ross Taylor are batting giants. And Boult has had a great 2 years! If they turn it on in the semis, it could be NZ all the way! "
+4165~1~
+4165~1~36.6
+4165~1~1
+4165~1~de Grandhomme to Miller, 1 run, tip and run in front of mid-off
+4165~1~
+4165~1~Anand: "
+4165~1~37.1
+4165~1~0
+4165~1~Ferguson to Miller, no run, on a length and angling across off, holds up in the pitch, Miller aims leg side, goes hard at the ball and watches a leading edge drop safely in front of cover
+4165~1~END OF OVER:37 | 7 Runs | SA: 156/4 | RR: 4.21
+4165~1~
+4165~1~    David Miller7 (10b)
+4165~1~    Rassie van der Dussen21 (31b)
+4165~1~
+4165~1~    Colin de Grandhomme10-0-33-1
+4165~1~    Lockie Ferguson6-0-27-1
+4165~1~
+4165~1~Yoga: "NZ will definitely unleesh Neesh today when KILLER MILLER comes to the party"
+4165~1~
+4165~1~37.2
+4165~1~0
+4165~1~Ferguson to Miller, no run, back of a length, pitches on leg stump, moves away and kicks up, pinging Miller on the glove once again
+4165~1~
+4165~1~37.3
+4165~1~1
+4165~1~Ferguson to Miller, 1 run, short at the body, cramps Miller for room, fended away to long leg
+4165~1~
+4165~1~Deivarayan, Your comment publishing rate is much quicker than the SA run rate at the moment. How are your fingers feeling at the moment." --- Need to ice my fingers after this stint
+4165~1~
+4165~1~Amit Chourey, I respectfully disagree. While obviously Baz is a huge loss, I feel this team is actually stronger than that of 2015. Yes, McCullum is missed, but NZ's older players are seasoned and in form, AND have tasted a final. I think they could go all the way."
+4165~1~
+4165~1~Gorsi: "
+4165~1~37.4
+4165~1~1
+4165~1~Ferguson to van der Dussen, 1 run, fullish and outside off, 126ks, this slower ball is tipped into the covers
+4165~1~
+4165~1~Ben : "
+4165~1~37.5
+4165~1~0
+4165~1~Ferguson to Miller, no run, dug in short on middle, fended back to Ferguson
+4165~1~
+4165~1~37.6
+4165~1~1w
+4165~1~Ferguson to Miller, 1 wide, back of a length and dragged down the leg side for a wide
+4165~1~
+4165~1~37.6
+4165~1~0
+4165~1~Ferguson to Miller, no run, yorker, dips at leg stump, jammed to midwicket
+4165~1~
+4165~1~38.1
+4165~1~2
+4165~1~Boult to van der Dussen, 2 runs, back of a length and angling across off, Rassie sizes it up and cracks it away. This seems destined to ping the boundary until Munro throws himself to his right from sweeper and intercepts the ball. No boundary yet in this partnership
+4165~1~END OF OVER:38 | 3 Runs | SA: 159/4 | RR: 4.18
+4165~1~
+4165~1~    David Miller8 (15b)
+4165~1~    Rassie van der Dussen22 (32b)
+4165~1~
+4165~1~    Lockie Ferguson7-0-30-1
+4165~1~    Colin de Grandhomme10-0-33-1
+4165~1~
+4165~1~Ishant: "Is it only me or someone also thinks that Ferguson has an uncanny resemblance with Bollywood actor Emraan Hashmi" --- What? No way
+4165~1~
+4165~1~38.2
+4165~1~0
+4165~1~Boult to van der Dussen, no run, little offcutter from Boult, 116ks, run down to deep third man
+4165~1~
+4165~1~38.3
+4165~1~1
+4165~1~Boult to van der Dussen, 1 run, shorter and outside off, gets on top of it and punches out to sweeper cover
+4165~1~
+4165~1~Amit NZ also has Guptill who scored 237 in the 2015 quarter final although I accept he hasn't done anything like that this time...yet."
+4165~1~
+4165~1~38.4
+4165~1~2
+4165~1~Boult to Miller, 2 runs, inswinging yorker from wide of the crease, from over the stumps, nearly floors Miller. He somehow jams his bat down and squirts the ball to deep midwicket
+4165~1~
+4165~1~Claire : "
+4165~1~38.5
+4165~1~1
+4165~1~Boult to Miller, 1 run, back of a length and outside off, jabbing punch to extra-cover
+4165~1~
+4165~1~38.6
+4165~1~1
+4165~1~Boult to van der Dussen, 1 run, shorter and angling across off, Rassie smears it away to sweeper cover
+4165~1~
+4165~1~Sumit: "Why NZ batting is vulnerable because they are so dependent on Kane and Taylor! If you get them out cheaply, there is no one else who can carry it on! "
+4165~1~
+4165~1~Ishant It's just you. "
+4165~1~
+4165~1~Ishant Ferguson looks like Lt.Smith from lagaan movie , may be a doppelgänger! " --- Now, I agree with this
+4165~1~END OF OVER:39 | 7 Runs | SA: 166/4 | RR: 4.25
+4165~1~
+4165~1~    Rassie van der Dussen26 (36b)
+4165~1~    David Miller11 (17b)
+4165~1~
+4165~1~    Trent Boult8-0-47-1
+4165~1~    Lockie Ferguson7-0-30-1
+4165~1~
+4165~1~Desi: "
+4165~1~39.1
+4165~1~0
+4165~1~Santner to van der Dussen, no run, on a length and drifts in around off, Rassie stays leg-side of the ball and forces it to cover
+4165~1~
+4165~1~Aayush Pathak: "
+4165~1~39.2
+4165~1~0
+4165~1~Santner to van der Dussen, no run, speared into the blockhole at off, squeezed back to Santner
+4165~1~
+4165~1~39.3
+4165~1~0
+4165~1~Santner to van der Dussen, no run, arm ball, Rassie can't flick it away, heading down the leg side
+4165~1~
+4165~1~William : "NZ are putting in the work, hopefully to get the treats - a semi final spot and chance to boost the morale of 4.5 million kiwis! "
+4165~1~
+4165~1~39.4
+4165~1~1
+4165~1~Santner to van der Dussen, 1 run, short, slow, spins away, flayed away to sweeper
+4165~1~
+4165~1~Amit: "Ben, Anand- I wish. But thats the whole point of my comment. This is a strong team no doubt but kano or rossi both although giants are not kohli or smith or Root or sharma or warner or buttler in terms of just getting across the line when it matters the most. I would love to be proven wrong. "
+4165~1~
+4165~1~39.5
+4165~1~1
+4165~1~Santner to Miller, 1 run, tossed on middle, driven down to long-off
+4165~1~
+4165~1~39.6
+4165~1~1
+4165~1~Santner to van der Dussen, 1 run, back of a length and outside off, slapped down to long-off
+4165~1~
+4165~1~40.1
+4165~1~1
+4165~1~Henry to van der Dussen, 1 run, length ball, angling into leg stump, nudged away through square leg
+4165~1~
+4165~1~Thanks, Deiva. I could be wrong about this, but 240 could be a challenging total today. Henry returns.
+4165~1~END OF OVER:40 | 3 Runs | SA: 169/4 | RR: 4.22
+4165~1~
+4165~1~    Rassie van der Dussen28 (41b)
+4165~1~    David Miller12 (18b)
+4165~1~
+4165~1~    Mitchell Santner8-0-35-1
+4165~1~    Trent Boult8-0-47-1
+4165~1~
+4165~1~Where's this partnership heading? Nowhere? KK is back to finish off the innings
+4165~1~
+4165~1~40.2
+4165~1~0
+4165~1~Henry to Miller, no run, slower length ball angling away into a fifth-stump line. Goes for the angled-bat drive and misses
+4165~1~
+4165~1~Stays over the wicket to the left-hander.
+4165~1~
+4165~1~40.3
+4165~1~1lb
+4165~1~Henry to Miller, 1 leg bye, slower ball again, short this time. Looks to pull, plays too early. Ball pops off his body (shoulder? stomach?) into the gully region
+4165~1~
+4165~1~40.4
+4165~1~1
+4165~1~Henry to van der Dussen, 1 run, full outside off, driven to the left of extra-cover
+4165~1~
+4165~1~40.5
+4165~1~1
+4165~1~Henry to Miller, 1 run, fullish close to off stump, driven to deep point
+4165~1~
+4165~1~40.6
+4165~1~0
+4165~1~Henry to van der Dussen, no run, bouncer outside off, thinks of the pull but realises the bounce is too steep for that, and leaves it alone in the end
+4165~1~
+4165~1~41.1
+4165~1~1
+4165~1~Santner to Miller, 1 run, full on the pads, clipped to the left of deep midwicket
+4165~1~
+4165~1~Shuaib: "Wasn't the last 9 overs supposed to be PP3? Definitely started from the 40th over (after 39)" -- Last 10. So 40th over to 49th.
+4165~1~
+4165~1~Here's Santner, from left-arm round to the left-hander.
+4165~1~END OF OVER:41 | 4 Runs | SA: 173/4 | RR: 4.21
+4165~1~
+4165~1~    Rassie van der Dussen30 (44b)
+4165~1~    David Miller13 (21b)
+4165~1~
+4165~1~    Matt Henry8-2-22-0
+4165~1~    Mitchell Santner8-0-35-1
+4165~1~
+4165~1~
+4165~1~41.2
+4165~1~6
+4165~1~Santner to van der Dussen, SIX runs, tossed up, and ends up too full. Van der Dussen pounces on the error in length, gets down low, onto his back knee, for a big heave over long-on
+4165~1~
+4165~1~41.3
+4165~1~1
+4165~1~Santner to van der Dussen, 1 run, flat, speared into the pads, clipped into the midwicket region
+4165~1~
+4165~1~41.4
+4165~1~0
+4165~1~Santner to Miller, no run, flat and full on middle and leg, clipped back to the bowler, who dives to his left to stop it
+4165~1~
+4165~1~41.5
+4165~1~1
+4165~1~Santner to Miller, 1 run, tossed up slower, on middle stump, stays leg-side of the ball to drive to long-off
+4165~1~
+4165~1~41.6
+4165~1~1
+4165~1~Santner to van der Dussen, 1 run, short and wide, stops on the pitch, slapped along the ground to deep point
+4165~1~
+4165~1~42.1
+4165~1~1
+4165~1~Henry to van der Dussen, 1 run, slower short ball on middle stump, helped round to fine leg
+4165~1~
+4165~1~That six was van der Dussen's first boundary, by the way.
+4165~1~
+4165~1~NV: "240 certainly challenging if Ngidi finds rythm. My money on Ross to get NZ over the line today. But I feel it's going to be more than 250."
+4165~1~END OF OVER:42 | 10 Runs | SA: 183/4 | RR: 4.35
+4165~1~
+4165~1~    Rassie van der Dussen38 (47b)
+4165~1~    David Miller15 (24b)
+4165~1~
+4165~1~    Mitchell Santner9-0-45-1
+4165~1~    Matt Henry8-2-22-0
+4165~1~
+4165~1~
+4165~1~42.2
+4165~1~0
+4165~1~Henry to Miller, no run, slower short ball, angling across into a fourth-stump line, and the ball grips and stops on Miller, who wants to pull, but is early on his shot, so he checks it and plays it back towards the bowler
+4165~1~
+4165~1~42.3
+4165~1~0
+4165~1~Henry to Miller, no run, another slower bouncer, the line is more leg-stumpish. Swings through the pull too early and misses
+4165~1~
+4165~1~42.4
+4165~1~1
+4165~1~Henry to Miller, 1 run, full on off stump, driven to long-off
+4165~1~
+4165~1~42.5
+4165~1~1
+4165~1~Henry to van der Dussen, 1 run, short, quite a fair way outside off, drags a pull out to deep square leg
+4165~1~
+4165~1~42.6
+4165~1~1
+4165~1~Henry to Miller, 1 run, length ball outside off, flat-batted to the right of extra-cover
+4165~1~
+4165~1~43.1
+4165~1~2
+4165~1~Boult to Miller, 2 runs, low full-toss at the pads, clipped neatly, excellent timing, to the right of deep square leg
+4165~1~
+4165~1~Boult is back. Left-arm over to Miller.
+4165~1~END OF OVER:43 | 4 Runs | SA: 187/4 | RR: 4.34
+4165~1~
+4165~1~    David Miller17 (28b)
+4165~1~    Rassie van der Dussen40 (49b)
+4165~1~
+4165~1~    Matt Henry9-2-26-0
+4165~1~    Mitchell Santner9-0-45-1
+4165~1~
+4165~1~
+4165~1~43.2
+4165~1~0
+4165~1~Boult to Miller, no run, misses out. On the shorter side of a length, but plenty of width, and he slaps it straight to extra-cover. There's an appeal for a run-out at the non-striker's end... VDD had raced out of his crease, and was sent back by Miller. Makes it home with a sprawling dive by the time Boult collects and breaks the stumps
+4165~1~
+4165~1~43.3
+4165~1~1
+4165~1~Boult to Miller, 1 run, short, rising ball over off stump, pulled hard into the turf, and the man at midwicket moves to his right to stop it. It's towards Santner's wrong hand, and they take on the quick single. Santner's throw misses anyway, with Miller diving to complete the run
+4165~1~
+4165~1~43.4
+4165~1~1
+4165~1~Boult to van der Dussen, 1 run, on middle stump, gives himself room and pushes into the covers
+4165~1~
+4165~1~43.5
+4165~1~6
+4165~1~Boult to Miller, SIX runs, shot. That's very well played. Boult's angling this full ball into leg stump, looking to deny Miller room to free his arms, but Miller clears his front leg, and makes light of the lack of room with a bottom-hand shovel that carries all the way over the straight midwicket boundary
+4165~1~
+4165~1~43.6
+4165~1~1
+4165~1~Boult to Miller, 1 run, short slower one, pulled to deep square leg
+4165~1~
+4165~1~44.1
+4165~1~4
+4165~1~Ferguson to Miller, FOUR runs, shortish, angling across to off stump. It isn't that short, actually, but he's picked the length super early and swivelled through a flat pull to the forward square leg boundary
+4165~1~
+4165~1~Ferguson.
+4165~1~END OF OVER:44 | 11 Runs | SA: 198/4 | RR: 4.50
+4165~1~
+4165~1~    David Miller27 (33b)
+4165~1~    Rassie van der Dussen41 (50b)
+4165~1~
+4165~1~    Trent Boult9-0-58-1
+4165~1~    Matt Henry9-2-26-0
+4165~1~
+4165~1~
+4165~1~44.2
+4165~1~4
+4165~1~Ferguson to Miller, FOUR runs, too straight, whipped off the pads to the fine leg boundary. Fine leg was up, so not the greatest line to bowl
+4165~1~
+4165~1~44.3
+4165~1~1
+4165~1~Ferguson to Miller, 1 run, slower ball, angling away from off stump, gets on the front foot to drive to the right of extra-cover
+4165~1~
+4165~1~44.4
+4165~1~1
+4165~1~Ferguson to van der Dussen, 1 run, slower length ball outside off, opens his bat face and steers to the right of third man
+4165~1~
+4165~1~44.5
+4165~1~W
+4165~1~Ferguson to Miller, OUT, makes himself plenty of room and Ferguson bangs in a short ball, slanting away from Miller. The ball is rising steeply, and he's moving away from it's line, so he can't quite control the uppercut, ends up offering a catch to third man moving to his left. Good innings, though. He's given South Africa a bit of momentum
+4165~1~
+4165~1~DA Miller c Boult b Ferguson 36 (55m 37b 2x4 1x6) SR: 97.29
+4165~1~
+4165~1~44.6
+4165~1~2
+4165~1~Ferguson to van der Dussen, 2 runs, slower ball, back of a length on off stump, helped away through backward square leg, looking for the gap rather than for power - he was looking for two from the moment he played it
+4165~1~
+4165~1~Phehlukwayo is the new batsman.
+4165~1~
+4165~1~Arun: "VdD's batting reminds me of Daryll Cullinan..(bit of 90s nostalgia).. calm composed and busy" -- Cullinan was way more stylish, to my eyes at least!
+4165~1~
+4165~1~45.1
+4165~1~0
+4165~1~Boult to Phehlukwayo, no run, length ball, fifth-stump line, Phehlukwayo flashes a drive without moving his feet and can't make contact. Was looking to hit that through cover point
+4165~1~
+4165~1~Boult continues, over the wicket to Phehlukwayo.
+4165~1~END OF OVER:45 | 12 Runs 1 Wkt | SA: 210/5 | RR: 4.66
+4165~1~
+4165~1~    Rassie van der Dussen44 (52b)
+4165~1~    Andile Phehlukwayo0 (0b)
+4165~1~
+4165~1~    Lockie Ferguson8-0-42-2
+4165~1~    Trent Boult9-0-58-1
+4165~1~
+4165~1~
+4165~1~45.2
+4165~1~1lb
+4165~1~Boult to Phehlukwayo, 1 leg bye, looks for the leg-stump yorker, gets a bit of inward reverse but the line's a little too straight. Tickled down to fine leg, not sure if it was bat or boot
+4165~1~
+4165~1~45.3
+4165~1~0
+4165~1~Boult to van der Dussen, no run, extra bounce from a short length. Ends up cramped for room trying to pull a shoulder-high ball, ends up gloving it into his helmet grille. Ouch. Out comes the physio to check on van der Dussen's right thumb. A liberal application of magic spray
+4165~1~
+4165~1~45.4
+4165~1~4
+4165~1~Boult to van der Dussen, FOUR runs, and he absolutely smashes this. Poor ball from Boult, half-volley on off stump, and he clears his front leg, leans back, and wallops this between the umpire and the non-striker
+4165~1~
+4165~1~Van der Dussen is ready to face again.
+4165~1~
+4165~1~Yoga: "I always felt that Miller is like Raina for India, comes to bat often after 30th over sometimes after 40, has to keep the run rate right from the 1st ball, when trying to accelerate gets out mostly in 30s and some 50s and rarely gets a big one. And not the least a left handed and similar batting position." -- Pretty good comparison. Both have their technical limitations, but it's a difficult job and they've often done a very good job of it.
+4165~1~
+4165~1~45.5
+4165~1~1
+4165~1~Boult to van der Dussen, 1 run, full on middle stump, fuller than the previous ball so he doesn't have the same room to hit it. Driven past the stumps at the other end but this time long-on can move around to stop it
+4165~1~
+4165~1~45.6
+4165~1~0
+4165~1~Boult to Phehlukwayo, no run, in the blockhole, trying to follow the batsman outside leg stump as he looks to make room. Tries to stab it into the off side but it beats his inside edge
+4165~1~
+4165~1~46.1
+4165~1~1
+4165~1~Ferguson to van der Dussen, 1 run, slower short ball on off stump, helped round to the left of fine leg, brings up his half-century. It's been a good innings so far, keeping his scoring rate up despite not getting a lot of boundaries
+4165~1~END OF OVER:46 | 6 Runs | SA: 216/5 | RR: 4.69
+4165~1~
+4165~1~    Andile Phehlukwayo0 (3b)
+4165~1~    Rassie van der Dussen49 (55b)
+4165~1~
+4165~1~    Trent Boult10-0-63-1
+4165~1~    Lockie Ferguson8-0-42-2
+4165~1~
+4165~1~
+4165~1~46.2
+4165~1~1w
+4165~1~Ferguson to Phehlukwayo, 1 wide, bouncer, gets up over head height and Phehlukwayo misses the pull
+4165~1~
+4165~1~46.2
+4165~1~0
+4165~1~Ferguson to Phehlukwayo, no run, excellent slower one, doesn't miss the top of leg stump by much after Phehlukwayo clears his front leg, slogs, and misses
+4165~1~
+4165~1~46.3
+4165~1~W
+4165~1~Ferguson to Phehlukwayo, OUT, gone. Mid-off was in the circle, and he gets a full-toss from Ferguson, but it's at an awkward height, about two-thirds of a stump high, and it's quick - 144kph - so he's denied swinging room. Goes hard at it, the ball comes off the bat with a dull clunk, and Williamson takes an easy chest-high catch at mid-off
+4165~1~
+4165~1~AL Phehlukwayo c Williamson b Ferguson 0 (12m 5b 0x4 0x6) SR: 0.00
+4165~1~
+4165~1~46.4
+4165~1~0
+4165~1~Ferguson to Morris, no run, shortish in the corridor, hits the pitch hard and straightens to beat the outside edge of Morris' attempted dab to third man
+4165~1~
+4165~1~Two-and-a-half overs remain as Chris Morris walks out to the middle.
+4165~1~
+4165~1~46.5
+4165~1~0
+4165~1~Ferguson to Morris, no run, beaten again. Makes a lot of room to try and slash over point, but this shortish one, over middle stump, is mid-140s again, and he's a touch late on the shot
+4165~1~
+4165~1~46.6
+4165~1~0
+4165~1~Ferguson to Morris, no run, slower length ball on off stump. Looks to make room to chop it into the off side, but ends up inside-edging it and it bounces into the turf by his feet
+4165~1~
+4165~1~47.1
+4165~1~6
+4165~1~Henry to van der Dussen, SIX runs, length ball on off stump, and Rassie puts it away. Clears his front leg and hoicks it over the square leg boundary. Dragged it much squarer than intended, off the inner half, but the square boundary on that side is pretty short
+4165~1~
+4165~1~Brilliant over from Ferguson, only two off it plus the wicket of Phehlukwayo. Can Henry follow up with another good'un?
+4165~1~END OF OVER:47 | 2 Runs 1 Wkt | SA: 218/6 | RR: 4.63
+4165~1~
+4165~1~    Chris Morris0 (3b)
+4165~1~    Rassie van der Dussen50 (56b)
+4165~1~
+4165~1~    Lockie Ferguson9-0-44-3
+4165~1~    Trent Boult10-0-63-1
+4165~1~
+4165~1~
+4165~1~47.2
+4165~1~1
+4165~1~Henry to van der Dussen, 1 run, slower short ball, angling into the body, and that's dropped on the fine leg boundary. Pulled in the air, and Ferguson, coming in off the boundary and sliding forward on his knees, is in a good position to take it above his lap, but he spills it despite getting both hands under it
+4165~1~
+4165~1~47.3
+4165~1~1
+4165~1~Henry to Morris, 1 run, digs it in, back of a length, must have been the slower one, and Morris, looking to make room to free his arms, can only flat-bat it down the ground to long-on
+4165~1~
+4165~1~Third man and fine leg are up now for Morris.
+4165~1~
+4165~1~47.4
+4165~1~0
+4165~1~Henry to van der Dussen, no run, slower ball, fullish and fairly wide of off. Looks to go down on his back knee and heave it over midwicket, but he swings too early and only manages to send an inside-edge rolling to the keeper
+4165~1~
+4165~1~47.5
+4165~1~0
+4165~1~Henry to van der Dussen, no run, another slower one, shorter and closer to off stump. Grips the turf and keeps a little low, and van der Dussen ends up swinging above it, looking to pull
+4165~1~
+4165~1~47.6
+4165~1~0
+4165~1~Henry to van der Dussen, no run, another slower one, fuller this time, but again wide of off stump. Van der Dussen looks to reverse-sweep, but can't connect yet again
+4165~1~
+4165~1~48.1
+4165~1~4
+4165~1~Ferguson to Morris, FOUR runs, maybe they can. Short one, gets up to shoulder height outside off. Morris looks to fetch a pull from there, ends up top-edging it to the fine third-man boundary
+4165~1~
+4165~1~Final over coming up, and it's Ferguson to finish. Can South Africa get to 240?
+4165~1~END OF OVER:48 | 8 Runs | SA: 226/6 | RR: 4.70
+4165~1~
+4165~1~    Rassie van der Dussen57 (61b)
+4165~1~    Chris Morris1 (4b)
+4165~1~
+4165~1~    Matt Henry10-2-34-0
+4165~1~    Lockie Ferguson9-0-44-3
+4165~1~
+4165~1~
+4165~1~48.2
+4165~1~0
+4165~1~Ferguson to Morris, no run, he wants to make room and go over mid-off, but this is quick and banged in short, so it rises above his attempt at a flat-bat hit over mid-off
+4165~1~
+4165~1~Third man, fine leg, deep point, deep square leg, and long-on are the boundary fielders.
+4165~1~
+4165~1~48.3
+4165~1~1
+4165~1~Ferguson to Morris, 1 run, makes room again and Ferguson attempts to follow him with a back-of-a-length slower ball. Too early into his flat-bat hit, and it rolls to mid-off off the toe end
+4165~1~
+4165~1~48.4
+4165~1~0
+4165~1~Ferguson to van der Dussen, no run, now Rassie makes a lot of room, and Ferguson bowls another slowie - the legcutter is his go-to variety - pretty full outside off. Big swing, looking to go over mid-off, and he misses
+4165~1~
+4165~1~48.5
+4165~1~6
+4165~1~Ferguson to van der Dussen, SIX runs, wham, that sounded so good off the bat. Looks to make room again, and Ferguson goes short. But it sits up at chest height, within the batsman's hitting arc, and he absolutely hammers it over long-on
+4165~1~
+4165~1~48.6
+4165~1~4
+4165~1~Ferguson to van der Dussen, FOUR runs, great finish from van der Dussen. Looks to make room again, and this time Ferguson tries to go full. Doesn't get it full enough, and he can get underneath it and drive it hard, back over the bowler's head. Mid-off is up, and long-on is too wide, so it runs away for four to edge South Africa past 240
+4165~1~
+4165~2~##########
+4165~2~
+4165~2~0.1
+4165~2~0
+4165~2~Rabada to Guptill, no run, full, angling in at off, and swinging away a wee bit, Guptill pokes towards backward point, where the fielder swoops down on the ball
+4165~2~
+4165~2~4pm Hello again. NZ need 242 in 49 overs to move to the top. Durban-born Munro and Auckland-born Guptill walk out to the middle. Faf does all the talking in SA's team huddle. Rabada has the new ball and runs in from over the stumps to Guptill with two slips in place
+4165~2~
+4165~2~0.2
+4165~2~0
+4165~2~Rabada to Guptill, no run, on a length and angling into the pads, Guptill flicks it and finds square leg
+4165~2~
+4165~2~0.3
+4165~2~1
+4165~2~Rabada to Guptill, 1 run, back of a length and slanting into middle at 142ks, Guptill drops the ball behind square leg and gets across to the other end
+4165~2~
+4165~2~0.4
+4165~2~4
+4165~2~Rabada to Munro, FOUR runs, hang up the caution, NZ! Very full and angling across off, Munro spanks it through the line. Latches onto the width and utterly batters it through the covers
+4165~2~
+4165~2~thilak: "Guptill and Munro will get out cheaply to Ngidi. Kane and Ross will take them home #NZvSA"
+4165~2~
+4165~2~0.5
+4165~2~4
+4165~2~Rabada to Munro, FOUR runs, shorter and closer to off stump, Munro was ready for it. He stands up tall and strongly punches it between covers and mid-off
+4165~2~
+4165~2~0.6
+4165~2~0
+4165~2~Rabada to Munro, no run, Rabada hits a hard length outside off, Munro punches once again, this time he can't pierce the off-side infield
+4165~2~
+4165~2~1.1
+4165~2~0
+4165~2~Ngidi to Guptill, no run, welcome back, Ngidi. On a length, angling in, bouncing at off, tricks Guptill into playing the incoming angle. But this hits the pitch and wickedly straightens past the outside edge. Cracker first-up from Ngidi
+4165~2~
+4165~2~Ngidi. Over the wicket
+4165~2~END OF OVER:1 | 9 Runs | NZ: 9/0 (233 runs required from 48 overs, RR: 9.00, RRR: 4.85)
+4165~2~
+4165~2~    Colin Munro8 (3b)
+4165~2~    Martin Guptill1 (3b)
+4165~2~
+4165~2~    Kagiso Rabada1-0-9-0
+4165~2~
+4165~2~
+4165~2~1.2
+4165~2~0
+4165~2~Ngidi to Guptill, no run, pitched up, hint of away movement, squirted away to cover
+4165~2~
+4165~2~1.3
+4165~2~1
+4165~2~Ngidi to Guptill, 1 run, shortish and outside off, glided down to deep third man for one
+4165~2~
+4165~2~Ammar J. : "I genuinely think New Zealand have a really good chance of winning the world cup this year along with England, they have a well balanced side and everyone seems settled and they've been playing some pretty good cricket this year. I reckon they deserve to win!"
+4165~2~
+4165~2~1.4
+4165~2~1
+4165~2~Ngidi to Munro, 1 run, back of a length and on a fifth-stump line, not enough width for Munro to free his arms. Gets an inside edge that rolls away past the leg stump
+4165~2~
+4165~2~1.5
+4165~2~0
+4165~2~Ngidi to Guptill, no run, on a length and outside off, driven on the rise to the left of short cover
+4165~2~
+4165~2~1.6
+4165~2~1w
+4165~2~Ngidi to Guptill, 1 wide, back of a length and angling down the leg side, no shot, leg-side wide
+4165~2~
+4165~2~1.6
+4165~2~0
+4165~2~Ngidi to Guptill, no run, full inswinger from wide of the crease, Guptill flicks and manages an inside edge to the leg side
+4165~2~
+4165~2~2.1
+4165~2~W
+4165~2~Rabada to Munro, OUT, Rabada has Munro caught and bowled. Banged in short from round the wicket, tucks up Munro for room, and rushes him for pace. Munro hops and inside-edges the ball onto his pad. The ball balloons in the air. Rabada runs in from his followthrough and gobbles it up to lift SA
+4165~2~
+4165~2~C Munro c & b Rabada 9 (12m 5b 2x4 0x6) SR: 180.00
+4165~2~END OF OVER:2 | 3 Runs | NZ: 12/0 (230 runs required from 46.5 overs, RR: 6.00, RRR: 4.89)
+4165~2~
+4165~2~    Martin Guptill2 (8b)
+4165~2~    Colin Munro9 (4b)
+4165~2~
+4165~2~    Lungi Ngidi1-0-3-0
+4165~2~    Kagiso Rabada1-0-9-0
+4165~2~
+4165~2~
+4165~2~2.2
+4165~2~0
+4165~2~Rabada to Williamson, no run, back of a length and angling into middle from over the wicket, Williamson shuffles across a touch and defends it
+4165~2~
+4165~2~Williamson at one drop
+4165~2~
+4165~2~2.3
+4165~2~1
+4165~2~Rabada to Williamson, 1 run, back of a length and slanting in at off, Williamson deftly drops the ball in front of square leg and calls his partner through for a well-judged single
+4165~2~
+4165~2~2.4
+4165~2~1
+4165~2~Rabada to Guptill, 1 run, short at the body, tickled down to long leg for one
+4165~2~
+4165~2~2.5
+4165~2~1w
+4165~2~Rabada to Williamson, 1 wide, shortish and shoved down the leg side, the angle takes it away further, good grab from de Kock down the leg side. Wide
+4165~2~
+4165~2~2.5
+4165~2~0
+4165~2~Rabada to Williamson, no run, dug in short on off, fended away to the leg side to close out the over
+4165~2~
+4165~2~Mani: "Rabada from Jo'burg takes the wicket of Munro from Durban.. interesting "
+4165~2~
+4165~2~2.6
+4165~2~0
+4165~2~Rabada to Williamson, no run, short and skids back in at 146ks to beat the inside edge and ping Williamson on the midriff
+4165~2~
+4165~2~3.1
+4165~2~0
+4165~2~Ngidi to Guptill, no run, Ngidi spins around for an lbw appeal. Umpire Llong does not budge, Faf decides against a review. Length-ball inswinger, Guptill plays around his front pad. Possibly heading down leg. Yup, misses leg stump by a long way, according to ball-tracking
+4165~2~END OF OVER:3 | 3 Runs 1 Wkt | NZ: 15/1 (227 runs required from 46 overs, RR: 5.00, RRR: 4.93)
+4165~2~
+4165~2~    Kane Williamson1 (4b)
+4165~2~    Martin Guptill3 (9b)
+4165~2~
+4165~2~    Kagiso Rabada2-0-12-1
+4165~2~    Lungi Ngidi1-0-3-0
+4165~2~
+4165~2~
+4165~2~3.2
+4165~2~2
+4165~2~Ngidi to Guptill, 2 runs, fuller and outside off, Guptill slices a drive between covers and mid-off
+4165~2~
+4165~2~3.3
+4165~2~0
+4165~2~Ngidi to Guptill, no run, good length and homing in at off, Guptill responds with a forward defence
+4165~2~
+4165~2~3.4
+4165~2~0
+4165~2~Ngidi to Guptill, no run, back of a length and angling in at off, jabbed away to cover
+4165~2~
+4165~2~Pranay: "People complained about VDD's strike rate, really? The one guy who has actually looked good for SA over the WC and who held together this innings?"
+4165~2~
+4165~2~3.5
+4165~2~0
+4165~2~Ngidi to Guptill, no run, full and nipping in at leg stump again, Guptill is rooted to the crease as he misses this as well
+4165~2~
+4165~2~Fasih: "May be alot of Cricinfo viewers are not agree with me but I have a different feeling about New Zealand team. I think New Zealand will not make it to the Semifinals even."
+4165~2~
+4165~2~3.6
+4165~2~0
+4165~2~Ngidi to Guptill, no run, back of a length on off, guided to cover
+4165~2~
+4165~2~4.1
+4165~2~0
+4165~2~Rabada to Williamson, no run, short and largely holds its line outside off, wide outside off, 141ks, Williamson has a stab at it and inside-edges it behind
+4165~2~END OF OVER:4 | 2 Runs | NZ: 17/1 (225 runs required from 45 overs, RR: 4.25, RRR: 5.00)
+4165~2~
+4165~2~    Martin Guptill5 (15b)
+4165~2~    Kane Williamson1 (4b)
+4165~2~
+4165~2~    Lungi Ngidi2-0-5-0
+4165~2~    Kagiso Rabada2-0-12-1
+4165~2~
+4165~2~
+4165~2~4.2
+4165~2~0
+4165~2~Rabada to Williamson, no run, back of a length and outside off, diffused to the covers
+4165~2~
+4165~2~4.3
+4165~2~2
+4165~2~Rabada to Williamson, 2 runs, fuller and angling down the leg side, deflected away fine of long leg
+4165~2~
+4165~2~4.4
+4165~2~0
+4165~2~Rabada to Williamson, no run, shorter and outside off, run away towards point
+4165~2~
+4165~2~4.5
+4165~2~0
+4165~2~Rabada to Williamson, no run, back of a length and straightening outside off, Williamson reaches out for the ball and is beaten on the outside edge
+4165~2~
+4165~2~4.6
+4165~2~0
+4165~2~Rabada to Williamson, no run, shorter and just a shade outside off, Williamson leaps and drops it dead
+4165~2~
+4165~2~5.1
+4165~2~0
+4165~2~Ngidi to Guptill, no run, on a length and outside off, Guptill walks down at the bowler, he has a mighty whooooosh at it.. and misses. It wasn't too far away from the off stump
+4165~2~END OF OVER:5 | 2 Runs | NZ: 19/1 (223 runs required from 44 overs, RR: 3.80, RRR: 5.06)
+4165~2~
+4165~2~    Kane Williamson3 (10b)
+4165~2~    Martin Guptill5 (15b)
+4165~2~
+4165~2~    Kagiso Rabada3-0-14-1
+4165~2~    Lungi Ngidi2-0-5-0
+4165~2~
+4165~2~
+4165~2~5.2
+4165~2~4
+4165~2~Ngidi to Guptill, FOUR runs, half-volley on the pads, picked up and dispatched to the midwicket boundary. Duly flicked away
+4165~2~
+4165~2~Neil: "By contrast to Fasih, as an England fan I think New Zealand are the only team capable of beating England without it being a case of England beating themselves"
+4165~2~
+4165~2~5.3
+4165~2~0
+4165~2~Ngidi to Guptill, no run, back of a length and Ngidi hits the deck, Guptill defends to cover with the bottom hand flying off the bat
+4165~2~
+4165~2~5.4
+4165~2~4
+4165~2~Ngidi to Guptill, FOUR runs, ooooof, this is Guptill at his best. Fuller on middle, he presses forward, shows the full face of the bat and drives it stylishly to the left of Rabada
+4165~2~
+4165~2~5.5
+4165~2~4
+4165~2~Ngidi to Guptill, FOUR runs, if you'd missed the previous ball, worry not. Here's the replay. Pitched up further and outside off, Guptill presses forward and creams it straight of mid-off
+4165~2~
+4165~2~5.6
+4165~2~1
+4165~2~Ngidi to Guptill, 1 run, on the pads, glanced away towards long leg
+4165~2~
+4165~2~Bibil: "Williamson will win first WC for Black caps.He looks like Aravidha in 1996"
+4165~2~
+4165~2~6.1
+4165~2~0
+4165~2~Rabada to Guptill, no run, short and sliding in at the top of off, blocked off the back foot
+4165~2~
+4165~2~Temba Bavuma is in attendance at Edgbaston
+4165~2~END OF OVER:6 | 13 Runs | NZ: 32/1 (210 runs required from 43 overs, RR: 5.33, RRR: 4.88)
+4165~2~
+4165~2~    Martin Guptill18 (21b)
+4165~2~    Kane Williamson3 (10b)
+4165~2~
+4165~2~    Lungi Ngidi3-0-18-0
+4165~2~    Kagiso Rabada3-0-14-1
+4165~2~
+4165~2~
+4165~2~6.2
+4165~2~0
+4165~2~Rabada to Guptill, no run, lifter outside off, Guptill swerves out of the way
+4165~2~
+4165~2~6.3
+4165~2~0
+4165~2~Rabada to Guptill, no run, short and angling in at middle, tipped to the covers
+4165~2~
+4165~2~6.4
+4165~2~0
+4165~2~Rabada to Guptill, no run, back of a length on off, guided off the face to backward point
+4165~2~
+4165~2~6.5
+4165~2~0
+4165~2~Rabada to Guptill, no run, kicks up from a back of a length, 145kph, Guptill rises with it and fends it off
+4165~2~
+4165~2~6.6
+4165~2~1
+4165~2~Rabada to Guptill, 1 run, full-toss slanting in at leg stump, tucked away to midwicket's right. Rassie dives and keeps it to one
+4165~2~
+4165~2~7.1
+4165~2~0
+4165~2~Ngidi to Guptill, no run, short and angling in at top of off stump, Guptill goes on the back foot and punches back to the bowler
+4165~2~
+4165~2~Surath: "Hmmm seems like everyone has forgotten about team India? I don't see how NZ can beat India. Also, don't think England is good enough to beat this Indian team..."
+4165~2~END OF OVER:7 | 1 Run | NZ: 33/1 (209 runs required from 42 overs, RR: 4.71, RRR: 4.97)
+4165~2~
+4165~2~    Martin Guptill19 (27b)
+4165~2~    Kane Williamson3 (10b)
+4165~2~
+4165~2~    Kagiso Rabada4-0-15-1
+4165~2~    Lungi Ngidi3-0-18-0
+4165~2~
+4165~2~
+4165~2~7.2
+4165~2~0
+4165~2~Ngidi to Guptill, no run, on a length ad wide outside off, Guptill doesn't meet the pitch, simply throws his hands, and mis-hits it back to the bowler
+4165~2~
+4165~2~7.3
+4165~2~0
+4165~2~Ngidi to Guptill, no run, on a length and around off, Guptill deploys a short stride and pushes the ball to cover
+4165~2~
+4165~2~WATCH - Munro caught and bowled by Rabada for just 9 (Australia, UK and SEA only)
+4165~2~
+4165~2~7.4
+4165~2~0
+4165~2~Ngidi to Guptill, no run, off-stump yorker, squirted away to cover
+4165~2~
+4165~2~7.5
+4165~2~0
+4165~2~Ngidi to Guptill, no run, back of a length and just a shade outside off, Guptill shows off his high elbow and punches to mid-off
+4165~2~
+4165~2~7.6
+4165~2~4
+4165~2~Ngidi to Guptill, FOUR runs, on a length and outside off, holds up in the pitch, Guptill checks his shot and instead chips it over the covers. Smart stroke from Guptill
+4165~2~
+4165~2~8.1
+4165~2~3
+4165~2~Rabada to Williamson, 3 runs, short of a good length and outside off, Williamson gets on top of the bounce and serenely punches in the gap at the covers
+4165~2~END OF OVER:8 | 4 Runs | NZ: 37/1 (205 runs required from 41 overs, RR: 4.62, RRR: 5.00)
+4165~2~
+4165~2~    Martin Guptill23 (33b)
+4165~2~    Kane Williamson3 (10b)
+4165~2~
+4165~2~    Lungi Ngidi4-0-22-0
+4165~2~    Kagiso Rabada4-0-15-1
+4165~2~
+4165~2~
+4165~2~8.2
+4165~2~0
+4165~2~Rabada to Guptill, no run, on a length and holds its line outside off, nothing doing from Guptill
+4165~2~
+4165~2~8.3
+4165~2~0
+4165~2~Rabada to Guptill, no run, good length, angling in and straightening around off, run away to cover
+4165~2~
+4165~2~What is it that connects the Fijian town of Labasa, New Zealand's capital Wellington and the Indian city of Kolkata? As of this week, it's Roy Krishna, the A-League top-scorer and MVP, who will be playing for Indian Super League team ATK this season.
+4165~2~
+4165~2~8.4
+4165~2~0
+4165~2~Rabada to Guptill, no run, back of a length and just a shade outside off, patted to cover
+4165~2~
+4165~2~Aj : "I think Surath forgot that same England team beat India just last year that too without Archer and add to the equation Dhawan is missing, I'd say England should be overwhelming favorites"
+4165~2~
+4165~2~8.5
+4165~2~0
+4165~2~Rabada to Guptill, no run, fiery bouncer outside off, 143ks, Guptill sways his upper body out of the way
+4165~2~
+4165~2~8.6
+4165~2~1
+4165~2~Rabada to Guptill, 1 run, much fuller on off, driven past the left of the diving bowler to mid-off. Rabada got a hand to it and took some pace off the ball
+4165~2~
+4165~2~9.1
+4165~2~0
+4165~2~Morris to Guptill, no run, back of a length and angling in at off, defended
+4165~2~
+4165~2~Morris
+4165~2~END OF OVER:9 | 4 Runs | NZ: 41/1 (201 runs required from 40 overs, RR: 4.55, RRR: 5.02)
+4165~2~
+4165~2~    Martin Guptill24 (38b)
+4165~2~    Kane Williamson6 (11b)
+4165~2~
+4165~2~    Kagiso Rabada5-0-19-1
+4165~2~    Lungi Ngidi4-0-22-0
+4165~2~
+4165~2~
+4165~2~9.2
+4165~2~2
+4165~2~Morris to Guptill, 2 runs, short and sits up outside off, Guptill hoists it over cover
+4165~2~
+4165~2~9.3
+4165~2~0
+4165~2~Morris to Guptill, no run, full and slanting into middle and leg, Guptill jumps across off and blocks to short midwicket
+4165~2~
+4165~2~Ujwal: "I think AJ forgot that the same Indian team which lost was without bumrah who in my opinion is more important to India right now than kohli"
+4165~2~
+4165~2~9.4
+4165~2~0
+4165~2~Morris to Guptill, no run, back of a length and angling in at off, Guptill defends to cover off the back foot
+4165~2~
+4165~2~Some issue around the bowler's landing area. Triple H's lump hammer being brought out to even it up.
+4165~2~
+4165~2~
+4165~2~9.5
+4165~2~0
+4165~2~Morris to Guptill, no run, shorter and angling in at middle, an inside edge trickles away in front of square
+4165~2~
+4165~2~9.6
+4165~2~0
+4165~2~Morris to Guptill, no run, on a length and holds its line on off, Guptill solidly blocks to mid-off
+4165~2~
+4165~2~10.1
+4165~2~0
+4165~2~Phehlukwayo to Williamson, no run, back of a length on off stump, punched to extra-cover
+4165~2~
+4165~2~Thanks, Deiva. Bowling change for South Africa. Can Phehlukwayo make an impact with his changes of pace? A slip in place.
+4165~2~END OF OVER:10 | 2 Runs | NZ: 43/1 (199 runs required from 39 overs, RR: 4.30, RRR: 5.10)
+4165~2~
+4165~2~    Martin Guptill26 (44b)
+4165~2~    Kane Williamson6 (11b)
+4165~2~
+4165~2~    Chris Morris1-0-2-0
+4165~2~    Kagiso Rabada5-0-19-1
+4165~2~
+4165~2~Over to KK again
+4165~2~
+4165~2~10.2
+4165~2~1
+4165~2~Phehlukwayo to Williamson, 1 run, back of a length outside off, waits for it to come to him and steers to third man
+4165~2~
+4165~2~10.3
+4165~2~1
+4165~2~Phehlukwayo to Guptill, 1 run, back of a length outside off, opens his bat face to guide it to third man
+4165~2~
+4165~2~10.4
+4165~2~1
+4165~2~Phehlukwayo to Williamson, 1 run, length ball outside off, nice press forward to ease a drive to deep point
+4165~2~
+4165~2~10.5
+4165~2~0
+4165~2~Phehlukwayo to Guptill, no run, length ball angling in towards middle stump, defended to midwicket. Kept a touch low and he did well not to play across it
+4165~2~
+4165~2~10.6
+4165~2~0
+4165~2~Phehlukwayo to Guptill, no run, short outside off, stops on the pitch and the attempted cut turns into a flat-bat hit, along the ground, to mid-off
+4165~2~
+4165~2~11.1
+4165~2~0
+4165~2~Morris to Williamson, no run, back of a length, angling in towards off stump. Williamson shapes for the back-foot punch but he's cramped for room, and he ends up defending into the covers instead
+4165~2~END OF OVER:11 | 3 Runs | NZ: 46/1 (196 runs required from 38 overs, RR: 4.18, RRR: 5.15)
+4165~2~
+4165~2~    Martin Guptill27 (47b)
+4165~2~    Kane Williamson8 (14b)
+4165~2~
+4165~2~    Andile Phehlukwayo1-0-3-0
+4165~2~    Chris Morris1-0-2-0
+4165~2~
+4165~2~
+4165~2~11.2
+4165~2~0
+4165~2~Morris to Williamson, no run, ooh, good ball. Back of a length, straightens along an off-stump line. Opens up Williamson a little in defence, and the ball hits the outside edge high on the bat and is in the air briefly on its path towards backward point
+4165~2~
+4165~2~11.3
+4165~2~4
+4165~2~Morris to Williamson, FOUR runs, beautiful. Full, though not a half-volley, angling into off stump. Williamson brings his bat down as straight as humanly possible, showing a bat face as full as possible, and caresses it between the bowler and mid-off
+4165~2~
+4165~2~11.4
+4165~2~1
+4165~2~Morris to Williamson, 1 run, back of a length, close to off stump, just lets the ball meet his downward-facing defensive bat and it rolls away to third man. Trademark Williamson
+4165~2~
+4165~2~11.5
+4165~2~0
+4165~2~Morris to Guptill, no run, length ball on off stump, presses forward to block to cover
+4165~2~
+4165~2~11.6
+4165~2~2
+4165~2~Morris to Guptill, 2 runs, short, sits up nicely outside off for the pull, and van der Dussen sprints round to his left from deep square leg and puts in a slide to stop the ball
+4165~2~
+4165~2~12.1
+4165~2~1
+4165~2~Phehlukwayo to Williamson, 1 run, back of a length outside off, punched to deep point
+4165~2~END OF OVER:12 | 7 Runs | NZ: 53/1 (189 runs required from 37 overs, RR: 4.41, RRR: 5.10)
+4165~2~
+4165~2~    Martin Guptill29 (49b)
+4165~2~    Kane Williamson13 (18b)
+4165~2~
+4165~2~    Chris Morris2-0-9-0
+4165~2~    Andile Phehlukwayo1-0-3-0
+4165~2~
+4165~2~
+4165~2~12.2
+4165~2~0
+4165~2~Phehlukwayo to Guptill, no run, back of a length, a little bit of width, punched firmly but within range of backward point, who falls to his right to stop the ball
+4165~2~
+4165~2~12.3
+4165~2~4
+4165~2~Phehlukwayo to Guptill, FOUR runs, full, angling in towards off stump. Again it stops on the pitch and Guptill drives a little early, looking to go through mid-off or cover, and the ball hits the inside half and rolls away through midwicket
+4165~2~
+4165~2~12.4
+4165~2~0
+4165~2~Phehlukwayo to Guptill, no run, length ball nipping in towards off stump, a bit of extra bounce. He's on the front foot and a little cramped in the end. Drops his bottom hand to defend into the covers
+4165~2~
+4165~2~12.5
+4165~2~0
+4165~2~Phehlukwayo to Guptill, no run, back of a length close to off stump, punched firmly but short extra-cover tumbles to his right and appears in the ball's path
+4165~2~
+4165~2~12.6
+4165~2~0
+4165~2~Phehlukwayo to Guptill, no run, length ball on off stump, punched to mid-off
+4165~2~
+4165~2~13.1
+4165~2~0
+4165~2~Morris to Williamson, no run, ooh, beauty. Late movement from Morris in the fourth-stump channel. Hits the seam on a fullish length, and Williamson, drawn forward to defend, is beaten on the outside edge
+4165~2~
+4165~2~WATCH - How South Africa lost their wickets in the first innings (only on Hotstar)
+4165~2~
+4165~2~Who should be opening New Zealand's batting alongside Guptill: Munro or Nicholls or Latham? Go and vote in our #livereport
+4165~2~END OF OVER:13 | 5 Runs | NZ: 58/1 (184 runs required from 36 overs, RR: 4.46, RRR: 5.11)
+4165~2~
+4165~2~    Martin Guptill33 (54b)
+4165~2~    Kane Williamson14 (19b)
+4165~2~
+4165~2~    Andile Phehlukwayo2-0-8-0
+4165~2~    Chris Morris2-0-9-0
+4165~2~
+4165~2~
+4165~2~13.2
+4165~2~1
+4165~2~Morris to Williamson, 1 run, back of a length, angling into off stump, tucked away gently to the left of midwicket
+4165~2~
+4165~2~13.3
+4165~2~0
+4165~2~Morris to Guptill, no run, full on off stump, nice stride forward for a defensive push to mid-off
+4165~2~
+4165~2~13.4
+4165~2~2
+4165~2~Morris to Guptill, 2 runs, fullish outside off, nice stride forward for a checked drive to the right of Rabada sweeping on the cover point boundary. Fumbles as he's about to pick up - was in a hurry to pick up and throw - and they run a second comfortably
+4165~2~
+4165~2~Imran Tahir: "Why have I not been given a chance to bowl yet?!!" -- I'm guessing you'll come on at around the 18-over mark.
+4165~2~
+4165~2~13.5
+4165~2~0
+4165~2~Morris to Guptill, no run, length ball on off stump, blocked back towards the bowler
+4165~2~
+4165~2~13.6
+4165~2~0
+4165~2~Morris to Guptill, no run, fullish outside off, opens his bat face for a punch to backward point
+4165~2~
+4165~2~14.1
+4165~2~0
+4165~2~Phehlukwayo to Williamson, no run, length ball on off stump, defended towards mid-on
+4165~2~
+4165~2~Dadrev: "For those who were complaining about Amla's run rate. Watch Guptill" -- Yup, it's a difficult pitch, with the ball stopping on the batsman.
+4165~2~END OF OVER:14 | 3 Runs | NZ: 61/1 (181 runs required from 35 overs, RR: 4.35, RRR: 5.17)
+4165~2~
+4165~2~    Martin Guptill35 (58b)
+4165~2~    Kane Williamson15 (21b)
+4165~2~
+4165~2~    Chris Morris3-0-12-0
+4165~2~    Andile Phehlukwayo2-0-8-0
+4165~2~
+4165~2~
+4165~2~14.2
+4165~2~4
+4165~2~Phehlukwayo to Williamson, FOUR runs, a touch too full outside off, and Williamson leans into an effortless drive that bisects mid-off and short extra-cover
+4165~2~
+4165~2~14.3
+4165~2~4
+4165~2~Phehlukwayo to Williamson, FOUR runs, back of a length, not quite short enough to pull. Gets up to about stump height and he drags it away to the right of fine leg, off the bottom edge. An ungainly boundary to follow a pristine one
+4165~2~
+4165~2~14.4
+4165~2~2
+4165~2~Phehlukwayo to Williamson, 2 runs, fullish, on the pads, clipped to the left of fine leg
+4165~2~
+4165~2~14.5
+4165~2~1
+4165~2~Phehlukwayo to Williamson, 1 run, short outside off, rocks back to cut it away to deep point
+4165~2~
+4165~2~14.6
+4165~2~W
+4165~2~Phehlukwayo to Guptill, OUT, digs it in short on off stump, gets it up to shoulder height, and Guptill has trod onto his stumps! Swivels to hook it, doesn't quite control it, but that's the least of his worries as he loses his footing and slides into the stumps
+4165~2~
+4165~2~MJ Guptill hit wicket b Phehlukwayo 35 (68m 59b 5x4 0x6) SR: 59.32
+4165~2~
+4165~2~15.1
+4165~2~0
+4165~2~Imran Tahir to Williamson, no run, tossed up outside off, stretches out to push into the covers
+4165~2~
+4165~2~Here, finally, is Tahir.
+4165~2~
+4165~2~Ameya : "And that's precisely what Andile is nicknamed "Lucky". To paraphrase Napoleon, "I don't need a good bowler, just need a lucky one!""
+4165~2~END OF OVER:15 | 11 Runs 1 Wkt | NZ: 72/2 (170 runs required from 204 balls, RR: 4.80, RRR: 5.00)
+4165~2~
+4165~2~    Kane Williamson26 (26b)
+4165~2~
+4165~2~    Andile Phehlukwayo3-0-19-1
+4165~2~    Chris Morris3-0-12-0
+4165~2~
+4165~2~Thiru: "Is this the luck South Africa need? Fingers crossed though"
+4165~2~
+4165~2~Guptill is the second batsman to be dismissed hit-wicket in recent months: Shoaib Malik was out in this manner at Trent Bridge during Pakistan's bilateral series against England.
+4165~2~
+4165~2~15.2
+4165~2~0
+4165~2~Imran Tahir to Williamson, no run, a little fuller, reaches out to drive and short extra dives left to stop it
+4165~2~
+4165~2~15.3
+4165~2~1
+4165~2~Imran Tahir to Williamson, 1 run, a skip down the track to the middle-stump ball, clips it down to long-on
+4165~2~
+4165~2~15.4
+4165~2~1
+4165~2~Imran Tahir to Taylor, 1 run, tossed up, uses his wrists to whip it down to long-on
+4165~2~
+4165~2~Ross Taylor's on strike for the first time. A slip in place.
+4165~2~
+4165~2~15.5
+4165~2~0
+4165~2~Imran Tahir to Williamson, no run, back of a length, wrong'un spinning in from outside off. Stops on Williamson as he goes back to punch down the ground, and the ball pops up and falls juust short of the tumbling Tahir
+4165~2~
+4165~2~15.6
+4165~2~0
+4165~2~Imran Tahir to Williamson, no run, flat, on the stumps, defended towards midwicket
+4165~2~
+4165~2~16.1
+4165~2~W
+4165~2~Morris to Taylor, OUT, full, angling down leg, and Morris strikes in unlikely fashion! Looks to flick it away, but only manages a thin tickle through to de Kock. The luck's been on South Africa's side for the last couple of overs, and suddenly this is anyone's game!
+4165~2~
+4165~2~LRPL Taylor c de Kock(wk) b Morris 1 (6m 2b 0x4 0x6) SR: 50.00
+4165~2~END OF OVER:16 | 2 Runs | NZ: 74/2 (168 runs required from 33 overs, RR: 4.62, RRR: 5.09)
+4165~2~
+4165~2~    Kane Williamson27 (31b)
+4165~2~    Ross Taylor1 (1b)
+4165~2~
+4165~2~    Imran Tahir1-0-2-0
+4165~2~    Andile Phehlukwayo3-0-19-1
+4165~2~
+4165~2~
+4165~2~16.2
+4165~2~0
+4165~2~Morris to Latham, no run, length ball angling away from off stump, left alone
+4165~2~
+4165~2~Tom Latham's the new batsman
+4165~2~
+4165~2~Stean: "I'm curious how many times has a batsmen been dismissed by Hit-wicket in a World Cup? Surely this is one of the only times that has happened? " -- Ten times, starting with Roy Fredericks' memorable dismissal in the 1975 final, when he actually hooked the ball for six.
+4165~2~
+4165~2~16.3
+4165~2~1
+4165~2~Morris to Latham, 1 run, similar delivery, angling across, leans forward and steers with an open face towards third man
+4165~2~
+4165~2~16.4
+4165~2~0
+4165~2~Morris to Williamson, no run, fullish, angling in towards off stump, presses forward and defends into the on side
+4165~2~
+4165~2~16.5
+4165~2~1
+4165~2~Morris to Williamson, 1 run, back of a length outside off, punched to the right of deep point
+4165~2~
+4165~2~16.6
+4165~2~0
+4165~2~Morris to Latham, no run, excellent length, pitching on about off stump and continuing with the angle away. Latham is half-forward, just pokes at it hesitantly, and is lucky not to edge it
+4165~2~
+4165~2~17.1
+4165~2~4
+4165~2~Imran Tahir to Williamson, FOUR runs, ooh, not short enough for the back-foot punch, and the ball spins away sharply and Williamson gets a thick outside edge, flies away to the right of slip
+4165~2~END OF OVER:17 | 2 Runs 1 Wkt | NZ: 76/3 (166 runs required from 32 overs, RR: 4.47, RRR: 5.18)
+4165~2~
+4165~2~    Tom Latham1 (3b)
+4165~2~    Kane Williamson28 (33b)
+4165~2~
+4165~2~    Chris Morris4-0-14-1
+4165~2~    Imran Tahir1-0-2-0
+4165~2~
+4165~2~
+4165~2~17.2
+4165~2~0
+4165~2~Imran Tahir to Williamson, no run, floated up slow outside off, Williamson looks to whip to long-on, but hits it straighter than he'd like, and the bowler fields it to his right
+4165~2~
+4165~2~17.3
+4165~2~0
+4165~2~Imran Tahir to Williamson, no run, flatter, fairly full, blocked back to the bowler
+4165~2~
+4165~2~17.4
+4165~2~0
+4165~2~Imran Tahir to Williamson, no run, flat length ball on leg stump, goes back - playing the trajectory rather than the length, and brings his bat down hurriedly to defend. Off the inside edge into the leg side
+4165~2~
+4165~2~17.5
+4165~2~0
+4165~2~Imran Tahir to Williamson, no run, tossed up wide of off, big legbreak, Williamson plays an uncharacteristic slog-sweep at it, and misses
+4165~2~
+4165~2~17.6
+4165~2~0
+4165~2~Imran Tahir to Williamson, no run, flat legbreak, pitching on an excellent length and spinning from leg to off. Stays on the back foot and defends
+4165~2~
+4165~2~18.1
+4165~2~W
+4165~2~Morris to Latham, OUT, Morris is on fire! Latham's been very uncertain against his right-arm-over angle, and this one's just back of a length, pitches on leg stump and seams away slightly to kiss the outside edge as Latham looks to defend off the back foot
+4165~2~
+4165~2~TWM Latham c de Kock(wk) b Morris 1 (10m 4b 0x4 0x6) SR: 25.00
+4165~2~END OF OVER:18 | 4 Runs | NZ: 80/3 (162 runs required from 31 overs, RR: 4.44, RRR: 5.22)
+4165~2~
+4165~2~    Kane Williamson32 (39b)
+4165~2~    Tom Latham1 (3b)
+4165~2~
+4165~2~    Imran Tahir2-0-6-0
+4165~2~    Chris Morris4-0-14-1
+4165~2~
+4165~2~
+4165~2~18.2
+4165~2~0
+4165~2~Morris to Neesham, no run, lovely length, pitches within the line of the stumps and slants away, isn't more than half a foot outside off stump after Neesham leaves it
+4165~2~
+4165~2~James Neesham is in at No. 6. Morris continues from over the wicket. New Zealand's win probability, according to our Forecaster, has dropped to 38%. It was 65% the ball before!
+4165~2~
+4165~2~18.3
+4165~2~0
+4165~2~Morris to Neesham, no run, ooh, past the edge again. Back of a length, and the line is so good, so close to off stump, forcing Neesham to play, and he has a poke and misses
+4165~2~
+4165~2~18.4
+4165~2~0
+4165~2~Morris to Neesham, no run, bouncer, angling across and rising neck-high over off stump. Keeps his eyes on it and sways away from the line
+4165~2~
+4165~2~18.5
+4165~2~4
+4165~2~Morris to Neesham, FOUR runs, shot! That's a good-length ball, but this one slants into a pretty wide line and allows him to free his arms. Stands tall and slaps it away between backward point and cover point
+4165~2~
+4165~2~18.6
+4165~2~0
+4165~2~Morris to Neesham, no run, full on off stump, driven to mid-off
+4165~2~
+4165~2~19.1
+4165~2~0
+4165~2~Imran Tahir to Williamson, no run, tossed up on leg stump, presses forward and defends into the on side
+4165~2~
+4165~2~Efaz: "Does Bangladesh benefit if South Africa wins today?" -- I think so. They'd want two of the current top four to slip up a little.
+4165~2~END OF OVER:19 | 4 Runs 1 Wkt | NZ: 84/4 (158 runs required from 30 overs, RR: 4.42, RRR: 5.26)
+4165~2~
+4165~2~    James Neesham4 (5b)
+4165~2~    Kane Williamson32 (39b)
+4165~2~
+4165~2~    Chris Morris5-0-18-2
+4165~2~    Imran Tahir2-0-6-0
+4165~2~
+4165~2~
+4165~2~19.2
+4165~2~0
+4165~2~Imran Tahir to Williamson, no run, tossed up slow on middle and off, nice stretch forward to block to short extra-cover
+4165~2~
+4165~2~19.3
+4165~2~0
+4165~2~Imran Tahir to Williamson, no run, back of a length on off stump, punches past a diving short extra but mid-off moves quickly to his left to stop it. A bit of confusion between the two batsmen when the ball goes past the first fielder, but no harm done
+4165~2~
+4165~2~19.4
+4165~2~1
+4165~2~Imran Tahir to Williamson, 1 run, full on leg stump, driven to long-on
+4165~2~
+4165~2~19.5
+4165~2~0
+4165~2~Imran Tahir to Neesham, no run, nicely floated up across the left-hander, lands on a good length outside off. Presses forward, defends with soft hands into the cover point region
+4165~2~
+4165~2~Only three fielders back - the two sweepers + long-on. A slip in place, and two short midwickets
+4165~2~
+4165~2~19.6
+4165~2~1
+4165~2~Imran Tahir to Neesham, 1 run, flat length ball on middle stump, goes back and shows the full face for a push to long-on
+4165~2~
+4165~2~20.1
+4165~2~1
+4165~2~Morris to Neesham, 1 run, shorter and just a shade outside off, Neesham chops behind point and gets off strike
+4165~2~END OF OVER:20 | 2 Runs | NZ: 86/4 (156 runs required from 29 overs, RR: 4.30, RRR: 5.37)
+4165~2~
+4165~2~    James Neesham5 (7b)
+4165~2~    Kane Williamson33 (43b)
+4165~2~
+4165~2~    Imran Tahir3-0-8-0
+4165~2~    Chris Morris5-0-18-2
+4165~2~
+4165~2~
+4165~2~20.2
+4165~2~4
+4165~2~Morris to Williamson, FOUR runs, pitched up and outside off, Williamson brings out a regal on-drive. Shows the full face of the ball and caresses it away straight of mid-on. And the slip has been pulled out
+4165~2~
+4165~2~20.3
+4165~2~1
+4165~2~Morris to Williamson, 1 run, shorter and on the hips, Williamson gently turns it around the corner
+4165~2~
+4165~2~20.4
+4165~2~1
+4165~2~Morris to Neesham, 1 run, shorter and angling across off, Neesham allows the ball to come onto him, then steers to deep third man
+4165~2~
+4165~2~20.5
+4165~2~0
+4165~2~Morris to Williamson, no run, lifter on middle, 138ks, Williamson ducks under it
+4165~2~
+4165~2~20.6
+4165~2~1
+4165~2~Morris to Williamson, 1 run, on a length and just a shade outside off, Williamson loves that little dab down to third man, doesn't he?
+4165~2~
+4165~2~21.1
+4165~2~0
+4165~2~Imran Tahir to Williamson, no run, pushed through outside off, not much turn either way, Williamson stretches out and pushes to cover
+4165~2~END OF OVER:21 | 8 Runs | NZ: 94/4 (148 runs required from 28 overs, RR: 4.47, RRR: 5.28)
+4165~2~
+4165~2~    Kane Williamson39 (47b)
+4165~2~    James Neesham7 (9b)
+4165~2~
+4165~2~    Chris Morris6-0-26-2
+4165~2~    Imran Tahir3-0-8-0
+4165~2~
+4165~2~
+4165~2~21.2
+4165~2~0
+4165~2~Imran Tahir to Williamson, no run, slower through the air and hung up outside off, dips, and Williamson smothers it away
+4165~2~
+4165~2~21.3
+4165~2~1
+4165~2~Imran Tahir to Williamson, 1 run, dangles a legbreak outside off, driven with the turn down to long-off
+4165~2~
+4165~2~21.4
+4165~2~0
+4165~2~Imran Tahir to Neesham, no run, wrong'un, full and breaks away outside off, Neesham slices it away towards point
+4165~2~
+4165~2~21.5
+4165~2~1
+4165~2~Imran Tahir to Neesham, 1 run, full and outside off, pushed through the cover-point region
+4165~2~
+4165~2~21.6
+4165~2~1
+4165~2~Imran Tahir to Williamson, 1 run, shorter and spins away outside off, Williamson has all the time in the world to skip back and slap it away to deep point
+4165~2~
+4165~2~Supradeep: "South Africa need to go for the kill. Bring on Rabada in tandem with Tahir. Neesham can take the match away pretty quickly. "
+4165~2~
+4165~2~22.1
+4165~2~0
+4165~2~Ngidi to Williamson, no run, fuller and angling into middle, Williamson shuffles across off stump and defensively works the ball to short midwicket
+4165~2~
+4165~2~Lionel Messi and Cristiano Ronaldo are legends. But why do their fans hate each other so much? Why can't they appreciate both? Senior football writer Gab Marcotti tries to find out why. --- And Ngidi is back
+4165~2~END OF OVER:22 | 3 Runs | NZ: 97/4 (145 runs required from 27 overs, RR: 4.40, RRR: 5.37)
+4165~2~
+4165~2~    Kane Williamson41 (51b)
+4165~2~    James Neesham8 (11b)
+4165~2~
+4165~2~    Imran Tahir4-0-11-0
+4165~2~    Chris Morris6-0-26-2
+4165~2~
+4165~2~
+4165~2~22.2
+4165~2~1
+4165~2~Ngidi to Williamson, 1 run, on a length and outside off, Ngidi finds some extra bounce. Williamson top-edges a cut to deep third man
+4165~2~
+4165~2~22.3
+4165~2~1
+4165~2~Ngidi to Neesham, 1 run, short and outside off from round the stumps, Neesham gets on top of it and secures a single down to deep third man
+4165~2~
+4165~2~Bilal: "New Zealand does a Pakistan today by collapsing from 72/1 to 80/4. "
+4165~2~
+4165~2~22.4
+4165~2~1
+4165~2~Ngidi to Williamson, 1 run, A lot of teams these days have a floating slip for Williamson. SA don't though. So, Williamson rides the bounce of this short ball and steers to deep third man
+4165~2~
+4165~2~22.5
+4165~2~1
+4165~2~Ngidi to Neesham, 1 run, risky from Neesham for just one run. On a length and holds its line outside off, Neesham searches for a dab of his own and tickles it away to the left of Amla at first slip
+4165~2~
+4165~2~22.6
+4165~2~1
+4165~2~Ngidi to Williamson, 1 run, no slip for Williamson, he knocks another single down to deep third man
+4165~2~
+4165~2~23.1
+4165~2~1
+4165~2~Imran Tahir to Williamson, 1 run, back of a length and on middle and leg, punched off the back foot to the left of deep midwicket
+4165~2~
+4165~2~Sam: "Just as YJB is Yorkshire's Jonny Bairstow, TJN is Twitter's Jimmy Neesham" -- Ha!
+4165~2~END OF OVER:23 | 5 Runs | NZ: 102/4 (140 runs required from 26 overs, RR: 4.43, RRR: 5.38)
+4165~2~
+4165~2~    Kane Williamson44 (55b)
+4165~2~    James Neesham10 (13b)
+4165~2~
+4165~2~    Lungi Ngidi5-0-27-0
+4165~2~    Imran Tahir4-0-11-0
+4165~2~
+4165~2~
+4165~2~23.2
+4165~2~0
+4165~2~Imran Tahir to Neesham, no run, pushed through outside off, driven through the line to short cover by TJN Neesham
+4165~2~
+4165~2~23.3
+4165~2~0
+4165~2~Imran Tahir to Neesham, no run, Neesham has missed a full ball that dips late, and SA go up for an lbw appeal. De Kock reckons it pitched outside leg. Indeed, and it was just too full for the sweep. Bad shot selection from Neesham
+4165~2~
+4165~2~23.4
+4165~2~0
+4165~2~Imran Tahir to Neesham, no run, stabbed back to the left of the bowler
+4165~2~
+4165~2~23.5
+4165~2~0
+4165~2~Imran Tahir to Neesham, no run, tossed outside off, drilled to the covers
+4165~2~
+4165~2~23.6
+4165~2~0
+4165~2~Imran Tahir to Neesham, no run, slower through the air and outside off, defended off the front foot
+4165~2~
+4165~2~24.1
+4165~2~0
+4165~2~Ngidi to Williamson, no run, back of a length and slanting in at off and middle, played back to the bowler
+4165~2~
+4165~2~Mohammed: "Williamson easily accumulating singles against the pacers by just taping it down to third man. Faf needs to bring up third man to cut off that option"
+4165~2~END OF OVER:24 | 1 Run | NZ: 103/4 (139 runs required from 25 overs, RR: 4.29, RRR: 5.56)
+4165~2~
+4165~2~    James Neesham10 (18b)
+4165~2~    Kane Williamson45 (56b)
+4165~2~
+4165~2~    Imran Tahir5-0-12-0
+4165~2~    Lungi Ngidi5-0-27-0
+4165~2~
+4165~2~
+4165~2~24.2
+4165~2~0
+4165~2~Ngidi to Williamson, no run, overpitched and outside off, caressed away but straight to mid-off
+4165~2~
+4165~2~PrashantBanjare: "Williamson showing his class and he is right up there with the likes of Kohli and Root as the best batsman of present time."
+4165~2~
+4165~2~24.3
+4165~2~0
+4165~2~Ngidi to Williamson, no run, slower cutter from Ngidi, grips and keeps low, beats 'em all ends up
+4165~2~
+4165~2~24.4
+4165~2~0
+4165~2~Ngidi to Williamson, no run, on a length and outside off, driven sweetly but can't beat mid-off again
+4165~2~
+4165~2~24.5
+4165~2~0
+4165~2~Ngidi to Williamson, no run, shorter and outside off, Williamson jumps on top of it and lashes to point
+4165~2~
+4165~2~A wide slip has been added now to cut off Kane's fav dab to third man
+4165~2~
+4165~2~24.6
+4165~2~0
+4165~2~Ngidi to Williamson, no run, back of a length and outside off, forward and punched down to mid-off. Ngidi rounds off a maiden
+4165~2~
+4165~2~25.1
+4165~2~1
+4165~2~Imran Tahir to Neesham, 1 run, pushed through on off, tip and run in front of point
+4165~2~END OF OVER:25 | (maiden) | NZ: 103/4 (139 runs required from 24 overs, RR: 4.12, RRR: 5.79)
+4165~2~
+4165~2~    Kane Williamson45 (62b)
+4165~2~    James Neesham10 (18b)
+4165~2~
+4165~2~    Lungi Ngidi6-1-27-0
+4165~2~    Imran Tahir5-0-12-0
+4165~2~
+4165~2~
+4165~2~25.2
+4165~2~0
+4165~2~Imran Tahir to Williamson, no run, looped up and outside off, shovelled away with the turn, but Markram throws himself to his left from short cover and stops the ball
+4165~2~
+4165~2~25.3
+4165~2~0
+4165~2~Imran Tahir to Williamson, no run, darted down the leg side, Tahir gets away as Williamson sweeps straight to short fine leg
+4165~2~
+4165~2~25.4
+4165~2~1
+4165~2~Imran Tahir to Williamson, 1 run, back of a length on middle, punched down to long-on
+4165~2~
+4165~2~25.5
+4165~2~0
+4165~2~Imran Tahir to Neesham, no run, big-turning legbreak from Tahir. Starts outside off and breaks back in. Neesham has an almighty slog-sweep at it and misses it altogether
+4165~2~
+4165~2~25.6
+4165~2~0
+4165~2~Imran Tahir to Neesham, no run, shorter and spins in, allows Neesham to defend off the back foot
+4165~2~
+4165~2~26.1
+4165~2~0
+4165~2~Ngidi to Williamson, no run, short and slanted in at off, Williamson sits back and defends it back to the bowler
+4165~2~END OF OVER:26 | 2 Runs | NZ: 105/4 (137 runs required from 23 overs, RR: 4.03, RRR: 5.95)
+4165~2~
+4165~2~    James Neesham11 (21b)
+4165~2~    Kane Williamson46 (65b)
+4165~2~
+4165~2~    Imran Tahir6-0-14-0
+4165~2~    Lungi Ngidi6-1-27-0
+4165~2~
+4165~2~
+4165~2~26.2
+4165~2~0
+4165~2~Ngidi to Williamson, no run, pitched up and outside off, forward and driven through the line to mid-off
+4165~2~
+4165~2~Kunal: "SA winning by a very tiny margin would be perfect for the tournament. A close game to increase excitement and a tight race for the semis spot."
+4165~2~
+4165~2~26.3
+4165~2~1
+4165~2~Ngidi to Williamson, 1 run, slower ball, worked away to midwicket
+4165~2~
+4165~2~Muhammad Ali Ra: "Get Williamson here and almost over for NZ. Are the hopes for Pak, B.D, W.I & S.L still alive? May be yes. Game on."
+4165~2~
+4165~2~26.4
+4165~2~1
+4165~2~Ngidi to Neesham, 1 run, slower ball, short and outside off, run away behind point to deep third man
+4165~2~
+4165~2~26.5
+4165~2~0
+4165~2~Ngidi to Williamson, no run, slightly overpitched on off stump, another pretty on-drive but can't get it past mid-on
+4165~2~
+4165~2~26.6
+4165~2~2
+4165~2~Ngidi to Williamson, 2 runs, Ngidi keeps rolling out these slower balls, Williamson reds the change-up and whips it away to deep midwicket
+4165~2~
+4165~2~27.1
+4165~2~4
+4165~2~Imran Tahir to Neesham, FOUR runs, pushed through fuller and spins into the hitting arc. #UnleashtheNeesh. He drops down to one knee and slog-sweeps it with the break over midwicket
+4165~2~END OF OVER:27 | 4 Runs | NZ: 109/4 (133 runs required from 22 overs, RR: 4.03, RRR: 6.04)
+4165~2~
+4165~2~    Kane Williamson49 (70b)
+4165~2~    James Neesham12 (22b)
+4165~2~
+4165~2~    Lungi Ngidi7-1-31-0
+4165~2~    Imran Tahir6-0-14-0
+4165~2~
+4165~2~
+4165~2~27.2
+4165~2~0
+4165~2~Imran Tahir to Neesham, no run, flatter and turns in, jabbed back to Tahir
+4165~2~
+4165~2~27.3
+4165~2~0
+4165~2~Imran Tahir to Neesham, no run, darted fuller and around off, stabbed back to Tahir once again
+4165~2~
+4165~2~27.4
+4165~2~1
+4165~2~Imran Tahir to Neesham, 1 run, tossed outside off, chipped in the air to short cover, where the fielder dives, but NZ still pinch a single
+4165~2~
+4165~2~27.5
+4165~2~0
+4165~2~Imran Tahir to Williamson, no run, looks like a googly. Williamson reads it and knocks it to the leg side with ultra-soft hands
+4165~2~
+4165~2~27.6
+4165~2~1
+4165~2~Imran Tahir to Williamson, 1 run, speared full on middle, Williamson punches down to long-on and reaches another fine half-century. Just a gentle raise of the bat from Williamson. NZ need him to be there till the end
+4165~2~
+4165~2~28.1
+4165~2~1
+4165~2~Rabada to Williamson, 1 run, shorter and angling into off, Williamson camps back and a whirl of the wrists fetches him a single to the right of mid-on
+4165~2~
+4165~2~Faf turns to Rabada in search of a breakthrough
+4165~2~END OF OVER:28 | 6 Runs | NZ: 115/4 (127 runs required from 21 overs, RR: 4.10, RRR: 6.04)
+4165~2~
+4165~2~    Kane Williamson50 (72b)
+4165~2~    James Neesham17 (26b)
+4165~2~
+4165~2~    Imran Tahir7-0-20-0
+4165~2~    Lungi Ngidi7-1-31-0
+4165~2~
+4165~2~
+4165~2~28.2
+4165~2~0
+4165~2~Rabada to Neesham, no run, shorter and on middle, Neesham stays leg-side of the ball and guides it to point
+4165~2~
+4165~2~28.3
+4165~2~1
+4165~2~Rabada to Neesham, 1 run, shortish and on the hips, Neesham hangs back and forces the ball through midwicket
+4165~2~
+4165~2~Kunal: "Win the game, shut the door. What is this obsession with "keep the tournament alive" with fans of other teams in cricket. I never see a ManU fan worried about "keep the epl alive" in Arsenal vs Southampton game." --- You haven't met my friend Anuj Vignesh then :)
+4165~2~
+4165~2~28.4
+4165~2~0
+4165~2~Rabada to Williamson, no run, shorter and outside off, Williamson hops and drops it to point
+4165~2~
+4165~2~28.5
+4165~2~2
+4165~2~Rabada to Williamson, 2 runs, Williamson gets on top of a short ball outside off and glides it away behind point and to the right of deep third man
+4165~2~
+4165~2~28.6
+4165~2~0
+4165~2~Rabada to Williamson, no run, short and skids back in to catch Williamson in a tangle. He looks to work the ball away to the leg side. Off the thigh pad and the ball rolls to the off side
+4165~2~
+4165~2~29.1
+4165~2~1w
+4165~2~Phehlukwayo to Neesham, 1 wide, drifts a slower ball down the leg side
+4165~2~
+4165~2~Will Lucky get lucky again?
+4165~2~END OF OVER:29 | 4 Runs | NZ: 119/4 (123 runs required from 20 overs, RR: 4.10, RRR: 6.15)
+4165~2~
+4165~2~    Kane Williamson53 (76b)
+4165~2~    James Neesham18 (28b)
+4165~2~
+4165~2~    Kagiso Rabada6-0-23-1
+4165~2~    Imran Tahir7-0-20-0
+4165~2~
+4165~2~
+4165~2~29.1
+4165~2~1
+4165~2~Phehlukwayo to Neesham, 1 run, short and shoved down leg again, tickled away towards fine leg
+4165~2~
+4165~2~29.2
+4165~2~0
+4165~2~Phehlukwayo to Williamson, no run, slower, short ball outside off, Williamson flat-bats it only as far as point. Pressure building on NZ
+4165~2~
+4165~2~29.3
+4165~2~0
+4165~2~Phehlukwayo to Williamson, no run, fullish and outside off, jabbed to mid-off
+4165~2~
+4165~2~Shukran: "It's been a good month for me so far, raptors won, Portugal won nations league, Madrid signed 6 players, the only team that's disappointed me so far is Pakistan and hopefully they can comeback"
+4165~2~
+4165~2~29.4
+4165~2~0
+4165~2~Phehlukwayo to Williamson, no run, slower ball outside off, 113ks, dips under Williamson's swing and rolls through to the keeper
+4165~2~
+4165~2~29.5
+4165~2~2
+4165~2~Phehlukwayo to Williamson, 2 runs, short and outside off, Williamson uncharacteristically throws his bat at the ball and gets away with an inside edge that runs past the leg stump
+4165~2~
+4165~2~29.6
+4165~2~1
+4165~2~Phehlukwayo to Williamson, 1 run, another hard-to-hit slower, short ball. Williamson tugs it away to the midwicket region
+4165~2~
+4165~2~30.1
+4165~2~0
+4165~2~Rabada to Williamson, no run, short, rising ball close to off stump. Gets off his feet to ride the bounce, manages to keep it down in front of Amla at slip
+4165~2~
+4165~2~Indeed I am. This is turning out to be a proper old-school dogfight, kind of like that other famous South Africa ODI at Edgbaston... Here's Rabada.
+4165~2~END OF OVER:30 | 5 Runs | NZ: 124/4 (118 runs required from 19 overs, RR: 4.13, RRR: 6.21)
+4165~2~
+4165~2~    Kane Williamson56 (81b)
+4165~2~    James Neesham19 (29b)
+4165~2~
+4165~2~    Andile Phehlukwayo4-0-24-1
+4165~2~    Kagiso Rabada6-0-23-1
+4165~2~
+4165~2~KK is back for the next ten overs
+4165~2~
+4165~2~30.2
+4165~2~0
+4165~2~Rabada to Williamson, no run, hits the deck hard again, not quite as short, lets it come and dabs with an open face towards slip, on the bounce
+4165~2~
+4165~2~30.3
+4165~2~0
+4165~2~Rabada to Williamson, no run, short again, a little wider, dabbed towards backward point, where Markram dives left to stop it
+4165~2~
+4165~2~30.4
+4165~2~1
+4165~2~Rabada to Williamson, 1 run, back of a length outside off, punched to deep point
+4165~2~
+4165~2~30.5
+4165~2~0
+4165~2~Rabada to Neesham, no run, bouncer rising steeply over leg stump, ducks low to avoid it
+4165~2~
+4165~2~30.6
+4165~2~0
+4165~2~Rabada to Neesham, no run, bit of an appeal for caught behind. A short one at around chest height, hops up and across to try and glance it fine, and I don't know what it hit, but there was a faint suggestion of something - thigh pad? - on it. Not the most convincing appeal from de Kock, and Rabada wasn't hugely excited either
+4165~2~
+4165~2~31.1
+4165~2~1w
+4165~2~Phehlukwayo to Williamson, 1 wide, full, ends up slipping a fair way down leg. Too far from Williamson to connect with the flick
+4165~2~END OF OVER:31 | 1 Run | NZ: 125/4 (117 runs required from 18 overs, RR: 4.03, RRR: 6.50)
+4165~2~
+4165~2~    James Neesham19 (31b)
+4165~2~    Kane Williamson57 (85b)
+4165~2~
+4165~2~    Kagiso Rabada7-0-24-1
+4165~2~    Andile Phehlukwayo4-0-24-1
+4165~2~
+4165~2~
+4165~2~31.1
+4165~2~1w
+4165~2~Phehlukwayo to Williamson, 1 wide, now he overcompensates with a wide one way outside off. Left alone
+4165~2~
+4165~2~31.1
+4165~2~4
+4165~2~Phehlukwayo to Williamson, FOUR runs, shortish outside off, slashes hard and hits it finer than he wants, bottom-edges it to the left of the diving Amla at wide slip/gully
+4165~2~
+4165~2~31.2
+4165~2~0
+4165~2~Phehlukwayo to Williamson, no run, bouncer, ducks low and gets under it
+4165~2~
+4165~2~31.3
+4165~2~0
+4165~2~Phehlukwayo to Williamson, no run, back of a length outside off, whipped to mid-on with a lot of bottom hand. There are only three fielders on the leg side, so a big gap at midwicket that he really wanted to hit with that shot
+4165~2~
+4165~2~31.4
+4165~2~1
+4165~2~Phehlukwayo to Williamson, 1 run, short outside off, gets up to shoulder height, drags a pull around to deep backward square leg
+4165~2~
+4165~2~31.5
+4165~2~4
+4165~2~Phehlukwayo to Neesham, FOUR runs, half-volley on off stump, and Neesham puts it away easily. A nice flowing drive between the umpire and non-striker, and mid-on is up
+4165~2~
+4165~2~Round the wicket to Neesham
+4165~2~
+4165~2~31.6
+4165~2~0
+4165~2~Phehlukwayo to Neesham, no run, length ball angling into off stump, blocked into the covers
+4165~2~
+4165~2~32.1
+4165~2~1
+4165~2~Morris to Williamson, 1 run, there's that lovely Williamson drive again, on the up, except the ball is still stopping occasionally off this pitch, and it briefly hangs in the air on its way to mid-off, making Morris put his head in his hands
+4165~2~
+4165~2~Morris returns.
+4165~2~
+4165~2~Jon Snow: "Pakistanis eagerly waiting for Williamson's wicket here.. come on Tahir, do your homeland a favour ;)"
+4165~2~END OF OVER:32 | 11 Runs | NZ: 136/4 (106 runs required from 17 overs, RR: 4.25, RRR: 6.23)
+4165~2~
+4165~2~    James Neesham23 (33b)
+4165~2~    Kane Williamson62 (89b)
+4165~2~
+4165~2~    Andile Phehlukwayo5-0-35-1
+4165~2~    Kagiso Rabada7-0-24-1
+4165~2~
+4165~2~
+4165~2~32.2
+4165~2~W
+4165~2~Morris to Neesham, OUT, gone! Steered straight to the man at wide slip! Morris' over-the-wicket angle to the left-handers has picked up another wicket. Cross-seam, just short of a length, angling away from off stump, and Neesham leans back and steers it, probably looking for third man, but the ball bounces a little more than he'd like and he ends up hitting it straight into Amla's lap. Takes it well, falling to his left
+4165~2~
+4165~2~JDS Neesham c Amla b Morris 23 (60m 34b 3x4 0x6) SR: 67.64
+4165~2~
+4165~2~32.3
+4165~2~2
+4165~2~Morris to de Grandhomme, 2 runs, length ball, top of off, leans forward and punches to the right of deep point
+4165~2~
+4165~2~Colin de Grandhomme walks in at No. 7, with New Zealand needing 105 from 100 balls.
+4165~2~
+4165~2~Vishal Poojary: "This match reminds me of pre-T20 era of cricket. It's actually a delight, such a game. "
+4165~2~
+4165~2~Usman: "Morris next PM of Pakistan!"
+4165~2~
+4165~2~Another big drop in our Forecaster prediction. New Zealand's win probability falls from 65.9% to 48.5% with that wicket.
+4165~2~
+4165~2~32.4
+4165~2~4
+4165~2~Morris to de Grandhomme, FOUR runs, what a shot. What. A. Shot. It's overpitched, yes, on middle stump, but to time it like that, wow. Flicks it, casual as you'd like, and it almost carries all the way to the square midwicket boundary
+4165~2~
+4165~2~32.5
+4165~2~0
+4165~2~Morris to de Grandhomme, no run, full outside off, punched into the covers off the front foot
+4165~2~
+4165~2~32.6
+4165~2~2
+4165~2~Morris to de Grandhomme, 2 runs, length ball on off stump, and that's a nice-looking clip into the backward square leg region, doesn't put too much weight on that shot so the fielder has to come in quite a distance off the boundary
+4165~2~
+4165~2~33.1
+4165~2~1
+4165~2~Imran Tahir to Williamson, 1 run, tossed up full on off stump, clipped down to long-on
+4165~2~
+4165~2~Tahir. Three overs to go for him.
+4165~2~END OF OVER:33 | 9 Runs 1 Wkt | NZ: 145/5 (97 runs required from 16 overs, RR: 4.39, RRR: 6.06)
+4165~2~
+4165~2~    Colin de Grandhomme8 (4b)
+4165~2~    Kane Williamson63 (90b)
+4165~2~
+4165~2~    Chris Morris7-0-35-3
+4165~2~    Andile Phehlukwayo5-0-35-1
+4165~2~
+4165~2~
+4165~2~33.2
+4165~2~1
+4165~2~Imran Tahir to de Grandhomme, 1 run, lovely flight on off stump, drops onto a length that has CdG half-forward and groping forward with his hands to defend. Thick edge rolls into the backward point region
+4165~2~
+4165~2~Four back for CdG. Deep square leg, long-on, deep point, long-off. And still a slip.
+4165~2~
+4165~2~33.3
+4165~2~0
+4165~2~Imran Tahir to Williamson, no run, flat length ball on off stump, Williamson plays close to his body in defence, into the off side
+4165~2~
+4165~2~33.4
+4165~2~0
+4165~2~Imran Tahir to Williamson, no run, middle-stump line now, gets forward to block it back to the bowler
+4165~2~
+4165~2~33.5
+4165~2~1
+4165~2~Imran Tahir to Williamson, 1 run, wrong'un, goes back, stays leg-side of it - picked it easily enough - and shows the full face to pick up a single to long-on
+4165~2~
+4165~2~33.6
+4165~2~0
+4165~2~Imran Tahir to de Grandhomme, no run, now de Grandhomme picks the googly. Tossed up slower and fuller. Gets on the front foot and defends solidly
+4165~2~
+4165~2~34.1
+4165~2~1
+4165~2~Morris to Williamson, 1 run, shortish, close to off stump, lot of bottom wrist to whip it into the midwicket region
+4165~2~END OF OVER:34 | 3 Runs | NZ: 148/5 (94 runs required from 15 overs, RR: 4.35, RRR: 6.26)
+4165~2~
+4165~2~    Colin de Grandhomme9 (6b)
+4165~2~    Kane Williamson65 (94b)
+4165~2~
+4165~2~    Imran Tahir8-0-23-0
+4165~2~    Chris Morris7-0-35-3
+4165~2~
+4165~2~
+4165~2~34.2
+4165~2~1
+4165~2~Morris to de Grandhomme, 1 run, full outside off, and de Grandhomme drives to the right of a diving backward point fielder, out to deep point
+4165~2~
+4165~2~34.3
+4165~2~0
+4165~2~Morris to Williamson, no run, short on off stump, gets up to about chest high but stops on Williamson. Through his pull very early, and the ball hits him on the right elbow. Ouch!
+4165~2~
+4165~2~34.4
+4165~2~0
+4165~2~Morris to Williamson, no run, shortish in the corridor, jumps to ride the bounce and punch firmly to Markram diving right from backward point
+4165~2~
+4165~2~34.5
+4165~2~4
+4165~2~Morris to Williamson, FOUR runs, short outside off, only gets up to about waist height, and Williamson is ready and waiting, smacks a pull to the vacant midwicket boundary. Huge gap in that area given this is a 6-3 field with a slip still in
+4165~2~
+4165~2~34.6
+4165~2~0
+4165~2~Morris to Williamson, no run, full, a bit of late inswing into the fourth-stump channel, driven smoothly to mid-off
+4165~2~
+4165~2~35.1
+4165~2~2
+4165~2~Imran Tahir to de Grandhomme, 2 runs, wrong'un, fairly full and spinning into middle and leg. He probably picks it, but swings across the line, across his front pad, to hit it hard through square leg
+4165~2~END OF OVER:35 | 6 Runs | NZ: 154/5 (88 runs required from 14 overs, RR: 4.40, RRR: 6.28)
+4165~2~
+4165~2~    Kane Williamson70 (99b)
+4165~2~    Colin de Grandhomme10 (7b)
+4165~2~
+4165~2~    Chris Morris8-0-41-3
+4165~2~    Imran Tahir8-0-23-0
+4165~2~
+4165~2~
+4165~2~35.2
+4165~2~1
+4165~2~Imran Tahir to de Grandhomme, 1 run, flatter and quicker, punched down the ground, past the right hand of the diving bowler, to long-on
+4165~2~
+4165~2~35.3
+4165~2~1
+4165~2~Imran Tahir to Williamson, 1 run, flighted full-toss on off stump, clipped to long-on
+4165~2~
+4165~2~35.4
+4165~2~0
+4165~2~Imran Tahir to de Grandhomme, no run, another low full-toss, nearly a yorker, on leg stump. Jabbed back to the bowler
+4165~2~
+4165~2~35.5
+4165~2~1
+4165~2~Imran Tahir to de Grandhomme, 1 run, again in that blockhole-ish region, more off-stumpish. Driven down to long-on
+4165~2~
+4165~2~35.6
+4165~2~1
+4165~2~Imran Tahir to Williamson, 1 run, slower flight, googly, Williamson stretches forward and clips gently to the right of midwicket. A bit of hesitation from Williamson, but CdG, who's going to the danger end, is more certain, and he makes it home with a dive even as Miller swoops down and throws to the keeper
+4165~2~
+4165~2~36.1
+4165~2~1
+4165~2~Phehlukwayo to Williamson, 1 run, overpitched on middle and leg, clipped to deep backward square leg
+4165~2~
+4165~2~Phehlukwayo. He still has five overs to bowl. No slip/gully for Williamson. A midwicket in place.
+4165~2~END OF OVER:36 | 6 Runs | NZ: 160/5 (82 runs required from 13 overs, RR: 4.44, RRR: 6.30)
+4165~2~
+4165~2~    Kane Williamson72 (101b)
+4165~2~    Colin de Grandhomme14 (11b)
+4165~2~
+4165~2~    Imran Tahir9-0-29-0
+4165~2~    Chris Morris8-0-41-3
+4165~2~
+4165~2~
+4165~2~36.2
+4165~2~6
+4165~2~Phehlukwayo to de Grandhomme, SIX runs, You can put everyone in the world on the boundary, and it won't matter. Short ball, gets up to about chest height, and de Grandhomme is onto it so quickly, swivels and deposits it waaaaaaaay beyond the square leg boundary, up in the back rows
+4165~2~
+4165~2~Long-on, third man, and square leg are back on the rope for CdG.
+4165~2~
+4165~2~36.3
+4165~2~1
+4165~2~Phehlukwayo to de Grandhomme, 1 run, fuller, on the pads, clipped through backward square leg
+4165~2~
+4165~2~36.4
+4165~2~0
+4165~2~Phehlukwayo to Williamson, no run, slower length ball outside off, and Williamson is looking for that dab to third man, but the ball bounces extra, and he's suddenly unsure whether to play or leave, and it brushes his glove but bounces before it can reach the keeper
+4165~2~
+4165~2~36.5
+4165~2~1
+4165~2~Phehlukwayo to Williamson, 1 run, length ball outside off, lets it come and guides it to third man
+4165~2~
+4165~2~36.6
+4165~2~0
+4165~2~Phehlukwayo to de Grandhomme, no run, back of a length outside off, punched to extra-cover
+4165~2~
+4165~2~37.1
+4165~2~1
+4165~2~Imran Tahir to Williamson, 1 run, ccaaaatchh they cry, as Miller rushes to his left , trying desperately to get under the chip from Williamson. He reaches out a hand, hoping, praying, but it lands short of him! Williamson stands and watches it all, his heard beating a mile a minute, hating himself for mistiming a shot meant to go to long-on
+4165~2~END OF OVER:37 | 9 Runs | NZ: 169/5 (73 runs required from 12 overs, RR: 4.56, RRR: 6.08)
+4165~2~
+4165~2~    Colin de Grandhomme21 (14b)
+4165~2~    Kane Williamson74 (104b)
+4165~2~
+4165~2~    Andile Phehlukwayo6-0-44-1
+4165~2~    Imran Tahir9-0-29-0
+4165~2~
+4165~2~
+4165~2~37.2
+4165~2~1
+4165~2~Imran Tahir to de Grandhomme, 1 run,
+4165~2~
+4165~2~37.3
+4165~2~1
+4165~2~Imran Tahir to Williamson, 1 run, eases it through the covers
+4165~2~
+4165~2~37.4
+4165~2~1
+4165~2~Imran Tahir to de Grandhomme, 1 run, dropped by Miller and it's another really tough chance again! De Grandhomme whips a googly off the back foot, hoping to clear short midwicket. But Miller leaps up and to his right, getting massive airtime, then he sticks out his right hand but it just doesn't stick
+4165~2~
+4165~2~37.5
+4165~2~0
+4165~2~Imran Tahir to Williamson, no run, tosses it up on off stump, Williamson waits for it to spin and then taps it towards the off side
+4165~2~
+4165~2~37.6
+4165~2~0
+4165~2~Imran Tahir to Williamson, no run, follows the legbreak - a mistake he doesn't normally do, but here he needs to put bat to ball and get runs, and because of that pressure, he plays a low percentage glide with half a bat and is beaten. Waaaait, replays show Williamson bottom edged it! De Kock didn't hear it. Tahir is appealing. He's shocked no one joins him and South Africa have missed out on a big big biiiiiiiiig break
+4165~2~
+4165~2~38.1
+4165~2~0
+4165~2~Rabada to de Grandhomme, no run, nudges a back of a length delivery to the left of short midwicket
+4165~2~END OF OVER:38 | 4 Runs | NZ: 173/5 (69 runs required from 66 balls, RR: 4.55, RRR: 6.27)
+4165~2~
+4165~2~    Kane Williamson76 (108b)
+4165~2~    Colin de Grandhomme23 (16b)
+4165~2~
+4165~2~    Imran Tahir10-0-33-0
+4165~2~    Andile Phehlukwayo6-0-44-1
+4165~2~
+4165~2~What a spell by Tahir. 10 overs. 33 dot balls. Plenty of oohs and aahs.
+4165~2~
+4165~2~38.2
+4165~2~0
+4165~2~Rabada to de Grandhomme, no run, taps a shortish delivery on off stump towards mid-on
+4165~2~
+4165~2~38.3
+4165~2~6
+4165~2~Rabada to de Grandhomme, SIX runs, wallooppppppppppp! It's good to target de Grandhomme with the short ball. But when it's waist high, the big man can just swat it away miles over square leg
+4165~2~
+4165~2~38.4
+4165~2~0
+4165~2~Rabada to de Grandhomme, no run, shortish on off stump, defends
+4165~2~
+4165~2~38.5
+4165~2~2
+4165~2~Rabada to de Grandhomme, 2 runs, steers a back of a length delivery past the left of backward point. Markram slams the turf in anger after the ball beats his outstretched hand
+4165~2~
+4165~2~38.6
+4165~2~2
+4165~2~Rabada to de Grandhomme, 2 runs, back of a length on middle and leg, whips it behind square leg
+4165~2~
+4165~2~39.1
+4165~2~0
+4165~2~Ngidi to Williamson, no run, kicks up on Williamson, cramping him on off stump, and the New Zealand captain dabs it to the wicketkeeper's right
+4165~2~
+4165~2~Right, we're into the final stage of the innings. Five fielders allowed on the boundary now. New Zealand need 59 off 60 balls. South Africa need five wickets
+4165~2~END OF OVER:39 | 10 Runs | NZ: 183/5 (59 runs required from 60 balls, RR: 4.69, RRR: 5.90)
+4165~2~
+4165~2~    Colin de Grandhomme33 (22b)
+4165~2~    Kane Williamson76 (108b)
+4165~2~
+4165~2~    Kagiso Rabada8-0-34-1
+4165~2~    Imran Tahir10-0-33-0
+4165~2~
+4165~2~
+4165~2~39.2
+4165~2~0
+4165~2~Ngidi to Williamson, no run, chops the shortish delivery outside off to point
+4165~2~
+4165~2~39.3
+4165~2~0
+4165~2~Ngidi to Williamson, no run, brings his wrists into play to deal with a slower ball looking for the top of off stump. Works it to midwicket
+4165~2~
+4165~2~39.4
+4165~2~0
+4165~2~Ngidi to Williamson, no run, another slower ball, and it sticks in the pitch, making Williamson's push to mid-on travel in the air for a distance. This is on a knife edge, people. South Africa can still make up for missing that review to get Williamson caught behind
+4165~2~
+4165~2~Third man back, mid-on up
+4165~2~
+4165~2~39.5
+4165~2~0
+4165~2~Ngidi to Williamson, no run, full, slow and on off stump. Williamson blocks towards point. Good stuff. They realise the pitch is helping them when pace is taken of it
+4165~2~
+4165~2~39.6
+4165~2~1
+4165~2~Ngidi to Williamson, 1 run, taps a full delivery on middle to long-on
+4165~2~
+4165~2~40.1
+4165~2~1lb
+4165~2~Rabada to Williamson, 1 leg bye, Oh my, a comedy of errors at Edgbaston. Awful mix-up between the wickets. Miller fluffs a run-out chance and reprieves Williamson. This was another well-directed short ball at the body, comes off pretty slow off the surface. Williamson is early into the pull and wears it on his body. De Grandhomme wants a single, Williamson doesn't. Rabada, the bowler himself, swoops down on the ball. The throw is to Miller at the non-striker's end. He is in a rush. He is under pressure. He dislodges the bails without collecting the ball. What a big miss for SA. Is that the game?
+4165~2~
+4165~2~Right then, it's down to NZ needing 58 off 54 balls with five wickets in the shed. Fasten your seat belts for this could be another blockbuster between these two sides
+4165~2~
+4165~2~END OF OVER:40 | 1 Run | NZ: 184/5 (58 runs required from 54 balls, RR: 4.60, RRR: 6.44)
+4165~2~
+4165~2~    Kane Williamson77 (114b)
+4165~2~    Colin de Grandhomme33 (22b)
+4165~2~
+4165~2~    Lungi Ngidi8-1-32-0
+4165~2~    Kagiso Rabada8-0-34-1
+4165~2~
+4165~2~
+4165~2~40.2
+4165~2~0
+4165~2~Rabada to de Grandhomme, no run, fuller and outside off, no shot
+4165~2~
+4165~2~40.3
+4165~2~4
+4165~2~Rabada to de Grandhomme, FOUR runs, good length, angling in and straightening away, takes the outside edge and runs away past de Kock to the third-man boundary. A slip might have gobbled that up
+4165~2~
+4165~2~40.4
+4165~2~0
+4165~2~Rabada to de Grandhomme, no run, short and angling into the body, blocked to the leg side off the back foot
+4165~2~
+4165~2~40.5
+4165~2~0
+4165~2~Rabada to de Grandhomme, no run, short and aimed at the body, fended off the back foot once again
+4165~2~
+4165~2~40.6
+4165~2~1
+4165~2~Rabada to de Grandhomme, 1 run, Rabada hits a hard length outside off, de Grandhomme coolly drives off the back foot to long-off
+4165~2~
+4165~2~41.1
+4165~2~1
+4165~2~Phehlukwayo to de Grandhomme, 1 run, on a length and outside off, crunched past the covers
+4165~2~END OF OVER:41 | 6 Runs | NZ: 190/5 (52 runs required from 48 balls, RR: 4.63, RRR: 6.50)
+4165~2~
+4165~2~    Colin de Grandhomme38 (27b)
+4165~2~    Kane Williamson77 (115b)
+4165~2~
+4165~2~    Kagiso Rabada9-0-39-1
+4165~2~    Lungi Ngidi8-1-32-0
+4165~2~
+4165~2~
+4165~2~41.2
+4165~2~1
+4165~2~Phehlukwayo to Williamson, 1 run, slower short ball outside off, Williamson swings and flat-bats it to sweeper cover
+4165~2~
+4165~2~41.3
+4165~2~1
+4165~2~Phehlukwayo to de Grandhomme, 1 run, dug short on middle, swatted away to deep square leg
+4165~2~
+4165~2~41.4
+4165~2~1
+4165~2~Phehlukwayo to Williamson, 1 run, back of a length on middle, stands tall and punches down to long-on
+4165~2~
+4165~2~41.5
+4165~2~1
+4165~2~Phehlukwayo to de Grandhomme, 1 run, yorker on middle, jabbed away to deep mdiwicket for one
+4165~2~
+4165~2~Imam: "Is anyone going to say the 'c' word?"
+4165~2~
+4165~2~41.6
+4165~2~1
+4165~2~Phehlukwayo to Williamson, 1 run, slower short ball outside off, Williamson swivels on the back foot and drags a pull to deep midwicket
+4165~2~
+4165~2~42.1
+4165~2~0
+4165~2~Morris to Williamson, no run, short and outside off, difficult to put these away. Williamson taps it on its head but to the keeper
+4165~2~
+4165~2~Morris
+4165~2~END OF OVER:42 | 6 Runs | NZ: 196/5 (46 runs required from 42 balls, RR: 4.66, RRR: 6.57)
+4165~2~
+4165~2~    Kane Williamson80 (118b)
+4165~2~    Colin de Grandhomme41 (30b)
+4165~2~
+4165~2~    Andile Phehlukwayo7-0-50-1
+4165~2~    Kagiso Rabada9-0-39-1
+4165~2~
+4165~2~
+4165~2~42.2
+4165~2~1
+4165~2~Morris to Williamson, 1 run, short and wide outside off, Williamson reaches out for the ball and scythes it away to sweeper cover
+4165~2~
+4165~2~42.3
+4165~2~0
+4165~2~Morris to de Grandhomme, no run, back of a length and outside off, de Grandhomme allows the ball to come on, then glides it to point
+4165~2~
+4165~2~42.4
+4165~2~0
+4165~2~Morris to de Grandhomme, no run, shortish and on off, de Grandhomme leans back and chops it away to point
+4165~2~
+4165~2~42.5
+4165~2~1
+4165~2~Morris to de Grandhomme, 1 run, full on the stumps, de Grandhomme is happy to sit back and punch it down to long-on
+4165~2~
+4165~2~Karthik: "Miller is not helping his cause by dropping 2 catches and fluffing a run-out. He missed a sitter when Rohit was batting as well "
+4165~2~
+4165~2~42.6
+4165~2~1
+4165~2~Morris to Williamson, 1 run, shorter and just a shade outside off, Williamson brings out the artistic dab down to deep third man
+4165~2~
+4165~2~43.1
+4165~2~1
+4165~2~Phehlukwayo to Williamson, 1 run, back of a length on off, chopped from the stumps wide of short third man. 200 up for NZ
+4165~2~
+4165~2~Usman: "SA playing like Pakistan because we Pakistani supporting them? Isn't it?"
+4165~2~END OF OVER:43 | 3 Runs | NZ: 199/5 (43 runs required from 36 balls, RR: 4.62, RRR: 7.16)
+4165~2~
+4165~2~    Kane Williamson82 (121b)
+4165~2~    Colin de Grandhomme42 (33b)
+4165~2~
+4165~2~    Chris Morris9-0-44-3
+4165~2~    Andile Phehlukwayo7-0-50-1
+4165~2~
+4165~2~
+4165~2~43.2
+4165~2~4
+4165~2~Phehlukwayo to de Grandhomme, FOUR runs, slower offcutter, full and outside off, barely 115ks, de Grandhomme has a crack at it and edges it between de Kock and short third man for a fortunate four
+4165~2~
+4165~2~43.3
+4165~2~1
+4165~2~Phehlukwayo to de Grandhomme, 1 run, leg-stump full-toss, whipped away to deep midwicket. de Grandhomme has been middling everything today
+4165~2~
+4165~2~43.4
+4165~2~2
+4165~2~Phehlukwayo to Williamson, 2 runs, slower short ball around off, Williamson hauls a pull to the right of long-on and comes back for the second
+4165~2~
+4165~2~43.5
+4165~2~2nb
+4165~2~Phehlukwayo to Williamson, (no ball) 1 run, Ngidi has dropped it. SA's fielding has gone to pieces. Okay, this is a beamer - well above the waist. Williamson swivels and flaps it in the air to deep backward square moving to his right. It's all happening at Edgbaston
+4165~2~
+4165~2~43.5
+4165~2~1
+4165~2~Phehlukwayo to de Grandhomme, 1 run, full and outside off, this free-hit is swung away to long-on
+4165~2~
+4165~2~43.6
+4165~2~1
+4165~2~Phehlukwayo to Williamson, 1 run, short on the hips, quietly glanced away to square leg
+4165~2~
+4165~2~Vineel Chandra: "QDK and South Africa need to understand that being the good guys cannot win you matches always. Not even appealing for such a close call to Williamson is outrightly unacceptable while Tahir was showing interest"
+4165~2~
+4165~2~
+4165~2~44.1
+4165~2~0
+4165~2~Morris to Williamson, no run, nice and full, slanting into the middle of Williamson's forward defence
+4165~2~
+4165~2~A comfort break for Williamson and de Grandhomme. Can they usher NZ home? They need 31 off 30 balls
+4165~2~END OF OVER:44 | 12 Runs | NZ: 211/5 (31 runs required from 30 balls, RR: 4.79, RRR: 6.20)
+4165~2~
+4165~2~    Kane Williamson87 (125b)
+4165~2~    Colin de Grandhomme48 (36b)
+4165~2~
+4165~2~    Andile Phehlukwayo8-0-62-1
+4165~2~    Chris Morris9-0-44-3
+4165~2~
+4165~2~
+4165~2~44.2
+4165~2~0
+4165~2~Morris to Williamson, no run, fullish and homing in on off, pressed to the covers
+4165~2~
+4165~2~44.3
+4165~2~1
+4165~2~Morris to Williamson, 1 run, cross-seamer, back of a length and outside off, can't bowl there. You will be dabbed down to third man
+4165~2~
+4165~2~44.4
+4165~2~0
+4165~2~Morris to de Grandhomme, no run, back of a length and kicks up outside off, beating de Grandhomme's lazy attempt to run it down to deep third man
+4165~2~
+4165~2~Four men in the deep: two sweepers on either side, long-on, long-off
+4165~2~
+4165~2~44.5
+4165~2~0
+4165~2~Morris to de Grandhomme, no run, ripping off-stump yorker, de Grandhomme is up to it, kept out
+4165~2~
+4165~2~44.6
+4165~2~4
+4165~2~Morris to de Grandhomme, FOUR runs, Mowed away to the wide long-on boundary and that's fifty for de Grandhomme. Born in Harare, playing for NZ at home away from home in Edgbaston. He turns out for Birmingham Bears in the T20 tournament here. Who writes your scrips, man? What an innings under pressure. Back of a length and outside off, he swats it away like a fly
+4165~2~
+4165~2~45.1
+4165~2~1
+4165~2~Ngidi to Williamson, 1 run, slower short ball, sticks in the surface, Kane yanks his bottom hand off the bat and scoops it away over midwicket
+4165~2~END OF OVER:45 | 5 Runs | NZ: 216/5 (26 runs required from 24 balls, RR: 4.80, RRR: 6.50)
+4165~2~
+4165~2~    Colin de Grandhomme52 (39b)
+4165~2~    Kane Williamson88 (128b)
+4165~2~
+4165~2~    Chris Morris10-0-49-3
+4165~2~    Andile Phehlukwayo8-0-62-1
+4165~2~
+4165~2~
+4165~2~45.2
+4165~2~1
+4165~2~Ngidi to de Grandhomme, 1 run, slower cutter, nurdled to the leg side
+4165~2~
+4165~2~45.3
+4165~2~1
+4165~2~Ngidi to Williamson, 1 run, overpitched and outside off, Williamson shovel-drives it with his bottom wrist to the off-side sweeper
+4165~2~
+4165~2~Amit Agrawal : "This has been a very strange and disappointing campaign for the South Africans , the players never looked confident enough right from the first game . Really an underwhelming display by a top team. Sad for fans ."
+4165~2~
+4165~2~45.4
+4165~2~0
+4165~2~Ngidi to de Grandhomme, no run, slower ball, dips under his almighty swing. Beaten lavishly, this offcutter was barely 110ks
+4165~2~
+4165~2~45.5
+4165~2~4
+4165~2~Ngidi to de Grandhomme, FOUR runs, A catching opportunity ends up as a boundary. What're you doing SA? Miller runs in, attacks the ball for the catch, but the ball drops in front of him at deep midwicket. Rabada is at the edge of the boundary running round from deep square, he slides, but lets the ball go to the fence. Back of a length and outside off, de Grandhomme smites it away and gets away
+4165~2~
+4165~2~45.6
+4165~2~1w
+4165~2~Ngidi to de Grandhomme, 1 wide, slower ball, past the tramline, wide
+4165~2~
+4165~2~45.6
+4165~2~1
+4165~2~Ngidi to de Grandhomme, 1 run, another slower cutter, knocked to the leg side for one
+4165~2~
+4165~2~46.1
+4165~2~1
+4165~2~Rabada to de Grandhomme, 1 run, short, wide, slapped to sweeper cover
+4165~2~END OF OVER:46 | 9 Runs | NZ: 225/5 (17 runs required from 18 balls, RR: 4.89, RRR: 5.66)
+4165~2~
+4165~2~    Colin de Grandhomme58 (43b)
+4165~2~    Kane Williamson90 (130b)
+4165~2~
+4165~2~    Lungi Ngidi9-1-41-0
+4165~2~    Chris Morris10-0-49-3
+4165~2~
+4165~2~
+4165~2~46.2
+4165~2~0
+4165~2~Rabada to Williamson, no run, banged in short at off, Williamson leaps and fends it behind to the keeper
+4165~2~
+4165~2~Lakshman Kumar: "The ball seems to be following Miller everywhere he goes..! The only way they can get a Wicket is to make Miller stand right behind the wickets..! "
+4165~2~
+4165~2~46.3
+4165~2~0
+4165~2~Rabada to Williamson, no run, short and rises at off, Williamson rises with it and diffuses it
+4165~2~
+4165~2~46.4
+4165~2~1
+4165~2~Rabada to Williamson, 1 run, Williamson rides the bounce of this short ball outside off and guides it down to deep third man - like only he can
+4165~2~
+4165~2~46.5
+4165~2~0
+4165~2~Rabada to de Grandhomme, no run, shortish and outside off, now it's CdG's turn to run it away... but third man is up to stop the single
+4165~2~
+4165~2~46.6
+4165~2~1
+4165~2~Rabada to de Grandhomme, 1 run, short and outside off, slower one at 117ks, slapped through backward point
+4165~2~
+4165~2~47.1
+4165~2~W
+4165~2~Ngidi to de Grandhomme, OUT, South Africa finally hang onto a catch. Faf du Plessis gives SA hope. Oh man, what a game this is turning out to be! This is the slower one once again. Pitched up and outside off, right up the alley for de Grandhomme to muscle it into the stands. He only holes out to long-off. Is there another twist in this match?
+4165~2~
+4165~2~de Grandhomme c du Plessis b Ngidi 60 (70m 47b 5x4 2x6) SR: 127.65
+4165~2~END OF OVER:47 | 3 Runs | NZ: 228/5 (14 runs required from 12 balls, RR: 4.85, RRR: 7.00)
+4165~2~
+4165~2~    Colin de Grandhomme60 (46b)
+4165~2~    Kane Williamson91 (133b)
+4165~2~
+4165~2~    Kagiso Rabada10-0-42-1
+4165~2~    Lungi Ngidi9-1-41-0
+4165~2~
+4165~2~
+4165~2~47.2
+4165~2~0
+4165~2~Ngidi to Williamson, no run, Has that been dropped by Ngidi? Nope, that did not carry to him and he wears a wry smile. Slower cutter, grips in the pitch, chipped back, lands just in front of the bowler
+4165~2~
+4165~2~Here comes Mitchell Santner. He is so cool and laidback that he has been nicknamed "Flatline" at Northern Districts. A slip greets him. Mid-off sent back
+4165~2~
+4165~2~47.3
+4165~2~1
+4165~2~Ngidi to Williamson, 1 run, pitched up and outside off, Williamson shovels it away with the bottom hand to wide long-on
+4165~2~
+4165~2~47.4
+4165~2~0
+4165~2~Ngidi to Santner, no run, slower offcutter, excellent execution from Ngidi from round the wicket, beats Santner. De Kock somehow grabs it awkwardly. Pressure. Pressure. Pressure. He didn't even get his body behind the ball
+4165~2~
+4165~2~47.5
+4165~2~1
+4165~2~Ngidi to Santner, 1 run, slower short ball outside off, swatted away to the bowler, smashes the stumps at the non-striker's and rolls down to long-on
+4165~2~
+4165~2~47.6
+4165~2~4
+4165~2~Ngidi to Williamson, FOUR runs, That artistic dab from Williamson fetches him a crucial four. Slower ball, Ngidi rolls his fingers across the ball and pushes it outside off, Williamson waits for the ball to arrive, then glides it - like only he can - fine of short third man for four. First boundary for Williamson after 38 balls, I'm told. Significant one
+4165~2~
+4165~2~WATCH - Williamson survives again as South Africa blow a run-out chance (Australia, UK and SEA only)
+4165~2~
+4165~2~48.1
+4165~2~1
+4165~2~Phehlukwayo to Santner, 1 run, hip-high short ball on middle, Santner pulls and finds deep midwicket
+4165~2~
+4165~2~New Zealand need 8 off the last over. Can they have the times of their lives once again? Andile will bowl the final over. Faf has a lengthy discussion with him. Okay, guess what the ZING BAILS have stopped play. Scenes at Edgbaston. Sid Monga from the venue: "They are taking the bail from the non-strikers' end to the striker's end. I am not sure the zing is working on the bails now"
+4165~2~
+4165~2~Long-on, long-off, two men in the deep on the leg side, sweeper cover in the deep. No short third man or deep third man
+4165~2~
+4165~2~END OF OVER:48 | 6 Runs 1 Wkt | NZ: 234/6 (8 runs required from 6 balls, RR: 4.87, RRR: 8.00)
+4165~2~
+4165~2~    Kane Williamson96 (136b)
+4165~2~    Mitchell Santner1 (2b)
+4165~2~
+4165~2~    Lungi Ngidi10-1-47-1
+4165~2~    Kagiso Rabada10-0-42-1
+4165~2~
+4165~2~
+4165~2~48.2
+4165~2~6
+4165~2~Phehlukwayo to Williamson, SIX runs, Grant Elliott: 2015. Kane Williamson: 2019. New Zealand are having the times of their lives once again. What an incredible century from Kane Williamson. This was full and outside off, slower variation, Williamson picks it, drops down to one knee and smokes it away into the stands beyond midwicket. Williamson eases the helmet off his head and soaks everything in
+4165~2~
+4165~2~48.3
+4165~2~4
+4165~2~Phehlukwayo to Williamson, FOUR runs, Williamson - you beauty! It had to end this way, right? That dab down to third man. Back of a length and outside off, glides it away behind point and seals it for NZ like boss. He is the boss. Meanwhile, South Africa's World Cup hopes are effectively ended
+4165~2~
+4165~2~
